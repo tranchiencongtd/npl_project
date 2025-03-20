@@ -1,0 +1,52 @@
+Nhà sản xuất robot Trung Quốc Unitree giới thiệu robot H1 mới nhất tại một lễ hội đèn lồng ở thành phố Đài Sơn, tỉnh Quảng Đông.
+Trong một video ngắn gây sốt trên mạng xã hội, một con robot hình người trong nhóm biểu diễn dừng lại, đứng sững trước khán giả và trở nên mất kiểm soát.
+Robot bất ngờ lao về phía trước và dường như húc vào một người phụ nữ lớn tuổi đứng sau rào chắn an toàn, gây sốc cho đám đông.
+Ngay khi tình huống trở nên căng thẳng, nhân viên an ninh nhanh chóng giữ lại robot và kéo nó ra xa, làm dấy lên suy đoán liệu chuyển động đột ngột của robot là hành động hung dữ hay trục trặc máy móc, theoInteresting Engineering.
+Một số người xem cho rằng con robot bị sảy chân đột ngột và đổ qua rào chắn thay vì cố ý nhắm vào đám đông.
+Những người khác tranh cãi cú đẩy mạnh bất thình lình có thể là trục trặc máy móc, khiến cỗ máy nghiêng ngả trong nỗ lực lấy lại thăng bằng.
+Tuy nhiên, không ít người nhận định tai nạn này là bằng chứng trí tuệ nhân tạo có thể đang tiến gần hơn tới tình huống giống phim khoa học viễn tưởng, trong đó robot trở nên thô bạo hoặc nổi dậy chống lại con người.
+Theo họ, robot thể hiện những dấu hiệu đầu tiên của sự hung hãn và có nhận thức, mở ra tương lai AI không còn thụ động tuân theo mệnh lệnh của con người.
+Tai nạn ở Trung Quốc nêu bật một thách thức chủ chốt trong robot học, đó là tiềm năng những cỗ máy lớn cư xử khó dự đoán khi chúng vấp phải hoặc đối mặt với chướng ngại vật chưa biết.
+Robot được thiết kế để duy trì ổn định trong điều kiện bình thường, nhưng nỗ lực đi đúng đường của chúng có vẻ đột ngột hoặc thô bạo khi chúng mất ổn định.
+Do robot hình người thường nặng hàng chục kilogram và chứa nhiều khớp chuyển động, bất kỳ cử động thất thường nào đều có thể đe dọa người đứng xem.
+Dù đây là một thách thức kỹ thuật, nó cũng là vấn đề xã hội.
+Robot được thiết kế để mô phỏng chuyển động và hành vi của con người, vì vậy khi chúng hành động khác với mong đợi, tình huống có thể đáng lo ngại.
+Đây không phải lần đầu tiên có những lo ngại về cỗ máy AI.
+Theo Wired, các nhà nghiên cứu ở Đại học Pennsylvania tìm cách "lừa" robot mô phỏng thực hiện những nhiệm vụ nguy hiểm, nhưng xe tự lái phớt lờ tín hiệu đèn đỏ hoặc robot có bánh xe xác định vị trí lý tưởng để phá bom.
+Mô hình AI đa phương thức có thể vượt ngục, sử dụng đầu vào cảm biến, dẫn tới nhiều hành vi kỳ quặc hoặc có hại.
+Dù robot ở lễ hội Trung Quốc không có vẻ bị "hack", giả thuyết AI có thể bị điều khiển để thực hiện hành động ngoài dự kiến càng mở rộng tranh cãi về độ an toàn.
+Bất chấp những tranh cãi này, màn biểu diễn của robot AI tiếp tục khiến khán giả thích thú.
+Đầu năm nay, 16 robot hình người Unitree H1 thực hiện đồng diễn nhảy Yangko cùng với các diễn viên múa ở Đêm hội mừng xuân của đài CCTV tại Trung Quốc, thể hiện khả năng giữ thăng bằng và phối hợp đáng kinh ngạc.
+Gần đây nhà sản xuất robot Unitree chia sẻ thước phim robot hình người G1 vừa nhảy vừa né những quả bóng đá và đòn tấn công bằng gậy.
+Màn thể hiện này nêu bật tiến triển về độ nhanh nhẹn của robot.
+Khi ngày càng nhiều robot xuất hiện ở nơi công cộng, bất kể trình diễn trên sân khấu, hỗ trợ hậu cần hay hoạt động trong nhà máy, vấn đề đạo đức và an toàn trở nên ngày càng cấp thiết.
+Các nhà nghiên cứu và nhà chức trách nhấn mạnh tầm quan trọng của việc kiểm tra kỹ lưỡng, cơ cấu chống trục trặc và quy định xử lý khi phát hiện lỗi ở robot cũng như phản ứng của con người.
+Vấn đề quan trọng đầu tiên là mức độ kiểm soát robot hình người của người sử dụng.
+Trong khi robot Optimus của Tesla có thể vận hành từ xa bởi đội ngũ ở trung tâm điều khiển, các robot khác như Unitree H1 được kiểm soát bởi người sử dụng bằng cần đẩy cầm tay.
+Với mức giá 113.157 USD, sản phẩm đi kèm bộ phát triển phần mềm có thể dùng để tạo ra hệ thống trí tuệ nhân tạo (AI) riêng ở quy mô hạn chế.
+Ví dụ, robot có thể nói một câu hoặc nhận dạng gương mặt nhưng không thể đưa trẻ em tới trường.
+Rất khó quy trách nhiệm nếu có người bị thương hoặc thậm chí tử vong do một robot có người điều khiển.
+Bất kỳ cuộc thảo luận nào về trách nhiệm đầu tiên đều bao gồm chứng minh thiệt hại gây ra bởi lỗi của con người hay trục trặc máy móc.
+Đó là trường hợp xảy ra tại Florida khi một người góa vợ kiện nhà sản xuất robot y tế Intuitive Surgical Inc về cái chết của vợ vào năm 2022, liên quan tới vết thương do bỏng nhiệt ở ruột trong ca phẫu thuật, gây ra bởi trục trặc ở một trong những cỗ máy của công ty.
+Vụ kiện cho thấy ngành công nghiệp robot cần có khuôn khổ pháp lý để ngăn chặn tình huống tương tự.
+Tính đến nay, nơi duy nhất đưa ra quy định từ chính quyền là Thượng Hải, Trung Quốc.
+Ban bố vào mùa hè năm 2024, các quy định bao gồm robot không được đe dọa an toàn của con người và nhà sản xuất phải huấn luyện người sử dụng về cách sử dụng cỗ máy.
+Ngược lại, tại Anh, đối với robot có người điều khiển, chưa có quy định nào nhằm ngăn người dân dắt chó robot đi dạo hoặc đưa robot hình người vào quán rượu.
+Đầu tiên, các chuyên gia cho rằng nhà chức trách có thể cấm người dân điều khiển robot dưới ảnh hưởng của rượu hoặc chất kích thích, hoặc khi họ đang sử dụng điện thoại và không tập trung.
+Việc sử dụng robot cần hạn chế trong môi trường rủi ro như không gian khép kín, nơi có nguy cơ hỏa hoạn hoặc hóa học, và nóc tòa nhà.
+Robot có vẻ ngoài bóng bẩy, biết nhảy múa và lộn nhào có thể thú vị khi xem, nhưng khán giả có thực sự an toàn?
+Thiết kế an toàn cần xem xét mọi thứ từ giảm khoảng trống mà ngón tay có thể mắc vào, tới chống nước cho các bộ phận bên trong.
+Rào chắn bảo vệ hoặc bộ khung ngoài có thể giảm thiểu tiếp xúc không mong muốn, trong khi cơ cấu đỡ giúp giảm tác động khi va chạm.
+Robot nên được thiết kế để phát tín hiệu ý đồ của chúng thông qua đèn, âm thanh hoặc cử chỉ.
+Ví dụ, chúng cần phát ra tiếng ồn khi vào phòng để không làm mọi người bất ngờ.
+Thậm chí drone có thể cảnh báo cho người sử dụng nếu mất tín hiệu hoặc hết pin và cần quay về nhà.
+Những cơ cấu như vậy cũng cần tích hợp trên robot biết đi.
+Hiện nay, chưa có yêu cầu pháp lý nào đối với các đặc điểm đó.
+Không phải nhà sản xuất hoàn toàn phớt lờ vấn đề đối với robot biết đi.
+Chẳng hạn, robot Go2 của Unitree có thể chớp mắt và phát ra tiếng bíp khi pin cạn hoặc bị nóng quá mức.
+Nó cũng có hệ thống ngắt điện khẩn cấp tự động trong những tình huống này, dù cần được kích hoạt bởi người điện khiển khi ở chế độ hoạt động từ xa.
+Tuy nhiên, nhà chức trách chưa đưa ra quy định rõ ràng để đảm bảo mọi nhà sản xuất đáp ứng một tiêu chuẩn an toàn nhất định.
+Có nhiều nguy cơ gắn liền với robot AI, nhưng phiên bản điều khiển từ xa có thể nguy hiểm hơn.
+Lỗi có thể đến từ việc thiếu huấn luyện và kinh nghiệm trong tình huống thực tế của người sử dụng.
+Có một khoảng trống lớn về kỹ năng trong huấn luyện người vận hành và các công ty robot cần ưu tiên điều này để đảm bảo người vận hành có thể điều khiển cỗ máy hiệu quả và an toàn.
+Ngoài ra, con người cũng có thời gian phản ứng trễ và khả năng tập trung hạn chế, vì vậy chúng ta cần hệ thống có thể theo dõi độ chăm chú của người vận hành robot và cảnh báo họ nhằm ngăn chặn tai nạn.

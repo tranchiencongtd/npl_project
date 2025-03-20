@@ -1,0 +1,17 @@
+iOS18.3 là bản cập nhật lớn thứ ba củaiOS 18nhưng tập trung vào việc sửa lỗi thay vì thêm nhiều tính năng mới như iOS 18.1, 18.2.
+Phiên bản này khắc phục 25 lỗ hổng bảo mật, bao gồm lỗ hổng CoreMedia có thể đã bị tin tặc khai thác trên các thiết bị chạy iOS 17.1 hoặc cũ hơn.
+Các lỗ hổng khác được vá liên quan đến bảo mật ứng dụng Photos, AirPlay, Webkit cho Safari.
+Công ty cũng khắc phục lỗi bàn phím biến mất khi nhập yêu cầu cho Siri hay điện thoại vẫn phát nhạc ngay cả khi đã đóng Apple Music.
+Sau khi cập nhật iOS 18.3, Apple Intelligence‌ sẽ mặc định bật cho mọi máy được hỗ trợ thay vì mặc định tắt như trước.
+Nếu không muốn sử dụng, người dùng phải vào cài đặt để điều chỉnh.
+Ngoài iOS 18.3, các thiết bị chạy iPadOS 18.3, macOS Sequoia 15.3 cũng tự bật Apple Intelligence.
+Bộ tính năng trí tuệ nhân tạo của Apple hiện hỗ trợ dòng iPhone 15 Pro, iPhone 16, iPad mini 7 và tất cả máy tính Mac, iPad chạy chip dòng M.
+Với các máy iPhone 16, tính năng Visual Intelligence sẽ bắt đầu được hỗ trợ truy cập bằng nút riêng Camera Control.
+Người dùng có thể mở nhanh camera để tìm hiểu thông tin về chủ thể xuất hiện trong khung hình cũng như thêm sự kiện vào ứng dụng, xác định thực vật, động vật.
+iOS 18.3 sửa đổi phần tóm tắt thông báo sau khi nhận một số ý kiến phàn nàn Apple Intelligence tổng hợp và đặt tiêu đề chung cho thông báo sai thực tế.
+Trong đó, các thông báo về Tin tức, Giải trí sẽ bị vô hiệu hóa để Apple tiếp tục cải tiến và mở lại trong tương lai.
+Trong mục cài đặt, khi kích hoạt tính năng tóm tắt thông báo, Apple sẽ thêm cảnh báo đây chỉ là bản beta, có thể xảy ra lỗi.
+Với thông báo tóm tắt bằng Apple Intelligence, dòng chữ sẽ được in nghiêng để phân biệt với thông báo tiêu chuẩn.
+Hệ thống cũng có thêm tùy chọn quản lý xem thông báo có được tóm tắt cho ứng dụng ngay từ màn hình khóa hay không.
+Sau khi bị loại khỏi iOS 18 khi mới ra mắt, Apple đem trở lại ứng dụng này trên iOS 18.3.
+Tính năng mới cho phép người dùng chạm hai lần vào dấu bằng để lặp lại phép toán cuối cùng.

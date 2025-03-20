@@ -1,0 +1,60 @@
+Năm 2005, khi muốn tìm hiểu về một địa điểm ít khi đặt chân tới, người dùng cần có atlas địa lý bỏ túi, bản đồ giấy, la bàn, hướng dẫn nhà hàng, lịch trình xe buýt...
+Bốn người gồm Stephen Ma, Noel Gordon, hai anh em Lars và Jens Rasmussen đã nghĩ đến việc tạo ra một bản đồ số.
+Sau 20 năm tạo nên nền tảng Google Maps với hai tỷ người dùng, bốn người vẫn ít được biết đến.
+"Tôi có xu hướng kín tiếng", Stephen Ma, kỹ sư phần mềm 54 tuổi tại Australia, nói trong cuộc phỏng vấn hiếm hoi vớiGuardian.
+"Tôi thấy không thoải mái trước sự chú ý của mọi người đối với mình".
+Câu chuyện bắt đầu tại thị trấn Cooma của New South Wales, nơi gia đình Ma điều hành một nhà hàng Trung Quốc có tên Dragon's Gate, chuyên phục vụ các món ăn Quảng Đông - Australia như mỳ xào gà hay thịt lợn chua ngọt.
+Ngoài đi học, Ma phụ giúp gia đình trông cửa hàng.
+Tuy nhiên, phần lớn thời gian của ông là ngồi trước màn hình.
+"Tôi làm rất nhiều việc mà những người đam mê công nghệ thường làm, như chơi game, học lập trình trên máy tính Apple II", ông kể.
+Năm 1998, cơn sốt dotcom đang trên đà đến đỉnh điểm, Ma tốt nghiệp đại học, xin việc tại Sydney, sau đó đến Thung lũng Silicon (Mỹ) thử sức.
+Nhưng đầu những năm 2000, những kỹ sư như Ma cảm thấy thất vọng khi bong bóng dotcom "vỡ".
+Trở về Sydney, ông được đồng nghiệp cũ Noel Gordon liên hệ.
+Cả hai cùng anh em người Đan Mạch Jens và Lars Rasmussen lập công ty khởi nghiệp với mục tiêu xây dựng một nền tảng bản đồ mới.
+Thực tế khi đó, thị trường đã có một số dịch vụ bản đồ trực tuyến, như MapQuest được AOL thâu tóm với số tiền kỷ lục khi đó là 1, 1 tỷ USD.
+Nhưng MapQuest bị đánh giá cồng kềnh và "vẫn nằm giữa thế giới số và thế giới thực", tức người dùng cần làm các thao tác chỉ đường trên máy tính, sau đó phải in ra để sử dụng trong thực tế.
+Tự đặt tên nhóm là Where 2 Technologies, cả bốn người làm tại một phòng ngủ bên trong căn hộ của Gordon ở ngoại ô Hunters Hill, Sydney.
+Nhóm xây dựng một chương trình ứng dụng Windows gọi là Expedition, giao diện gồm một thanh địa chỉ ở trên cùng và ở giữa, bản đồ nằm trung tâm với các tuyến đường, hai chốt vị trí đánh dấu điểm đi - đến cụ thể.
+"Nó trông rất giống với Google Maps bây giờ", Ma nói.
+Bản demo sau đó được nhóm trình bày với Sequoia Capital, công ty đầu tư mạo hiểm huyền thoại tại Thung lũng Silicon.
+Where 2 Technologies hy vọng nhận một khoản tài trợ nhằm giảm áp lực tài chính, khi nguồn tiền lúc đó đều đến từ khoản tiết kiệm cá nhân đang cạn kiệt.
+Tháng 3/2004, Yahoo Maps ra mắt tính năng SmartView, cho phép người dùng tìm kiếm nhà hàng và địa điểm giải trí.
+Đây là tính năng phổ biến trên ứng dụng bản đồ hiện đại và là sự đột phá cách đây 20 năm.
+Sản phẩm của Yahoo khiến Sequoia Capital rút lại lời đầu tư.
+Như một "sự an ủi", nhóm được giới thiệu cho Google, một trong những khách hàng lớn của Sequoia.
+Họ sau đó trình bày ý tưởng đang có với nhà đồng sáng lập Google Larry Page.
+Page không quan tâm đến Expedition cho máy tính để bàn, nhưng ấn tượng với các tính năng bản đồ hoạt động trên trình duyệt.
+Nhóm chỉnh sửa phiên bản web bằng bộ công cụ khi đó chưa phổ biến là Ajax, giúp bản đồ có thể tự lấy dữ liệu mới, tự cập nhật trên nền mà không cần là mới toàn bộ trang.
+Nói cách khác, thay vì tải đi tải lại hình ảnh bản đồ khổng lồ, website sẽ tải nhiều ô bản đồ nhỏ hơn và hiển thị chúng khi cần.
+Điều này mang lại cho người dùng cảm giác liền mạch và ổn định, thay vì cần cập nhật thông tin qua nút refresh trên trình duyệt.
+Buổi trình diễn thành công.
+Google thuê nhóm làm việc cho mình, sau đó mua lại quyền sở hữu trí tuệ với mức giá không tiết lộ.
+Tuy nhiên, trong báo cáo thường niên năm 2004, công ty cho biết "đã chi 66 triệu USD gồm tiền mặt, thưởng hiệu suất, cổ phiếu và quyền chọn cho các vụ mua lại, gồm Where 2".
+"Google rất giỏi trong việc tuyển dụng đội ngũ giỏi với mức giá thấp, vì họ không có đối thủ cạnh tranh trong lĩnh vực mua lại khi đó", Ma kể.
+Tháng 6/2004, nhóm Where 2 đến làm cho Google với tư cách nhân viên.
+Tháng 2/2005, Google Maps ra mắt.
+Ngay lập tức, Google Maps thu hút sự chú ý lớn của cộng đồng toàn cầu.
+Trong đó, tính năng "kéo thả" bản đồ ngay trên trình duyệt và khả năng phóng to, thu nhỏ khi tương tác nhận được hàng loạt đánh giá tích cực nhờ sự tiện lợi.
+Thay vì đợi chuyển trang hay tải ảnh bản đồ dạng tĩnh, họ chỉ cần nhấn giữ chuột để kéo sang khu vực cần thấy hoặc lăn chuột để zoom khu vực muốn tìm hiểu rõ ràng hơn.
+Làn sóng smartphone sau đó nâng Google Maps lên tầm cao mới.
+Từ khi iPhone ra đời năm 2007 và thiết bị Android một năm sau đó, Google lập tức nhận thấy cơ hội.
+Phiên bản di động nhanh chóng có trên điện thoại và liên tục cập nhật, mang đến hàng loạt tính năng về tìm kiếm địa điểm, dẫn đường, thiết lập lộ trình, chia sẻ vị trí thời gian thực hay thậm chí có thể biết nơi nào đang kẹt xe.
+Với smartphone có Google Maps, việc đi đến một thành phố xa lạ không còn gây khó khăn.
+Bản đồ giấy và các công cụ định hướng kiểu cũ cũng từ đó dần biến mất, không còn nằm trong hành lý của người đi du lịch.
+Cũng trong năm 2007, Google bổ sung tính năng Street View hiển thị ảnh chụp 360 độ về địa điểm cụ thể.
+Công ty sử dụng camera 360 độ gắn trên những chiếc xe lăn bánh ở hàng trăm quốc gia, ghi lại hàng triệu địa điểm.
+Thông qua máy tính, người dùng có thể "du lịch từ xa" hoặc xem trước các điểm đến một cách chi tiết.
+Bên cạnh đó, việc mở giao diện lập trình ứng dụng (API) cho bên thứ ba cũng giúp hệ sinh thái bản đồ Google bùng nổ, len lỏi sâu vào cuộc sống.
+Giờ đây, hàng triệu sản phẩm như ứng dụng di động, website, doanh nghiệp vận chuyển...
+đều có API Google Maps.
+Tính năng Google My Business cũng giúp người dùng đánh giá doanh nghiệp hay cung cấp thông tin như số liên lạc, giờ mở cửa.
+Với khả năng tích hợp vệ tinh, Google Maps góp phần quan trọng trong việc cung cấp thông tin hỗ trợ cứu trợ thiên tai, môi trường, quy hoạch đô thị.
+TheoAndroid Police, sau 20 năm, nền tảng của Google đã chứng minh nó không còn là một dịch vụ tra cứu địa điểm hay chỉ đường, mà trở thành nơi mọi người tìm kiếm, tương tác, gắn kết cộng đồng cũng như góp phần thúc đẩy phát triển kinh tế.
+"20 năm trước, Google Maps thay đổi cách chúng ta nhìn và điều hướng thế giới.
+Ngày nay, nó là công cụ không thể thiếu đối với hơn hai tỷ người dùng mỗi tháng, định hình cách mọi người điều hướng và khám phá, dù họ đang đi du lịch đến địa điểm mới hay khám phá lại chính quê hương của mình", Miriam Daniel, Phó chủ tịch kiêm giám đốc phụ trách Google Maps viết trên blog.
+Giáo sư Scott McQuire chuyên về phương tiện truyền thông tại Đại học Melbourne nói vớiGuardianrằng Google Maps là sản phẩm tuyệt vời, "nhưng hoạt động trên cơ sở trích xuất dữ liệu, lấy thông tin vị trí, và đó là dữ liệu rất có giá trị đối với những ai đang muốn thu thập thông tin về bạn".
+Stephen Ma cho biết thương mại hóa và khai thác dữ liệu không nằm trong kế hoạch khi ông tạo ra ứng dụng bản đồ mới, nhưng điều này xuất hiện sau khi ông chuyển sang các dự án khác năm 2006.
+Ông cũng thừa nhận lo ngại về quyền riêng tư.
+"Nhiệm vụ giữ cho các công ty trung thực và minh bạch một phần nằm trong tay người dùng và một phần là trách nhiệm của chính phủ", ông nói.
+"Vấn đề lớn nhất là, thực tế, bối cảnh công nghệ thay đổi rất nhanh.
+Rất khó cho các cơ chế quản lý theo kịp".

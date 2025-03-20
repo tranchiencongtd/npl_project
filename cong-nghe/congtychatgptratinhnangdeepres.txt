@@ -1,0 +1,17 @@
+TheoOpenAI, Deep Research (Nghiên cứu sâu) có thể tự lập kế hoạch, phân tích, thực hiện tiến trình nhiều bước nhằm tìm kiếm dữ liệu phù hợp, đối chiếu và cập nhật lại thông tin theo thời gian thực khi cần.
+Thay vì tạo văn bản đơn thuần, tính năng mới trênChatGPTsẽ hiển thị quy trình tổng hợp, kèm trích dẫn cũng như tóm tắt về các nguồn tin đã tham khảo.
+Người dùng có thể đặt câu hỏi bằng văn bản, hình ảnh hoặc tệp tin như PDF, Excel cho dữ liệu đầu vào, sau đó hệ thống sẽ mất "từ 5 đến 30 phút" để đưa ra phản hồi.
+Công ty cho biết trong tương lai nội dung nghiên cứu sâu có thể được thể hiện bằng ảnh hoặc biểu đồ trực quan hơn.
+Kevin Weil, Giám đốc sản phẩm OpenAI, khẳng định những công việc nghiên cứu chuyên sâu mà một người trước đây mất tới 30 ngày để hoàn thành thì nay chỉ cần chưa đầy 30 phút với ChatGPT.
+OpenAI cho biết tính năng nghiên cứu sâu vẫn còn hạn chế, cảnh báo "đôi khi có thể ảo giác", bịa đặt thông tin, gặp khó khăn trong việc phân biệt tin tức chính thống và tin đồn.
+Trong video trình diễn Deep Research do OpenAI công bố, ChatGPT nhận được yêu cầu tóm tắt thay đổi của ngành bán lẻ trong ba năm qua, hệ thống nhanh chóng hiển thị nội dung, nguồn và cách tổng hợp thông tin ở bên phải và đưa ra kết quả ở khung soạn thảo chính.
+Đội ngũ phát triển cho biết Deep Research hữu ích cho các lĩnh vực như tài chính, khoa học, kỹ thuật, hoạch định chính sách cũng như người tiêu dùng muốn tìm các lời khuyên mua sắm.
+Tính năng mới ra mắt chỉ ít ngày sau khi OpenAI giới thiệu Operator - công cụ có thể tự sử dụng trình duyệt web để hoàn thành một số tác vụ cho người dùng, tương tự Project Mariner được Google giới thiệu vào tháng 12.
+Các tính năng mới như Deep Research, Operator được các nhà nghiên cứu trí tuệ nhân tạo gọi là tác nhânAI.
+Đây cũng là tương lai mà các công ty như OpenAI kỳ vọng giúp AI thật sự hữu ích và đáng trả tiền hơn thay vì chỉ là công cụ giải trí.
+OpenAI cung cấp 100 truy vấn Deep Research mỗi tháng cho người dùng trả phí 200 USD cho gói Pro và "quyền truy cập hạn chế" cho người dùng tài khoản Plus, Team, Enterprise.
+Tính năng này cũng chỉ khả dụng với phiên bản web trong khi ứng dụng trên thiết bị di động, máy tính sẽ được triển khai muộn hơn vào cuối tháng.
+Công ty khẳng định tác nhân AI này "rất tốn tài nguyên", đòi hỏi nhiều tính toán suy luận hơn, mất nhiều thời gian hơn để nghiên cứu về một đề tài nào đó.
+Deep Research được công bố giữa lúc DeepSeek làm mưa làm gió trên thị trường AI tuần qua với đa dạng tính năng, chi phí nghiên cứu và sử dụng rẻ hơn.
+Startup AI từ Trung Quốc được đánh giá đang "phả hơi nóng" vào OpenAI khiến gã khổng lồ trí tuệ nhân tạo liên tục phải ra mắt sản phẩm mới để tăng sức cạnh tranh.
+Cuối tuần qua, công ty cũng tung ra o3-mini, mô hình AI được tuyên bố có khả năng lý luận, "vừa mạnh mẽ vừa có chi phí phải chăng" bên cạnh các tác nhân AI mới cho ChatGPT.

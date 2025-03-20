@@ -1,0 +1,22 @@
+Shielding Suit gồm áo khoác và quần dài, sử dụng cùng công nghệ chắn điện từ mà NASA dùng cho robot thám hiểm sao Hỏa, Design Boomhôm 27/1 đưa tin.
+Bộ đồ chứa bạc nguyên chất nên có thể làm chệch hướng tần số sóng 0, 2 - 10 GHz, bao gồm WiFi, Bluetooth, vệ tinh băng tần Ku và các hệ thống radar.
+Bạc nguyên chất trong bộ đồ cũng làm chệch hướng bức xạ hồng ngoại.
+Vì lý do này, camera hồng ngoại không thể nhìn thấy người mặc.
+Để phát triển Shielding Suit, Vollebak hợp tác với Shieldex, phòng thí nghiệm tại Bremen nổi tiếng với việc tạo ra các loại vải kim loại công nghệ cao và từng sản xuất một số loại vải cho robot thám hiểm sao Hỏa.
+Vật liệu bên ngoài của Shielding Suit bắt đầu bằng lớp nền nylon chống rách.
+Nhóm thiết kế "kim loại hóa" chiếc áo khoác bằng một quy trình cho phép bạc nguyên chất phát triển thành vải thay vì chỉ làm lớp phủ.
+Theo đó, bạc nguyên chất là một phần của sợi trước khi được dệt thành áo khoác.
+Shielding Suit có các túi hoạt động giống như lồng Faraday - lồng bảo vệ ngăn chặn một số loại bức xạ điện từ xâm nhập hoặc thoát ra ngoài.
+Những chiếc túi này có thể chặn quyền truy cập vào các thiết bị của người dùng, bất kể chúng đang bật hay tắt.
+Có một túi ở ngực trái của áo khoác và một túi khác bên trong túi phải.
+Nhóm thiết kế cho biết, chúng giống "vỏ gối" vì bao bọc và bảo vệ thiết bị như một hộp đựng không thấm nước.
+Nhờ đó, không ai có thể theo dõi hoặc hack các thiết bị này.
+Shielding Suit thậm chí có thể diệt khuẩn.
+17% vật liệu bên ngoài của áo khoác làm từ bạc nguyên chất nên nó giải phóng các ion tích điện dương.
+Vi khuẩn xâm nhập vào lớp vải bạc sẽ nhanh chóng bị tiêu diệt.
+Các ion này bám vào ADN của vi khuẩn, ngăn chúng hoạt động và sinh sản.
+Về mặt thiết kế, Vollebak sử dụng lớp lót polyester mềm bên trong áo khoác.
+Ngoài ra còn có khóa kéo hai chiều phía trước, mũ trùm đầu với dây điều chỉnh phía sau, dây điều chỉnh ở gấu áo.
+Người mặc có thể thắt chặt cổ tay áo bằng khuy bấm.
+Quần cũng có lớp lót lưới mềm bên trong, cạp chun điều chỉnh được và gấu quần thắt chặt bằng khuy bấm tương tự cổ tay áo.
+Vollebak cho biết, Shielding Suit bằng bạc nguyên chất hiện chỉ chặn được sóng tần số thấp, nhưng đây là bước đầu tiên hướng tới trang phục hàng ngày với khả năng chống bức xạ hoàn toàn.

@@ -1,0 +1,41 @@
+Bài đăngtrên IEEE Communications Letters (Q1), một trong những tạp chí tốt nhất ngành Viễn thông, với chỉ số ảnh hưởng IF và trích dẫn lần lượt 3.7; 8.1, hôm 15/1.
+Nhóm nghiên cứu gồm hai thành viên đang học năm thứ ba là Ngô Minh Ngọc, Nguyễn Thành Trung.
+Ít tuổi nhất Nguyễn Hồng Phúc - năm thứ hai.
+Cả ba đang theo học ngành Kỹ thuật Điện, Viện Kỹ thuật và Khoa học máy tính.
+Bài báo có tựa đề "Energy-Aware Resource Allocation for Energy Harvesting Powered Wireless Sensor Nodes" giải quyết vấn đề sạc pin cho các cảm biến từ việc chuyển hóa sóng vô tuyến thành điện năng giúp tăng tuổi thọ hoạt động của cảm biến.
+Điều này đặc biệt hữu dụng trong nông nghiệp thông minh, khi việc thay thế pin cho hàng nghìn cảm biến là một thách thức lớn và tốn kém.
+"Chúng em rất vui.
+Niềm vui này đến kịp lúc mọi người cũng đang chuẩn bị nộp chương trình học bổng của trường", Ngọc nói.
+Đề tài của nhóm tập trung vào thiết kế và tối ưu hóa phân bổ tài nguyên năng lượng cho các thiết bị cảm biến không dây sử dụng năng lượng sóng vô tuyến, nhằm duy trì liên lạc liên tục trong điều kiện năng lượng thấp.
+Ví dụ trong nông nghiệp bền vững và thông minh hiện nay, nhiều nơi sử dụng cảm biến đo độ ẩm, nhiệt độ, độ PH...
+của đất.
+Tuy nhiên, diện tích canh tác lớn khiến khó cung cấp điện cho các cảm biến trực tiếp, trong khi dùng pin thì nhanh cạn.
+Mô hình giúp cảm biến thu thập năng lượng vô tuyến và truyền thông tin của nhóm Ngọc giúp người nông dân nắm bắt "sức khỏe" của đất trồng chính xác và hiệu quả, giảm công sức.
+Thầy Nguyễn Văn Định, Phó giám đốc chương trình Kỹ thuật Điện và Máy tính, Viện Kỹ thuật và Khoa học Máy tính, cho biết nhóm đã đề xuất một giải pháp sáng tạo, có tiềm năng ứng dụng trong các lĩnh vực như IoT, giám sát môi trường.
+"Việc có bài báo được công bố trên tạp chí Q1 là thành tích ấn tượng, thể hiện năng lực nghiên cứu xuất sắc, sự nỗ lực và đam mê khoa học của sinh viên", thầy Định nhận xét.
+"Điều này không chỉ giúp các bạn xây dựng nền tảng học thuật vững chắc mà còn tạo ra lợi thế cạnh tranh trong học tập sau này".
+Ngọc cho hay ý tưởng nghiên cứu bắt đầu từ dự án liên quan đến nông nghiệp bền vững được nhà trường tài trợ hồi tháng 6/2023.
+Em đã cùng Trung xây dựng công thức, giải bài toán và chuyển sang thuật toán.
+Đến giai đoạn mô phỏng, Phúc bắt đầu tham gia.
+Ý tưởng đề xuất ban đầu khá rộng và chung chung, gần như bao hàm toàn bộ phần liên quan đến nông nghiệp thông minh và truyền tải năng lượng không dây.
+Lần đầu làm nghiên cứu nên cả nhóm thấy lúng túng.
+Nhờ được thầy định hướng, nhóm tập trung vào thuật toán tối ưu việc nhận năng lượng và truyền điện nhằm đảm bảo độ khả thi và độc đáo của bài nghiên cứu.
+Ngoài ra, để kiểm chứng hiệu quả của mô hình, các sinh viên viết code và chạy trên phần mềm MATLAB trên máy tính cá nhân.
+Vì bài báo có mô hình tương tự không có nhiều, ba thành viên phải tự xây dựng thêm phương pháp chuẩn để so sánh (benchmark scheme).
+Trong lúc chạy kết quả, phần mềm nhiều khi không ổn định, khiến nhóm phải làm lại nhiều lần.
+Trung bình mỗi lần, máy tính phải chạy mô phỏng khoảng 1.000 vòng lặp trong gần hai tiếng.
+Ba sinh viên chia nhau, mỗi người phụ trách một phần, tận dụng 2-3 máy tính cùng lúc và phải trông liên tục để đảm bảo không lỗi, sau đó mới có thể thay các số cho những lần chạy sau.
+"Chúng em thường phải thức đến 2-3h, thậm chí xuyên đêm để canh", Ngọc nhớ lại.
+Một khó khăn nữa là nghiên cứu nặng về toán và các lý thuyết truyền thông - nội dung mà cả ba chưa được học.
+Các sinh viên phải tự học, đọc tài liệu chuyên ngành, bài báo để biến đổi các hàm điều kiện về những dạng mà máy tính có thể chạy và tối ưu được.
+Thầy Định cho hay thường không khuyến khích sinh viên làm nghiên cứu sớm, vì có thể ảnh hưởng đến việc học.
+Nhưng ba em này là trường hợp ngoại lệ, khi đều đạt giải President's List (dành cho sinh viên xuất sắc nhất khóa) và Dean's List (đạt GPA trên 3.64/4) trong năm vừa qua.
+Năm ngoái, Ngọc còn đạt 4/4.
+Cả ba cũng nhận học bổng đầu vào 90-100% của trường.
+Để duy trì điểm số tốt, cả ba nói luôn ưu tiên việc học và chỉ dành thời gian cho nghiên cứu khi đã hoàn thành bài tập trên lớp.
+Bài báo được đăng trên Q1 giúp Trung có thêm kinh nghiệm viết, nộp một bài nghiên cứu và xin tài trợ.
+"Bài học em rút ra là nghiên cứu dù chỉ về một chủ đề rất nhỏ nhưng cũng có nhiều cách để cải thiện và nâng cấp nó", Trung nói.
+Phúc nhận ra cần bình tĩnh xử lý mọi tình huống và kiên nhẫn làm việc đến khi có thành quả.
+Sau mỗi vòng phản biện và chỉnh sửa, bài báo của nhóm thêm hoàn chỉnh và có kết quả mong muốn.
+Nhóm dự kiến tiếp tục tham gia cùng thầy giáo trong dự án mới về dùng lý thuyết ăng ten, sóng điện từ và đại số tuyến tính.
+Cả ba cũng mong muốn tìm học bổng để học lên cao hơn và theo đuổi con đường nghiên cứu sau khi tốt nghiệp.

@@ -1,0 +1,47 @@
+Tổng cục Tình báo Quân đội thuộc Lực lượng Phòng vệ Israel (IDF) hồi tháng 11/2024 tuyên bố đang sử dụng AI và công cụ tự động hóa "để xác định nhanh chóng và chính xác mục tiêu".
+Một quan chức cấp cao Israel khi đó cho biết hành động của đối thủ trong xung đột đã "tạo ra cơ hội mới" cho giới tình báo nước này.
+Đó là lần đầu IDF tiết lộ các biện pháp hiện đại được dùng để cung cấp cho lực lượng mặt đất thông tin cập nhật tức thời về mục tiêu.
+Tuy nhiên, Israel đã biến đơn vị tình báo của mình thành "nhà máy thử nghiệm AI phục vụ chiến tranh" trước đó nhiều năm.
+Sau cuộc tấn công của Hamas ngày 7/10/2023, IDF bắt đầu không kích dữ dội vào Dải Gaza dựa vào cơ sở dữ liệu được xây dựng công phu nhiều năm, gồm thông tin chi tiết về địa chỉ nhà, đường hầm và cơ sở hạ tầng quan trọng đối với nhóm vũ trang này.
+Tuy nhiên, số lượng mục tiêu của họ sớm cạn kiệt.
+Để duy trì đà tấn công, IDF chuyển sang công cụ AI tinh vi có tên "Habsora", với khả năng nhanh chóng tạo ra hàng trăm mục tiêu bổ sung.
+Hai nguồn tin giấu tên am hiểu hoạt động của IDF cho biết sử dụng AI giúp quân đội Israel duy trì số mục tiêu sẵn sàng tập kích và bảo đảm chiến dịch không bị gián đoạn.
+Một số chuyên gia coi đây là sáng kiến AI quân sự tiên tiến nhất từng được triển khai trên thực tế.
+Tuy nhiên, cuộc điều tra doWashington Posttiến hành cũng hé lộ những tranh luận gay gắt trong giới lãnh đạo IDF về chất lượng tin tình báo do AI thu thập và những dữ liệu đó có được con người đánh giá kỹ lưỡng hay không, cũng như liệu quá tập trung vào AI có làm suy yếu năng lực tình báo truyền thống không.
+Một số quan chức IDF cho rằng AI chính là một trong những nguyên nhân làm tăng vọt con số thương vong tại Gaza.
+Tính đến 31/12/2024, cơ quan y tế Gaza cho biết đã có 45.500 người thiệt mạng và hơn 108.000 người bị thương do chiến dịch của Israel, hơn một nửa là phụ nữ và trẻ em.
+Những người am hiểu hoạt động của IDF, gồm cả binh sĩ tham gia chiến dịch Gaza, cho biết quân đội Israel đã "tăng đáng kể ngưỡng thương vong dân thường chấp nhận được" so với các xung đột trước đây.
+Một phần sự thay đổi được thúc đẩy bởi công nghệ tự động hóa, giúp dễ dàng tạo số lượng lớn mục tiêu.
+"Những gì xảy ra ở Dải Gaza là dấu hiệu cho thấy sự thay đổi lớn trong cách tiến hành chiến tranh", Steven Feldstein, nhà phân tích thuộc Quỹ Carnegie vì Hòa bình Quốc tế có trụ sở tại Mỹ, nêu quan điểm.
+"IDF dường như đã điều chỉnh ngưỡng thương vong dân thường chấp nhận được trong chiến dịch ở Gaza.
+Khi kết hợp với tốc độ AI và độ chính xác đáng nghi vấn, số người chết trong xung đột đã vượt xa những gì có thể tưởng tượng", ông nói.
+Trong khi đó, Bộ Quốc phòng Israel cho rằng cáo buộc AI gây nguy hiểm tính mạng dân thường là "sai lệch".
+"Khả năng tổng hợp thông tin càng hiệu quả, quy trình tác chiến càng chính xác.
+Những công cụ này đã giảm thiểu thiệt hại ngoài ý muốn và nâng cao độ chính xác cho quy trình do con người điều hành", IDF cho hay.
+Một quan chức Israel giấu tên cho biết IDF yêu cầu phải có sĩ quan ký duyệt đề xuất đưa ra từ "các hệ thống xử lý dữ liệu lớn".
+Hệ thống Habsora và các công cụ AI khác không được tự động đưa ra quyết định.
+Quá trình ứng dụng AI vào thu thập thông tin mục tiêu được IDF tiến hành tại Đơn vị 8200.
+Đây là lực lượng tình báo và chiến tranh mạng trực thuộc Cục Tình báo Quốc phòng Israel, có vai trò tương đương Cơ quan An ninh Quốc gia Mỹ (NSA) và là đơn vị quân sự riêng lẻ lớn nhất của Israel.
+Cuộc cải tổ Đơn vị 8200 được đẩy mạnh từ năm 2020 dưới sự lãnh đạo của chỉ huy hiện tại Yossi Sariel, trong đó thay đổi hoàn toàn công việc và phương thức thu thập thông tin tình báo của họ.
+Sariel ủng hộ phát triển Habsora, phần mềm máy học (machine learning) được xây dựng dựa trên hàng trăm thuật toán dự đoán, cho phép binh sĩ nhanh chóng truy vấn kho dữ liệu khổng lồ của quân đội.
+Phân tích khối lượng lớn dữ liệu từ liên lạc bị chặn thu, ảnh vệ tinh và mạng xã hội, các thuật toán có thể đưa ra tọa độ của đường hầm, bệ phóng rocket và nhiều mục tiêu quân sự.
+Những đề xuất vượt qua cuộc kiểm tra của các nhà phân tích tình báo sẽ được sĩ quan cấp cao đưa vào danh sách mục tiêu.
+Một sĩ quan từng làm việc với Habsora cho biết công nghệ nhận diện hình ảnh của nó có thể phát hiện những thay đổi khó phát hiện trên mặt đất, giúp binh sĩ Israel phát hiện vị trí chôn giấu bệ phóng rocket hoặc đường hầm.
+"Phần mềm chỉ mất 30 phút để thực hiện những công việc thường cần một tuần", người này cho hay.
+Một phần mềm máy học khác, gọi là Lavender, sử dụng tỷ lệ phần trăm để dự đoán khả năng một người Palestine có thể thuộc về một nhóm vũ trang, cho phép IDF tạo ra lượng lớn mục tiêu tiềm năng.
+Họ cũng vận hành nhiều thuật toán chưa từng công bố như Alchemist, Depth of Wisdom, Hunter và Flow, cho phép binh sĩ truy vấn các dữ liệu khác nhau.
+Dù vậy, một số sĩ quan Đơn vị 8200 lo ngại công nghệ máy học có thể ẩn chứa sai sót căn bản.
+"Các thông tin AI gửi lên không chỉ rõ dữ liệu tình báo được thu thập từ đâu, khiến quan chức khó đưa ra kết luận.
+Một cuộc kiểm toán nội bộ của IDF phát hiện một số hệ thống AI xử lý không chính xác ngôn ngữ Arab, không hiểu từ lóng và thuật ngữ", hai cựu lãnh đạo cấp cao của IDF tiết lộ.
+Ngoài những lo ngại về chất lượng thông tin từ AI, việc sử dụng công nghệ này đã dẫn đến thay đổi về cơ cấu, gây chia rẽ trong IDF.
+Nó thay thế văn hóa tình báo đề cao khả năng suy luận cá nhân, chuyển sang ưu tiên sự thành thạo công nghệ, theo ba nguồn tin giấu tên trong quân đội Israel.
+Dưới sự chỉ huy của Sariel và các lãnh đạo khác, Đơn vị 8200 đã tái cơ cấu nhằm đề cao vai trò của kỹ sư phần mềm, cắt giảm chuyên gia ngôn ngữ Arab, loại bỏ một số lãnh đạo bị coi là phản đối AI, giải tán một số bộ phận không tập trung vào công nghệ khai thác dữ liệu.
+Tính đến ngày 7/10/2023, khoảng 60% nhân sự của đơn vị làm việc với các vai trò liên quan đến kỹ thuật và công nghệ, gấp đôi so với 10 năm trước đó.
+Các hoạt động tình báo của IDF hiện bị giám sát chặt chẽ.
+Cáo buộc diệt chủng nhằm vào Israel do Nam Phi đưa ra tại Tòa Công lý Quốc tế (ICJ) đặt câu hỏi liệu các quyết định quan trọng về mục tiêu không kích ở Gaza có được thực hiện bởi phần mềm hay không.
+Quá trình điều tra có thể sẽ đẩy nhanh cuộc tranh luận toàn cầu về vai trò của AI trong chiến tranh.
+Chỉ huy Sariel cuối năm 2024 thừa nhận ông dự định từ chức do bị chất vấn ngày càng nhiều về những thất bại tình báo dẫn đến cuộc tấn công ngày 7/10/2023.
+Hai cựu chỉ huy cấp cao cho rằng tập trung quá mức vào AI là một trong những lý do khiến Israel rơi vào thế bị động khi xảy ra cuộc tấn công.
+Bộ phận này đã quá chú tâm vào công nghệ, gây khó khăn cho các nhà phân tích trong nỗ lực đưa ra cảnh báo đến các chỉ huy cấp cao.
+"Đây là một nhà máy AI.
+Con người đã bị thay thế bởi máy móc", một cựu lãnh đạo quân sự giấu tên cho biết.

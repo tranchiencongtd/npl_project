@@ -1,0 +1,15 @@
+Nhóm nghiên cứu từ Đại học Sơn Đông phát triển robot hai chân KOU-III giống đà điểu với các cánh quạt hỗ trợ nhằm tăng khả năng di chuyển, Interesting Engineeringhôm 8/1 đưa tin.
+Tên gọi KOU bắt nguồn từ nhân vật thần thoại cổ đại Trung Quốc Lie Yukou với khả năng cưỡi gió, theo đồng tác giả nghiên cứu Xianwu Zeng.
+Để tăng cường phân phối lực và giảm sự xộc xệch truyền động, nhóm chuyên gia sửa đổi bộ truyền động khớp gối của robot, thay cơ chế đầu ra dạng dầm chìa bằng thiết kế dạng cầu.
+Bộ truyền động, sử dụng hộp giảm tốc cycloid tích hợp vào đùi, tăng cường độ ổn định và giảm tối đa biến dạng khi chịu tác động.
+Thân robot làm bằng sợi carbon, giúp giảm trọng lượng, tối đa hóa mô-men xoắn của cánh quạt và cho phép chuyển động nghiêng 160 độ.
+Hệ thống điện độc lập 24V cung cấp năng lượng cho các bộ truyền động và cánh quạt, trong khi một module 5V hỗ trợ cho bộ điều khiển.
+Nhóm nghiên cứu thực hiện nhiều thử nghiệm để kiểm tra khả năng đứng, đi bộ và nhảy của KOU-III.
+Trong thử nghiệm đứng, sự hỗ trợ của cánh quạt cho phép robot chống lại nhiễu động bên ngoài một cách hiệu quả, giữ nguyên tư thế với sự dao động góc nghiêng tối thiểu (3 độ) và nhanh chóng ổn định trọng tâm trong vòng 0, 6 giây.
+Thử nghiệm đi bộ cho thấy cánh quạt giúp giảm đáng kể dao động trong tư thế và vận tốc, nâng cao tính ổn định.
+Với hệ thống cánh quạt, robot chuyển động mượt mà hơn, giảm dao động nghiêng (từ -3 độ đến 1 độ) và tốc độ tối đa 1, 1 mét mỗi giây, vượt trội so với khi không có cánh quạt hỗ trợ.
+Trong thử nghiệm nhảy, KOU-III thành công nhảy lên bậc thang cao 18 cm và đáp xuống nhẹ nhàng, giữ được thăng bằng.
+Dù chỉ cao 32 cm, robot có thể nhảy cao tối đa 35, 2 cm.
+Những kết quả này nhấn mạnh tầm quan trọng của hệ thống cánh quạt trong việc nâng cao khả năng di động và tính ổn định cho robot.
+Nhóm nghiên cứu cho biết, việc tích hợp các cơ chế phụ trợ có thể là một bước trọng yếu, cùng với những phương pháp điều khiển tối ưu, để nâng cao hiệu suất di chuyển cho robot có chân.
+Nhờ đó, chúng có thể di chuyển linh hoạt hơn trên nhiều dạng địa hình, tăng tính ứng dụng trong thực tế.

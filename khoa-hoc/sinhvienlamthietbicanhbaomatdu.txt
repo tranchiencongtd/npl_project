@@ -1,0 +1,33 @@
+Nghiên cứu của Phạm Văn Phúc, Phan Đình Nam, Phạm Quang Trình, Nguyễn Văn Thắng (trường Đại học Sư phạm Kỹ thuật) và Phạm Phương Nhi (trường Đại học Kinh tế) thuộc Đại học Đà Nẵng.
+Ý tưởng thực hiện đề tài của nhóm đến từ việc nhiều vụ tai nạn thương tâm xảy ra do mặt đường hư hỏng, ngập nước.
+Dành hơn một năm nghiên cứu, nhóm đưa ra phương án sử dụng cảm biến gia tốc và cảm biến mực nước có thiết kế nhỏ gọn, chi phí thấp, dễ triển khai và không bị ảnh hưởng bởi thời tiết.
+Hai cảm biến gia tốc được đặt dọc theo bộ giảm xóc bánh sau xe.
+Một cảm biến báo nước lắp dưới gầm xe và một cảm biến mực nước lắp bên hông xe để lấy các dữ liệu.
+Khi xe chạy trên đường, bộ thu thập dữ liệu sẽ đọc cảm biến gia tốc, cảm biến mực nước, cảm biến phát hiện nước.
+Những dữ liệu này sẽ được gửi đến bộ xử lí trung tâm thông qua mạng 4G.
+Nhóm sử dụng thuật toán xác định độ gồ ghề mặt đường thông qua dữ liệu từ hai cảm biến gia tốc.
+Cảm biến phát hiện nước và mực nước giúp xác định mức độ ngập trên đường.
+Dữ liệu được gửi về và hiển thị lên màn hình điện thoại theo thời gian thực.
+Để đánh giá hệ thống, nhóm thực nghiệm trên các tuyến đường nội đô ở Đà Nẵng như Nguyễn Chí Thanh, Lê Lợi, Trần Phú...
+trong hai tháng.
+Do thời tiết không có mưa lớn nên nhóm tiến hành giả lập tình trạng ngập để cho hệ thống hoạt động.
+Các dữ liệu về tình trạng mặt đường, ngập nước có độ chính xác 95%.
+Màn hình hiển thị tình trạng mặt đường theo màu, màu xanh thể hiện mặt đường đẹp và chuyển cam và đỏ ở tình trạng ổ gà từ nhẹ đến nặng.
+Mức độ ngập lụt cũng được hệ thống đo và cảnh báo mức ngập với đơn vị là cm.
+Theo Phạm Văn Phúc, hiện trong nước có một số thiết bị công nghệ như máy bay không người lái (UAV), tích hợp camera để xử lý ảnh, giúp xác định tình trạng mặt đường.
+Tuy nhiên, UAV hoạt động tốt trên các địa hình như quốc lộ, song lại không phù hợp với các tuyến đường nhỏ hơn trong nội đô, các đoạn bị che khuất như hầm đường bộ.
+Ngoài ra công nghệ này phụ thuộc vào thời tiết, điều kiện ánh sáng, mưa ngập mặt đường do sử dụng camera, dẫn đến kết quả không chính xác.
+Nhóm đánh giá, hệ thống còn nhiều nhược điểm như trường hợp xe chạy qua vạch giảm tốc, hệ thống cách báo nhầm là đường bị hư hại.
+Hướng khắc phục của nhóm là ứng dụng trí tuệ nhân tạo để huấn luyện mô hình giúp phân biệt ổ gà với vạch giảm tốc.
+Ngoài ra, khi hoạt động đôi khi dữ liệu bị chậm và tắc nghẽn do sử dụng cảm biến rẻ tiền.
+"Sắp tới nhóm sẽ sử dụng cảm biến chuyên dụng hơn và cho độ ổn định về mặt dữ liệu cao hơn", Phúc nói.
+Nhóm mong muốn phối hợp với các hãng xe buýt trong nội đô để có thể thu thập được dữ liệu về tình trạng mặt đường, ngập nước của toàn thành phố một cách tự động.
+Dữ liệu này được đưa lên giao diện để giám sát, thông báo kịp thời giảm thiểu rủi ro cho người tham gia giao thông một cách nhanh chóng và hiệu quả.
+Theo PGS.
+TS Nguyễn Ngọc Lâm, nguyên Trưởng phân Viện Điện tử - Tin học và Tự động hóa, Bộ Công thương, về mặt ý tưởng nhóm đưa ra giải pháp cảnh báo ổ gà, ngập nước là rất thiết thực, giúp người dân nhận biết khu vực đường hư hỏng.
+Ông cho rằng, hệ thống cảnh báo ổ gà của nhóm thực hiện thông qua bộ giảm xóc xe được gắn cảm biến cần lưu ý, khi xe chạy tốc độ cao đi qua ổ gà nhỏ cũng có thể xóc rất mạnh.
+Ngược lại nếu chạy tốc độ thấp vào ổ gà lớn độ xóc ít đi.
+PGS Lâm đánh giá những trường hợp này có thể ảnh hưởng đến độ chính xác về mức độ đường hư hỏng.
+"Giải thuật của nhóm hiện chưa xác định độ mấp mô đường, khoảng đường hư hại với các thông số cụ thể.
+Đây là yêu cầu quan trọng để có cơ sở đánh giá chính xác tình trạng mặt đường ", PGS Lâm nói.
+Sản phẩm của nhóm giành giải khuyến khích cuộc thi Sinh viên nghiên cứu khoa học Euréka do Thành đoàn phối hợp Đại học Quốc gia TP HCM tháng 12/2024.

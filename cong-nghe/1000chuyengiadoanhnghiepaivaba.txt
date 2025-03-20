@@ -1,0 +1,21 @@
+Tại họp báo công bố sự kiện Hội nghị quốc tế về Trí tuệ nhân tạo và Bán dẫn 2025 (AISC 2025) chiều 24/2 ở Hà Nội, Thứ trưởng Kế hoạch và Đầu tư Nguyễn Đức Tâm cho biết: "Hội nghị sẽ được tổ chức với sự đồng chủ trì của ông Eric Schmidt, cựu CEO Google, và quy tụ khoảng 1.000 chuyên gia, nhà khoa học, doanh nghiệp có ảnh hưởng trên thế giới trong lĩnh vực AI và bán dẫn, nhằm thúc đẩy hợp tác, trao đổi tri thức và định hướng phát triển công nghệ tại Việt Nam và khu vực", ông Tâm nói.
+AISC 2025 dự kiến diễn ra ngày 12-16/3 tại Hà Nội và Đà Nẵng.
+Các tên tuổi lớn có mặt gồm Google DeepMind, IBM, Intel, TSMC, Samsung, MediaTek, Tokyo Electron, Panasonic, Qorvo, Marvell, cùng nhiều công ty công nghệ từ Thung lũng Silicon của Mỹ.
+Theo ban tổ chức, AISC 2025 tập trung vào các nội dung mới nhất và mang tính bước ngoặt của AI trong cách mạng hóa thiết kế và sản xuất chip, cùng tiềm năng của kiến trúc bán dẫn tiên tiến cho AI.
+"AISC 2025 đánh dấu bước ngoặt quan trọng trong sự phát triển của công nghệ, tập hợp những nhà đổi mới hàng đầu thế giới và giới thiệu những đột phá giao thao giữa AI và bán dẫn", tiến sĩ Christopher Nguyễn, nhà sáng lập Aitomatic, đơn vị đồng tổ chức AISC 2025, nói.
+Theo Thứ trưởng Tâm, Việt Nam đang ở giai đoạn "hết sức quan trọng", khi Bộ Chính trị đã ban hành Nghị quyết 57 về đột phá phát triển khoa học, công nghệ, đổi mới sáng tạo và chuyển đổi số quốc gia, trong đó tiếp tục nhấn mạnh đây là chìa khóa quan trọng để phát triển kinh tế, xã hội.
+Để triển khai Nghị quyết 57, Chính phủ đã ban hành Nghị quyết số 03 phê duyệt Chương trình hành động với 41 chỉ tiêu và 140 nhiệm vụ.
+Một trong những nhiệm vụ được đưa ra là triển khai hoạt động thúc đẩy hợp tác quốc tế trong phát triển, ứng dụng công nghệ, từ đó hình thành hệ sinh thái đổi mới sáng tạo trong các lĩnh vực mũi nhọn như AI và bán dẫn.
+"Hội nghị sắp tới thể hiện sự sẵn sàng của Việt Nam trong việc đón các 'đại bàng công nghệ' hàng đầu trên thế giới", ông Tâm nói.
+Tại hội nghị, ông Nguyễn Hồng Trung, Phó giám đốc khối Công nghệ thông tin của VPBank, đối tác chiến lược của hội nghị, cho biết ngân hàng cũng đang ứng dụng AI vào mọi quy trình, từ phát triển sản phẩm đến nâng cao trải nghiệm khách hàng, và đạt được nhiều kết quả tích cực.
+"AI không chỉ là động lực tăng trưởng kinh tế mà còn quyết định năng lực cạnh tranh quốc gia.
+Đầu tư bài bản vào AI giúp Việt Nam nâng cao hiệu suất lao động, bứt phá trong các ngành trọng điểm như tài chính, y tế, sản xuất và logistics, đồng thời thu hút nguồn vốn đầu tư chất lượng cao, xây dựng đội ngũ nhân tài và nâng cao vị thế quốc gia", ông Trung nói.
+"Nếu tận dụng tốt cơ hội, Việt Nam có thể trở thành trung tâm đổi mới sáng tạo, đóng vai trò quan trọng trong chuỗi cung ứng công nghệ toàn cầu".
+Theo Giám đốc Trung tâm Đổi mới sáng tạo quốc gia NIC Vũ Quốc Huy, đây là "thời cơ vàng" để đẩy nhanh sự phát triển lĩnh vực AI và bán dẫn trong nước, cũng như nhân rộng mô hình hợp tác thành công vớiNvidia.
+Trước đó, Việt Nam và Nvidia hợp tác đặt trung tâm nghiên cứu và phát triển về AI tại Việt Nam.
+Ông Huy cho biết NIC đang triển khai các hoạt động nhằm thúc đẩy hợp tác quốc tế trong phát triển, ứng dụng công nghệ để hình thành hệ sinh thái đổi mới sáng tạo trong các lĩnh vực mũi nhọn như AI và bán dẫn.
+Dẫn báo cáo từ Bloomberg Intelligence, đại diện NIC cho biết thị trường bán dẫn toàn cầu đạt 500 tỷ USD vào cuối 2024, với AI đang dẫn dắt nền kinh tế số.
+Sự đột phá của mô hình AI mã nguồn mở nhưDeepSeek R1tạo ra làn sóng chuyển đổi thị trường và thúc đẩy nhu cầu cấp thiết về giải pháp điện toán hiệu quả.
+Việc tích hợp AI vào thiết kế và sản xuất chip cũng đang thu hút những khoản đầu tư lớn, có thể định hình lại toàn bộ ngành công nghiệp thông qua nâng cao hiệu suất và tạo cơ hội mới cho các trung tâm công nghệ đang phát triển trên toàn cầu.
+Đứng trước xu hướng này, đại diện NIC nhấn mạnh Việt Nam sẽ tận dụng cơ hội bằng chính sách thu hút đầu tư, hỗ trợ đào tạo nguồn nhân lực, bao gồm trợ cấp chi phí sản xuất chip vàAI.
+"Với nền tảng chính sách vững chắc, cùng sự phối hợp chặt chẽ giữa Chính phủ, doanh nghiệp và các tổ chức nghiên cứu, ngành công nghiệp bán dẫn và AI Việt Nam đang đứng trước cơ hội lớn để vươn tầm khu vực và thế giới", ông Huy nói.

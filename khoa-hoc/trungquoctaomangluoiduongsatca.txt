@@ -1,0 +1,21 @@
+Trung Quốc vừa có bước tiến lớn trong công nghệ truyền dữ liệu khi hoàn thành mạng máy tính siêu tốc mang tên Môi trường Đổi mới Mạng lưới Trung Quốc (CENI), Interesting Engineeringhôm 6/1 đưa tin.
+Mạng lưới công nghệ cao này dự kiến giúp thúc đẩy trí tuệ nhân tạo (AI) phát triển và thay đổi hoàn toàn cách hoạt động của dịch vụ dữ liệu Trung Quốc.
+Các chuyên gia so sánh dịch vụ Internet do CENI cung cấp giống như "đường sắt cao tốc cho máy tính".
+Điều này nhấn mạnh khả năng truyền dữ liệu nhanh chóng, hiệu quả và đáng tin cậy của mạng lưới mới.
+Nó cũng được giới thiệu là có chi phí hợp lý, hiệu quả cao và mức tiêu thụ năng lượng thấp.
+CENI kết nối các thành phố lớn của 13 tỉnh, sử dụng cách tiếp cận kiến trúc mới kết hợp tốc độ nhanh của truyền tin quang học với tính ổn định của mạng quyết định.
+Nhờ đó, mạng lưới mới không xảy ra tình trạng mất gói dữ liệu, độ trễ cực thấp và ổn định, bất kể lưu lượng truy cập.
+"CENI không bị mất gói dữ liệu, có độ trễ dao động dưới 20 micro giây, ngay cả khi tải mạng đầy, trải rộng trên 13 tỉnh, 13.000 km và có thể xử lý 10.000 dịch vụ mạng quyết định", Liu Yunjie, nhà khoa học đứng đầu Phòng thí nghiệm Núi Tử Kim, thành viên của Viện Hàn lâm Kỹ thuật Trung Quốc, nói.
+Theo Tao Gaofeng, phó tổng giám đốc tập đoàn Jiangsu Future Network, CENI có tiềm năng cải thiện đáng kể độ chính xác và khoảng cách truyền dữ liệu.
+Gaofeng nhấn mạnh rằng CENI có thể truyền dữ liệu đi hơn 2.000 km mà không mất dữ liệu hay cần bộ khuếch đại tín hiệu trung gian.
+"Mạng lưới đảm bảo truyền tải chính xác và đúng giờ, ngay cả trong tình huống nghẽn mạng hoặc bị tấn công mạng", ông nói.
+Cáp quang chính của CENI hiện dài tới 34.000 km.
+Tuy nhiên, đây mới chỉ là khởi đầu vì mạng lưới dự kiến được mở rộng thêm 10.000 km.
+Một thử nghiệm ấn tượng đã cho thấy khả năng của mạng khi giúp điều khiển từ xa một phương tiện tự động trong một nhà máy cách đó 500 km.
+Quá trình này được thực hiện với độ chính xác đáng kinh ngạc, độ trễ dưới 20 micro giây và độ lệch vị trí chỉ vài cm.
+CENI đóng vai trò quan trọng trong việc thúc đẩy những công nghệ then chốt và hỗ trợ các chiến lược phát triển quốc gia tại Trung Quốc.
+Mạng lưới sẽ tạo điều kiện cho việc truyền tải nhanh những tập dữ liệu lớn để huấn luyện mô hình AI.
+Nó cũng sẽ cho phép truyền dữ liệu hiệu quả từ khu vực phía đông đến các trung tâm dữ liệu phía tây bằng năng lượng tái tạo.
+Với CENI, Trung Quốc dự định xây các trung tâm dữ liệu lớn ở miền tây.
+Nguyên nhân là phía tây có nguồn năng lượng tái tạo dồi dào.
+Các trung tâm dữ liệu này sẽ chịu trách nhiệm lưu trữ và xử lý lượng dữ liệu khổng lồ được tạo ra ở khu vực phía đông dân cư hơn.

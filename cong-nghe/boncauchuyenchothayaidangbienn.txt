@@ -1,0 +1,31 @@
+Cơn sốtAI tạo sinhbắt đầu làm mưa làm gió từ cuối năm 2022, khi OpenAI ra mắtChatGPT.
+Kể từ đó, nó đã thay đổi đáng kể những nhiệm vụ được đánh giá nhàm chán như phát triển web, phân tích dữ liệu, nghiên cứu pháp lý và lập trình.
+"Trước đây, tất cả sức mạnh nằm sau một cánh cổng canh giữ bởi lập trình viên, những người được trả hàng trăm nghìn USD mỗi năm.
+Bây giờ, mọi người đều có thể có khả năng này", Rahul Sonwalkar, nhà sáng lập Julius AI, startup sử dụng các mô hình AI để tự động hóa phân tích dữ liệu, cho hay.
+Không chỉ startup, những doanh nghiệp lớn cũng đang hưởng lợi từ AI tạo sinh.
+Lãnh đạo một quỹ đầu tư Mỹ tiết lộ ông đã sử dụng ChatGPT để nghiên cứu vấn đề pháp lý.
+Chatbot của OpenAI giúp ông hiểu nhiều thông tin cơ bản, như các luật và quy định liên quan.
+Khi làm việc với công ty luật, ông có thể bỏ qua những phần cơ bản và đi thẳng vào trọng tâm.
+Điều này rất quan trọng vì chi phí luật sư tại Mỹ có thể dao động 500-1.000 USD mỗi giờ.
+Tìm hiểu trước với sự hỗ trợ từ ChatGPT đã giúp quỹ đầu tư tiết kiệm 50.000-70.000 USD chi phí pháp lý và 60-80 giờ làm việc trong vòng hai tháng.
+Trí tuệ nhân tạo đang thay đổi cách Google tạo sản phẩm.
+Một nhân viên Google với thâm niên hơn 10 năm tiết lộ anh đang viết lượng code phần mềm nhiều gấp 20 lần so với trước nhờ AI tạo sinh.
+Quá trình bắt đầu theo cách bình thường với một đoạn code gốc, sau đó AI tự động hoàn thành đa số phần còn lại.
+AI đôi khi hiểu nhầm mục đích của code gốc và đi sai hướng phát triển.
+Vì thế, lập trình viên vẫn cần kỹ năng để phát hiện những lỗi này, nhưng giai đoạn sửa lỗi khá đơn giản.
+Họ chỉ cần tìm lại code gốc và bổ sung một chút vào phần code tự viết, hệ thống sẽ điều chỉnh và hoàn thành nhiệm vụ chính xác.
+Marten Abrahamsen, CFO Vercel, không phải lập trình viên, nhưng đã khai thác lợi ích của AI tạo sinh để biến nhiệm vụ kỹ thuật trở nên dễ tiếp cận hơn.
+Ông lấy ví dụ về AI mang tên v0 của Vercel, trong đó cho phép người dùng nhập yêu cầu bằng tiếng Anh và nhận được mã nguồn cùng kết quả đầu ra là một trang web hoàn chỉnh trong vòng hai phút.
+"Tôi không biết lập trình phức tạp, nhưng tôi có thể gõ lệnh bằng tiếng Anh và v0 sẽ tạo ra thứ tôi muốn.
+Điều này biến tôi thành một lập trình viên không chuyên", Abrahamsen nói.
+Abrahamsen cho biết công cụ giúp các ý tưởng của ông được trình bày nhanh và hiệu quả hơn đến chuyên viên kỹ thuật.
+Mục tiêu của Vercel là sử dụng AI tạo sinh để tăng "tốc độ lặp lại", tự động hóa nhiều phần kỹ thuật phức tạp, giúp lập trình viên dành nhiều thời gian hơn cho phần sáng tạo.
+"Các nhà đầu tư và Vercel đều rất lạc quan về khả năng của AI trong việc nâng cao năng suất của lập trình viên", ông nói.
+Julius AI cũng đang áp dụng cách tiếp cận tương tự để tự động hóa nhiệm vụ phân tích dữ liệu.
+Công cụ này đang được các nhà khoa học, nhân viên marketing và cả những người không chuyên sử dụng để xử lý thông tin từ khối dữ liệu khổng lồ.
+Julius AI có thể tiếp nhận dữ liệu dưới nhiều dạng, như bảng Excel, tệp PDF hoặc thông qua API và cơ sở dữ liệu.
+Người dùng có thể cung cấp chúng qua một cửa sổ mở, sau đó đặt câu hỏi bằng tiếng Anh, AI sẽ phát hiện tương quan trong dữ liệu và cung cấp thông tin chi tiết sau vài giây, với kết quả dưới dạng biểu đồ hoặc văn bản.
+Nó tự động tạo ra code phần mềm cần thiết để thực hiện tác vụ và cho phép tái sử dụng code đó trong những dự án khác.
+"Julius AI hiện có khoảng hai triệu người dùng và đã tạo ra hơn 7 triệu kết quả trực quan hóa dữ liệu", nhà sáng lập Rahul Sonwalkar nói và cho biết công cụ này viết khoảng hai triệu dòng code mỗi ngày.
+"Bình thường cần cả đội quân lập trình viên mới làm được điều đó.
+Một kỹ sư giỏi có thể viết khoảng 1.000 dòng code trong một ngày làm việc hết năng suất".

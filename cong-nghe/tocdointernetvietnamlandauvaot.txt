@@ -1,0 +1,16 @@
+Thống kê do Ookla Speedtest công bố cho thấy tốc độ tải xuống của mạng Internet di động tại Việt Nam tháng 12/2024 đạt 86, 96 Mbps, cao nhất từ trước đến nay và cao hơn 60% so với tháng 9/2024.
+Kết quả này giúp Việt Nam tăng 7 bậc so với tháng trước đó trên bảng xếp hạng của Ookla, lên vị trí 37 trên toàn cầu.
+Đây cũng là lần đầu cả hai hạng mục mạng di động và cố định của Việt Nam nằm trong top 40.
+Hồi tháng 6/2024, Internet cố định từng vào danh sách này với tốc độ 136 Mbps.
+Số liệu mới của Ookla cho thấy tốc độ này hiện đã lên 159, 32 Mbps và đứng thứ 35 toàn cầu.
+Còn theo số liệu của Trung tâm Internet Việt Nam VNNIC, tốc độ Internet di động là 67, 85 Mbps, trong khi Internet cố định là 130, 91 Mbps.
+Dù tăng trưởng, Internet di động vẫn chênh lệch lớn giữa đường xuống và đường lên.
+Tốc độ upload trung bình ghi nhận ở cả hai công cụ của VNNIC và Ookla đều khoảng 25 Mbps.
+Ba tháng cuối năm cũng là giai đoạn các nhà mạng trong nước triển khai thương mại hóa 5G, đưa tốc độ Internet di động liên tục tăng.
+Trong thông tin đưa ra giữa tháng 12, Viettel cho biết có khoảng 70% thuê bao trong vùng phủ sóng 5G đã sử dụng kết nối thế hệ mới, tương đương 4 triệu người dùng.
+VNPT công bố thương mại hóa mạng 5G vào ngày 20/12, trên băng tần 3.700-3.800 Mhz.
+Nhiều người đo bằng ứng dụng Speedtest cho thấy tốc độ có thể đạt 1, 5-1, 9 Gbps, hơn 10 lần mạng 4G.
+Theo Chiến lược hạ tầng số được Chính phủ phê duyệt tháng 10/2024, Việt Nam đặt mục tiêu năm 2025, 100% các tỉnh, thành phố, các khu công nghệ cao, khu công nghệ thông tin tập trung, trung tâm nghiên cứu phát triển, đổi mới sáng tạo, khu công nghiệp, nhà ga/cảng biển/sân bay quốc tế có dịch vụ di động 5G.
+Đến năm 2030, mạng băng rộng di động5Gphủ sóng 99% dân số.
+Tính trên toàn bộ các thị trường mà hãng nghiên cứu Ookla theo dõi, tốc độ tải xuống trung bình của Internet di động là 62, 79 Mbps, cố định là 96, 45, đều thấp hơn của Việt Nam.
+Ở hai hạng mục này, dẫn đầu lần lượt là UAE với tốc độ di động 453, 87, trong khi Singapore dẫn đầu Internet cố định với 330, 98 Mbps.

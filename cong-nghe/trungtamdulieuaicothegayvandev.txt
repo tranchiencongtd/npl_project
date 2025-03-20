@@ -1,0 +1,15 @@
+Thống kê từBloombergcho thấy, trong phạm vi 80 km từ các trung tâm dữ liệu chuyên về trí tuệ nhân tạo, chất lượng điện giảm sút đáng kể, ảnh hưởng đến gần 3, 7 triệu người.
+Chất lượng điện kém cũng làm giảm tuổi thọ của thiết bị điện, nguy cơ gây hỏng hóc, quá nhiệt và cháy nổ.
+Dữ liệu được thu thập thông qua Ting của Whisker Labs - cảm biến thông minh giám sát chất lượng điện tổng thể trong nhà và ngăn ngừa cháy nổ.
+Cảm biến cung cấp cho Whisker Labs thông tin đánh giá chất lượng điện trung bình trong khu vực.
+Bob Marshall, CEO Whisker Labs, cho biết: "Sóng hài harmonics là dấu hiệu sớm cho thấy áp lực và vấn đề của hệ thống điện".
+Tình trạng này được so sánh với tiếng rè khi loa bị đẩy quá giới hạn hoặc như rác trên đường gây cản trở giao thông.
+Kỹ sư cao cấp Hasala Dharmawardena thuộc Tổ chức Độ tin cậy điện Bắc Mỹ cũng đưa ra nhận định tương tự.
+Sóng hài là dạng sóng nhiễu không mong muốn, gây ảnh hưởng tiêu cực đến chất lượng điện năng, xuất hiện khi sử dụng tải phi tuyến tính (như biến tần, bộ chuyển điện thế, UPS...) có tác dụng xấu đến thiết bị và máy móc.
+Tuy nhiên, một số nhà cung cấp tại khu vực bị ảnh hưởng phủ nhận tuyên bố trên.
+John Schoen, phát ngôn viên của Commonwealth Edison, công ty cung cấp điện cho khu vực Chicago, bày tỏ sự nghi ngờ về độ chính xác và giả định của Whisker Labs: "Thiết bị Ting được lắp trong nhà, không đo trực tiếp harmonics trên lưới điện".
+Nhà cung cấp điện Virginia Dominion Energy cũng nói chưa ghi nhận mức độ suy giảm chất lượng điện như báo cáo của Whisker Labs và khẳng định đo lường của họ vẫn trong tiêu chuẩn ngành.
+Công ty cho biết có một vài trường hợp gián đoạn cao hơn bình thường do cấu hình thiết bị bất thường, hoặc do sử dụng thiết bị mới, nhưng đã được khắc phục ngay lập tức.
+TheoTom's Hardware, các công ty điện vẫn cần nghiên cứu dữ liệu của Whisker Labs.
+Nếu hàng trăm ngôi nhà gặp vấn đề có thể do cơ sở hạ tầng.
+Nhưng nếu hàng triệu người bị ảnh hưởng, đây có thể là vấn đề của hệ thống điện lưới, cần giải quyết trước khi quá muộn.

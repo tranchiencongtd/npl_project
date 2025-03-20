@@ -1,0 +1,43 @@
+Nguyễn Quốc Khang, 22 tuổi, tốt nghiệp loại giỏi ngành Công nghệ thông tin của trường Đại học FPT, hồi tháng 6.
+Với suất học bổng toàn phần, tương đương 2, 5 tỷ đồng, Khang sẽ theo đuổi chương trình kết hợp thạc sĩ - tiến sĩ ngành Kỹ thuật máy tính tại Đại học Hàn Quốc (Korea University), trong 5 năm.
+Đây là đại học tư lớn nhất, cũng trong nhóm SKY - top 3 trường danh tiếng của Hàn Quốc.
+Theo xếp hạng đại họcQS 2025, trường ở vị trí 67 thế giới, top 13 châu Á.
+"Nhận được mail báo đỗ, mình bất ngờ lắm", anh Khang nói.
+Ngoài ra, Khang còn đỗ Đại học Sungkyunkwan (Hàn Quốc) và Đại học Công nghệ Nanyang (Singapore).
+Anh Quách Luyl Đa, giảng viên trường Đại học FPT, nói nhìn thấy đam mê và tố chất ở học trò từ sớm.
+"Bạn ấy theo tôi từ năm thứ hai đại học.
+Khi tôi nêu vấn đề, Khang chịu khó học hỏi và tranh luận để đưa ra hướng giải quyết", thầy nói.
+Thầy Đa cho hay đam mê nghiên cứu về nông nghiệp ở đồng bằng sông Cửu Long nói chung và cây lúa nói riêng.
+Vì thế, hai thầy trò bắt đầu với lĩnh vực này.
+Nhiệm vụ của Khang trong các nghiên cứu là lên ý tưởng, xử lý số liệu, lập trình và viết báo cáo.
+Khang cho biết mơ ước du học từ những năm cấp ba, nhưng tới khi vào đại học, có cơ hội làm nghiên cứu, anh mới nhận ra đây là con đường để tìm học bổng sau đại học.
+Anh bén duyên với lĩnh vực này khi được bạn bè rủ tham gia cuộc thi nghiên cứu ở trường, giành giải nhì với website nhận diện bệnh trên lá lúa.
+Khang đã ứng dụng trí tuệ nhân tạo (AI) để nhận diện bệnh dựa trên dữ liệu của Viện lúa đồng bằng sông Cửu Long.
+Cũng với đề tài này, Khang hoàn thành bài báo đầu tiên, được đăng trên tạp chí Q3.
+Năm thứ ba, Khang tiếp tục giành giải nhì, với website phát hiện bệnh trên cà chua.
+Người dùng nhập ảnh, video lên web, AI sẽ đếm số cà chua xuất hiện và xác định tình trạng (cũ, mới, hỏng, chín hay chưa chín).
+Chàng trai Cần Thơ nói đó là năm bùng nổ của bản thân khi có hai bài báo được xuất bản trên Q1 (nhóm 25% tạp chí tốt nhất), ba bài trên Q2 và nhiều lần dự hội nghị quốc tế tại Thái Lan, Việt Nam.
+Hai bài anh tâm đắc nhất trên Q1 đều liên quan đến hệ thống kiểm tra cà chua nhằm hỗ trợ nông nghiệp thông minh.
+Ngoài ra, nghiên cứu còn kết hợp trí tuệ nhân tạo có thể giải thích (Explainable AI) trong mô hình kết hợp YOLOv8 và đánh giá các mô hình MobileNet với thuật toán SORT để phát hiện, phân loại và đếm cà chua trong video.
+Hệ thống này hướng đến cải thiện hiệu quả kiểm tra sức khỏe cây trồng, đồng thời đảm bảo tính minh bạch và đáng tin cậy của các mô hình AI.
+Tổng cộng, Khang có 7 công bố quốc tế.
+Cuối tháng trước, Khang và thầy giáo được Cục Sở hữu Trí tuệ cấp bằng sáng chế Hệ thống và phương pháp kích hoạt chip Sinh học tích hợp trí tuệ nhân tạo định lượng nhanh mật độ số mầm bệnh ngoài đồng.
+Hệ thống nhúng này có khả năng chụp, xử lý ảnh tại chỗ và sử dụng AI để chẩn đoán mức độ bệnh trên ảnh đã chụp.
+"Mục tiêu của đề tài nhằm giúp nông dân chẩn đoán bệnh nhanh và chính xác.
+Việc kết quả chẩn đoán bệnh được chia thành các thang cụ thể, giúp tối ưu hóa lượng thuốc trừ sâu trên cánh đồng", Khang giải thích.
+Theo Khang, những ngày đầu làm nghiên cứu, anh gặp khó khăn ở mọi khâu, vì đều là kiến thức mới.
+Chuyên ngành là Kỹ thuật phần mềm nên khi làm nghiên cứu có ứng dụng AI, Khang phải dành một tháng để tự học; trong quá trình làm cũng trau dồi thêm nhiều kiến thức mới.
+"Trước khi viết, mình đọc 10 bài báo tiếng Anh gần với đề tài đang nghiên cứu xem gồm những phần gì, viết như thế nào và trình bày ra sao", anh kể.
+"Bài viết trên Q1 thường phải đọc mất một tiếng mới hiểu".
+Những lúc nản vì làm đi làm lại nhiều mà không có kết quả, Khang sẽ trao đổi với thầy và thử lại để xem có khắc phục được không.
+Anh cũng tìm hiểu lại thông tin và xem các bài báo từng gặp vấn đề tương tự để khắc phục.
+Khang bắt đầu chuẩn bị hồ sơ du học từ khoảng tháng 2-3 năm ngoái, cùng thời gian làm đồ án tốt nghiệp.
+Trở ngại lớn nhất với Khang là chứng chỉ tiếng Anh.
+Khang có thể Đọc và Viết khá tốt, nhưng đuối ở phần Nghe và Nói.
+Lịch học và nghiên cứu dày đặc khiến anh phải tranh thủ học IELTS từ 19h hoặc 21h hàng ngày.
+Sau ba tháng, Khang thi đạt 6.0, đủ điều kiện nộp.
+Quá trình ứng tuyển vào Đại học Hàn Quốc gồm hai vòng: Phỏng vấn với giáo sư và hồ sơ.
+Đề xuất nghiên cứu của Khang về chẩn đoán ung thư bằng AI, cùng hướng nghiên cứu ở phòng thí nghiệm của giáo sư.
+Những kinh nghiệm và thành tích nghiên cứu trước đó đã giúp Khang được nhận vào trường.
+Khang sẽ sang Hàn Quốc vào tháng 3 tới.
+Chàng trai 22 tuổi đặt mục tiêu trở thành nhà nghiên cứu chuyên nghiệp sau khi tốt nghiệp.

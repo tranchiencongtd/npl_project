@@ -1,0 +1,13 @@
+Việc phát hành Qwen 2.5-Max được đánh giá bất thường khi vào ngày mùng 1 của Tết Nguyên đán, thời gian hầu hết người Trung Quốc nghỉ làm và ở bên gia đình.
+Động thái cho thấy sự nổi tiếng bất ngờ của công ty khởi nghiệpAITrung QuốcDeepSeektuần qua không chỉ gây áp lực lên các hãng công nghệ nước ngoài mà còn lên cả đối thủ cạnh tranh trong nước, theoReuters.
+"Qwen 2.5-Max vượt trội ...
+hầu hết mô hình khác nhưGPT-4o, DeepSeek-V3 và Llama-3.1-405B", bộ phận phát triển điện toán đám mây của Alibaba ra thông báo, đề cập đến các mô hình AI nguồn mở tiên tiến nhất củaOpenAI, Metavà công ty đồng hương.
+Gã khổng lồ công nghệ Trung Quốc giới thiệu Qwen2.5-Max hơn DeepSeek V3 trong nhiều tiêu chuẩn khác nhau, bao gồm Arena-Hard, LiveBench, LiveCodeBench và GPQA-Diamond.
+Nó cũng cho thấy hiệu suất mạnh mẽ trong các đánh giá như MMLU-Pro.
+Alibaba cho biết mô hình hiện được tích hợp trong Qwen Chat và người dùng có thể trò chuyện trực tiếp hoặc tương tác với các vật thể, tìm kiếm thông tin...
+DeepSeek chưa bình luận về những thông tin so sánh của Alibaba.
+Việc trợ lý AI DeepSeek phát hành ngày 10/1 sử dụng mô hình DeepSeek-V3 cũng như phiên bản R1 ngày 20/1 đã gây chấn động Thung lũng Silicon, cổ phiếu nhiều hãng công nghệ đồng loạt lao dốc.
+Chi phí thấp và thời gian phát triển ngắn của AI Trung Quốc khiến các nhà đầu tư đặt dấu hỏi về kế hoạch chi tiêu khổng lồ của các công ty hàng đầu tại Mỹ.
+Thành công của DeepSeek gây lo ngại với nhiều công ty Mỹ nhưng cũng dẫn đến cuộc chạy đua giữa các đối thủ trong nước.
+Hai ngày sau khi DeepSeek-R1 ra mắt, ByteDance, công ty mẹ của TikTok, ra bản cập nhật mô hình Doubao-1.5-pro, tuyên bố vượt OpenAI o1 trong AIME, một bài kiểm tra chuẩn đánh giá mức độ hiểu và phản hồi của mô hình AI với các hướng dẫn phức tạp, theoReuters.
+Các công ty Trung Quốc khác đã công bố mô hình lý luận chỉ riêng đầu tháng 1, gồm Moonshot AI, Minimax và iFlyTek.

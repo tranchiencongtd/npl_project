@@ -1,0 +1,19 @@
+"Roy" Lee, sinh viên 21 tuổi, ngành Khoa học máy tính của Đại học Columbia, đã gây chú ý khi tiết lộ điều này trên nền tảng X (trước đây là Twitter) hồi đầu tháng.
+Theo đó, Interview Coder, công cụ AI do Lee phát triển, chuyên giải các bài toán mã hóa tương tự LeetCode, nền tảng phổ biến trong các buổi phỏng vấn kỹ thuật của các công ty công nghệ.
+Công cụ này có thể hiểu cả câu hỏi dạng văn bản lẫn lời nói, sau đó tự động viết mã, tối ưu mã và cung cấp giải thích chi tiết để ứng viên đọc lại như thể chính họ nghĩ ra.
+Đặc biệt, Interview Coder được quảng cáo là "miễn nhiễm" với các hệ thống phát hiện màn hình trên Zoom hay Google Meet, thậm chí "không thể bị phát hiện qua webcam".
+Lee cho hay phát triển công cụ này trong chưa đầy một tuần, lấy cảm hứng từ trải nghiệm "khốn khổ" sau 600 giờ cày LeetCode với ước mơ vào công ty công nghệ lớn, nhưng cuối cùng suýt bỏ lập trình vì quá ghét nó.
+Để chứng minh hiệu quả của Interview Coder, Lee quay lại cảnh mình vượt qua buổi phỏng vấn của Amazon và đăng lên YouTube, nhưng video sau đó bị gỡ.
+Các công ty cũng rút lại lời mời thực tập với Lee, còn Đại học Columbia được cho là xem xét kỷ luật nam sinh.
+Lee thừa nhận anh không nhắm đến công việc mà chỉ muốn chứng minh LeetCode dễ bị "qua mặt", buộc các công ty phải tìm một phương thức tuyển dụng công bằng và hiệu quả hơn.
+Nhiều lập trình viên đồng tình, cho rằng các bài phỏng vấn thuật toán hiện tại quá xa rời thực tế công việc.
+Các bài đăng trên mạng xã hội của Lee tràn ngập sự đồng cảm từ những lập trình viên khác trong khi một số người thích thú với việc anh chàng này "chơi khăm các ông lớn công nghệ".
+"Với tư cách là người phỏng vấn, tôi rất khó chịu với cậu ta, nhưng với tư cách là một ứng viên, tôi lại vô cùng ngưỡng mộ", Yangshun Tay, người từng là kỹ sư tại Meta, viết trên LinkedIn.
+Cuối năm 2022, làn sóng AI tạo sinh bùng nổ với sự ra mắt của ChatGPT.
+Các chuyên gia cho biết, các công cụ gian lận bằng AI đã cải tiến đến mức gần như không thể phát hiện trong năm qua.
+Trước thực trạng này, nhiều công ty công nghệ xem xét điều chỉnh quy trình tuyển nhân sự.
+Chẳng hạn, Google cân nhắc quay lại hình thức phỏng vấn trực tiếp.
+Một công ty công nghệ khác là Studio.init làm tương tự, sau khi phát hiện hơn 50% ứng viên gian lận bằng AI trong một vòng tuyển dụng.
+Còn Deloitte, một trong bốn công ty kiểm toán lớn nhất thế giới, đã khôi phục các buổi phỏng vấn trực tiếp.
+Amazon yêu cầu ứng viên cam kết không dùng công cụ trái phép trong quá trình phỏng vấn.
+"Amazon cũng đang thực hiện các bước để chống lại gian lận bằng AI", người phát ngôn công ty này, nói.

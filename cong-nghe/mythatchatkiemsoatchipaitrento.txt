@@ -1,0 +1,24 @@
+Được công bố cuối ngày 12/1 - một tuần trước khi Tổng thống Joe Biden mãn nhiệm, quy định mới sẽ hạn chế số lượng chip AI có thể xuất khẩu sang hầu hết quốc gia, nhưng vẫn cho phép các đồng minh thân cận nhất của Mỹ tiếp cận không giới hạn công nghệ AI.
+"Mỹ hiện dẫn đầu cả về phát triển và thiết kế chip AI, và điều quan trọng là chúng ta phải duy trì vị trí này", Bộ trưởng Thương mại Mỹ Gina Raimondo cho biết.
+TheoReuters, so với trước, quy tắc mới không chỉ áp dụng cho Trung Quốc, mà còn nhằm giúp Mỹ duy trì vị thế thống trị về trí tuệ nhân tạo bằng cách kiểm soát lĩnh vực này ở quy mô toàn thế giới.
+Nó cũng sẽ "đóng" các lỗ hổng và bổ sung rào cản mới để kiểm soát dòng chip và sự phát triển AI toàn cầu.
+Hiện chưa rõ các điều khoản sẽ được chính quyền Tổng thống đắc cử Donald Trump thực thi thế nào.
+Hai chính quyền này có chung quan điểm về mối đe dọa cạnh tranh công nghệ từ Trung Quốc.
+Quy định mới sẽ có hiệu lực sau 120 ngày kể từ khi công bố, giúp chính quyền Trump có thêm thời gian cân nhắc.
+Một số điều khoản trong đó đặt ra giới hạn về chip đồ họa (GPU) tiên tiến dùng để huấn luyện mô hình AI và trung tâm dữ liệu.
+Nvidia, công ty thống trị ở lĩnh vực chip AI, đã nhanh chóng phản ứng sau khi quy định được công bố.
+"Trong những ngày cuối tại nhiệm, chính quyền Biden tìm cách làm suy yếu vị thế lãnh đạo của Mỹ bằng một mớ hỗn độn quy định dài hơn 200 trang, được soạn bí mật và không có sự xem xét hợp lý của cơ quan lập pháp", Nvidia viết trên blog ngày 13/1.
+"Tiến trình phát triển AI toàn cầu đang bị đe dọa".
+Cũng theo Nvidia, chính quyền Biden dường như đang cố gắng thao túng kết quả thị trường và kìm hãm sự cạnh tranh - mạch sống của đổi mới.
+"Quy định đang làm lãng phí lợi thế công nghệ, điều mà Mỹ khó khăn lắm mới giành được", theo Nvidia.
+TheoTom's Harware, phản ứng của Nvidia dễ hiểu, khi các quy tắc có thể gây bất lợi cho công ty này nhiều nhất.
+Điều khoản hiện phân ra ba nhóm có thể mua GPU tiên tiến, gồm: Người dùng được xác minh toàn cầu (EVEU); Người dùng được xác minh theo quốc gia (NVEU); và Người được xác minh (VEU).
+EVEU chỉ những công ty đáp ứng yêu cầu về bảo mật của Mỹ và có trụ sở tại các quốc gia có mối liên hệ chặt chẽ với Mỹ.
+NVEU đáp ứng tiêu chuẩn bảo mật tương tự nhưng "không hoạt động ở các quốc gia đáng lo ngại".
+Như vậy, tùy thuộc vào quốc gia đang hoạt động, các công ty phải tuân theo giới hạn về số lượng "GPU tiên tiến" họ có thể mua.
+NVEU có thể mua không quá 320.000 "GPU tiên tiến" trong vòng hai năm.
+Các công ty không phải VEU phải chấp nhận giới hạn 50.000 GPU trở xuống cho mỗi quốc gia - mức mà Mỹ cho biết là "tồn tại để công nghệ Mỹ có sẵn cho các chính phủ, doanh nghiệp chăm sóc sức khỏe và thương mại địa phương".
+"Nvidiarõ ràng không thích quy định mới", Tom's Hardwarebình luận.
+"Họ có thể đang chờ đợi chính quyền mới sẽ xử lý tốt hơn".
+Trong bài viết trên blog, Nvidia nêu: "Như đã chứng minh ở nhiệm kỳ đầu của ông Trump, nước Mỹ chiến thắng thông qua đổi mới, cạnh tranh và chia sẻ công nghệ của mình với thế giới, không phải bằng cách rút sau 'bức tường' can thiệp quá mức của chính phủ.
+Chúng tôi mong muốn quay trở lại các chính sách củng cố vị thế lãnh đạo của Mỹ, thúc đẩy nền kinh tế và duy trì lợi thế cạnh tranh của chúng tôi trong AI và hơn thế nữa".

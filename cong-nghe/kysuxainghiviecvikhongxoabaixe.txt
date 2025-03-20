@@ -1,0 +1,25 @@
+TheoCoinTelegraph, ngày 12/2, Benjamin De Kraker bất ngờ tuyên bố nghỉ việc tại xAI sau 6 tháng làm trong nhóm Human Data Team, một trong các bộ phận đảm nhiệm xây dựng mô hình AI Grok của công ty.
+Quyết định của Kraker xuất phát từ một bài đăng trên X ngày 9/2.
+Khi đó, anh tự xếp hạng Grok 3, mô hình chưa ra mắt nhưng đã được nhắc đến trên website của xAI, ở vị trí sau OpenAI o1-pro, o1 và o1-mini, nhưng xếp trên Claude 3.5 Sonet của Anthropic, DeepSeek, OpenAI GPT-4o, Grok 2 của xAI và Gemini 2.0 Pro của Google.
+"Tôi đã xin nghỉ tại xAI tối nay", Kraker viết ngày 12/2.
+"xAI bảo tôi hoặc xóa bài đăng, hoặc sẽ bị đuổi việc.
+Nhưng sau khi xem xét mọi thứ, tôi quyết định không xóa, vì rõ ràng đây là ý kiến cá nhân và hoàn toàn vô hại".
+Cũng theo kỹ sư này, xAI muốn ông xóa bài đăng để tránh việc "thừa nhận Grok 3 tồn tại" vì là "thông tin bí mật".
+Tuy nhiên, anh dẫn một số bài viết từ xAI và Elon Musk trước ngày 9/2 đã đề cập đến mô hình này.
+"Tôi rất thất vọng khi một công ty, một nhà lãnh đạo được cho là ủng hộ quyền tự do ngôn luận lại cố gắng sa thải một nhân viên cấp thấp vì một ý kiến rõ ràng và không chứa bất kỳ điều gì gây tranh cãi", Kraker viết.
+"Tôi đã giữ lời nói và phẩm giá của mình bằng cách tìm một công việc khác".
+Thực tế, Musk đã quảng bá cho Grok 3 từ ngày 3/1 trên X.
+"Thật ngầu.
+Grok 3 sẽ sớm ra mắt.
+Quá trình đào tạo đã hoàn tất với khả năng tính toán cao hơn Grok 2 gấp 10 lần", tỷ phú Mỹ viết.
+Trên website xAI, mô hình này cũng được giới thiệu sơ lược.
+Bài đăng của Kraker hiện nhận hơn 2, 8 triệu lượt xem, chia thành hai luồng ý kiến.
+Một phần cho rằng những gì kỹ sư này đưa ra là vô hại, nhưng số khác lại đứng về phía xAI vì nhân viên không nên đề cập các sản phẩm chưa phát hành của công ty, dù dưới bất kỳ hình thức nào.
+xAI và Elon Musk chưa đưa ra bình luận.
+TheoTom's Hardware, Musk đang định vị xAI, thành lập tháng 7/2023, cạnh tranh trực tiếp với các công ty hàng đầu trong lĩnh vực trí tuệ nhân tạo.
+Cuối năm ngoái, ông đãhuy độnghơn 6 tỷ USD để nâng cấp siêu máy tính.
+Trước đó, xAI xây siêu máy tínhColossus, sử dụng 100.000 GPU Nvidia H100, và dự kiến mở rộng lên 200.000 GPU Nvidia thời gian tới, thậm chí tạo một hệ thống vớimột triệu GPU.
+xAI được đánh giá đang tiến bộ nhanh chóng vớiGrok.
+Mô hình AI này hiện hỗ trợ khách hàng dịch vụ Internet Starlink của SpaceX.
+xAI cũng đang khám phá khả năng hợp tác với Tesla cho mục đích nghiên cứu và phát triển.
+Công ty có doanh thu 100 triệu USD mỗi năm tính đến cuối năm ngoái, thấp hơn nhiều so với đối thủ như Anthropic và OpenAI, những công ty đang nhắm mục tiêu doanh thu hàng tỷ USD.

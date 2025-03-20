@@ -1,0 +1,42 @@
+CES 2025diễn ra từ ngày 7 đến 10/1 ở Las Vegas với sự góp mặt của hàng loạt công ty công nghệ lớn trên thế giới về phần mềm, phần cứng, giải pháp.
+Tại triển lãm điện tử tiêu dùng lớn nhất thế giới này, AI đang cho thấy sự chuyển mình từ một thuật ngữ thông dụng thành sản phẩm, thiết bị thực tế và cá nhân hóa nhiều hơn.
+Trí tuệ nhân tạo được ứng dụng và đem đến lợi ích cho TV, nhà thông minh, thay đổi cách tương tác với ôtô hay thiết bị đeo.
+Từ 2024, máy tính nói chung đã bắt đầu được định hình lại bằng AI với sự ra đời của Copilot PC, NPU có thể xử lý AI cục bộ ngay trên thiết bị, cũng như sự xuất hiện của nhà sản xuất CPU hoàn toàn mới là Qualcomm.
+CES 2025 được đánh giá sẽ thúc đẩy xu hướng này bùng nổ trong năm nay.
+Với Snapdragon X, Qualcomm bước đầu có thể thách thức AMD và Intel nhờ đặc tính nhỏ gọn, pin lâu.
+Ngoài ra, thị trường CPU thời gian tới có thể đón chào cái tên "lạ mà quen" Nvidia.
+Bên cạnh GPU RTX 50-series ra mắt tại CES 2025, công ty được cho là sẽ công bố CPU để cung cấp giải pháp tổng thể cho máy tính cá nhân tích hợp AI.
+Tại sự kiện này, Intel giới thiệu dòng chip mới thuộc thế hệ Arrow Lake, nâng cao khả năng xử lý, tối ưu hóa hiệu năng, đặc biệt trong các tác vụ AI.
+AMD cũng không kém cạnh với Ryzen 9000 cùng GPU RDNA 4.
+Trong khi đó, dòng GeForce RTX 50 được giới thiệu sẽ thiết lập chuẩn mới cho gaming và xử lý đồ họa chuyên sâu.
+Nhờ sự tiến bộ của vi xử lý, trào lưu máy tính mỏng nhẹ sẽ quay trở lại mạnh mẽ trong năm 2025, "làm sống lại" thị trường PC đang ảm đạm.
+Những mẫu máy từ Asus, Dell hay dòng LG Gram AI vẫn giữ được hiệu năng cao, pin lâu, thậm chí trang bị màn hình OLED độ phân giải cao.
+Các model này cũng sẽ có Wi-Fi 7 cùng loạt chuẩn kết nối mới như HDMI 2.2, PCIe 5.0.
+CES 2025 diễn ra trong bối cảnh ngành công nghệ ngày càng quan tâm đến Agentic AI (Tác nhân AI), được Nvidia mô tả là "biên giới tiếp theo của trí tuệ nhân tạo".
+Công nghệ này được coi là sự tiến hóa đầy tiềm năng, cho phép các hệ thống AI tự hoàn thành các nhiệm vụ với sự tương tác tối thiểu của con người.
+Ví dụ, Agentic AI có thể tự động ra quyết định dựa trên dữ liệu đầu vào, đồng thời thích ứng với hoàn cảnh thay đổi.
+Các hệ thống như vậy sẽ phân tích dữ liệu bệnh nhân để giúp bác sĩ đánh giá sáng suốt hơn, hoặc phân tích dữ liệu từ cảm biến để dự đoán tình trạng hao mòn trong hệ thống cơ học.
+Một ví dụ Agentic AI là Project Mariner của Google, hệ thống thông minh có khả năng tự điều hướng và vận hành nhiều dịch vụ web khác nhau.
+Gartner dự đoán đến năm 2028, Agentic AI có thể xử lý, đưa ra quyết định trong 15% công việc hàng ngày hoàn toàn tự động.
+TheoGuardian, OpenAI cũng đang có kế hoạch tung ra một Agentic AI có tên mã Operator trong tháng này.
+CònBloombergđưa tin Operator sẽ thực hiện các hành động thay người dùng, như viết mã, đặt vé du lịch.
+Tại CES 2025, TV chạy hệ điều hành Google có thêm tính năng mới là Gemini.
+Người dùng có thể sử dụng câu lệnh thoại để truy vấn thông tin, điều khiển bằng ngôn ngữ tự nhiên.
+TV khi đó có thể liệt kê những nội dung nên xem, làm bài tập về nhà, lên kế hoạch cho ngày nghỉ hay thiết lập lệnh tự động nhà thông minh.
+TCL và Hisense cho biết các sản phẩm mới chạy Google TV sẽ tích hợp micro và camera để TV tự động bật khi đến gần, cũng như cung cấp thông tin tùy chỉnh dựa trên thói quen.
+CES 2025 cũng trưng bày nhiều TV với công nghệ mới như dòng The Frame Pro của Samsung, LG OLED G5 tăng độ sáng đáng kể, tần số quét 165 Hz hay dòng MiniLED cỡ lớn của Hisense, TCL.
+Triển lãm điện tử tiêu dùng lớn nhất thế giới năm nay cũng đánh dấu lần đầu tiên các thiết bị nhà thông minh tìm được hướng đi chung với chuẩn Matter.
+Apple là hãng lớn đầu tiên tuyên bố các thiết bị tương thích Matter sẽ tự động được chứng nhận hoạt động với Apple HomeKit.
+Google, Amazon và nhiều hãng smarthome khác cho biết sẽ thực hiện điều tương tự trong năm 2025.
+Matter được đánh giá sẽ khắc phục điểm nghẽn của thị trường smarthome hiện tại, khi người dùng có thể thoải mái lựa chọn thiết bị yêu thích thay vì bắt buộc mua cùng một thương hiệu.
+Nhà sản xuất cũng tiết kiệm được chi phí khi không cần nghiên cứu, xin cấp chứng chỉ cho nhiều nền tảng smarthome khác nhau.
+Ngoài chuẩn chung, thiết bị nhà thông minh cũng có nhiều nâng cấp lớn như khóa thông minh sẽ đều trang bị khả năng nhận dạng khuôn mặt 3D, tự động học hỏi thói quen của người dùng, đảm bảo an ninh không cần các thao tác thủ công.
+Các hệ thống nhà thông minh tích hợp AI cũng đưa ra dự báo về thiết bị, tối ưu tiêu thụ điện năng, giảm chi phí vận hành.
+Ngành công nghiệp ôtô cũng chứng kiến những thay đổi đáng kể khi tích hợp AI và đại tu giao diện người dùng.
+LG giới thiệu AI In-Vehicle Experience với các ứng dụng mới của trí tuệ nhân tạo trong cabin xe thông qua giải pháp Vision AI.
+Đây là hệ thống kết hợp hai thành phần chính, gồm hệ thống giám sát người lái (Driver Monitoring System) và hệ thống giám sát người lái và nội thất (Driver and Interior Monitoring System).
+Công nghệ của LG cung cấp các tính năng như theo dõi sức khỏe thời gian thực thông qua nhịp tim và nhận dạng biểu cảm khuôn mặt.
+Hệ thống có thể đánh giá sự tỉnh táo của người lái hay cung cấp các dịch vụ như định tuyến, cập nhật tình trạng giao thông.
+BMW cũng giới thiệu màn hình Panoramic iDrive trải dài trên hầu hết chiều rộng táp lô, dự kiến ra mắt trên xe điện Neue Klasse sắp tới.
+Bằng cách chuyển thông tin của người lái xe sang màn hình hiển thị trên kính chắn gió và loại bỏ bộ điều khiển iDrive truyền thống, BMW đang giới thiệu cách tiếp cận mới đối với tương tác của người lái xe.
+Không chỉ là một khái niệm, giao diện mới này sẽ ra mắt trên iX3 thế hệ thứ hai vào cuối năm 2025 và xe i3 sedan vào năm 2026, trước khi mở rộng trên toàn bộ dòng sản phẩm của BMW.

@@ -1,0 +1,23 @@
+Thị trường chứng khoán Mỹ chứng kiến sự hoảng loạn vào ngày 27/1 khi các nhà đầu tư cho rằng mô hình AI giá siêu rẻ của DeepSeek sẽ làm giảm mạnh nhu cầu về GPU.
+Cổ phiếu Nvidia giảm gần 20%, thổi bay 600 tỷ USD vốn hóa của công ty.
+Tuy nhiên, Meta không chùn bước.
+Trong báo cáo tài chính ngày 29/1, CEOMark Zuckerbergtái khẳng định kế hoạch đầu tư hơn 60 tỷ USD riêng trong năm 2025 vào trí tuệ nhân tạo, chủ yếu cho việc xây dựng trung tâm dữ liệu.
+Về lâu dài, Meta sẽ chi "hàng trăm tỷ USD" cho hạ tầng AI.
+TheoFortune, trả lời câu hỏi của một nhà phân tích về tác động củaDeepSeek, Zuckerberg cho biết việc chi mạnh vào cơ sở hạ tầng AI tiếp tục là "lợi thế chiến lược" cho Meta.
+Họ coi DeepSeek là đối thủ cạnh tranh mới và đang học hỏi từ công ty Trung Quốc này, nhưng "còn quá sớm" để xác định liệu nhu cầu về chip có ngừng tăng hay không vì chúng rất quan trọng trong đào tạo AI.
+Zuckerberg cũng lưu ý rằng Meta đang có hàng tỷ người dùng.
+Mục tiêu của Meta là biến Llama 4 trở thành mô hình AI cạnh tranh nhất thế giới, kể cả khi so sánh với các mô hình đóng như ChatGPT.
+Sự ra đời củaAI tạo sinhnhư ChatGPT đã tạo ra cuộc chạy đua giữa các công ty công nghệ lớn như Meta, Microsoft và Google.
+Họ tin vào tầm quan trọng của việc sở hữu tài nguyên điện toán đắt đỏ để chạy các mô hình AI tiên tiến nhất.
+Giữa tháng 1, OpenAI, Oracle và SoftBank công bố kế hoạch đầu tư 500 tỷ USD trong bốn năm cho siêu dự án AI Stargate.
+Quan niệm đó hiện bị đặt dấu hỏi khi DeepSeek, công ty khởi nghiệp của Trung Quốc, phát hành các mô hình AI mới được đào tạo với chi phí chỉ bằng một phần nhỏ.
+Dù một số nhà quan sát trong ngành hoài nghi về tuyên bố của DeepSeek liên quan đến chi phí, khả năng của các mô hình AI này vẫn được đánh giá cao.
+Zuckerberg cho biết "đang tiếp thu" một số điều mới lạ DeepSeek đã làm và hy vọng sẽ áp dụng tiến bộ đó vào AI của Meta.
+Mô hình của DeepSeek cũng cho thấy quyết định của Meta khi biến công nghệ Llama thành nguồn mở là động thái đúng đắn.
+"Sẽ có một tiêu chuẩn mã nguồn mở trên toàn cầu và tôi nghĩ vì lợi ích quốc gia của chúng ta, điều quan trọng đó phải là tiêu chuẩn của Mỹ", Zuckerberg cho biết.
+"Những tin tức gần đây củng cố niềm tin của chúng tôi rằng đây là điều đúng đắn cần tập trung".
+Kết quả tài chính của Meta trong ba tháng cuối 2024 vượt qua kỳ vọng của các nhà phân tích, với doanh thu là 48, 4 tỷ USD, tăng 21% so với cùng kỳ năm ngoái, còn thu nhập ròng 20, 8 tỷ USD.
+DeepSeek đượcLiang Wenfengthành lập tháng 5/2023, đặt trụ sở ở Hàng Châu, Chiết Giang, và do quỹ đầu tư High-Flyer sở hữu.
+Công ty được High-Flyer tài trợ và không có kế hoạch huy động vốn, tập trung vào xây dựng công nghệ nền tảng.
+TheoChinaTalk, không giống các công tyAItại Trung Quốc, DeepSeek tuyên bố sứ mệnh "giải mã bí ẩn của siêu trí tuệ nhân tạo AGI bằng sự tò mò".
+Phòng thí nghiệm của công ty hiện tập trung nghiên cứu cải tiến về kiến trúc và thuật toán có khả năng thay đổi cuộc chơi trong lĩnh vực trí tuệ nhân tạo.

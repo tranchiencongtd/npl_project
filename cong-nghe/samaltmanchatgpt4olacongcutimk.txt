@@ -1,0 +1,13 @@
+Cuối tuần qua, Altmanchia sẻ trên X rằng bản cập nhật của mô hình ChatGPT 4o đã "trở nên tốt hơn nhiều".
+Aravind Srinivas, nhà sáng lập Perplexity, công ty khởi nghiệp AI tập trung vào tìm kiếm trực tuyến và từng làm tại OpenAI, hỏi dưới bài đăng: "Xin lỗi, cập nhật những gì vậy?".
+CEO OpenAI đáp: "Đó là sản phẩm tìm kiếm tốt nhất trên web", đồng thời gợi ý Srinivas "dùng thử".
+Srinivas cũng cho biết công ty ông vừa phát hành một công cụ nghiên cứu sâu và Altman khuyên Srinivas tiếp tục phát triển công cụ này.
+Mô hình 4o (o viết tắt của omni - toàn năng) được OpenAI phát hành lần đầu vào tháng 5/2024 và gây ấn tượng với người dùng về khả năng xử lý văn bản, âm thanh và hình ảnh.
+OpenAI đang quảng bá về "mô hình thông minh hơn" của 4o khi cung cấp "phản hồi phù hợp hơn, cập nhật và chính xác hơn về mặt ngữ cảnh, đặc biệt đối với các câu hỏi liên quan đến xu hướng văn hóa và xã hội".
+Tuy nhiên, hiện chưa rõ Altman đang nhắc đến bản cập nhật ChatGPT-4o hoàn toàn mới hay là phiên bản mà công ty đã đề cập vào ngày 29/1.
+Theo dữ liệu khảo sát của công ty phân tích Evercore cuối 2024, tỷ lệ người sử dụng ChatGPT để tìm kiếm trên mạng đang tăng lên, trong khi số người dùng Google Search suy giảm dù chưa đáng kể.
+Cụ thể, 5% số người được hỏi đã chọn ChatGPT để tìm thông tin trên mạng, trong khi hồi tháng 6 chỉ là 1%.
+Thế hệ "Millennials", những người sinh trong giai đoạn 1981-1996, chiếm phần lớn vào sự gia tăng.
+Google vẫn thống trị thị trường tìm kiếm nhưng tỷ lệ giảm dần, hiện ở mức 78% so với 80% hồi tháng 6.
+Mức tăng của ChatGPT tương đối nhỏ nhưng được coi là dấu hiệu cho thấy vị thế của Google ngày càng bị đe dọa bởiAI tạo sinh.
+Công nghệ này đang thay đổi phương thức truy cập thông tin trên mạng của hàng triệu người, đặt dấu hỏi về khả năng duy trì thế kiểm soát thị trường tìm kiếm của Google.

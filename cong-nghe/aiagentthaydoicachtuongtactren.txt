@@ -1,0 +1,65 @@
+"Tôi yêu cầu Operator, tác nhân AI mới của OpenAI, thực hiện một nhiệm vụ bất khả thi: tìm trứng giá rẻ ở khu phố tôi đang ở", Geoffrey A.
+Fowler, cây bút công nghệ kỳ cựu củaWashington Post, chia sẻ cuối tháng trước.
+Trong vòng 10 phút, Operator tự động đặt mua một tá trứng, trả tiền qua thẻ tín dụng của Fowler và yêu cầu giao đến trước cửa nhà.
+"Không thể tin được, khoa học viễn tưởng đang trở thành hiện thực.
+AI làm mọi thứ, nhưng tôi không yêu cầu nó mua trứng", Fowler nói.
+"Nó đã 'làm loạn' theo đúng nghĩa, khi tự truy cập và ủy quyền cho thẻ tín dụng mua hàng mà không có sự đồng ý của tôi, với 'thiệt hại' 31, 43 USD.
+Tôi hơi bối rối khi nhận ra việc AI tự quyết định thay con người đã khiến tôi mất tiền thật".
+Ra mắt hồi tháng 1, Operator là một trong nhữngTác nhân AIđầu tiên dành cho người dùng cá nhân với khả năng làm việc độc lập.
+Thay vì đơn thuần trả lời câu hỏi hoặc tạo hình ảnh như chatbot thông thường, chúng tiến ra thế giới thực bằng cách thực hiện các nhiệm vụ thay con người như đặt mua hàng tạp hóa, gửi tin nhắn hoặc đặt chỗ máy bay, tàu xe.
+Trước đó, công ty Anthropic giới thiệu phiên bản Computer Use thông qua API vào tháng 10/2024.
+Hai tháng sau, Google cho biết mô hình Gemini 2.0 "được thiết kế cho thời đại tác nhân".
+Hãng cũng công bố Project Mariner, AI Agent có thể duyệt web và thực hiện các hành động như click vào nút bấm hay điền biểu mẫu.
+Tại Trung Quốc, một AI Agent có tên Manus đanggây sốtnhờ khả năng tự ra quyết định và được ví như "khoảnh khắcDeepSeekthứ hai".
+Forbesgọi Manus là "tác nhân AI hoàn toàn tự động đầu tiên trên thế giới", với khả năng suy nghĩ, lập kế hoạch và thực hiện các nhiệm vụ một cách độc lập như con người.
+Trong khi các ứng dụng như ChatGPT, Gemini cần dựa vào lời nhắc để thực hiện tuần tự công việc, Manus không chờ hướng dẫn, mà được thiết kế để tự khởi tạo các nhiệm vụ, đánh giá thông tin và điều chỉnh cách tiếp cận một cách năng động.
+Trở lại với Operator, OpenAI hiện cung cấp AI này dưới dạng "bản xem trước" thông qua gói cước ChatGPT Pro giá 200 USD, nhưng đang lên kế hoạch đưa lên các gói dịch vụ khác thời gian tới.
+Chỉ cần ra lệnh, Tác nhân AI này sẽ truy cập vào website, di chuyển con trỏ như một "bóng ma" và thực hiện tác vụ.
+Đôi khi, nó có thể ngừng lại để đợi lệnh, nhưng hầu hết các bước đều tự thực hiện.
+Người dùng có thể sẽ chỉ cần ngồi xem AI đang làm gì.
+Theo OpenAI, Operator tích hợp mô hình mới Computer-Using Agent (CUA).
+Kết hợp khả năng thị giác của GPT-4o và khả năng suy luận nâng cao thông qua học tăng cường, CUA được đào tạo để tương tác với giao diện người dùng đồ họa (GUI) thông qua phím bấm, menu và văn bản mà mọi người nhìn thấy trên màn hình.
+Nếu gặp thử thách hoặc lỗi, Operator có thể tận dụng khả năng suy luận của mình để tự sửa lỗi.
+Khi cần trợ giúp, nó sẽ thông báo "trao" lại quyền kiểm soát cho người dùng, giúp đảm bảo trải nghiệm mượt và mang tính cộng tác.
+Cây bút Victoria Turk củaGuardianđã thử khả năng của Operator bằng cách cho phép nó mua hàng tạp hóa và nhận thấy nó "tốt hơn nhiều so với mong đợi".
+Ban đầu, khi ra lệnh, AI của OpenAI sẽ hỏi về cửa hàng hoặc thương hiệu yêu thích.
+Khi được đề xuất chỉ cần cửa hàng rẻ nhất, AI sẽ tự tìm kiếm, truy cập webiste, lọc sản phẩm theo giá và thêm vào giỏ hàng.
+"Operator không làm tôi bối rối trước những câu hỏi, thay vào đó sẽ đề xuất dựa trên sở thích.
+Ngoài sản phẩm yêu cầu mua, nó còn đề xuất thêm các món khác để kết hợp giúp tạo ra nhiều món ăn hơn", Turk cho biết.
+Operator cũng đề nghị "cân nhắc can thiệp" khi nhập tài khoản thanh toán, dù nó có thể "chiếm quyền" để đăng nhập tài khoản đã lưu.
+OpenAI cho biết Operator làm điều này là để tôn trọng quyền riêng tư và các thông tin nhạy cảm.
+Turk sau đó cũng yêu cầu Operator mua thêm cá và khoai tây chiên, đặt lịch làm móng, nhưng để nó chạy nền vì bà bận làm việc khác.
+Các thao tác được AI của OpenAI thực hiện trong chốc lát, gồm cả các khoản thanh toán trước.
+Tuy nhiên, do vẫn ở giai đoạn thử nghiệm, không phải lúc nào Operator cũng theo ý người dùng.
+Casey Newton củaPlatformercho biết đã thử đặt hàng ở cửa hàng tạp hóa Instacart.
+Ông mong đợi nó sẽ "hỏi" ông một số câu hỏi cơ bản như nơi sống, thường mua gì hay loại nào.
+AI này không hỏi điều gì, tự truy cập trình duyệt, mở website Instacart, tìm kiếm sữa ở Des Moines, Iowa thay vì nơi ông ở là San Francisco.
+Nó thậm chí nhập địa chỉ cửa hàng tạp hóa gần chỗ ông làm địa chỉ giao hàng.
+Ông buộc phải tự can thiệp để mua thứ mình muốn.
+"Trải nghiệm cho thấy một trong những thiếu sót chính của Operator: nó có thể thao tác trên trình duyệt web, nhưng không dùng web đã được bạn cá nhân hóa", Newton nói.
+Theo giới chuyên gia, hiện còn sớm để đánh giá AI Agent sẽ thay đổi cuộc sống của con người thế nào.
+Nhưng thông qua việc tương tác với trình duyệt và dịch vụ trực tuyến, nó sẽ sớm thay đổi cách một người tương tác trên Internet.
+"Trước đây bạn chỉ hỏi và AI đưa ra câu trả lời, còn bây giờ bạn đưa ra một vấn đề và AI sẽ giải quyết vấn đề đó với những thứ nó có quyền truy cập", Thomas Dohmke, CEO GitHub, giải thích trên blog.
+GitHub đã đưa Copilot dưới dạng AI Agent vào nền tảng của mình, nhưng cũng đang phát triển một sản phẩm với tính tự chủ cao hơn là Project Padawan, tự động thực hiện công việc theo lịch trình thay vì bị giám sát liên tục.
+Business Insiderdẫn lời chuyên gia dự đoán trong tương lai, người dùng không cần truy cập website để đọc tin tức, bởi AI Agent đã làm thay.
+Nó cũng đề xuất, quyết định và hành động với bất cứ vấn đề gì thực hiện qua Internet, đem lại cho con người một cuộc sống có tổ chức hơn.
+Hai nhà phân tích Internet hàng đầu Mark Shmulik và Nikhil Devnani của công ty nghiên cứu Bernstein hình dung trong tương lai khi gọi xe, người dùng không bận tâm truy cập vào Uber, Lift hay Waymo mà chỉ muốn tìm chuyến đi nhanh, rẻ và thoải mái nhất.
+Tác nhân AI sẽ giúp họ thực hiện điều này.
+Theo hai chuyên gia, website và ứng dụng không biến mất, nhưng sẽ phải chuyển sang trạng thái mới để tương thích AI Agent, hiện được gọi là "công cụ tổng hợp của tổng hợp nội dung".
+Kết quả là, phần lớn cấu trúc Internet hiện tại sẽ thay đổi thời gian tới.
+"Về lý thuyết, Tác nhân AI rất tuyệt vời vì tự động hóa rất nhiều công việc", nhà khoa học Gary Marcus, người hoài nghi về các mô hình ngôn ngữ lớn (LLM), nói vớiGuardian.
+"Nhưng tôi không nghĩ chúng sẽ hoạt động đáng tin cậy thời gian tới, và một phần do sự cường điệu liên quan đến chúng".
+Càng có nhiều tác nhân tự chủ, rủi ro chúng gây ra càng lớn.
+Margaret Mitchell, CEO Hugging Face, cho rằng "hoàn toàn tự chủ có nghĩa là quyền kiểm soát của con người được giao lại cho AI".
+Thay vì hoạt động trong ranh giới đã đặt ra, một tác nhân hoàn toàn có thể truy cập những thứ "nhạy cảm" mà chủ nhân của chúng không nhận ra, hoặc hành xử theo cách không ngờ tới, nhất là khi chúng có thể tự viết code để thay đổi cấu trúc lệnh.
+"Sẽ không có vấn đề lớn nếu AI Agent đặt sai đơn hàng, nhưng điều gì sẽ xảy ra nếu nó chia sẻ thông tin cá nhân của bạn với website lừa đảo, hay đăng nội dung khủng khiếp trên mạng xã hội dưới tên của bạn?", bà Mitchell đặt câu hỏi.
+"Với nơi làm việc như chính phủ, nó có nguy cơ gây ra tình huống đặc biệt nguy hiểm, như có thể truy cập vào hệ thống chỉ huy tên lửa".
+Mitchell khuyến cáo ngày càng nhiều thông tin có sẵn trên Internet không phải là ngôn ngữ của con người, mà là thông tin để Tác nhân AI có thể "hành động" trên đó.
+Bà kỳ vọng các chuyên gia công nghệ, nhà lập pháp và nhà hoạch định chính sách sớm đưa ra các quy định giảm thiểu những nguy cơ kể trên.
+Dohmke của GitHub cũng đồng tình với lo ngại này.
+Ông tin thời gian tới, trên các website, khái niệm "Trang chủ" sớm biến mất hoặc mất đi tầm quan trọng vì giao diện sẽ được thiết kế dành cho các AI Agent.
+Các thương hiệu có thể bắt đầu cạnh tranh để lôi kéo sự chú ý của AI là con người.
+"Một ngày nào đó, AI Agent sẽ thoát khỏi sự giới hạn của máy tính.
+Chúng ta có thể thấy chúng trên robot hình người, mở ra khả năng hỗ trợ con người dưới dạng vật lý", Dohmke nói.
+"Chúng ta sẽ thấy robot AI giặt quần áo, rửa bát đĩa và làm bữa sáng.
+Chỉ cần không cho chúng tiếp cận vũ khí".

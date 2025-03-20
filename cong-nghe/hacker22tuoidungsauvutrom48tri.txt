@@ -1,0 +1,27 @@
+Vụ hack xảy ra từ năm 2023 và thông tin về kẻ tấn công được Bộ Tư pháp Mỹ (DOJ) công bố ngày 3/2 trên website và tại tòa án liên bang ở New York.
+Nam thanh niên Medjedovic bị cáo buộc lợi dụng lỗ hổng của hai nền tảng tài chính phi tập trung (DeFi) là KyberSwap và Indexed Finance để chiếm đoạt số tiền khoảng 65 triệu USD.
+Trong đó, khoảnđánh cắptừ KyberSwap là 48, 4 triệu USD.
+Trần Huy Vũ, nhà đồng sáng lập và CEO của Kyber Network, cho biết hiện vẫn chưa thu hồi lại được toàn bộ tiền bị đánh cắp từ hacker.
+Tuy nhiên, nền tảng cũng đã chủ động hoàn thành việc đền bù cho toàn bộ người dùng ngày 2/2.
+Trước thời điểm bị tấn công, KyberSwap là một trong những nền tảng lớn về giao dịch phi tập trung, với khối lượng đạt tương đương 4, 4 tỷ USD, phục vụ hơn 900.000 người dùng toàn cầu.
+Sự cố diễn ra ngày 26/11/2023, được ví như "cuộc tấn côngphức tạp nhấttrong lịch sử DeFi" khi hacker khai thác lỗ hổng hiếm trong hợp đồng thông minh của KyberSwap và thực hiện nhiều lần để chiếm số tiền trên.
+KyberSwap vốn là nền tảng cho phép hoán đổi qua lại giữa các đồng tiền số, vì vậy cần dự trữ một lượng tiền số nhất định trong các "bể thanh khoản", được huy động từ người dùng.
+Họ cũng xây dựng cơ chế để khớp lệnh khi giá đưa ra phù hợp và có lợi cho người dùng nhất.
+Medjedovic đã tấn công với các bước chính: vay tiền từ các công cụ cho vay chớp nhoáng (flash loan); đưa số tiền này vào các nhóm thanh khoản có tên KyberSwap Elastic; thao túng giá và tạo các giao dịch hoán đổi được tính toán kỹ để khai thác lỗ hổng, khiến công cụ tính toán sai thanh khoản khả dụng.
+Từ đó, hacker có thể rút được nhiều hơn số tiền đã gửi vào.
+Theo cáo trạng, kế hoạch được Medjedovic vạch ra kỹ lưỡng từ trước, thậm chí cả việc nghiên cứu về giờ giấc của CEO và người dùng khu vực Mỹ, châu Âu, sau đó chọn ra khung giờ ít người hoạt động để dễ dàng thực hiện việc thao túng.
+Medjedovic cũng khai thác một lỗ hổng "làm tròn toán học" rất sâu trong hợp đồng thông minh của KyberSwap và tính toán giá trị giao dịch có thể khiến nền tảng trục trặc.
+Ví dụ công cụ giới hạn số token hoán đổi là 1.056.056.735.638.220.800.000.
+Hacker đặt lệnh hoán đổi 1.056.056.735.638.220.799.999 nằm trong giới hạn, nhưng việc làm tròn số đã khiến một số hàm hoạt động không chính xác như thiết lập ban đầu, tạo lỗ hổng để có thể khai thác.
+Cáo trạng cho biết Medjedovic đã thực hiện với 77 bể thanh khoản của KyberSwap và lấy đi số tiền 48, 4 triệu USD.
+Khoản này sau đó được phát hiện đưa lên một số sàn để hoán đổi nhiều lần, đưa qua máy trộn, nhằm xóa nguồn gốc.
+Ngoài ra, hacker từ Canada nhiều lần gửi thông điệpđòi kiểm soátcông ty nếu muốn trả lại một phần tiền.
+Do đó, Medjedovic bị cáo buộc thêm tội danh tống tiền, bên cạnh âm mưu rửa tiền và phá hoại trái phép hệ thống máy tính, với mức án có thể 10-20 năm tù cho mỗi tội danh.
+"Đây là vụ lừa đảo tinh vi, khai thác lỗ hổng trong hợp đồng thông minh dẫn đến việc đánh cắp hàng triệu USD tiền điện tử", đặc vụ phụ trách Chavis nhận định.
+DOJ cũng cho biết trong quá trình đưa tiền số vào "máy trộn", Medjedovic gặp sự cố và đã liên hệ với "một nhà phát triển phần mềm" để được hỗ trợ, nhưng thực tế đó là một điều tra viên đóng giả.
+"Ngay cả với sự phức tạp của DeFi, chúng tôi đã lần ra được kẻ chịu trách nhiệm cho vụ trộm quy mô lớn này và anh ta đang bị truy nã".
+Vụ tấn công cũng ảnh hưởng đến hoạt động của dự án blockchain Việt Nam.
+Trong năm 2024, họ phải tái cấu trúc, cắt giảm nhân sự và chi phí, tập trung vào các dịch vụ cốt lõi và thực hiện lời hứa hoàn tiền cho toàn bộ người dùng bị ảnh hưởng.
+"Chúng tôi muốn các công ty Việt Nam luôn giữ được uy tín với người dùng, đặc biệt khi tham gia thị trường toàn cầu", CEO Trần Huy Vũ nói.
+Ông cho biết việc tái cấu trúc cũng mang lại một số thay đổi tích cực.
+Năm 2024, cùng sự khởi sắc của thị trường tiền số, KyberSwap đạt khối lượng giao dịch khoảng 26, 7 tỷ USD, tăng trưởng gấp hơn sáu lần so với năm 2023, phục vụ 1, 9 triệu người dùng.

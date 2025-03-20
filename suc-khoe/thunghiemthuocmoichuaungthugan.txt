@@ -1,0 +1,23 @@
+Nghiên cứu do ĐH Khoa học Tokyo, đứng đầu là giáo sư Tanaka Shinji, thực hiện và công bố trên Tạp chíHepatologycủa Hiệp hội Bệnh Gan Mỹ.
+Thông qua thử nghiệm tiền lâm sàng, nghiên cứu cho thấy loại thuốc này phá vỡ "hàng rào ung thư", được tạo thành từ tế bào mạch máu và thuốc miễn dịch có thể tiêu diệt khối u.
+Nhóm nghiên cứu sẽ tiếp tục tìm hiểu sâu hơn, hướng đến thử nghiệm điều trị trên bệnh nhân.
+Hàng năm, khoảng 35.000 người được chẩn đoán mắcung thư ganvà 23.000 người tử vong vì căn bệnh này.
+Các phương pháp điều trị truyền thống gồm phẫu thuật, thuốc ngăn chặn hình thành mạch máu mới và thuốc miễn dịch.
+Tuy nhiên, hiệu quả của thuốc miễn dịch khác nhau tùy từng người, nhiều trường hợp gần như không có tác dụng.
+Khoảng 30% ca ung thư gan có cấu trúc đặc biệt, các tế bào mạch máu bao quanh mô ung thư như một hàng rào, làm tăng mức độ ác tính.
+Nhóm nghiên cứu phân tích cách thức hoạt động của gene trên khoảng 700 mẫu mô ung thư gan và 30.000 tế bào ung thư từ bệnh nhân trong và ngoài nước để tìm hiểu đặc điểm của ung thư ác tính.
+Nhóm nghiên cứu phát hiện nhiều trường hợp ung thư ác tính có bất thường ở gene "p53" và "MYC", họ tạo ra các đột biến này trên chuột để nghiên cứu.
+Kết quả cho thấy cấu trúc hàng rào do tế bào mạch máu giúp khối u trốn tránh sự tấn công của tế bào miễn dịch.
+Nhóm nghiên cứu cho rằng việc can thiệp bằng thuốc vào cơ chế này có thể mang lại hiệu quả điều trị.
+Từ đó, họ thử nghiệm trên chuột mang khối u ác tính.
+Kết quả, việc kết hợp "Lenvatinib" - một loại thuốc ngăn chặn hình thành mạch máu mới - với kháng thể kháng PD-1 (một loại thuốc miễn dịch) đã làm khối u nhỏ đi đáng kể.
+Trong khi đó, sử dụng riêng lẻ từng loại thuốc không hiệu quả ức chế sự phát triển của khối u.
+Hiện nay, các nhà khoa học trên thế giới tiến hành nhiều thử nghiệm lâm sàng tương tự, song nhắm vào cả ung thư ác tính và các loại ung thư khác.
+Trước đây, họ từng kết hợp các loại thuốc này nhưng không mang lại hiệu quả điều trị.
+Nhóm nghiên cứu của giáo sư Shinji tin rằng việc tiến hành thử nghiệm lâm sàng chỉ trên ung thư ác tính có thể cho thấy hiệu quả rõ rệt hơn.
+Trên thực tế, chỉ khoảng 30% bệnh nhân đáp ứng với thuốc miễn dịch.
+Việc nghiên cứu phương pháp biến đổi ung thư kháng thuốc thành ung thư nhạy cảm với thuốc miễn dịch đang được đẩy mạnh trên toàn thế giới.
+Một số loại ung thư, nhưung thư vúcó cấu trúc tương tự ung thư gan ác tính.
+Do đó, kết quả nghiên cứu này có thể được ứng dụng trong nhiều lĩnh vực.
+Để đi sâu vào điều trị, cần có kỹ thuật phân biệt ung thư ác tính.
+Nhóm nghiên cứu đã phân tích hình ảnh chụp cắt lớp vi tính (CT) của bệnh nhân ung thư gan thực tế và chứng minh có thể dự đoán ung thư ác tính với độ chính xác cao dựa trên các đặc điểm của mạch máu trong mô ung thư.

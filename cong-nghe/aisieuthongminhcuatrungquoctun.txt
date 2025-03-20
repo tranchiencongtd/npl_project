@@ -1,0 +1,32 @@
+Phát hành giữa tuần trước tại Chiết Giang, DeepSeek V3 được mô tả có thể xử lý khối lượng lớn công việc và tác vụ thông qua văn bản đầu vào "theo cách thông minh nhất", như mã hóa, dịch thuật, cũng như viết bài luận và email từ lời nhắc.
+Mô hình được phát hành miễn phí, có thể sử dụng đa mục đích, gồm cả thương mại.
+DeepSeek cho biết trong các thử nghiệm nội bộ, V3 "vượt trội so với các mô hình có thể tải về hiện nay", tính cả mã nguồn mở và nguồn đóng.
+Trong bản chạy thử trên Codeforces, nền tảng cho các cuộc thi lập trình, V3 vượt qua các mô hình khác như Llama 3.1 405B (405 tỷ tham số) của Meta, GPT-4o của OpenAI và Qwen 2.5 72B (72 tỷ tham số) của Alibaba.
+V3 cũng đánh bại đối thủ cạnh tranh trên Aider Polyglot, bài kiểm tra được thiết kế để đo lường khả năng của các mô hình AI.
+Công ty giới thiệu V3 được đào tạo trên một tập dữ liệu gồm 14, 8 nghìn tỷ token.
+Trong khoa học dữ liệu, token được sử dụng để biểu diễn các bit dữ liệu thô, với một triệu token tương đương khoảng 750.000 từ.
+Không chỉ có bộ dữ liệu đào tạo đồ sộ, V3 có kích thước khổng lồ với 671 tỷ tham số, lớn hơn khoảng 1, 6 lần so với Llama 3.1 405B.
+Tuy nhiên, DeepSeek cho biết mô hình không cần quá nhiều GPU để vận hành do sử dụng phần cứng hiệu quả.
+Tuy nhiên, trong thử nghiệm củaTechCrunchvà một số chia sẻ của người dùng trên mạng xã hội, DeepSeek V3 lại tự nhận nó là ChatGPT.
+Khi được yêu cầu giải thích, V3 khẳng định mình là phiên bản của GPT-4, được OpenAI phát hành năm 2023.
+Thậm chí, khi đặt câu hỏi liên quan đến API của DeepSeek, mô hình này lại hướng dẫn cách sử dụng API của OpenAI.
+Nó thậm chí kể một số câu chuyện cười, những câu đùa dí dỏm theo phong cách GPT-4.
+DeepSeek không đề cập đến nguồn dữ liệu đào tạo V3.
+Tuy nhiên, theo suy đoán củaTechCrunch, mô hình có thể đang dùng lại các tập dữ liệu công khai chứa văn bản do GPT-4 tạo ra thông qua ChatGPT.
+"Nếu DeepSeek V3 được đào tạo trên những dữ liệu này, mô hình có thể đã ghi nhớ một số câu trả lời đầu ra của GPT-4 và lặp lại nguyên văn", trang này bình luận.
+Mike Cook, nhà nghiên cứu chuyên về AI tại King's College London, có quan điểm tương tự.
+"Rõ ràng mô hình nhận phản hồi thô từ ChatGPT tại một giai đoạn nào đó, nhưng không rõ khi nào", Cook nói.
+"Có thể vô tình, thực tế không hiếm trường hợp tận dụng kết quả của mô hình này để đào tạo mô hình khác".
+Cook lưu ý cách này "rất tệ", vì có thể dẫn đến hiện tượng "ảo giác", tạo ra những câu trả lời gây hiểu lầm.
+"Giống như chụp ảnh bản sao của bản sao, mô hình sẽ dần mất nhiều thông tin và kết nối với thực tế", ông giải thích.
+Ngoài ra, ông cũng rằng việc lấy dữ liệu của mô hình này cho mô hình khác có thể vi phạm điều khoản.
+Chẳng hạn, OpenAI cấm người dùng sản phẩm của mình sử dụng kết quả đầu ra để phát triển các mô hình cạnh tranh.
+OpenAI và DeepSeek chưa đưa ra bình luận.
+Tuy nhiên, CEO OpenAI Sam Altman được cho là đã chế giễu AI từ Trung Quốc.
+"Thật dễ để sao chép một thứ mà bạn biết là hiệu quả.
+Thật khó để làm điều gì đó mới mẻ, mạo hiểm và khó khăn khi bạn không biết liệu nó có hiệu quả hay không", ông viết trên X cuối tuần trước.
+Deepseek được Liang Wenfeng thành lập vào tháng 5/2023, đặt trụ sở ở Hàng Châu, Chiết Giang, và do High-Flyer, một trong những quỹ đầu tư hàng đầu Trung Quốc, sở hữu.
+Deepseek được High-Flyer tài trợ toàn phần và không có kế hoạch huy động vốn.
+Công ty tập trung vào xây dựng công nghệ nền tảng.
+TheoChina Talk, không giống các công ty AI tại Trung Quốc, Deepseek tuyên bố sứ mệnh "giải mã bí ẩn của AGI bằng sự tò mò".
+Phòng thí nghiệm của công ty hiện tập trung nghiên cứu các cải tiến về kiến trúc và thuật toán có khả năng thay đổi cuộc chơi trong lĩnh vực trí tuệ nhân tạo.

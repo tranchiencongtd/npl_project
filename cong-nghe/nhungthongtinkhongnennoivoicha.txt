@@ -1,0 +1,12 @@
+Khảo sát do Cleveland Clinic, một trong những hệ thống y tế hàn lâm phi lợi nhuận lớn nhất thế giới, thực hiện cho thấy khoảng 20% người Mỹ từng hỏi AI về vấn đề sức khỏe.
+Kết quả thống kê được Tebra công bố năm ngoái cũng cho thấy 25% người Mỹ có xu hướng sử dụng chatbot hơn là tham gia các buổi trị liệu tâm lý.
+Tuy nhiên, giới chuyên gia cảnh báo người dùng không nên chia sẻ quá nhiều với AI.
+Các chatbot như ChatGPT không nằm trong nhóm phải tuân thủ Đạo luật về trách nhiệm giải trình và cung cấp thông tin bảo hiểm y tế (HIPAA), do vậy không nên sử dụng chúng để tóm tắt bệnh án, xin tư vấn sức khỏe hay cấp quyền truy cập vào dữ liệu riêng tư.
+Những nội dung khác cũng cần tránh "nói" với AI là thông tin đăng nhập, dữ liệu tài chính, câu trả lời cho câu hỏi bảo mật, tên, số điện thoại và địa chỉ cá nhân.
+Nội dung nhạy cảm, lời khuyên bất hợp pháp hoặc thông tin cá nhân của người khác cũng không được để lộ, bởi dữ liệu này có thể bị đối tượng xấu lợi dụng.
+"Bất cứ điều gì bạn đưa cho chatbot cũng có thể bị sử dụng để chống lại bạn.
+Không chia sẻ mật khẩu, số hộ chiếu hoặc thẻ ngân hàng, địa chỉ, số điện thoại, tên hoặc dữ liệu cá nhân khác của chính bạn, công ty hoặc khách hàng trong các cuộc trò chuyện vớiAI", chuyên gia Stan Kaminsky của công ty bảo mật Kaspersky nói.
+"Bạn có thể thay thế những thông tin trên bằng dấu sao hoặc từ 'đã xóa' trong câu lệnh của mình", Kaminsky đề cập giải pháp.
+Thông tin bảo mật của nơi làm việc cũng cần được lưu ý để tránh vi phạm quyền riêng tư.
+"Bạn có thể muốn tải lên file tài liệu để yêu cầu tóm tắt nội dung.
+Điều này có thể dẫn đến rò rỉ dữ liệu, tài sản sở hữu trí tuệ, bí mật thương mại, chẳng hạn ngày phát hành một sản phẩm mới hoặc bảng lương của đội ngũ", Kaminsky khuyến cáo.

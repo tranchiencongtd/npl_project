@@ -1,0 +1,19 @@
+Dự án bãi đỗ xe hơn 3.000 chỗ được cảng biển Yên Đài vận hành từ tháng 7/2023.
+Doanh nghiệp đứng sau dự án này là Xizi iParking, một trong những thương hiệu có hơn 30 năm kinh nghiệm trong lĩnh vực phát triểnbãi đỗ xe thông minhtại Trung Quốc.
+Đại diện Xizi iParking cho biết, đây là dự án chưa từng xuất hiện trên thế giới, bởi sở hữu 3.040 chỗ đỗ xe, cùng những thách thức đặt ra về an toàn và môi trường tại cảng biển.
+Dự án này được Xizi ứng dụng hàng loạt công nghệ hiện đại bậc nhất như IoT, quét laser, đám mây điểm, điều khiển PLC và hệ thống định vị có độ chính xác cao.
+"Dự án có tỷ lệ tối ưu không gian vượt trội, trên diện tích 13.000 m2 có thể chứa hơn 3.000 ôtô, gấp hơn 3 lần sức chứa của bãi đỗ xe phẳng, tốc độ lấy xe ra vào tăng 20% so với bãi truyền thống", đại diện Xizi iParking cho biết.
+Theo đó, toàn bộ quá trình xử lý xe tại bãi được vận hành tự động theo chuyển động ngang, dọc và nâng, không cần sự can thiệp trực tiếp của con người.
+"Trái tim" của dự án này là 8 xe tự hành AT-AGV và 12 xe đẩy bốn chiều, một trong những sản phẩm từng đạt giải "Sáng tạo thiết kế máy móc công nghiệp tại Trung Quốc năm 2023".
+Hệ thống dẫn động địa hình tốc độ cao AT-AGV được ví như "móng vuốt của máy gắp thú" ở bãi đỗ.
+Ông Chen Weiru, Phó giám đốc Trung tâm đổi mới khoa học và công nghệ cảng Yên Đài cho biết, thiết bị hoạt động thông qua radar laser, radar sóng milimet (sóng vô tuyến tần số cực cao)...
+giúp AT-AGV nhận biết và xác định vị trí, chướng ngại vật của xe.
+"Thiết bị được lập kế hoạch an toàn và tự động, theo dõi đường đi với độ chính xác cao, đảm bảo việc tiếp nhận và đỗ xe vào hệ thống diễn ra chính xác trong đa dạng tình huống", ông nói.
+Bãi đỗ xe này sử dụng công nghệ đỗ xe thông minh dạng xếp chồng, xử lý đa chiều, việc lấy và gửi xe tự động bằng robot, căn chỉnh không tiếp xúc...
+giúp cải thiện tỷ lệ sử dụng không gian.
+Xizi iParking là thương hiệu hàng đầu trong lĩnh vựcbãi đỗ xe thông minhthuộc tập đoàn Xizi UHC – top 500 doanh nghiệp lớn nhất Trung Quốc.
+Khởi đầu là công ty liên doanh với tập đoàn IUK Nhật Bản, doanh nghiệp này sở hữu các dự án đặt ở hơn 200 thành phố lớn trên toàn thế giới, cung ứng hơn 1 triệu chỗ đỗ xe.
+Với hơn 30 năm trong ngành, Xizi sở hữu các công nghệ phát triển độc quyền như: giám sát từ xa ứng dụng Big Data, robot tự động điều phối xe, quét 3D nhận diện biển số, camera AI an ninh, thanh toán phí đa điểm...
+"Xizi được Trung Quốc ghi nhận là một trong những doanh nghiệp có khả năng đổi mới mạnh mẽ, làm chủ công nghệ lõi.
+Các sản phẩm đều đạt chứng nhận CE của EU, mở rộng phát triển đến Singapore, Việt Nam, Nga, Hy Lạp, Trung Đông, Nhật Bản và Mỹ", đại diện doanh nghiệp nói.
+Tại Việt Nam, bãi đỗ xe thông minh Xizi có mặt trên thị trường từ năm 2009 ở dự án tháp BIDV Trần Quang Khải (Hà Nội), được vận hành trong các dự án như: G Homes, DeLaSol, Masterise Homes Ba Son, Thảo Điền, Lumiere Evergreen, Tiến Bộ Plaza...

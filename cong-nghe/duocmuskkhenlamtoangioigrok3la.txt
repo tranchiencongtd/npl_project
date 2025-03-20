@@ -1,0 +1,25 @@
+"Không có ai trong số 500 thí sinh xuất sắc của cuộc thi Putnam 2025 giải quyết được hoàn toàn vấn đề này.
+Grok 3 (Think) đã tìm ra giải pháp trong 8 phút", nhà vật lý Luis Batalha viết trên X ngày 24/2.
+Putnam là cuộc thi toán học thường niên dành cho sinh viên đại học tại Mỹ và Canada.
+Elon Musksau đó bình luận dưới bài viết: "Grok 3 đang trở nên siêu phàm".
+Tuy nhiên, sau khi bài toán được chia sẻ, một số chuyên gia nhận thấy có điểm bất thường.
+Kỹ sư phần mềm Todd Ensz đã hỏi lại chính Grok 3.
+AI của Musk sau đó phân tích lại và kết luận: "Đã hiểu sai vấn đề".
+Ở phần bình luận, nhiều người đánh giá AI của Musk "trung thực" khi đã tự nhận đưa ra đáp án sai cho bài toán mà 500 sinh viên đại học không thể giải.
+Số khác cho rằng AI này "thao túng cảm xúc và nắm bắt tâm lý" khi biết tự nhận lỗi.
+Tuy nhiên, một số lo ngại vấn đề "ảo giác" của AI vì cố gắng bịa ra lời giải "nghe có vẻ thuyết phục nhưng thực tế không chính xác".
+Grok 3 được xAI công bố ngày 18/2 và được Musk gọi là chatbot "thông minh nhất Trái Đất".
+AI hiệntriển khai miễn phítrên web và iOS.
+Tại Việt Nam, Grok 3 được đánh giá cao.
+"So với các AI khác, Grok 3 đang 'ăn đứt' ở khoản trả lời với ngôn ngữ tự nhiên cùng khả năng tùy biến", tài khoản Facebook Thanh Sang bình luận.
+"Nó có thể chuyển đổi cách nói chuyện nhanh chóng, thân mật, trích dẫn nguồn tin cậy và người dùng có thể kiểm tra, dù mức độ chính xác không hẳn là cao nhất".
+"Tôi có cảm giác đang trò chuyện với một người hiểu biết hơn là tương tác với một công cụ tìm kiếm.
+Grok 3 dường như hiểu vấn đề rất nhanh và phản hồi đúng ý, kể cả việc tạo một bức ảnh dựa trên mô tả ngắn", tài khoản Hoàng Hải cho hay.
+"Nó cũng hội tụ đủ yếu tố 'rất con người', rất 'láu cá' nhưng cũng thông minh và hài hước".
+Theo một số chuyên gia, Grok 3 cung cấp dữ liệu gần như theo thời gian thực, nên có thể trả lời câu hỏi của người truy vấn rất sát thực tế.
+Khả năng tùy biến theo ngữ cảnh cũng tạo nên cảm xúc lớn khi giao tiếp.
+"Grok 3 ở đâu đó tiệm cận mô hình mạnh nhất của OpenAI và tốt hơn so với DeepSeek-R1 và Gemini 2.0 Flash Thinking", Andrej Karpathy, nhà đồng sáng lập OpenAI nhưng đã rời công ty, viết trên X.
+"Mô hình rõ ràng có tốc độ và sức mạnh rất lớn".
+Trong livestream công bố, xAI đưa ra hàng loạt bài kiểm tra benchmark để cho thấyGrok 3cao hơn Gemini 2 Pro, Claude 3.5 Sonnet, GPT 4o và DeepSeek V3 khi xét đếm điểm chuẩn Toán, Khoa học và Mã hóa.
+Bên cạnh đó, AI cũng trang bị khả năng lý luận cho phép suy nghĩ sâu hơn khi xử lý các truy vấn.
+Theo xAI, Grok 3 "hiện có sẵn miễn phí cho đến khi máy chủ của chúng tôi bị sập".

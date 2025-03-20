@@ -1,0 +1,24 @@
+Một trong những mục tiêu lớn nhất hiện nay trên hành trình khám phá vũ trụ là đưa người đến sao Hỏa.
+Tuy nhiên, việc đến sao Hỏa đối mặt với nhiều thách thức kỹ thuật, bao gồm khoảng cách cực xa.
+Tàu vũ trụ hiện tại ước tính cần khoảng 2 - 3 năm cho một chuyến bay khứ hồi tới sao Hỏa, do hành tinh này cách Trái Đất tới 225 triệu km.
+Động cơ điện hạt nhân có thể giúp đẩy nhanh quá trình này.
+Vì vậy, nhóm chuyên gia tại Trung tâm Nghiên cứu Langley thuộc NASA (NASA Langley) đang phát triển hệ thống mới mang tên MARVL (Bộ tản nhiệt lắp ráp module cho phương tiện điện hạt nhân) nhằm hiện thực hóa việc ứng dụng động cơ điện hạt nhân cho du hành vũ trụ, Interesting Engineeringhôm 14/1 đưa tin.
+Dự án MARVL tập trung vào phát triển hệ thống tản nhiệt dạng module cho động cơ đẩy điện hạt nhân.
+Điểm đặc biệt là hệ thống cấu tạo từ các bộ phận nhỏ, có thể dùng robot để lắp ráp lại ngoài không gian, giúp hệ thống trở nên thiết thực hơn với những nhiệm vụ không gian quy mô lớn.
+"Bằng cách này, chúng tôi không cần cố nhồi nhét toàn bộ hệ thống vào một khoang tên lửa.
+Nhờ đó, chúng tôi có thể thả lỏng thiết kế một chút và thực sự tối ưu hóa nó", Amanda Stark, kỹ sư truyền nhiệt tại NASA Langley, thành viên nhóm dự án MARVL, giải thích.
+Động cơ đẩy điện hạt nhân sử dụng lò phản ứng hạt nhân để tạo ra điện.
+Điện này sau đó dùng để ion hóa và gia tốc khí, tạo lực đẩy mạnh cho tàu vũ trụ.
+Tuy nhiên, lò phản ứng hạt nhân cần tạo ra nhiệt lượng lớn cho việc du hành không gian xa.
+Các thiết kế truyền thống hướng đến những bộ tản nhiệt lớn và không thể tách rời, khó nhét vừa trong một khoang tên lửa.
+Khi mở rộng hoàn toàn, hệ thống tản nhiệt có thể rộng tương đương sân bóng.
+Do đó, gấp gọn nó trong tên lửa được coi là thách thức lớn.
+Đó là lý do tại sao dự án MARVL ra đời.
+MARVL giải quyết vấn đề này bằng cách cho phép lắp ráp hệ thống tản nhiệt trong không gian.
+Thay vì phóng toàn bộ hệ thống một lần, tên lửa có thể mang từng bộ phận lẻ lên không gian.
+Điều này mang đến tính linh hoạt cao hơn cho quá trình thiết kế và vận chuyển.
+NASA dự định dùng robot để lắp ráp các tấm tản nhiệt cho động cơ đẩy điện hạt nhân.
+Các tấm này sẽ thúc đẩy dòng chảy của chất làm mát kim loại lỏng, ví dụ như hợp kim natri-kali, để tản nhiệt hiệu quả.
+Dự án MARVL đã nhận được tài trợ từ Ban giám đốc Nhiệm vụ Công nghệ Không gian của NASA.
+Nhóm dự án, bao gồm các chuyên gia từ Boyd Lancaster, NASA Glenn và NASA Kennedy, có hai năm để phát triển ý tưởng.
+Sau giai đoạn này, họ sẽ tiến hành một thử nghiệm quy mô nhỏ trên mặt đất.

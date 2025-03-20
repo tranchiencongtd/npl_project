@@ -1,0 +1,20 @@
+Số lượng thông báo việc làm cho kỹ sư phần mềm ở Mỹ trên Indeed, nền tảng kết nối việc làm và tuyển dụng hàng đầu thế giới, giảm hơn một phần ba so với 5 năm trước.
+Các tin tuyển dụng giảm đáng kể so với trong thời kỳ đại dịch Covid-19, khi thị trường tràn ngập cơ hội việc làm.
+Một trong những nguyên nhân dẫn đến tình trạng này là AI - giúp lập trình viên làm việc hiệu quả hơn và cũng làm giảm nhu cầu tuyển dụng.
+CEO Salesforce Marc Benioff cho biết công ty có thể sẽ không tuyển thêm bất kỳ kỹ sư nào năm 2025, bởi công cụ AI giúp nhân lực của họ làm được nhiều công việc hơn trước.
+"Chúng tôi nhận thấy năng suất đã tăng đáng kinh ngạc nhờ có trợ lý AI làm việc cùng các kỹ sư", ông nói.
+Những cải thiện về năng suất là tin vui cho lập trình viên đang có việc làm, nhưng sự bùng nổ của AI cũng trở thành mối lo cho những người đang phải tìm việc.
+Năm 2024, startup công nghệ Cognition Labs tuyên bố ra mắt kỹ sư phần mềm bằng AI đầu tiên trên thế giới.
+Jesal Gadhia, trưởng bộ phận kỹ thuật tại Thoughtful AI, công ty chuyên về công cụ AI cho các nhà cung cấp dịch vụ chăm sóc sức khỏe, nói tin tức này đã gây hoang mang và rất nhiều người nhắn tin hỏi ông liệu họ có mất việc không.
+Ông lo ngại AI có thể đảm nhận các vị trí vốn được xem là bệ phóng cho kỹ sư mới vào nghề, dù lập trình viên vẫn được cần đến trong nhiều lĩnh vực.
+"Nhóm kỹ sư này đang trở thành mục tiêu bị đe dọa", Gadhia nói.
+Cuối tháng 8/2024, Cục Thống kê Lao động Mỹ dự báo nhu cầu tuyển dụng nhà phát triển phần mềm, nhân viên đảm bảo chất lượng phần mềm và tester sẽ tăng 17% trong giai đoạn 2023-2033.
+Cơ quan này cũng nhấn mạnh rằng tốc độ tăng trưởng sẽ nhanh hơn nhiều so với mức tăng trưởng chung của thị trường lao động.
+Lighthouse Labs, công ty Canada chuyên cung cấp các khóa đào tạo lập trình, hồi tháng 1 cho biết nhu cầu về lao động có chuyên môn trong phân tích dữ liệu, an ninh mạng và điện toán đám mây trên toàn thế giới đang vượt xa nguồn cung.
+Lý do một phần nằm ở thực tế là vị trí tuyển dụng không chỉ giới hạn trong các ngành công nghệ.
+Thời gian làm việc của lập trình viên có thể sẽ tiếp tục bị thay đổi bởi AI, dù họ làm việc trong ngành nghề nào.
+GitLab cho hay các nhà phát triển chỉ đang dành khoảng 25% thời gian của họ để viết mã.
+Madars Biss, lập trình viên front-end, nói rằng kỹ sư phần mềm trong tương lai sẽ chuyển từ viết code sang quản lý mã do AI tạo ra.
+"Các công cụ AI có thể xử lý phần lớn tác vụ lặp lại liên tục của lập trình viên, trong khi con người tập trung vào quản lý, kiểm định và sáng tạo", anh nói.
+Giám đốc Amazon Web Services Matt Garman giữa năm ngoái dự đoán AI sẽ đảm nhận phần lớn công việc của lập trình viên.
+"Có khả năng hầu hết nhà phát triển phần mềm sẽ không còn trực tiếp viết code sau khoảng 24 tháng nữa Tôi không thể dự đoán chính xác", Garman nhận định.

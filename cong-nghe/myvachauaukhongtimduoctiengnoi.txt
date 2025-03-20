@@ -1,0 +1,20 @@
+Sự kiện AI Action Summit 2025 ở Paris đã ra tuyên bố chung ngày 11/2 về lĩnh vực trí tuệ nhân tạo, trong đó nêu rõ các ưu tiên gồm "đảm bảo AI công khai, toàn diện, minh bạch, đạo đức, an toàn, bảo mật và đáng tin cậy, có tính đến các khuôn khổ quốc tế dành cho mọi người" và "làm cho AI bền vững đối với con người và hành tinh".
+Văn bản nhận sự ủng hộ từ 60 quốc gia, trong đó có Pháp, Trung Quốc, Ấn Độ, Nhật Bản, Australia và Canada.
+Tuy nhiên, hai trong số những quốc gia có vai trò quan trọng là Mỹ và Anh không đặt bút ký vào tuyên bố chung.
+Theo người phát ngôn của chính phủ Anh, tuyên bố chưa đề cập đủ sâu đến vấn đề quản trị AI toàn cầu và tác động của trí tuệ nhân tạo đối với an ninh quốc gia.
+"Chúng tôi đồng ý với phần lớn tuyên bố và sẽ tiếp tục hợp tác chặt chẽ với các đối tác quốc tế, điều đã được phản ánh trong các thỏa thuận chúng tôi đã ký về tính bền vững và an ninh mạng tại AI Action Summit", người phát ngôn chính phủ Anh cho biết.
+"Tuy nhiên, chúng tôi cảm thấy tuyên bố không cung cấp đủ sự rõ ràng và thực tế về quản trị toàn cầu, cũng như không giải quyết đủ các câu hỏi khó hơn xung quanh an ninh quốc gia và thách thức AI đặt ra".
+Mỹ cũng ra quyết định tương tự.
+Trên sân khấu sự kiện ở Paris, Phó tổng thống Mỹ JD Vance chỉ trích "quy định quá mức" của châu Âu về công nghệ.
+Ông dẫn đầu đoàn Mỹ tham dự sự kiện cùng Sam Altman của OpenAI, Dario Amodei của Anthropic, Demis Hassabis của Google DeepMind và một nhóm nhà lãnh đạo, nghiên cứu AI hàng đầu.
+"Chúng tôi tin việc quản lý quá mức trong lĩnh vựcAIcó thể giết chết một ngành công nghiệp đang chuyển đổi", ông Vance nhắc đến việc Mỹ có ý định duy trì vị thế thống trị trong lĩnh vực AI và phản đối mạnh mẽ kiểu quản lý chặt của châu Âu.
+"Chúng tôi tin AI không bị ảnh hưởng bởi định kiến về ý thức hệ và AI của Mỹ sẽ không bị biến thành công cụ kiểm duyệt độc đoán".
+Ông tiếp tục chỉ trích các quyết định của châu Âu về AI trước đó, gồm Đạo luật Dịch vụ Kỹ thuật số (DSA) và các Quy tắc về quyền riêng tư trực tuyến của châu Âu (GDPR).
+"Tất nhiên, chúng tôi muốn đảm bảo Internet là nơi an toàn, nhưng ngăn chặn kẻ săn mồi tấn công trẻ em trên Internet là một chuyện, còn ngăn chặn đàn ông hay phụ nữ trưởng thành tiếp cận một ý kiến mà chính phủ cho là thông tin sai lệch lại là chuyện hoàn toàn khác", ông nói.
+Trong khi đó, Trung Quốc cho biết sẵn sàng hợp tác với các quốc gia để bảo vệ an ninh, cũng như chia sẻ những thành tựu trong lĩnh vực trí tuệ nhân tạo để xây dựng "một cộng đồng chung tương lai cho nhân loại".
+AI Action Summit 2025 cũng ghi nhận nhiều thay đổi đối với châu Âu và cho thấy những người bi quan về AI đang mất dần chỗ đứng.
+Thay vào đó, phần lớn giới lãnh đạo ủng hộ và tin vào viễn cảnh tươi sáng, lạc quan hơn về tiềm năng của công nghệ này.
+Các diễn giả đề cập đến khả năng AI thúc đẩy nhiều lĩnh vực như y học và khoa học khí hậu, trong khi các cuộc thảo luận ảm đạm hơn về rủi ro "AI tiếp quản thế giới" chủ yếu diễn ra bên lề, không chính thức.
+DeepSeekcủa Trung Quốc được nhắc đến nhiều nhất tại sự kiện, thay vì các tên tuổi nổi tiếng.
+Các mô hình của công ty được đánh giá mang lại hy vọng mới cho các công ty nhỏ, vốn không thể chi nhiều tiền để xây dựng AI như Google hay OpenAI.
+"DeepSeek đã chứng minh mọi quốc gia đều có thể trở thành một phần của AI, điều trước đây không dễ nhận thấy", Clément Delangue, CEO Hugging Face, nói.

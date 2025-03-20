@@ -1,0 +1,27 @@
+AI đã đưaNvidiatrở thành một trong hai công ty giá trị nhất thế giới với vốn hóa thị trường hơn 3.500 tỷ USD.
+Tuy nhiên, theoFortune, trong ngày 27/1, "sự hoảng loạn của các nhà đầu tư Nvidia" khiến cổ phiếu của công ty giảm gần 17% và xóa sổ gần 600 tỷ giá trị, đưa vốn hóa công ty xuống dưới mốc 3.000 tỷ USD.
+Đợt bán tháo được kích hoạt bởiDeepSeek.
+Ngày 20/1, công ty khởi nghiệp Trung Quốc công bố mô hình AI V3 miễn phí và đặc biệt R1 "được đào tạo trên các chip cũ của Nvidia, mã nguồn mở 100%, rẻ hơn 96, 4% so với OpenAI o1 trong khi vẫn mang lại hiệu suất tương tự".
+Công ty cho biết họ chỉ mất hai tháng và chi phí dưới 6 triệu USD để xây dựng mô hình AI sử dụng chip H800 kém tiên tiến của Nvidia.
+Phiên bản V3 thậm chí vượt ChatGPT trở thành ứng dụng được tải nhiều nhất trên App Store tại Mỹ ngày 27/1.
+"Về cơ bản, điều này giống như ai đó phát hành điện thoại có sức mạnh bằng với iPhone, nhưng bán với giá 30 USD thay vì 1.000 USD", Arnaud Bertrand, người sáng lập HouseTrip và Me & Qi, nói.
+Dù còn nhiều điều chưa được giải đáp về cách DeepSeek phát triển mô hình của mình, công ty mới nổi này đang làm rung chuyển thị trường AI.
+Những tỷ phú có tài sản liên quan đến trí tuệ nhân tạo thiệt hại nhiều nhất trong ngày đầu tuần, như CEO Nvidia Jensen Huang chứng kiến tài sản giảm 20, 1 tỷ USD, nhà sáng lập Oracle Larry Ellison giảm 22, 6 tỷ USD, CEO Michael Dell mất 13 tỷ USD còn nhà đồng sáng lập Binance Changpeng Zhao sụt 12, 1 tỷ USD.
+Trong khi đó, theoThe Information, Mark Zuckerberg, CEOMeta, đã đưa ra tình trạng báo động cao và tập hợp kỹ sư vào bốn "phòng chiến tranh" để xác định cách High-Flyer, một trong những quỹ đầu tư hàng đầu Trung Quốc, tài trợ toàn phần cho DeepSeek để phát hành một công cụ thay đổi cuộc chơi AI.
+Cách sử dụng mã nguồn mở đột phá cũng khiến giới chuyên gia đặt câu hỏi về các khoản đầu tư khổng lồ vào AI của hàng loạt công ty Mỹ.
+Mathew Oldham, Giám đốc cơ sở hạ tầng AI của Meta, nhận xét mô hình mới của DeepSeek có thể vượt trội hơn phiên bản tiếp theo của Llama AI, dự kiến phát hành đầu 2025.
+Còn Yann LeCun, Giám đốc khoa học AI của Meta, đánh giáthành công của DeepSeek cho thấy mô hình AI nguồn mở đang vượt mặt sản phẩm độc quyền.
+Một nhân viên ẩn danh cho biết trong số bốn phòng chiến tranh Meta tạo ra để ứng phó với bước đột phá của DeepSeek, hai phòng sẽ cố gắng giải mã cách High-Flyer giảm chi phí đào tạo và vận hành DeepSeek, từ đó áp dụng cho Llama.
+Phòng thứ ba sẽ tìm hiểu dữ liệu nào DeepSeek sử dụng để đào tạo mô hình, trong khi nhóm còn lại xem xét Llama có thể tái cấu trúc như thế nào dựa trên các thuộc tính của mô hình DeepSeek.
+Phát ngôn viên Meta sau đó trả lờiThe Information: "Chúng tôi vẫn thường xuyên đánh giá tất cả mô hình cạnh tranh trong quá trình phát triển và đã làm như vậy kể từ khi bộ phậnGenAIcủa công ty thành lập".
+Tuần trước, Meta thông báo chi65 tỷ USDcho các dự án liên quan đến AI trong năm, như xây dựng một trung tâm dữ liệu khổng lồ và tuyển dụng thêm nhiều nhân viên AI.
+Hai mô hình DeepSeek trình làng cũng cùng giai đoạn OpenAI hợp tác SoftBank, Oracle và các công ty khác để thực hiện siêu dự án cơ sở hạ tầng AI trị giá 500 tỷ USD, được Nhà Trắng hậu thuẫn mang tênStargate, với mục tiêu thành lập hàng chục trung tâm dữ liệu mới trên khắp nước Mỹ.
+"Những thành tựu về hiệu quả của Trung Quốc không phải là ngẫu nhiên", Angela Zhang, giáo sư luật tại Đại học Nam California nói trênFinancial Times.
+"Khi hạn chế quyền tiếp cận của Trung Quốc đối với chip AI tiên tiến, Mỹ vô tình thúc đẩy sự đổi mới của nước này".
+″Mô hình DeepSeek thực sự ấn tượng.
+Họ đã biết cách thực hiện hiệu quả một mô hình nguồn mở có khả năng suy luận, đạt được hiệu quả tính toán siêu việt", CEO Microsoft Satya Nadella nói tại Diễn đàn Kinh tế Thế giới ở Davos ngày 22/1.
+"Chúng ta nên xem xét những diễn biến ở Trung Quốc một cách rất, rất nghiêm túc".
+DeepSeek được Liang Wenfeng thành lập tháng 5/2023, đặt trụ sở ở Hàng Châu, Chiết Giang, và do quỹ đầu tư High-Flyer sở hữu.
+Công ty được High-Flyer tài trợ và không có kế hoạch huy động vốn, tập trung vào xây dựng công nghệ nền tảng.
+TheoChinaTalk, không giống các công tyAItại Trung Quốc, DeepSeek tuyên bố sứ mệnh "giải mã bí ẩn của siêu trí tuệ nhân tạo AGI bằng sự tò mò".
+Phòng thí nghiệm của công ty hiện tập trung nghiên cứu cải tiến về kiến trúc và thuật toán có khả năng thay đổi cuộc chơi trong lĩnh vực trí tuệ nhân tạo.

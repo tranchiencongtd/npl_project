@@ -1,0 +1,19 @@
+Theo công bố cuối tuần qua trên blog, đội ngũ nghiên cứu của Cisco cho biết đã sử dụng các kỹ thuật bẻ khóa thuật toán để thử nghiệmDeepSeek R1- mô hình AI mới nhất của DeepSeek, ra mắt ngày 20/1.
+Nhóm dùng 50 lời nhắc độc hại ngẫu nhiên từ tập dữ liệu HarmBench, phân chia thành 6 loại hành vi có hại như tội phạm mạng, thông tin sai lệch, hoạt động bất hợp pháp và tác hại nói chung.
+"Kết quả đáng báo động: R1 cho thấy tỷ lệ tấn công thành công là 100%, tức AI này không chặn được bất kỳ lời nhắc gây hại nào", Cisco cho biết.
+"Điều này trái ngược với các mô hình hàng đầu khác, vốn có khả năng chống chịu ít nhất một phần các cuộc tấn công".
+Trước đó, một nghiên cứu từ công ty bảo mật Adversa AI cũng đưa ra kết luận tương tự.
+Công ty này nhận thấy DeepSeek dễ bị tấn công bằng nhiều chiến thuật bẻ khóa, từ các thủ thuật ngôn ngữ đơn giản đến lời nhắc phức tạp do AI tạo ra.
+Các chuyên gia đánh giá việc xây dựng AI với giá rẻ là lý do khiến DeepSeek dễ bị lời nhắc độc hại qua mặt.
+"100% cuộc tấn công thành công cho thấy sự đánh đổi", DJ Sampath, Phó chủ tịch sản phẩm, phần mềm AI và nền tảng của Cisco, nói vớiWired.
+"Đúng là có thể rẻ hơn khi xây dựng thứ gì đó ở đây, nhưng khoản đầu tư có lẽ chưa được sử dụng để tính đến vấn đề an toàn và bảo mật cần đưa vào mô hình".
+DeepSeek chưa đưa ra bình luận.
+Trước đó, DeepSeek được cho là chỉ sử dụng khoảng 6 triệu USD để xây dựng các mô hình AI của mình, gồm V3 miễn phí và R1 mới nhất.
+Dù vậy, theo phân tích của SemiAnalysis, công ty nổi tiếng về nghiên cứu, tư vấn thị trường bán dẫn và AI, con số thực tế có thểhơn một tỷ USD.
+Tuần trước, công ty an ninh mạng Wiz (Mỹ) cảnh báo DeepSeek đã đểhơn một triệudòng dữ liệu không có biện pháp bảo mật, bao gồm các khóa phần mềm kỹ thuật số và nhật ký trò chuyện dường như ghi lại các yêu cầu được gửi từ người dùng đến trợ lýAImiễn phí của công ty.
+TheoReuters, Ami Luttwak, Giám đốc công nghệ của Wiz, cho biết DeepSeek đã nhanh chóng có biện pháp bảo mật dữ liệu sau khi công ty của ông cảnh báo họ.
+Công ty AI Trung Quốc khi đó cũng không đưa ra bình luận.
+DeepSeekđượcLiang Wenfengthành lập tháng 5/2023, đặt trụ sở ở Hàng Châu, Chiết Giang, và do quỹ đầu tư High-Flyer sở hữu.
+Công ty được High-Flyer tài trợ và không có kế hoạch huy động vốn, tập trung vào xây dựng công nghệ nền tảng.
+Cũng theo nghiên cứu của Cisco, mô hình Llama 3.1 405B của Meta cũng có tỷ lệ bị lời nhắc độc hại qua mặt tới 96%, còn GPT-4o của OpenAI là 86%.
+Mô hình Claude 3.5 Sonet của Claude và O1-preview của OpenAI đã chặn được phần lớn, với tỷ lệ lần lượt 36% và 26%.

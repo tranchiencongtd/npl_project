@@ -1,0 +1,23 @@
+Được giới thiệu ngày 12/3, Gemini Robotics và Gemini Robotics-ER giúp mở rộng đáng kể khả năng điều khiển robot.
+Trong đó, Gemini Robotics là dạng Vision-Language-Action (Thị giác - Ngôn ngữ - Hành động) hướng đến mục tiêu nền tảng chung phục vụ điều khiển robot, giúp chúng tương tác đồ vật, di chuyển trong môi trường thực tế và thực hiện nhiều tác vụ khác.
+Phòng nghiên cứu AI của Google cũng công bố loạt video của Gemini Robotics.
+Trong đó, các mẫu robot chạy nền tảng này có thể gấp giấy, cất kính vào hộp và làm nhiều việc khác bằng các câu lệnh.
+Theo Google DeepMind, Gemini Robotics được huấn luyện để hoạt động linh hoạt trên nhiều loại robot khác nhau, và liên kết hình ảnh "nhìn thấy" với hành động cần thực hiện.
+Mô hình mới cho robot của Google cũng có tiến bộ nhất định trong việc thích ứng nhiều tình huống khác nhau, điều hầu hết mô hình tương tự chưa làm được.
+Thậm chí, khi một vật thể trượt khỏi tay cầm của robot hoặc ai đó di chuyển một vật thể xung quanh, robot chạy Gemini Robotics nhanh chóng điều chỉnh hành động cho phù hợp.
+Đây được xem là khả năng quan trọng với robot trong thế giới thực, vốn tồn tại nhiều biến số.
+Theo Google, các mô hình AI được dùng điều khiển robot hiện nay cần đáp ứng đủ ba phẩm chất chính, gồm tính linh hoạt để thích ứng với nhiều tình huống khác nhau, tính tương tác để hiểu và phản hồi nhanh chóng trước các lệnh hoặc thay đổi trong môi trường, và tính khéo léo để thực hiện các thao tác mà con người thường làm bằng tay và ngón tay, chẳng hạn điều khiển vật thể một cách cẩn thận.
+"Gemini Robotics mang đến những bước tiến đáng kể trong cả ba phẩm chất trên, hướng đến một tương lai với các robot đa năng thực sự", Google viết trên blog.
+Tuy nhiên, Gemini Robotics chưa thể thực hiện các hoạt động bình thường của con người một cách tốt nhất, dù có thể xử lý các nhiệm vụ đa bước phức tạp, đòi hỏi sự thao tác chính xác như gấp giấy origami hoặc cho đồ ăn vào túi zip và kéo khóa.
+Mô hình thứ hai là Gemini Robotics-ER, phiên bản Gemini có khả năng nhận thức không gian vượt trội, cho phép nhà nghiên cứu sử dụng khả năng suy luận thực tế (ER) của Gemini để chạy chương trình riêng.
+Nền tảng được giới thiệu có thể cải thiện đáng kể khả năng hiện tại của Gemini 2.0, như xác định và nhận diện hình ảnh 3D hay suy luận và tạo ra đoạn mã để thực hiện hoạt động mới ngay lập tức.
+Ví dụ, khi nhìn thấy một cốc cà phê, robot chạy Gemini Robotics-ER có thể suy ra cách cầm cốc bằng hai ngón tay và thực hiện động tác hoàn chỉnh.
+Nếu việc tạo mã tự động không hiệu quả, mô hình sẽ quan sát và học hỏi thao tác của con người.
+Chỉ cần xem một vài lần, nó sẽ hiểu và tự áp dụng để tìm ra giải pháp.
+Gemini Robotics-ER được thiết kế để tích hợp với hệ thống an toàn hiện có và đánh giá, phản hồi trong mọi tình huống.
+Deepmind cũng công bố bộ dữ liệu Asimov và phát triển "hiến pháp robot" để định hướng hành vi robot theo hướng an toàn, đồng thời đánh giá tác động của các mô hình này đối với xã hội.
+"Cùng với các đối tác, chúng tôi hướng đến xây dựng thế hệ robot hữu ích và an toàn hơn", Google Deepmind cho biết thêm.
+Trước đó, theo kết quả nghiên cứu của Goldman Sachs Research, phần cứng dành cho robot hình người đã gần hoàn thiện với các thành phần như camera, động cơ, cảm biến lực, bộ truyền động và pin, đều có thể sử dụng cho mục đích thương mại.
+Dù vậy, phần mềm chưa theo kịp sự phát triển của phần cứng.
+Một báo cáo khoa học đăng tháng 1 trên tạp chíForeign Policycũng đánh giá "bộ não" và các chip AI mạnh nhất của robot hình người chiếm khoảng 80% giá trị của nó.
+Đây là lợi thế lớn mà các công ty Mỹ đang có.

@@ -1,0 +1,40 @@
+"Chồng tôi mất sạch tiền trong tài khoản sau chưa đến 5 giây.
+Có một khách đặt cọc một triệu nhưng chuyển 10 triệu đồng và nhờ chuyển lại số tiền bị nhầm bằng cách gửi mã QR", một phụ nữ kể qua video "cảnh báo" đăng trên Facebook ngày 14/1.
+"Nhưng sau khi quét mã, điện thoại bị 'đơ' màn hình không thể thao tác gì".
+Cũng theo lời kể, sau khi smartphone trở lại trạng thái ban đầu, toàn bộ hơn 100 triệu trong tài khoản bị mất sạch.
+Người này còn nhấn mạnh hiện nay "có nhiều kiểu lừa đảo" khiến ai cũng có thể mất tiền, từ quét mã QR đến sao chép số tài khoản", đồng thời khuyên nên viết số tài khoản ra giấy và nhập bằng tay để tránh sự cố.
+Sau một ngày xuất hiện trên Facebook, video có hơn 1, 6 triệu lượt xem, 3.500 lượt thích cùng hơn 23.000 lượt chia sẻ.
+Ở phần bình luận, nhiều người cho biết cảm thấy hoang mang về thông tin này.
+"Có thể trong mã QR có chứa liên kết tải mã độc và chiếm quyền điện thoại.
+Tôi thật sự lo lắng vì thường xuyên chuyển tiền theo cách này", một tài khoản bình luận.
+"Kẻ gian ngày càng lừa đảo theo cách tinh vi nhất.
+Hết lừa click vào liên kết, email, giờ lại đến mã QR.
+Mọi người nên nghe theo lời khuyên", một người khác viết.
+Tuy nhiên, một số người nhanh chóng nhận thấy điểm bất thường từ nội dung video.
+"Tôi nghĩ thông tin không chính xác.
+Muốn chuyển khoản trên 10 triệu phải có sinh trắc học bằng khuôn mặt.
+Tại sao chuyển 100 triệu không bị yêu cầu?", người dùng Thanh Dang bình luận.
+"Bạn này nghĩ hệ thống ngân hàng dễ qua mặt vậy sao.
+Chuyển tiền giờ không phải cứ chiếm quyền smartphone là làm được, phải có nhiều bước xác minh, từ OTP tới khuôn mặt, nhất là với số tiền lớn.
+Video này chỉ để câu view, câu like từ người cả tin", tài khoản Nguyễn Hùng viết.
+Giới chuyên gia cũng khuyến cáo những gì video chia sẻ không đúng sự thật.
+Theo ông Vũ Ngọc Sơn, Giám đốc Công nghệ Công ty an ninh mạng NCS, cảnh báo quét mã QR hay sao chép số tài khoản có thể khiến điện thoại bị treo, tài khoản bị mất tiền...
+là tin giả.
+Theo ông, quét mã QR hay sao chép số tài khoản, đường link thực tế không làm người dùng lập tức mất tiền hay bị chiếm tài khoản.
+Về bản chất, mã QR là một cách thức để "nén" một hoặc nhiều nội dung dữ liệu về dạng ảnh giúp máy móc có cảm biến hình ảnh như máy quét, camera điện thoại có thể ánh xạ ngược từ ảnh sang nội dung ban đầu.
+Mã QR có nhiều ứng dụng, nhưng phổ biến nhất là để chứa các liên kết hoặc số tài khoản ngân hàng trong các giao dịch chuyển khoản.
+Lợi dụng việc phổ biến của QR, kẻ lừa đảo có thể mã hóa liên kết lừa đảo hoặc các số tài khoản giả mạo để lừa người dùng.
+"Tuy nhiên, bản chất mã QR không phải mã độc tấn công trực tiếp, chỉ là trung gian chuyển tải nội dung.
+Vì vậy, người dùng có bị tấn công hay không phụ thuộc vào cách xử lý nội dung sau khi máy quét ánh xạ từ mã QR ra nội dung ban đầu", ông Sơn giải thích.
+"Cụ thể hơn, nếu sau khi quét mã ra đường link hay số tài khoản, người dùng vẫn chưa bị mất tiền hay bị tấn công và chiếm quyền điều khiển.
+Chỉ khi họ bấm vào link, cài đặt phần mềm hay chuyển khoản theo số tài khoản quét từ mã QR, lúc này thiết bị mới bị tấn công, bị mất tiền".
+Chuyên gia của NCS cũng cho rằng dù hiện nay, tình trạng lừa đảo trên không gian mạng rất phổ biến, không phải cảnh báo nào cũng là thật.
+Các tin đồn thường được tung ra để gây hoang mang, tạo sự sợ hãi không cần thiết, có thể dẫn đến hành vi tự vệ thái quá hoặc mất cảnh giác trước các chiêu trò lừa đảo thực sự.
+Cũng theo ông Sơn, tin đồn dạng này đột ngột nổi lên do tính chất dễ lan truyền trên mạng xã hội, thường là "một nội dung rất giật gân, pha lẫn yếu tố dọa dẫm về một nguy cơ không có thật".
+Người nhận thông tin theo tâm lý sợ hãi sẽ tiếp tục lan truyền tới bạn bè, người thân.
+"Lợi dụng tình hình thông tin về lừa đảo và cảnh báo lừa đảo được nhiều người tìm hiểu, đọc và chia sẻ, một số người đã phát triển nội dung mang tính giật gân, câu view liên quan đến cảnh báo lừa đảo, nói về vấn đề không có thật nhưng đánh vào tâm lý muốn giúp đỡ người khác của dân mạng, khiến thông tin càng lan truyền mất kiểm soát", ông Sơn nói.
+"Các nhóm lừa đảo có thể dùng cảnh báo để dẫn dụ người dùng vào kịch bản lừa đảo".
+Vì vậy, theo ông Sơn, nếu nhận được thông tin, bất kể nội dung gì, người dùng luôn cần kiểm chứng lại qua các kênh chính thống như website của cơ quan công an, ngân hàng, báo chí cũng như theo dõi cảnh báo từ hiệp hội, công ty an ninh mạng uy tín.
+Ngoài ra, không chia sẻ thông tin chưa được kiểm chứng để hạn chế phát tán tin đồn không có cơ sở.
+"Tin giả cũng gây hoang mang không kém gì thủ đoạn lừa đảo", chuyên gia này nhấn mạnh.
+"Nếu lạm dụng không gian mạng để cảnh báo bừa bãi như hiện nay, sẽ có lúc không ai dám làm gì nữa, không công ty nào bán được hàng, các kế hoạch chuyển đổi số sẽ bị ảnh hưởng".

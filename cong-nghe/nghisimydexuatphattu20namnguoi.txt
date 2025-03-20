@@ -1,0 +1,24 @@
+"Mỗi USD và GB dữ liệu chảy vào AI Trung Quốc cuối cùng sẽ được sử dụng để chống lại Mỹ", Thượng nghị sĩ Hawley của bang Missouri cho biết khi công bố dự luật mới có tên Đạo luật tách biệt năng lực AI của Mỹ khỏi Trung Quốc tuần trước.
+"Đảm bảo sự vượt trội về kinh tế của Mỹ có nghĩa cần cắt đứt Trung Quốc khỏi Mỹ, ngăn chặn việc trợ cấp giúp Trung Quốc đổi mới".
+Theo Hawley, việc ông đưa ra dự luật bắt nguồn từ DeepSeek - mô hình AI được xây dựng với chi phí thấp nhưng có khả năng cạnh tranh với đối thủ Mỹ.
+Ông gọiDeepSeeklà "mô hình AI thu thập dữ liệu với chi phí thấp, gây ra mối quan ngại quốc tế và khiến cổ phiếu công nghệ Mỹ lao dốc".
+Mục tiêu của ông là cấm nhập khẩu hoặc xuất khẩu công nghệ AI sang Trung Quốc và cấm các công ty Mỹ đầu tư tiền vào phát triển AI của Trung Quốc.
+Theo404Media, một trong các điều khoản của dự luật là nếu "một người cố ý thực hiện, cố ý cố gắng thực hiện, hoặc hỗ trợ và tiếp tay cho việc thực hiện hành vi bất hợp pháp đã được mô tả sẽ bị phạt cao nhất một triệu USD, bị phạt tù cao nhất 20 năm.
+Văn phòng Nghị sĩ Hawley chưa đưa ra bình luận.
+Kevin Bankston, cố vấn cấp cao về quản trị AI tại Trung tâm Dân chủ và Công nghệ Mỹ, nói với404Mediarằng dự luật là "cuộc tấn công rộng rãi vào chính ý tưởng đối thoại khoa học và trao đổi công nghệ với Trung Quốc xung quanh AI".
+Một số chuyên gia cũng lo ngại về đề xuất của Hawley.
+"Dự luật đe dọa đến sự phát triển và công bố những tiến bộ về AI tại Mỹ", Kit Walsh, Giám đốc Dự án pháp lý về AI và Tiếp cận tri thức của Electronic Frontier Foundation, cho biết.
+"Chính phủ từng lập luận trước đây rằng chỉ cần công bố thông tin trên Internet cũng được coi là xuất khẩu.
+Việc diễn giải luật theo cách như vậy sẽ củng cố thêm sự thống trị của AI độc quyền đối với nghiên cứu mở hoặc học thuật".
+Trong động thái tương tự, theoWashington Post, ông Hawley cùng Thượng nghị sĩ Elizabeth Warren đã gửi thư tới Bộ trưởng Thương mại Mỹ vừa được chính quyền Tổng thống Donald Trump chỉ định là Howard Lutnick, rằng cần thắt chặt kiểm soát xuất khẩu chip đối với Trung Quốc.
+"Nhiều chính quyền đã thất bại trong việc cập nhật và thực thi các biện pháp kiểm soát xuất khẩu một cách kịp thời.
+Chúng ta không thể để điều đó tiếp diễn", trích nội dung thư màWashington Postcó được, đăng ngày 3/2.
+Trong thư, cả hai coi DeepSeek là "ví dụ cho việc thất bại trong kiểm soát xuất khẩu", lỗ hổng trong biện pháp kiểm soát xuất khẩu của chính quyền dưới thời ông Joe Biden cho phép DeepSeek mua chip để đào tạo AI, chủ yếu do Nvidia cung cấp.
+Trước đó, trong thư gửi cố vấn an ninh quốc gia Michael Waltz, John Moolenaar, Chủ tịch Ủy ban Chọn lọc Hạ viện về các vấn đề Trung Quốc, cũng kêu gọi kiểm soát xuất khẩu chặt chẽ hơn đối với Trung Quốc.
+Trong khi đó, Nvidia, hãng chip được đánh giá sẽ bị thiệt hại lớn nếu Mỹ tiếp tục siết chặt lệnh cấm AI với Trung Quốc, bày tỏ sự lo ngại trước các đề xuất của nghị sĩ Mỹ.
+"Việc kiểm soát chặt hơn sẽ chỉ khiến thị trường Trung Quốc rơi vào tay các công ty công nghệ địa phương, gây ra hiệu ứng lan tỏa trên toàn thế giới", đại diện công ty nói.
+Tuần trước, CEO Nvidia Jensen Huangđã gặpTổng thống Trump.
+Cả hai được cho là đã đề cập đến DeepSeek cũng như việc ngăn chặn bán chip AI cho các công ty Trung Quốc, theoReuters.
+Mỹ gần đây liên tiếp có hành động mạnh tay nhằm vào DeepSeek.
+Hôm 31/1, Thống đốc bang Texas Greg Abbott đã yêu cầu cấm ứng dụng này cùng với Lemon8, Moomoo, RedNote, Tiger Brokers và Webull, yêu cầu nhân viên và nhà thầu của bang không được tải về, sử dụng trên thiết bị cá nhân và thiết bị của nhà nước, trở thành bang đầu tiên của Mỹ cấm DeepSeek.
+NASA, Hải quân, Hạ viện Mỹ cũngcấm toàn bộnhân viên sử dụng DeepSeek vì lo ngại an ninh quốc gia và quyền riêng tư.

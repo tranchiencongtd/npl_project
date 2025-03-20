@@ -1,0 +1,20 @@
+Pudu D9 là bản kết hợp từ robot dùng bánh xe Pudu D7 cùng bàn tay khéo léo của Pudu DH11 trước đó.
+Với chiều cao 170 cm, trọng lượng 65 kg, robot có kích thước tương tự một người bình thường.
+Đại diện nhà sản xuất cho biết cỗ máy sắp được thương mại hóa.
+So với hầu hết robot hình người có mặt trên thị trường, Pudu D9 được đánh giá có độ hoàn thiện cao hơn, tiềm năng ứng dụng thực tế sớm hơn.
+Thiết bị có cấu trúc hai chân đạt tốc độ di chuyển 2 m/s (7, 2 km/h), nhanh hơn người đi bộ một chút.
+Không chỉ trên mặt phẳng, robot còn di chuyển dễ dàng trên nhiều địa hình, như cầu thang, dốc hoặc nơi có nhiều cát, sỏi.
+Sử dụng thuật toán AI riêng, robot có thể kiểm soát dáng đi, di chuyển nhẹ, giảm tiếng ồn khi hoạt động.
+Hệ thống định vị ngữ nghĩa trực quan thu thập dữ liệu qua cảm biến có độ chính xác cao cho phép tạo bản đồ ngữ nghĩa 3D thời gian thực về môi trường xung quanh, qua đó lập kế hoạch tuyến đường tự động và tự định vị chính xác.
+Pudu Robotics trang bị cho D9 hai cánh tay với 7 khớp tự do, chịu tải 20 kg, giúp di chuyển vật nặng, phù hợp đa dạng về nơi làm việc, từ hộ gia đình, siêu thị đến nhà máy.
+Với khả năng học hỏi nhanh, người dùng chỉ cần thiết lập công việc ban đầu, sau đó robot sẽ học hỏi dần trong quá trình làm việc.
+Với hệ thống cảm biến thị giác, xúc giác, lực và thính giác có độ chính xác cao kết hợp 42 khớp kết nối tự do, D9 có thể thu thập thông tin đa phương thức từ môi trường và xử lý, đưa ra phản hồi nhanh.
+Pudu Robotics nói cỗ máy có thể "tương tác tự nhiên đa phương thức ở cấp độ con người".
+Dù vậy, nhà sản xuất chưa công bố thông tin về mô hình AI đứng sau cũng như dữ liệu đào tạo.
+"Với D9, chúng tôi thiết lập một cỗ máy toàn diện với hình dạng giống người", đại diện Pudu Robotics viết trên blog.
+"Dựa trên nền tảng vững chắc này, công ty đặt mục tiêu đưa trí thông minh nhân tạo lên các cỗ máy trở nên khả thi về mặt thương mại".
+TheoNY Post, D9 có tiềm năng lớn và cạnh tranh với những tên tuổi hàng đầu như Tesla hay Unitree.
+Giá D9 chưa được tiết lộ, nhưng trang này dự đoán có thể nằm ở khoảng 20.000-30.000 USD, tương đươngOptimuscủa Tesla.
+Pudu Robotics được thành lập tại Thâm Quyến năm 2016, ban đầu định hướng là đơn vị chuyên phát triển robot giao đồ ăn.
+Robot Pudu đã được áp dụng rộng rãi trong nhiều ngành công nghiệp khác nhau, gồm ăn uống, bán lẻ, khách sạn, chăm sóc sức khỏe, giải trí, giáo dục và sản xuất, với doanh số 80.000 thiết bị, có mặt ở 60 quốc gia trên toàn cầu.
+Công ty tập trung vào R&D, sản xuất và bán robot dịch vụ, nắm giữ hơn một nghìn bằng sáng chế, gồm nhiều công nghệ cốt lõi về robot.

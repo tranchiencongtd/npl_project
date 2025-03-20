@@ -1,0 +1,22 @@
+"Kể từ khi lên iOS 18.2, camera trên iPhone 16 Pro của tôi hoạt động chập chờn.
+Khi bật ứng dụng máy ảnh, đôi khi chỉ thấy màn hình đen, phải mở lại 2-3 lần mới hoạt động.
+Điều này cũng tương tự khi kích hoạt camera bằng Snapchat", người dùng RedditCryptographerWeary64phản ánh cuối tháng trước.
+"Đèn flash cũng không hoạt động, hoặc đôi khi kích hoạt chậm".
+Dưới phần bình luận, hơn 10 tài khoản cũng cho biết bị sự cố tương tự sau khi cập nhật iOS 18.2.
+"iPhone 16 Pro Max của tôi cũng bị lỗi camera.
+Ban đầu, tôi tưởng do phần cứng, nhưng được giải đáp là do phần mềm sau khi mang thiết bị đi bảo hành", tài khoản Sfjerry415viết.
+"iPhone 16 Pro Max của tôi cũng gặp vấn đề camera và đèn pin sau khi lên iOS 18.2.
+Nhiều người cũng phản ánh tình trạng tương tự trên mạng", tài khoảnFuzzy_Ad_4401cho biết đầu tuần này.
+"Tôi phải liên tục đóng mở lại ứng dụng camera và đèn pin cho đến khi nó hoạt động".
+"Sau khi cập nhật iOS 18.2, iPhone 15 rất chậm, đặc biệt khi sử dụng camera và bị nóng khi chỉnh sửa ảnh.
+FaceID cũng chập chờn, buộc phải mở khóa thiết bị bằng mật khẩu", tài khoản XAnujBundephản ánh hôm 3/1.
+Trên trang hỗ trợ của Apple, một số người nói lỗi xuất hiện sau khi nâng cấp phiên bản iOS mới.
+Tài khoảnBuzsak20phàn nàn không thể theo dõi giấc ngủ của mình trong ứng dụng Health, màn hình chuyển sang màu trắng khi kích hoạt đèn pin, camera, wifi hoặc Bluetooth qua biểu tượng trên màn hình khóa.
+Có 28 người nhấn vào nút "Tôi cũng vậy" trong chủ đề này.
+Trong khi đó, tài khoảnShawZhangcho biết iPhone 16 Pro của vợ anh mở camera chậm, sau đó toàn màn hình hiển thị màu đen.
+"Bằng cách khởi động lại điện thoại, sự cố tạm thời khắc phục, nhưng không biết khi nào sẽ tái diễn", người này chia sẻ tháng trước và hiện nhận 24 lượt nhấn vào nút "Tôi cũng vậy".
+Theo ghi nhận củaPhoneArena, người dùng gặp lỗi chủ yếu đang sử dụng các mẫu thuộc thế hệ iPhone 15 và 16 chạy iOS 18.2, với tình trạng như camera hiển thị nền đen hoặc trắng, không kích hoạt được đèn pin, wifi, Bluetooth qua biểu tượng khi thiết bị đang khóa, FaceID không hoạt động.
+Lỗi có thể khắc phục bằng cách khởi động lại máy hoặc khôi phục cài đặt gốc, nhưng sau một thời gian, vấn đề có thể xuất hiện trở lại.
+Applechưa đưa ra bình luận.
+iOS 18.2 được Applephát hànhngày 11/12/2024.
+Những nâng cấp lớn của phiên bản này đều liên quan đến tính năng Apple Intelligence, gồm Image Playground, Genmoji, Image Wand, tìm kiếm thông minh Visual Intelligence và chính thức tích hợp ChatGPT vào Siri.

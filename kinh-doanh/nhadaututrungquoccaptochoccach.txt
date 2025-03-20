@@ -1,0 +1,42 @@
+Tại Trung Quốc, nhiều khóa học cấp tốc đang mọc lên như nấm nhằm giúp nhà đầu tư cá nhân sử dụng các mô hình máy tính, nhưDeepSeek, để giao dịch chứng khoán.
+Sự phổ biến của DeepSeek đang thay đổi các công ty môi giới và quản lý tài sản tại đây.
+Dù vậy, nó cũng tạo ra nhiều rủi ro mới cho thị trường Trung Quốc - vốn bị thống trị bởi nhà đầu tư nhỏ lẻ.
+"Tương lai là kỷ nguyên số.
+Và AI sẽ là công cụ thiết yếu", Hong Yangjun - giảng viên một khóa học giao dịch chứng khoán bằng AI nói với các nhà đầu tư cá nhân hồi tháng 2.
+Hong ví von giống như trong tương lai, các cuộc chiến giữa robot và thiết bị bay không người lái, thì thị trường chứng khoán sẽ là chiến trường của các máy tính.
+Tình hình hiện tại khác hoàn toàn so với một năm trước.
+Khi đó, nhà đầu tư còn phản đối các quỹ định lượng (quant fund).
+Các quỹ này dùng máy tính để đưa ra quyết định đầu tư, thay vì con người.
+Giới chức Trung Quốc khi đó cũng đổ lỗi cho các quỹ này gây biến động thị trường và tạo ra sự bất công.
+Mọi chuyện giờ đã thay đổi hoàn toàn.
+Tháng trước, rất nhiều nhà đầu tư chấp nhận bỏ ra 15.800 nhân dân tệ (2.179 USD) cho một khóa học cuối tuần về cách giao dịch chứng khoán bằng AI.
+Khóa học này do Mao Yuchun - nhà sáng lập quỹ đầu tư Alpha Squared Capital giảng dạy.
+Sự kiện thu hút nhà đầu tư bằng cách quảng cáo Alpha Squared có liên quan đến High-Flyer - quỹ đầu tư mạo hiểm đứng sau DeepSeek.
+Mô hình AI giá rẻ của Trung Quốc gây bão trên toàn cầu vài tháng qua, nhờ chi phí đầu tư thấp và hiệu năng cao.
+Sự xuất hiện của DeepSeek cũng giúp thị trường chứng khoán nói chung khởi sắc.
+Ngoài các khóa học trực tiếp, mạng xã hội Trung Quốc cũng bùng nổ các khóa học trực tuyến dạy nhà đầu tư dùng DeepSeek để đánh giá doanh nghiệp, chọn cổ phiếu và đưa ra chiến lược đầu tư.
+"Các công cụ này giúp tiết kiệm nhiều thời gian khi chọn mã", Wen Hao - một nhà đầu tư tại Hàng Châu cho biết.
+Anh cũng dùng AI để chọn thời điểm mua và bán.
+Các quỹ đầu tư lớn của Mỹ như BlackRock, Renaissance Technologies và Two Sigma đều sử dụng AI trong hoạt động hàng ngày.
+Vì thế, giới phân tích cho rằng các quỹ và nhà đầu tư nhỏ lẻ tại Trung Quốc cũng hưởng lợi từ sự xuất hiện của DeepSeek.
+Trước đó, ChatGPT bị cấm tại đây từ năm 2023.
+Sau vài năm trầm lắng, năm nay chứng khoán của nền kinh tế thứ hai thế giới có khởi đầu lạc quan.
+Từ đầu năm, chỉ số Shanghai Composite tăng 3, 6%, trong khi chỉ số S&P 500 (Mỹ) giảm 4%.
+Các công ty môi giới chứng khoán tại nước này gần đây gấp rút tích hợp AI vào hệ thống.
+"Trong tương lai, nhà đầu tư sẽ thay đổi hoàn toàn cách họ ra quyết định đầu tư và đặt lệnh.
+Trước đây, họ hỏi các giám đốc quỹ.
+Còn giờ, họ hỏi DeepSeek", Zhou Lefeng - Giám đốc Xiangcai Securities cho biết.
+Larry Cao - nhà phân tích tại FinAI Research - giải thích DeepSeek phổ biến nhờ giá rẻ, hiệu năng tốt và quan trọng là được chính phủ khuyến khích.
+AI cũng là chủ đề nóng tại kỳ họp lưỡng hội năm nay của Trung Quốc.
+Hãng thông tấnXinhuangày 10/3 bình luận nước này sẽ nhanh chóng phát triển thành một "siêu thị trường AI".
+Trong đó, công nghệ này sẽ được tích hợp sâu vào nhiều lĩnh vực kinh tế.
+Dù vậy, Cao ngạc nhiên với mức độ tin tưởng của nhà đầu tư dành cho DeepSeek.
+Ông cảnh báo AI cũng có giới hạn.
+"Mọi người tin AI hơn là các cố vấn tài chính.
+Niềm tin này có thể đang đặt nhầm chỗ.
+Các mô hình ngôn ngữ lớn rất ấn tượng.
+Nhưng ở giai đoạn này, chúng chưa chắc thông minh hơn phần lớn nhà đầu tư", ông giải thích.
+Cao cảnh báo hiệu ứng bầy đàn xảy ra nếu một trường đào tạo nhiều nhà đầu tư nhỏ lẻ giao dịch bằng cách sử dụng cùng một tín hiệu.
+Dù vậy, Feng Ji - CEO Baiont Quant cho rằng ít ra DeepSeek đã thay đổi quan điểm của nhà đầu tư cá nhân về các quỹ định lượng.
+"Mọi người đã nghĩ lại về sự đóng góp cho xã hội của các quỹ định lượng.
+Tôi không cho rằng chúng tôi khiến nhà đầu tư nhỏ lẻ thua lỗ, mà tạo ra thanh khoản và giúp thị trường hoạt động hiệu quả hơn", ông nói.

@@ -1,0 +1,37 @@
+Trong livestream ra mắt Grok 3 trên X, diễn ra từ 11h (theo giờ Hà Nội), Muskngồi cùng ba thành viên của xAI bàn về mô hình trí tuệ nhân tạo được ông giới thiệu là "thông minh nhất trên Trái Đất".
+Tỷ phú Mỹ bắt đầu bài thuyết trình bằng việc giải thích: "Từ 'grok' có nghĩa hiểu một cách đầy đủ và sâu sắc về một điều gì đó".
+xAI đưa ra hàng loạt bài kiểm tra benchmark để cho thấy Grok 3 cao hơn Gemini 2 Pro, Claude 3.5 Sonnet, GPT 4o và DeepSeek V3 khi xét đếm điểm chuẩn Toán, Khoa học và Mã hóa.
+Bên cạnh đó, Musk và nhóm của ông cho biết mô hình cũng sẽ có khả năng suy luận giống DeepSeek R1 và OpenAI o3-mini.
+Tương tự hai mô hình này, Grok 3 sẽ hiển thị chuỗi suy nghĩ chi tiết, cho phép người dùng xem khi chatbot đang suy nghĩ về một vấn đề.
+xAI cũng sẽ "che khuất suy nghĩ một chút" để các công ty khác không thể sao chép chatbot.
+Theo một thành viên xAI, một trong các điểm nhấn của Grok 3 là khả năng tìm kiếm sâu Deep Search tương tự ChatGPT.
+"Deep Search là thế hệ đầu tiên trong hệ thống AI Agent đang triển khai.
+Nó không chỉ giúp các kỹ sư, nhà nghiên cứu và nhà khoa học thực hiện mã hóa, mà còn giúp mọi người trả lời các câu hỏi, những thắc mắc hàng ngày của bạn", người này cho biết.
+"Nó thực sự sẽ giúp bạn tiết kiệm rất nhiều thời gian".
+Cũng theo thành viên này, một vấn đề người dùng trước đây có thể mất nửa giờ hoặc một giờ để nghiên cứu, giờ đây họ chỉ cần 10 phút.
+Grok 3 cũng sẽ hỗ trợ chế độ giọng nói.
+Tuy nhiên, tính năng này đang được hoàn thiện và sẽ có sẵn cho người dùng vài tuần tới.
+Trong bản demo, xAI trình bày cách Grok 3 thực hiện các nhiệm vụ, chẳng hạn tính toán nhiệm vụ tàu vũ trụ có thể bay từ Trái Đất đến Sao Hỏa và quay trở lại, hay tạo trò chơi kết hợp giữaTetrisvàBejeweled.
+Nhóm cho biết AI sẽ một tính năng là Big Brain, mô hình lý luận cho phép suy nghĩ sâu hơn khi xử lý các truy vấn.
+Biến thể "Reasoning Beta", sử dụng quy trình xử lý chuỗi suy nghĩ nội bộ và tính toán bổ sung giúp nâng cao khả năng về toán học, đạt 93% theo chuẩn AIME 2025, cao hơn mức dưới 87% của nhiều mô hình phổ biến.
+"17 tháng trước, Grok thế hệ đầu hầu như không thể giải quyết được các bài toán ở trường trung học.
+Giờ đây, nó sẵn sàng để vào đại học", Musk tuyên bố.
+Giới chuyên gia cũng đánh giá cao Grok 3.
+"Tôi đã trải nghiệm sớm Grok 3.
+Tôi thực sự kinh ngạc, mô hình rất ấn tượng.
+Chúc mừng Elon và nhóm đưa nó vào cuộc sống", nhà khoa học máy tính nổi tiếng Lex Friedman nhận xét.
+"Grok 3 ở đâu đó tiệm cận mô hình mạnh nhất của OpenAI và tốt hơn so với DeepSeek-R1 và Gemini 2.0 Flash Thinking", Andrej Karpathy, nhà đồng sáng lập OpenAI nhưng đã rời công ty, viết trên X.
+"Mô hình rõ ràng có tốc độ và sức mạnh rất lớn".
+Xen giữa buổi livestream, một nhân viên xAI hỏi Musk khi nào Grok sẽ được đưa lên tên lửa.
+"Hai năm tới", nhà sáng lập xAI trả lời.
+Khi được hỏi Grok là "con trai hay con gái", Musk cho biết người dùng có thể thiết lập cho chatbot "bất cứ giới tính nào họ muốn".
+"Mọi người sẽ yêu Grok", ông nhấn mạnh.
+TheoTechCrunch, xAI sử dụng trung tâm dữ liệu khổng lồ ở Memphis với 200.000 GPU để đào tạo Grok 3.
+Trong bài đăng trên X, Musk tuyên bố Grok 3 được phát triển với sức mạnh tính toán "lớn hơn 10 lần" so với mô hình Grok 2.
+Grok 3 được đào tạo trên các tập dữ liệu tổng hợp bằng kỹ thuật học máy như học tăng cường - phương pháp hiệu quả để giảm các phản ứng không chính xác hoặc tưởng tượng do các mô hình AI cung cấp, còn gọi là ảo giác.
+Nó cũng làm giảm đáng kể thời gian đào tạo các mô hình ngôn ngữ lớn (LLM).
+xAI cho biết Grok 3 khi mới phát hành sẽ có một số lỗi, do đó người dùng có thể gặp một số vấn đề cho đến khi AI "trưởng thành và ổn định".
+Công ty cũng ra mắt website riêng cho Grok, trong đó Grok 2 được cung cấp miễn phí còn Grok 3 dành cho người dùng trả phí thông qua gói Premium+ trên mạng xã hội X.
+Một phiên bản khác SuperGrok đang được phát triển với các tính năng hàng đầu cùng tốc độ nhanh hơn, nhưng chưa được tiết lộ thời gian phát hành.
+Musk cũng hé lộ kế hoạch mở mã nguồn Grok 2: "Chúng tôi sẽ mở mã nguồn phiên bản gần nhất khi bản tiếp theo hoàn tất.
+Khi Grok 3 hoàn thiện trong vòng vài tháng nữa, mã nguồn Grok 2 sẽ được mở".

@@ -1,0 +1,51 @@
+Tháng 5/2024, Nicolas Vaiman, 30 tuổi tại Pháp, đọc được thông điệp trên X của Caitlyn Jenner, cựu vận động viên Olympic, sao truyền hình thực tế và chính trị gia Mỹ: "Hãy làm cho nước Mỹ vĩ đại trở lại", bà viết.
+"Chúng tôi yêu tiền số".
+Đi kèm là bức ảnh bà bắt tay với Donald Trump, khi đó là ứng viên tổng thống Mỹ, cùng đường link về token mới có tên $Jenner.
+Meme coinđược tạo ra dựa trên các trò đùa trên Internet, các con vật dễ thương hay trào lưu văn hóa đại chúng.
+Những tiền số này đã xuất hiện trong hơn một thập kỷ qua, không có giá trị về công nghệ blockchain hay mang lại lợi ích thật sự.
+Chúng sinh ra với mục đích giải trí hoặc đầu cơ và giá của chúng có thể tăng vọt khi có sự tham gia của người nổi tiếng.
+Thời gian qua, nhiều meme coin ra đời gắn liền với tên tuổi của người nổi tiếng.
+Có thể kể đến token của võ sĩ quyền Anh Floyd Mayweather, ca sĩ người Nigeria Davido hay vợ chồng Donald Trump với đồng$Trumpvà $Melania.
+Website mà Jenner phát hành token của mình, Pump.fun, là đơn vị tạo các đồng meme hàng đầu với hơn ba triệu token đã đăng ký.
+Nhưng khi hầu hết đổ xô vào meme coin với hy vọng kiếm lời, Vaiman nhận ra đây là một ngành công nghiệp đầy rẫy lừa đảo, cũng là lĩnh vực mà những người nổi tiếng "có thể vừa là mồi nhử vừa là người hưởng lợi".
+Thực tế, Vaiman cũng là nạn nhân của lừa đảo cách đây ba năm, khi bỏ ra 1.000 USD cho token có tên $babycare nhưng số tiền "biến mất không lời giải thích".
+Anh nhận ra mình là nạn nhân của một vụ "bơm xả", khi ai đó mua 90% token, sau đó bán tháo khi giá tăng vọt, để lại cho những người tham gia khác một mớ token vô giá trị.
+Không chấp nhận mất tiền, Vaiman tạo công cụ phần mềm theo dõi token khi chúng đi qua các ví tiền số - chuỗi chữ số cho phép chủ sở hữu gửi và nhận tiền mà không tiết lộ thông tin nhạy cảm.
+Thông qua phần mềm, anh tạo bản đồ trực quan của một token bất kỳ, từ đó phát hiện các dấu hiệurút thảm(rug pull).
+Chỉ vài phút sau khi $Jenner ra mắt, nhóm Vaiman đã nhận ra sự bất thường.
+"Đó là vụ lừa đảo bơm xả được tổ chức cực kỳ tốt", anh nói vớiBusiness Insider.
+Công cụ của Vaiman chỉ ra một địa chỉ bí ẩn đang nắm giữ lượng lớn tiền số.
+Chỉ vài giờ sau cảnh báo, ví này bán tháo số token khiến cộng đồng hoang mang.
+Khi sự phẫn nộ lan rộng, Jenner cho biết đang ở sân golf và nhờ quản lý Sophia Hutchins lên X trấn an.
+Dù vậy, giá đồng $Jenner lao dốc nhanh chóng, mất 65% giá trị từ mức đỉnh vốn hóa 46 triệu USD.
+Trong khi đó, Vaiman và nhóm "thám tử tiền số" đã lần được địa chỉ ví, đang sở hữu token Jenner và 5 token của người nổi tiếng khác.
+Người này là Sahil Arora, công dân Ấn Độ khoảng 20 tuổi sống tại Dubai.
+Theo chia sẻ trên tài khoản Instagram hơn một triệu theo dõi, Arora bỏ học phổ thông, ra mắt ứng dụng taxi Cabby để cạnh tranh với Uber nhưng không thành công.
+Dự án tạo máy ATM Bitcoin của người này cũng phá sản, nhưng lại thành công với việc "hình thành của cải từ bơm và xả".
+Arora cũng thừa nhận là chủ mưu đứng sau vụ rút thảm tiền số của Jenner, thậm chí công bố ảnh chụp màn hình cuộc trao đổi qua tin nhắn và hợp đồng giữa cả hai.
+Dù vậy, người này không bị bắt.
+Nói vớiDecryptnăm ngoái, Arora cho biết người nổi tiếng rất muốn làm ăn với anh ta.
+"Đôi khi tôi đến gặp họ, nhưng hầu hết họ chủ động gặp tôi và thời gian do tôi chọn", Arora nói.
+"Người nổi tiếng là cách duy nhất khiến tiền số trở nên phổ biến hơn và hưởng lợi từ nền kinh tế gây chú ý đó".
+Đối với người nổi tiếng mới tham gia, lời chào hàng của Arora rất đơn giản: Anh ta đóng vai trò cầm đầu, tạo token và lên kế hoạch triển khai.
+Người nổi tiếng sẽ thổi phồng token trên các nền tảng xã hội để đẩy giá lên cao.
+Sau đó, Arora bán hết số token khổng lồ của mình khiến giá trị của chúng sụp đổ.
+Với bản chất phi tập trung, không có cách nào xác định liệu người nổi tiếng có tham gia vào vụ rút thảm, hay họ cũng là nạn nhân của trò lừa từ Arora.
+Một nạn nhân khác của Arora là rapper Iggy Azalea.
+Arora quảng cáo sẽ tạo một token lớn hơn, khiến token Jenner "trông nhỏ bé".
+Tuy nhiên, quản lý của Azalea là Reece Pearson đã liên hệ với trợ lý Hutchins của Jenner để xác định thông tin.
+"Anh ta lừa chúng tôi khoảng ba triệu USD", Hutchins nói với Pearson.
+"Chúng tôi đang cố gắng hợp tác với nhà chức trách để bắt anh ta, nhưng chưa tìm thấy".
+Nhưng sau đó, Azalea vẫn bắt tay với Arora tung ra token của mình là $Mother, kêu gọi mọi người mua tiền số.
+Bằng công cụ của mình, Vaiman cũng theo dõi và phát hiện một ví có đuôi "JEEt3D1" mua 20% token trước khi nó công khai.
+Sau khi lên sàn và đạt đỉnh, ví này lập tức bán toàn bộ với giá hai triệu USD.
+Azalea phủ nhận ví là của mình.
+"Tôi chưa bao giờ bán tháo hai triệu USD đó", cô nói trên podcastUnchained, cho biết chỉ sở hữu 3% tổng cung token.
+Cô cũng đổ lỗi cho "người giấu tên có quyền kiểm soát cuối cùng về cách token này tồn tại hay chết".
+Với việc bị nhiều người nổi tiếng như Jenner và Azalea cáo buộc gian lận, Arora bị chặn trên X vì vi phạm điều khoản dịch vụ.
+Trên Instagram, người này thỉnh thoảng vẫn khoe xe sang, cũng như hợp tác tung ra meme coin mới.
+Tuy nhiên, theo điều tra của Vaiman, một số người nổi tiếng cũng lợi dụng Arora để kiếm lợi cho mình bằng chiêu rug pull.
+"Nhiều người nổi tiếng muốn có một vật tế thần", Vaiman nói.
+"Vì vậy, họ có thể nói mình làm việc với Sahil Arora, giả vờ đang bị lừa và sau đó họ có một cái cớ khi mọi thứ trở nên tồi tệ".
+Trong khi đó, Jenner đang đối mặt với rắc rối pháp lý từ đơn kiện tập thể của hơn 1.000 nhà đầu tư đã mua token $Jenner.
+Họ cáo buộc bà "dụ dỗ gian lận các nhà đầu tư thiếu hiểu biết về tài chính".

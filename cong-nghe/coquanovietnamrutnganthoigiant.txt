@@ -1,0 +1,19 @@
+Theo cẩm nang "Đổi mới sáng tạo trong khu vực công ở châu Á - Thái Bình Dương với AI mã nguồn mở", được Deloitte công bố ngày 14/3, một số chính phủ trong khu vực châu Á - Thái Bình Dương đã đưa AI mã nguồn mở vào hoạt động, giúp tối ưu hóa quy trình, nâng cao trải nghiệm.
+Việt Nam nằm trong số này, đồng thời cũng là thị trường đầu tiên cẩm nang ra mắt, nói về ứng dụng thực tiễn của AI trong hoạt động của khu vực công.
+Hai trường hợp được đánh giá ấn tượng và được chia sẻ trong cẩm nang là việc ứng dụng mô hình Llama của Meta trong hoạt động tại hai Bộ.
+Trong đó, Bộ Tư pháp và Viettel sử dụng Llama triển khai trợ lý pháp lý ảo, giúp giảm 30% thời gian nghiên cứu văn bản pháp luật.
+Bộ Thông tin và Truyền thông (hiện hợp nhất với Bộ Khoa học và Công nghệ) hợp tác cùng Misa thử nghiệm trợ lý ảo giúp rút ngắn 98% thời gian tra cứu thông tin cho cán bộ.
+Ông Bùi Thanh Minh, Phó tổng giám đốc Misa, cho biết sản phẩm hoạt động dưới dạng một chatbot có thể thực hiện truy vấn bằng ngôn ngữ tự nhiên để tìm các văn bản pháp lý.
+Nó có thể tra cứu thông tin nội bộ từ sở, ban, ngành và từ hướng dẫn của Bộ, bao gồm bài phát biểu, bài báo, câu hỏi thường gặp, kiến thức chuyên sâu và dữ liệu thống kê.
+Ứng dụng hỗ trợ nhiều định dạng dữ liệu, như Word, Excel, PDF và liên kết web.
+Về kỹ thuật, trợ lý ảo được hỗ trợ thông qua phiên bản tinh chỉnh Llama-3-70B cho tiếng Việt, đồng thời tích hợp liền mạch với các hệ thống công nghệ thông tin hiện có qua API.
+Thử nghiệm cho thấy hiệu quả của giải pháp đạt độ chính xác tối thiểu 80%, giảm đáng kể thời gian tra cứu dữ liệu.
+Khảo sát trước khi triển khai, việc truy xuất thông tin của cán bộ thường mất 15-30 phút.
+"Với giải pháp mới được thử nghiệm trên 1.000 cán bộ, thời gian truy xuất còn 30 giây", ông Minh nói.
+"Việc này giúp tiết kiệm 12, 5% thời gian làm việc hàng ngày của nhân sự, từ đó giúp họ tập trung vào nhiệm vụ có giá trị cao hơn".
+Theo đại diện Misa, việc sử dụng mô hình mã nguồn mở giúp nhà phát triển có thể duy trì toàn quyền kiểm soát về độ tin cậy và cập nhật, tránh thay đổi dịch vụ đột ngột có thể ảnh hưởng đến hoạt động.
+"Llama được chọn vì khả năng triển khai trên hệ thống nội bộ, đảm bảo dữ liệu nhạy cảm vẫn nằm trong cơ sở hạ tầng do Việt Nam kiểm soát, đồng thời cung cấp phản hồi độ trễ thấp do không phụ thuộc vào API trên nền tảng đám mây", ông Minh cho biết.
+AI mã nguồn mở đang trở thành xu hướng, với những tên tuổi nhưMetahay gần đây làDeepSeek.
+Trung tâm Đổi mới sáng tạo quốc gia NIC ngày 14/3 cũng công bố dự ánViGenphát triển bộ dữ liệu tiếng Việt mã nguồn mở chất lượng cao dùng cho các mô hình AI phục vụ người dân trong nước.
+Theo Deloitte, mô hình AI mã nguồn mở phù hợp nhờ khả năng triển khai tại khu vực công với các đặc điểm như: khả năng tinh chỉnh cao cho các nhu cầu đặc thù, có thể triển khai trên hệ thống nội bộ hoặc trên nền tảng đám mây riêng để tăng cường kiểm soát; giảm chi phí; duy trì được quyền kiểm soát các mô hình, bản cập nhật và công cụ hỗ trợ.
+"AI mã nguồn mở đang trở thành một động lực quan trọng trong việc định hình tương lai của lĩnh vực công", ông Chris Lewin, đại diện Deloitte, chia sẻ.

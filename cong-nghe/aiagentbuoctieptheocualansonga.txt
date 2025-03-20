@@ -1,0 +1,53 @@
+Theo các chuyên gia, một trong cácxu hướng công nghệ2025 là sự nở rộ của AI Agent - tác nhân AI, "bước đệm" trước khi nhân loại tiến đến siêu trí tuệ nhân tạo AGI.
+Theo ông Nguyễn Hồng Phúc, Giám đốc Khoa học của Conductify AI, trí tuệ nhân tạo là một công nghệ rất đặc biệt khi sự tiến bộ của nó xảy ra nhanh hơn, toàn diện hơn nhiều so với các công nghệ khác như công nghệ sinh học hay máy tính lượng tử.
+"Trung bình cứ hai tuần, AI có đột phá nhỏ, một tháng có đột phá lớn, và năm qua tạo nên đột phá thay đổi toàn diện", ông nói.
+Năm 2024, con người khai phá, dạy cho AI nhiều khả năng mới bên cạnh năng lực tạo sinh văn bản như ChatGPT của 2023.
+AI dần trở thành ứng dụng quen thuộc để tạo hình ảnh, video, âm thanh, giúp sáng tạo nội dung và học tập kiến thức mới.
+"Tuy nhiên, vẫn còn đó câu hỏi: AI sẽ ứng dụng như thế nào để thay đổi hiệu quả cách thức con người làm việc?", ông Phúc cho hay.
+Hầu hết mô hình AI chưa thể hoàn toàn thay đổi cách con người làm việc.
+Các mô hình GPT và o của OpenAI, hay hàng loạt tên tuổi khác như Google Gemini, Anthropic Claude, Meta Llama, DeepSeek đang giúp tăng tốc năng suất.
+Nhưng con người vẫn phải thực hiện công việc như cũ, chỉ nhanh hơn và làm được nhiều hơn.
+Cho đến khi AI Agent ra đời.
+AI Agent là gì?
+Cuối 2024, các tập đoàn công nghệ lớn và các nhà khoa học trên thế giới bắt đầu nhắc nhiều đến một từ khóa: AI Agent.
+Thực tế, khái niệm này đã xuất hiện rải rác từ năm 2023 để nói về khả năng trí tuệ nhân tạo có thể hỗ trợ các công việc nhàm chán, lặp đi lặp lại.
+"Hãy tưởng tượng AI làm dịch vụ khách hàng có thể dự đoán nhu cầu của người dùng trước khi đưa ra câu trả lời, hay AI quản lý kết nối mạng có thể xác định các vấn đề tiềm ẩn và xử lý tự động, đảm bảo dịch vụ không gián đoạn", Liz Centoni, Giám đốc Trải nghiệm khách hàng của Cisco, nói vớiNational Technology.
+"Đây sẽ là xu hướng nổi bật của 2025, khi AI tự chủ và tự động hóa, cũng như tích hợp vào thiết bị cá nhân, IoT, robot...
+để thực hiện tác vụ trong tình huống thực tế".
+Theo ông Phúc, có thể hiểu AI Agent là hệ thống trí tuệ nhân tạo có khả năng hoạt động tự động và ra quyết định dựa trên các mục tiêu cụ thể do con người đặt ra.
+"Không giống chatbot hoặc trợ lý ảo chỉ có thể hỏi đáp, AI Agent được thiết kế để thực hiện các nhiệm vụ phức tạp, tương tác được với các hệ thống khác, và đôi khi làm việc liên tục không cần sự can thiệp của con người.
+Nói cách khác, nó không chỉ phản hồi câu hỏi như chatbot hiện tại mà còn chủ động hoàn thành nhiệm vụ và tự đưa ra quyết định khi cần", ông Phúc nói.
+Trong khi đó, ông Trần Thế Trung, Viện trưởng Nghiên cứu Công nghệ FPT, cho biết, xét một cách tổng quát, AI Agent là hệ thống tự động thực hiện tác vụ nghề nghiệp "gần tương tự cách con người hoặc nhân viên trong tổ chức" nhưng không cần đến sự hỗ trợ hay can thiệp của con người mà vẫn có thể đạt hiệu quả cao khi hành động.
+Còn theo IBM, AI Agent là hệ thống hoặc phần mềm thay mặt con người tự động thực hiện một loạt tác vụ, bằng cách tự thiết kế thứ tự vận hành tác vụ của mình và tận dụng những công cụ sẵn có.
+Amazon định nghĩa AI Agent là chương trình phần mềm có thể tương tác với môi trường của nó, thu thập và sử dụng dữ liệu để thực hiện các nhiệm vụ tự xác định để đạt được các mục tiêu định trước.
+Con người đặt ra các mục tiêu, nhưng một tác nhân AI độc lập sẽ lựa chọn các hành động tốt nhất mà nó cần thực hiện để đạt được các mục tiêu đó.
+AI Agent làm được gì trong năm nay?
+Theo ông Phúc, AI Agent thực sự đột phá khi so sánh với chatbot, khi thay đổi cơ bản từ AI chỉ hỏi - đáp sang tự động thực hiện quy trình công việc.
+"Phần nào ước mơ AI làm thay công việc nhàm chán cho con người sẽ diễn ra ngay từ năm 2025", ông nói.
+Chuyên gia công nghệ Duy Luân đánh giá AI Agent đã có khả năng "tự suy nghĩ" ở một mức độ nào đó, cũng như khả năng sử dụng các công cụ mà nó được chỉ định.
+"Gần như lĩnh vực nào cũng có thể ứng dụng AI Agent, phổ biến nhất là điều khiển máy tính, tìm kiếm và phản hồi thông tin dựa vào câu trả lời đầu vào, hỗ trợ khách hàng...", ông Luân nhận xét.
+Thực tế trên thế giới, một số tập đoàn công nghệ lớn đang hướng đến dùng AI Agent làm nhiệm vụ thay nhân viên.
+CEO Meta Mark Zuckerberg hồi tháng 1 cho biết AIngày càng mạnh mẽvà khả năng cao sẽ thực hiện được công việc của kỹ sư cấp trung trong công ty năm nay.
+Tháng 12/2024, Salesforce, công ty dữ liệu đám mây của Mỹ, tuyên bố không tuyển thêm bất kỳ kỹ sư phần mềm nào trong 2025 do năng suất công việc đang tăng đáng kể nhờ AI.
+Công ty cho biết đã phát triển một AI Agent tự động, có thể tùy chỉnh hoàn toàn, kết nối với dữ liệu doanh nghiệp và thực hiện các tác vụ trong lĩnh vực bán hàng, dịch vụ khách hàng, tiếp thị và thương mại.
+Trong khi đó, CEO OpenAI Sam Altman dự đoán đội ngũ nhân viên ảo sẽ gia nhập lực lượng lao động sớm nhất năm nay.
+"Tôi tin trong 2025, chúng ta có thể chứng kiến cácAI Agent, hay nhân viên ảo, lần đầu tham gia lực lượng lao động và thay đổi đáng kể năng suất của các công ty", Altmanviết trên blog ngày 6/1.
+"Việc đưa các công cụ tuyệt vời vào tay mọi người theo từng bước sẽ mang đến kết quả đáng kể, ngày càng được phân bổ rộng rãi".
+Trong dự báo 6 xu hướng trí tuệ nhân tạo bùng nổ năm 2025, Microsoft Việt Nam đánh giá các tác nhân AI sẽ "định hình lại công việc".
+"Với tiến bộ vượt bậc về trí nhớ, suy luận và khả năng đa phương thức, AI Agent có thể xử lý nhiệm vụ phức tạp với kỹ năng và cách tương tác tinh vi hơn", công ty dự báo.
+Cùng quan điểm, ông Nguyễn Như Dũng, Giám đốc điều hành Cisco khu vực Việt Nam, Lào và Campuchia, dự đoán AI sẽ phát triểntrở thành một phầntrong lực lượng lao động, có thể thực hiện một số nhiệm vụ thay con người.
+Việt Nam tham gia xu hướng này thế nào?
+"Việt Nam sẽ có hàng nghìn nhân sự AI, nói cách khác là hàng nghìn mô hình thành thục trong mọi ngóc ngách cuộc sống.
+Những trợ lý đó có thể giúp một lúc hàng triệu người, tăng năng suất lao động lên chục lần.
+Khi đã tự động hóa, trợ lý AI sẽ thực hiện công việc với tốc độ phi nhân bản, nhanh hơn con người rất nhiều lần", ông Trương Gia Bình mô tả về tương lai trí tuệ nhân tạo tại Việt Nam trongcuộc phỏng vấnvớiVnExpresstháng 12/2024.
+Trước đó hai tháng, FPT ra mắt AI Agent đầu tiên trong sự kiện Techday 2024.
+"Đây là sản phẩm do chuyên gia của tập đoàn phát triển, dùng trong việc tạo và vận hành AI Agent đa ngôn ngữ, sử dụng trí tuệ nhân tạo sinh tiên tiến và mô hình ngôn ngữ lớn (LLM).
+Nền tảng giúp doanh nghiệp xây dựng đội ngũ nhân sự AI, cộng tác hiệu quả với con người", ông Vũ Anh Tú, Giám đốc công nghệ FPT, nói.
+"Tác nhân AI sẽ có ở mọi nơi, đồng hành với con người trong mọi công việc như lập trình, xử lý hồ sơ, viết email.
+Mục tiêu của chúng tôi là mỗi người FPT có một AI Agent để tăng năng suất, mỗi khách hàng có ít nhất một AI Agent chăm sóc.
+Năm nay, chúng tôi sẽ đẩy mạnh tiến trình này".
+Còn theo ông Trần Thế Trung, Việt Nam đã có đơn vị tích lũy được hạ tầng tính toán lớn nằm trong lãnh thổ Việt Nam, qua đó nhanh chóng phát triển thuật toán trí tuệ nhân tạo vận hành các AI Agent.
+"Cùng với đó, cũng có đơn vị tích lũy được dữ liệu để huấn luyện cho các AI Agent", ông cho hay.
+Ngoài ra, ông cũng cho biết một số công ty trong nước đã khởi động dự án robot hình người để kết hợp với tác nhân AI.
+"Với xu hướng AI Agent trên thế giới, Việt Nam có cơ hội đi cùng những làn sóng đầu tiên.
+Tuy nhiên điều này còn phụ thuộc vào nhận thức và hành động của những đơn vị đầu ngành và của Chính phủ", ông nói thêm.

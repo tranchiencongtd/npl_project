@@ -1,0 +1,24 @@
+Công ty khởi nghiệp Trung QuốcDeepSeekngày 20/1 công bố mô hình V3 miễn phí và R1 "được đào tạo trên chip kém tiên tiến của Nvidia, mã nguồn mở 100%, rẻ hơn 96, 4% so với OpenAI o1 trong khi mang lại hiệu suất tương tự".
+Điều này đã gây ra sự hoảng loạn trong các công ty công nghệ Mỹ và trên thị trường chứng khoán, đồng thời thu hút sự chú ý vào người đứng sau DeepSeek.
+Truyền thông Trung Quốc cho biết startup AI này đặt trụ sở tại thành phố Hàng Châu.
+Cổ đông nắm quyền kiểm soát công ty là Liang Wenfeng, 40 tuổi, tốt nghiệp chuyên ngành vềAItại Đại học Chiết Giang.
+Ông đồng sáng lập quỹ đầu cơ định lượng High-Flyer vào năm 2015, nổi tiếng nhờ sự sáng tạo trong ứng dụng các chiến lược giao dịch dựa trên nền tảng AI.
+Hồi năm 2023, High-Flyer Quant tuyên bố tập trung vào xây dựng chi nhánh chuyên biệt để nghiên cứu về siêu trí tuệ nhân tạoAGI.
+Quỹ cũng sở hữu nhiều bằng sáng chế liên quan đến các cụm chip được dùng để huấn luyện mô hình AI.
+Liang được cho là đã bắt đầu mua hàng nghìn chip đồ họaNvidiatừ năm 2021 để phục vụ dự án AI, trước khi chính quyền của cựu tổng thống Mỹ Joe Biden áp hạn chế xuất khẩu sang Trung Quốc.
+Bộ phận AI của High-Flyer năm 2022 tuyên bố đã sở hữu và vận hành khoảng 10.000 chip Nvidia A100.
+Trong phỏng vấn hồi tháng 7/2024, Liang tiết lộ tham vọng đối với DeepSeek và chiến lược AI tổng thể của Trung Quốc.
+"Các doanh nghiệp Trung Quốc suốt nhiều năm quen dùng các sáng tạo công nghệ phát triển ở nước ngoài và kiếm tiền bằng ứng dụng dựa vào chúng.
+Điều này không bền vững.
+Mục tiêu của chúng tôi không phải kiếm lời nhanh chóng, mà mở rộng ranh giới công nghệ để thúc đẩy phát triển hệ sinh thái", ông nói.
+Một trong những đối tác kinh doanh của Liang kể vớiFT: "Lần đầu tiên chúng tôi gặp, cậu ấy giống anh chàng rất mọt sách với kiểu tóc khủng khiếp và nói về việc xây dựng cụm 10.000 chip để đào tạo mô hình của riêng mình.
+Chúng tôi không để tâm lắm.
+Cậu ấy không thể diễn đạt được tầm nhìn của mình ngoài việc nói: Tôi muốn tạo dựng điều này và nó sẽ là một thay đổi lớn.
+Chúng tôi nghĩ những thứ như thế chỉ có thể thực hiện được bởi những gã khổng lồ như ByteDance và Alibaba".
+Giới lãnh đạo Trung Quốc cũng đang chú ý đến DeepSeek.
+Trước khi mô hình R1 ra mắt, Liang được mời tham gia hội thảo kín của các doanh nghiệp trong ngành, do Thủ tướng Trung Quốc Lý Cường chủ trì ngày 20/1.
+Giới chuyên gia nhận định DeepSeek hiện chưa có nguy cơ bị chính phủ Mỹ áp đặt lệnh cấm.
+"Họ cũng chưa tung ra bản thương mại hoặc phương án tính phí, nên không chịu tác động trực tiếp về tài chính nếu bị Mỹ hạn chế.
+Họ chưa nhận đầu tư từ bên ngoài, tất cả ngân sách đều lấy từ quỹ đầu cơ của nhà sáng lập, nên cũng không có áp lực để cổ đông thoái vốn", nhà phân tích Phelix Lee của Morningstarcho hay.
+DeepSeek dùng mã nguồn mở, nên kịch bản khả thi nhất là các công ty Mỹ có thể dùng bộ mã công khai của doanh nghiệp Trung Quốc để hoàn thiện mô hình do chính mình phát triển.
+"Điều này có thể giúp giảm chi phí tính toán AI toàn cầu", ông Lee nói thêm.

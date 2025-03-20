@@ -1,0 +1,7 @@
+TechDroider, tài khoản YouTube chuyên về thiết bị công nghệ có gần một triệu người theo dõi, thử nghiệm thời lượng pin của các smartphone đầu bảng gồm Samsung Galaxy S25 Ultra (5.000 mAh), iPhone 16 Pro Max (4.685 mAh), OnePlus 13 (6.000 mAh), Xiaomi 15 Pro (6.100 mAh), Honor Magic 7 Pro (5.270 mAh), Google Pixel 9 Pro XL (5.060 mAh) và Galaxy S24 Ultra (5.000 mAh).
+Các thiết bị được đặt ở độ sáng và tần số quét cao nhất, không bị hạn chế hiệu năng, sau đó chạy các bài kiểm tra và đếm thời gian.
+Kết quả, Google Pixel 9 Pro XL "bỏ cuộc" sớm nhất với 10 tiếng 9 phút, nhiệt độ trung bình 38, 1 độ C, sau đó đến Galaxy S24 Ultra với 10 tiếng 16 phút, nhiệt độ 41, 6 độ C.
+Honor Magic 7 Pro cạn pin sau thời gian 10 tiếng 20 phút nhưng hoạt động mát hơn với 38, 2 độ C.
+Trong khi đó, Galaxy S25 Ultra mới nhất đạt 11 tiếng 5 phút, khá nóng với nhiệt độ trung bình 43, 9 độ C.
+Chỉ số này chênh lệch không nhiều so với OnePlus 13 với 11 tiếng 16 phút, 44 độ C; và Xiaomi 15 Pro với 11 tiếng 19 phút, 47 độ C.
+Với dung lượng pin thấp nhất, iPhone 16 Pro Max vẫn cho thấy khả năng hoạt động hiệu quả khi đạt thời gian sử dụng 11 tiếng 21 phút, dù nhiệt độ trung bình khá cao, với 45 độ C.

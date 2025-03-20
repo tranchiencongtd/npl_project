@@ -1,0 +1,22 @@
+Tại triển lãm di động lớn nhất thế giới MWC 2025 diễn ra tuần này ở Tây Ban Nha, Viettel cho biết đã ký thỏa thuận để đưa thiết bị viễn thông lên mạng lưới của Emirates Integrated Telecommunications (DU), một trong những nhà mạng hàng đầu tại UAE và khu vực Trung Đông.
+Hai hạng mục được triển khai giai đoạn đầu là mạng 5G Open RAN công cộng và mạng riêng 5G riêng.
+Viettel cho biết việc DU sử dụng hệ thống 5G Open RAN đánh dấu lần đầu tiên thiết bị viễn thông trong nước sản xuất được đưa vào mạng lưới của một nhà mạng nước ngoài.
+Số lượng trạm và thời gian triển khai chưa được hé lộ.
+Trước đây, hãng từng xuất khẩu một số hệ thống 5G Private dùng trong mạng riêng của một số doanh nghiệp tại Ấn Độ.
+RAN là phần truyền dẫn vô tuyến kết nối thiết bị đầu cuối của người dùng với mạng, trước khi được xử lý qua phần mạng lõi.
+Trước đây, đa số nhà mạng sử dụng hệ thống RAN truyền thống, thường do một đơn vị duy nhất cung cấp vì tính "đóng" và không tương thích với thiết bị của hãng khác.
+Chuẩn mở Open RAN giúp các nhà mạng có thể linh hoạt kết hợp sản phẩm của nhiều nhà cung cấp khác nhau, giúp tối ưu hóa chi phí cũng như hiệu quả khai thác.
+Tháng 11 năm ngoái, Viettel cho biết đã xây dựng thành công các trạm5G Open RAN, dự kiến lắp cho 300 trạm trong nước và xuất khẩu ra nước ngoài vào đầu 2025.
+Chia sẻ vớiVnExpresschiều 7/3, đại diện Viettel High Tech (VHT) nói việc được nhà mạng nước ngoài sử dụng mang ý nghĩa "bảo chứng" cho chất lượng của sản phẩm Việt.
+"Các nhà khai thác viễn thông trước khi mua thường đặt câu hỏi thiết bị đã được triển khai ở những nhà mạng nào, quốc gia nào?", ông Nguyễn Tiến Long, Phó giám đốc Trung tâm Kinh doanh VHT, cho hay.
+Theo ông Long, Viettel chưa phải tên tuổi lớn trong lĩnh vực cung cấp thiết bị viễn thông trên toàn cầu, dù các thiết bị do họ sản xuất đã được triển khai ở nhiều thị trường.
+Tuy nhiên, với việc hợp tác với DU, một nhà mạng lớn và có các yêu cầu kỹ thuật cao, suy nghĩ trên có thể thay đổi.
+Đại diện VHT cũng cho biết họ có thể cung cấp thiết bị trên tất cả các lớp mạng viễn thông, từ mạng lõi đến vô tuyến, tức giải pháp toàn trình.
+"Sở hữu công nghệ toàn trình và tự R&D nên sẽ có năng lực tùy biến cao.
+Đây là tính năng quan trọng ở mạng 5G và 5G Private, giúp chúng tôi đáp ứng nhanh nhu cầu khách hàng, rút ngắn thời gian đưa sản phẩm ra thị trường", ông Long nói.
+Theo Tổng giám đốc DU Fahad Al Hassawi, tích hợp 5G Private và OpenRAN từ Viettel sẽ giúp công ty xây dựng hệ sinh thái viễn thông thế hệ mới, mang lại giá trị cho doanh nghiệp, chính phủ và cộng đồng.
+Nhà mạng từ UAE đang ưu tiên đầu tư vào hạ tầng viễn thông để thúc đẩy tăng trưởng kinh tế đồng thời đạt mục tiêu trở thành trung tâm công nghệ viễn thông trên thế giới.
+Hỗ trợ triển khai thiết bị Viettel lên mạng lưới của DU là HCT Group.
+Ông Salah Ali, CEO HCT Group, cho biết: "Mục tiêu năm 2025 của chúng tôi là triển khai 5G Private quy mô lớn, hỗ trợ các nhà mạng khu vực hiện đại hóa hạ tầng cốt lõi và mạng RAN, giúp họ chuyển đổi thành công từ 4G sang 5G".
+Thiết bị của Viettel đã được đơn vị này thử nghiệm tại một số thị trường như UAE, Thổ Nhĩ Kỳ, Iraq, Oman và Yemen.
+"Nếu thử nghiệm đạt kết quả như mong đợi, thiết bị mạng của Việt Nam có thể tiếp tục được cung cấp đến những nhà mạng khác", đại diện VHT nói.

@@ -1,0 +1,44 @@
+Nguyễn Nhật Quang, 23 tuổi, là cựu sinh viên ngành Khoa học Máy tính, Đại học Rice, Mỹ.
+Hiện, Quang là kỹ sư ở tập đoàn Microsoft, làm việc tại trung tâm về dữ liệu đám mây và trí tuệ nhân tạo.
+Hơn bốn năm trước, cựu học sinh chuyên Toán trường THPT chuyên Hà Nội - Amsterdam trúng tuyển Đại học Rice với học bổng 6, 5 tỷ đồng.
+Sớm đặt mục tiêu có việc ở Mỹ, Nhật Quang tận dụng mọi cơ hội để tích lũy kinh nghiệm.
+Biết rằng sinh viên năm thứ nhất gần như không thể xin thực tập, Quang tập trung hoạt động ở trường bằng cách tham gia câu lạc bộ lập trình Rice Apps và làm nghiên cứu khoa học.
+Sản phẩm mà Quang tự hào nhất trong thời gian này là cải tiến website đăng ký tín chỉ cho sinh viên Đại học Rice.
+Dựa trên nền tảng đã có, anh và nhóm xây dựng lại giao diện website, bổ sung các tính năng hiển thị thông tin lớp, đánh giá của những sinh viên đã học.
+Anh cho biết đến bây giờ, website vẫn được sinh viên Rice sử dụng hàng ngày.
+Sang năm thứ hai, Quang bắt đầu xin thực tập ở ngoài trường, hướng tới vị trí kỹ sư phần mềm ở công ty công nghệ lớn.
+Theo Quang, nhìn chung quá trình xin thực tập không khác nhiều với chính thức, thường gồm 3-4 vòng như hồ sơ, kiểm tra trực tuyến, phỏng vấn với các kỹ sư và quản lý.
+Quang trúng tuyển thực tập tại Facebook vào năm hai, tham gia phát triển tính năng "tặng sao" cho người sáng tạo nội dung video ngắn (reel).
+Lần đầu làm ở công ty lớn, Quang rèn khả năng tự giác làm việc, học cách giao tiếp và làm việc nhóm.
+Hè năm sau, anh tiếp tục tới Nvidia thực tập, được giao xây dựng phần mềm mô phỏng môi trường xung quanh cho xe tự hành.
+Do yêu cầu công việc, anh phải tự học ngôn ngữ lập trình C++ trong một tuần, đọc thêm nhiều sách và tài liệu liên quan.
+Cindy, quản lý kỹ thuật tại Meta, công ty vận hành và quản lý Facebook, đánh giá Quang ở mức xuất sắc sau quá trình thực tập.
+Cô nhận xét Quang có đam mê, sự tìm tòi trong công việc.
+Còn Víctor Moreno, người hướng dẫn trực tiếp ở Nvidia, nhận xét Quang là một trong những thực tập sinh chăm chỉ và tận tụy.
+Quang có thể chủ động đưa ra ý tưởng, tự mình xây dựng kế hoạch thiết kế, chịu khó lắng nghe phản hồi và tiếp thu ý kiến.
+Nhận xét về vòng tuyển dụng của hai công ty lớn, Quang thấy Facebook khó hơn, do phần kiểm tra yêu cầu ứng viên xử lý hai bài toán về cấu trúc dữ liệu trong 45 phút, còn Nvidia đưa ra một bài trong 60 phút.
+Ở vòng phỏng vấn, nhà tuyển dụng ở Facebook hỏi nhiều về kỹ năng giải quyết bài toán, bên Nvidia lại kiểm tra nhiều về kỹ năng xử lý tình huống, hành vi.
+Thực tập được nửa thời gian ở Nvidia, Quang tìm cơ hội ứng tuyển nhân viên chính thức nhưng được cho biết vị trí anh quan tâm không tuyển dụng.
+"Thực ra không riêng Nvidia, làn sóng sa thải lúc ấy vẫn căng thẳng, nên các công ty cũng không tuyển mới nhiều, nhất là người mới ra trường và thực tập sinh", Quang nhớ lại.
+Chàng trai Hà Nội bắt đầu tìm việc chính thức từ tháng 7/2023, trước lịch tốt nghiệp một năm.
+Quang nói sốt ruột bởi biết nhiều người có 2-3 năm, thậm chí 10 năm kinh nghiệm bị sa thải, sẵn sàng ứng tuyển ở vị trí thấp hơn so với năng lực.
+Điều này đẩy mức độ cạnh tranh lên cao hơn, khiến những tân cử nhân như Quang thấy lo lắng vì thua kém cả "tuổi đời, tuổi nghề".
+Quang chuẩn bị 17 resume (tóm tắt kinh nghiệm làm việc, kỹ năng và thành tựu).
+Tùy công ty và vị trí, Quang sẽ gửi resume đề cập các thành tích phù hợp, nhằm tối ưu hóa cơ hội.
+Quang cũng thường xuyên luyện tập phỏng vấn bằng cách tự hỏi và trả lời, vì "không biết cơ hội sẽ đến lúc nào".
+Anh còn trò chuyện và xin kinh nghiệm từ các cựu sinh viên, tìm hiểu về văn hóa công ty và luyện các bài toán về giải thuật, cấu trúc dữ liệu.
+Quang cho biết gửi đi hơn 600 hồ sơ nhưng chỉ nhận phản hồi của 37 công ty, trong đó anh vào tới vòng cuối của 15 nơi, trúng tuyển 4.
+Cuối năm 2023, Quang nhận được lời mời làm việc đầu tiên, của một công ty dầu khí.
+Dù chưa thật sự ưng ý với những đãi ngộ, anh thấy nhẹ nhõm vì ít nhất đã có việc làm.
+Hai tháng sau, lần lượt TikTok và Microsoft gửi thư chúc mừng chàng trai Việt.
+"Microsoft có mọi thứ mình cần, như nền tảng công ty vững mạnh, đãi ngộ tốt, lại hỗ trợ bảo lãnh visa H-1B - thị thức tạm trú diện lao động", Quang nói.
+"Tại đây, mình cũng được làm mảng yêu thích là lập trình hệ thống và các dự án liên quan cơ sở dữ liệu lớn".
+Về quy trình tuyển dụng của Microsoft, sau khi qua vòng đơn, Quang làm bài kiểm tra trực tuyến dài khoảng hai tiếng về logic và lập trình, rồi được một quản lý và hai lập trình viên phỏng vấn, mỗi người một tiếng.
+Nội dung về kiến thức lập trình và xử lý tình huống.
+Tự đánh giá, Quang thấy hồ sơ thể hiện được nhiều khía cạnh của bản thân.
+Trên trường, ngoài sinh hoạt câu lạc bộ và tạo ra các sản phẩm được dùng rộng rãi, Quang có ba năm làm trợ giảng cho 6 môn chuyên ngành kỹ thuật; giành nhiều giải thưởng lập trình cùng điểm học tập 3.86/4.
+Theo Quang, những điều này cho thấy anh có niềm đam mê với lập trình cùng khả năng lãnh đạo và làm việc nhóm.
+Làm việc ở Microsoft từ tháng 7/2024, Quang thấy hào hứng với nhiệm vụ được giao vì biết trí tuệ nhân tạo sẽ có nhiều đột phá trong thời gian tới.
+Song song với công việc ở Microsoft, Quang duy trì Pathwise Mentorship - dự án tư vấn hướng nghiệp.
+Dự án đã thành công hỗ trợ hơn 20 du học sinh Việt tìm được việc tại Mỹ trong một năm.
+Quang hy vọng kiến thức và trải nghiệm tìm việc của mình sẽ giúp nhiều bạn trẻ có thêm cơ hội thực tập, làm việc tại các công ty lớn ở Mỹ.

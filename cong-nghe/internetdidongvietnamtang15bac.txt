@@ -1,0 +1,23 @@
+Bảng xếp hạng Internet tháng 1 do Ookla, công ty đứng sau công cụ Speedtest, công bố cho thấy tốc độ Internet di động tại Việt Nam tăng 54%, từ mức 86, 96 Mbps trong tháng 12/2024 lên 134, 19 Mbps.
+Đây là mức cao nhất của Việt Nam theo thống kê của Ookla, gần gấp đôi so với tháng 9/2024.
+Kết quả này đưa xếp hạng của Việt Nam ở hạng mục băng rộng di động lên thứ 22, sau Pháp, Phần Lan, và kém top 20 khoảng 3 Mbps.
+Không chỉ Việt Nam, tốc độ trung bình của Internet di động thế giới cũng biến động mạnh, với mức tăng hơn 40%, từ 62, 79 lên 91, 24 Mbps.
+Ookla chưa lý giải về thay đổi bất thường này, nhưng hiển thị dòng trạng thái "đã cập nhật theo chipset mới", cho thấy công cụ có thể đã điều chỉnh trong cách tính.
+Ngoài Việt Nam, một số nước khác cũng chứng khiến mức tăng mạnh như Malaysia tăng 9 bậc lên thứ 11 thế giới, Brazil tăng 33 bậc lên hạng 6, Nigeria tăng 23 bậc, trong khi một số thị trường như Thụy Sĩ và Thụy Điển giảm lần lượt 11 và 13 bậc.
+Mạng 5G được thương mại hóa và ngày càng phổ biến được cho là nguyên nhân giúp tốc độ Internet tại Việt Nam tăng vọt.
+Từ tháng 9/2024, khi kết nối di động thế hệ mới bắt đầu được triển khai, biểu đồ tốc độ Internet đã có dấu hiệu tiến lên sau nhiều năm đi ngang.
+Trả lờiVnExpresshồi tháng 10/2024, sau khi mạng 5G của Viettel khai trương, đại diện Ookla cho biết 5G ở Việt Nam đạt trung bình hơn 300 Mbps, gấp gần 6 lần tốc độ trung bình của 4G trong nước.
+Đến nay, các nhà mạng liên tục gia tăng lượng người dùng cũng như tối ưu hóa hạ tầng.
+Sự tham gia của VNPT với mạng 5G trên băng tần 3.700-3.800 MHz vào tháng 12 về lý thuyết cũng giúp nâng đáng kể tốc độ mạng.
+Theo thử nghiệm khi đó, tốc độ 5G Vinaphone nhiều lần đạt 1, 5-1, 9 Gbps, cao hơn 20 lần so với mạng 4G.
+Theo thống kê của Ookla, nước có tốc độ Internet di động cao nhất là UAE với 545, 94 Mbps, còn Internet cố định là Singapore với 336, 45 Mbps.
+Trong khi đó, theo thống kê từ công cụ i-Speed của Việt Nam, tốc độ Internet di động tăng nhưng không đột biến, khoảng 70 Mbps.
+Đại diện hai bên chưa bình luận về sự chênh lệch này.
+Tuy nhiên, kết quả cũng cho thấy hai nhà mạng triển khai 5G có tốc độ tải về 70-76 Mbps, trong khi MobiFone là khoảng 43 Mbps.
+Tính đến đầu tháng 2, Viettel công bố có khoảng5, 5 triệungười dùng mạng 5G, trong khi Vinaphone cho biết đạt khoảng 3 triệu người dùng.
+Cả hai đều có các trạm 5G hiện diện tại 63 tỉnh thành, nhưng phần lớn tập trung ở khu vực trung tâm, đông dân cư.
+Ngày 1/3, Thủ tướng Chính phủban hànhChỉ thị 05 về các giải pháp thúc đẩy tăng trưởng kinh tế, trong đó đề cập tăng trưởng kinh tế phải dựa vào khoa học công nghệ, đổi mới sáng tạo và chuyển đổi số, nhân lực chất lượng cao, tăng năng suất lao động.
+"Bộ Khoa học và Công nghệ đẩy mạnh thương mại hóa 5G, nghiên cứu công nghệ 6G; phát triển vệ tinh viễn thông và nâng cấp hạ tầng trục viễn thông quốc gia.
+Đẩy mạnh đầu tư và phát triển cơ sở hạ tầng băng rộng cố định tốc độ cao", chỉ thị nêu.
+Nghị quyết số 193 của Quốc hội về thí điểm một số cơ chế, chính sách đặc biệt tạo đột phá phát triển khoa học, công nghệ, đổi mới sáng tạo và chuyển đổi số quốc gia, ban hành ngày 19/2, đề cập việc hỗ trợ tài chính cho doanh nghiệp triển khai nhanh 5G.
+Doanh nghiệp viễn thông triển khai nhanh hạ tầng 5G đạt tối thiểu 20.000 trạm phát sóng được nghiệm thu đưa vào sử dụng từ ngày Nghị quyết có hiệu lực đến hết ngày 31/12/2025 sẽ được hỗ trợ 15% chi phí thiết bị cho trạm.

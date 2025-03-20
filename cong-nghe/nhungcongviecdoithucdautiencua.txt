@@ -1,0 +1,33 @@
+Trong khu nhà kho lớn ở Flowery Branch, Georgia, hai robot Digit của Agility Robotics với dáng đi thô kệch đang khom người để lấy thùng đầy đồ và mang đến một băng chuyền.
+Công việc của chúng đơn giản, thậm chí tầm thường, nhưng Digit đang thay thế trực tiếp con người, là cầu nối linh hoạt giữa các cỗ máy sản xuất vốn đứng yên trong nhà máy.
+Chúng cũng là một phần trong quá trình tiến hóa kéo dài từ khi phát minh ra dây chuyền lắp ráp đến nay.
+Khoa học viễn tưởng hình dung robot có thể di chuyển, thậm chí suy nghĩ giống con người.
+Nhưng ở thế giới thực, chúng mới chỉ làm được một số công việc đơn giản, trong khi việc chế tạo robot còn khó khăn, tốn kém, hoạt động chậm chạp, nặng nề.
+Điều đó đang thay đổi.
+Khi nhu cầu robot tăng vọt ở quy mô toàn cầu, đồng thời giá linh kiện giảm khi sản xuất hàng loạt, chi phí tạo robot đang ngày một rẻ.
+Cộng với làn sóng AI tạo sinh, robot đang trở thành cỗ máy thực sự có thể hỗ trợ con người.
+Trong một thập kỷ qua, con người đã tạo ra nhiều loại robot, từ dạng chữ nhật, xe đẩy, cánh tay cho đến dạng động vật như chó.
+Nhưng khi nhu cầu cao hơn, họ bắt đầu nghĩ đến những thứ "trông giống và có thể chuyển động như người" để đưa vào các nhiệm vụ cụ thể.
+Robot hình người đang trở thànhđấu trường mớicủa các ông lớn công nghệ và các công ty khởi nghiệp.
+Hàng chục công ty trên toàn cầu đang bắt tay sản xuất, chủ yếu từ Mỹ và Trung Quốc.
+Một số được thử nghiệm trong nhà máy và nhà kho, như Nio, Zeekrcủa Trung Quốc hayMercedes-Benz, BMWcủa Đức đã sử dụng robot hình người cho một số công đoạn lắp ráp hoặc kiểm tra.
+Nhưng chúng cũng làm được nhiều việc khác.
+"Robot hình người là loại robot đầu tiên có thể thực hiện các nhiệm vụ hoàn toàn khác nhau dựa trên nhu cầu của doanh nghiệp hoặc người dùng", Adrian Stoch, Giám đốc mảng tự động hóa Spanx của GXO Logistics, hiện sử dụng Digit của Agility Robotics trong hệ thống kho bãi, nói vớiWSJ.
+"Trong tương lai, chúng tôi sẽ để Digit dỡ hàng từ xe kéo vào buổi sáng, nhặt hàng vào buổi chiều và chất hàng lên xe tải vào buổi tối".
+Tuy nhiên, đa số công ty chưa công bố giá chính thức của loại robot này, chỉ nói theo thời gian, chi phí của chúng sẽ giảm, từ đó giúp mọi người có thể tiếp cận.
+"Thách thức đối với ngành robot luôn là vấn đề kinh tế", Jeff Cardenas, CEO Apptronik có trụ sở tại Texas và đang thử nghiệm robot hình người riêng, cho biết.
+Nhưng robot từ rẻ tiền đến đắt đỏ vẫn chỉ là cỗ máy nếu không có bộ não.
+Nhiều công ty đã phát triển "não" cho robot, như OpenAI hay Nvidia.
+Hàng tỷ USD đã được các công ty chi ra cho riêng lĩnh vực này, thường là đầu tư vào trung tâm dữ liệu và trả lương cho các kỹ sư giỏi nhất về robot và AI.
+"Chúng tôi tin công nghệ hỗ trợ cho robot tự động cũng chính là công nghệ đằng sau mọi thứ chúng tôi đang thực hiện với AI và mô hình ngôn ngữ lớn (LLM)", Rev Lebaredian, lãnh đạo nhóm chuyên về mô phỏng môi trường thế giới thực và xây dựng bộ não robot của Nvidia, cho biết.
+Theo CEO Nvidia Jensen Huang, khi chatbot sớm đạt đến trình độ có thể thực hiện nhiệm vụ mà không cần hoặc cần rất ít sự giám sát của con người, robot sẽ là mục tiêu tiếp theo.
+"Thời điểm ChatGPT dành cho robot nói chung đang đến rất gần", ông Huang phát biểu tại CES 2025 diễn ra đầu năm nay.
+Giới chuyên gia nhận định, làn sóng AI đang tác động đến cả lĩnh vực phần cứng và phần mềm.
+Điều này cho phép robot nói chung, trong đó có robot hình người, tiến hóa theo những cách vượt xa trình độ tiên tiến nhất chỉ cách đây vài năm.
+"Bộ não robot mạnh hơn rất nhiều và lĩnh vực này đang cực kỳ tự tin tiến lên", Ayanna Howard, một chuyên gia về robot và là trưởng khoa kỹ thuật tại Đại học bang Ohio, nhận xét.
+Dù vậy, hầu hết việc ứng dụng robot trong nhà máy vẫn dưới dạng thử nghiệm hơn là thay thế.
+Chẳng hạn, kho của Spanx chỉ có hai robot Digit trong biên chế.
+Ngoài ra, việc áp dụng robot hình người cũng có hạn chế.
+TheoAutomate, khi ứng dụng đại trà, nó có thể thay đổi vai trò công việc, buộc người lao động phải thích nghi với trách nhiệm mới hoặc bị loại bỏ.
+Trong quá trình vận hành, robot sử dụng AI có thể có "thành kiến" nếu được lập trình bằng dữ liệu thiên vị, dẫn đến hành vi đối xử không công bằng.
+Ngoài ra, việc phụ thuộc vào robot cũng có thể làm giảm kỹ năng và khả năng của con người trong một số lĩnh vực.

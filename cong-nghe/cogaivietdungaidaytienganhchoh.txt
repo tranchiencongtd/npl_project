@@ -1,0 +1,33 @@
+Xuất hiện tại Diễn đàn Kinh tế thế giới WEF ở Davos cuối tháng 1, Hồng Vũ nằm trong số 200 nhà sáng lập đại diện cho các dự án được vinh danh về tiên phong trong công nghệ - Technology Pioneer.
+Ứng dụng Elsa (English Language Speech Assistant) - Trợ lý phát âm tiếng Anh, do cô cùng các cộng sự phát triển trong gần 10 năm trở thành một trong những ứng dụng học tiếng Anh phổ biến tại nhiều quốc gia, với hơn 50 triệu người sử dụng.
+Đây cũng là ứng dụng được Apple giới thiệu trên App Store tại Việt Nam nhân dịp năm mới 2025, như là một ví dụ điển hình của việc ứng dụng công nghệ, đặc biệtAI, trong giáo dục.
+"Elsa Speak sử dụng mô hình AI do nhóm tự xây dựng và đào tạo để phân tích cách người dùng phát âm các từ theo từng âm tiết, cung cấp thông tin chi tiết về những thay đổi có thể thực hiện", App Store đánh giá về sản phẩm.
+Từng học tiếng Anh tốt trong giai đoạn học phổ thông trước khi ra nước ngoài học, Vũ cho biết cô vẫn gặp khó khăn khi giao tiếp những ngày đầu.
+Người phụ nữ có bằng thạc sĩ từ trường Stanford này đánh giá vấn đề do người học trong nước ít có điều kiện tiếp cận với giáo viên bản xứ để giao tiếp chuẩn, đồng thời khó tiếp cận giải pháp học một kèm một, để người nói biết mình đúng sai thế nào để điều chỉnh ngay lập tức.
+"Với thách thức này, cách giải quyết duy nhất là dùng công nghệ", cô nói.
+Ở năm 2025, AI dần trở thành một trong những từ khóa xuất hiện trên bất cứ sản phẩm phần mềm nào.
+Nhưng khi dự án ra đời năm 2015, khái niệm chưa thực sự phổ biến, chủ yếu có trong sản phẩm trợ lý ảo.
+Ban đầu, dự án định dùng API từ giải pháp nhận dạng giọng nói của Google.
+Tuy vậy, công nghệ này vốn dùng trong trợ lý ảo, cho phép độ sai số rất lớn, nghĩa là nếu nói sai, công nghệ vẫn hiểu và thực hiện mệnh lệnh, cản trở cho việc học ngôn ngữ.
+Cô kết hợp cùng tiến sĩ Xavier Anguera, một chuyên gia trong lĩnh vực nhận dạng giọng nói và AI để xây dựng một giải pháp riêng, ứng dụng học sâu và trí tuệ nhân tạo trong việc phát hiện lỗi phát âm của mọi người.
+Giải pháp sau đó cho kết quả ấn tượng, với độ chính xác ước tính trên 95%.
+Trong một câu hội thoại dài, một thiếu sót nhỏ về trọng âm trong từ nào đó cũng có thể được phát hiện.
+Nhờ AI, họ cũng xây dựng tính năng phân tích Speech Analyzer giúp người dùng nhận phản hồi và đề xuất chỉnh sửa chi tiết về khả năng nói trong cuộc họp, cuộc gọi trực tuyến và các tình huống thực tế khác.
+KhiAI tạo sinhphát triển mạnh từ cuối 2022, Elsa cũng là một trong những dự án tiên phong ứng dụng giải pháp mới trong thực hành giao tiếp với tính năng Elsa AI.
+"Tính năng cho phép người dùng tham gia cuộc hội thoại mô phỏng phù hợp với mục tiêu học tập cá nhân, giúp họ luyện tập giao tiếp tiếng Anh theo ngữ cảnh họ cần nhất, từ công việc đến cuộc sống hàng ngày", Vũ giới thiệu.
+Người dùng có thể nói chuyện với "gia sư AI" bằng những câu nói trong đời sống hàng ngày, không theo khuôn mẫu, với chủ đề bất kỳ.
+Nếu bí ý tưởng hoặc không biết nói gì tiếp theo, AIsẽ gợi ý bằng tiếng Anh lẫn ngôn ngữ mẹ đẻ, thậm chí bằng văn bản để người dùng tăng khả năng trao đổi.
+"Khi thực hành hội thoại theo chủ đề, người dùng có thể áp dụng ngữ pháp và từ vựng thực tế.
+Khi nhận phản hồi tức thì và gợi ý giúp cải thiện ngữ pháp, từ vựng, ngữ điệu, phát âm và sự trôi chảy, khả năng sử dụng tiếng Anh sẽ được cải thiện", Vũ cho biết.
+Theo nhà sáng lập Elsa, với một thiết bị như smartphone, người dùng có thể được học như một kèm một.
+Điều này giúp giải quyết thách thức về mặt thiếu giáo viên, đảm bảo mỗi người sẽ được hỗ trợ bởi một "giáo viên AI" tối ưu hóa theo tình hình thực tế.
+Họ cũng sẽ có một lộ trình học cá nhân hóa hơn và có thể học mọi lúc mọi nơi.
+Khởi nghiệp tại Mỹ nhưng hầu hết tính năng mới của Elsa đều được cung cấp cho người Việt đầu tiên.
+Theo CEO Văn Đinh Hồng Vũ, ở giai đoạn đầu, 80-90% người dùng ứng dụng từ Việt Nam.
+Đến nay, số lượng người dùng trong nước vẫn liên tục tăng và chiếm đa số tài khoản đăng ký, nhưng tỷ lệ còn khoảng 20%, tức sản phẩm được sử dụng tại nhiều thị trường khác.
+Từng gặp khó khăn về giao tiếp trong năm đầu du học, Vũ đánh giá phần lớn bạn bè quốc tế của cô đều gặp rào cản giao tiếp tương tự.
+Đây được đánh giá là thị trường lớn tiềm năng cho các startup về học tiếng Anh giao tiếp.
+Theo website của Elsa, ứng dụng hiện được tải về và sử dụng tại 195 quốc gia và vùng lãnh thổ với hơn 50 triệu người dùng vào năm 2024.
+Sau khi đượcForbesvinh danh là một trong bốn công ty sử dụng AI để thay đổi thế giới năm 2017, Vũ cho biết đến nay, thái độ của người dùng đối với AI đang thay đổi và dần chấp nhận công nghệ này như một phần tất yếu trong công việc, giúp họ tiết kiệm thời gian để thực hiện các nhiệm vụ có giá trị cao hơn, như sáng tạo hoặc làm việc chiến lược.
+"Điều này phù hợp với hướng đi của Elsa, đó là tập trung vào phát triển một sản phẩm ứng dụng AI để giúp người dùng học tập hiệu quả hơn, tiết kiệm thời gian, chi phí để có thể tập trung vào những điều quan trọng", cô nói.
+"Mỗi người sẽ có nội dung và lộ trình khác nhau theo một cách chuyên môn hóa hơn, để vừa học tiếng Anh và vừa học thêm các kỹ năng khác", cô nói.

@@ -1,0 +1,34 @@
+App VNeID do Bộ Công an xây dựng và vận hành, nhằm thay thế giấy tờ truyền thống, định danh công dân trên môi trường kỹ thuật số, ứng dụng vào loạt lĩnh vực thiết yếu.
+Thời gian qua, nhiều tiện ích lần lượt được triển khai ngay trên nền tảng.
+Ngày 13/12/2024, FPT Long Châu và Trung tâm RAR (thuộc Cục C06, Bộ Công an) công bố triển khai dịch vụ xác thực điện tử của nhà thuốc FPT Long Châu qua VNeID.
+Tiện ích mua thuốc trực tuyến là cấu phần của sổ sức khỏe điện tử, đáp ứng nhu cầu chủ động theo dõi lịch sử khám chữa bệnh, toa thuốc và mua thuốc của người dân.
+Chị Hồng Kiều (quận 7, TP HCM) cho biết yên tâm mua thuốc trực tuyến vì tin tưởng app quốc gia, không có giả mạo hay hàng giả.
+"Nhờ thông tin lưu lại khi trên app, tôi có thể chủ động theo dõi lịch sử khám bệnh, tiện mua thuốc khi bác sĩ kê toa.
+Khi tái khám, bác sĩ dễ dàng xem lịch sử mua và uống thuốc của tôi, rất tiện lợi và an toàn", chị Kiều nói.
+Anh Đức An cũng đồng tình với quan điểm trên.
+Anh là nhân viên văn phòng, hiện sống tại Bình Tân (TP HCM), ba mẹ ở quê mắc bệnh mãn tính.
+"Mỗi tháng một lần, tôi về nhà đưa người thân đi tái khám.
+Ngay khi có toa thuốc, chỉ cần vài thao tác trên điện thoại, tôi có thể đặt thuốc ở Long Châu và nhận tại nhà ở quê không mất phí, rất tiện lợi", anh lý giải.
+Tương tự, chị Hà Liên (quận 2) cho biết: "Lâu nay tôi thường đến thẳng nhà thuốc Long Châu, hôm nay thấy tích hợp trên VNeID nên mua thử.
+Không ngờ giao hàng nhanh.
+Mọi giấy tờ được tích hợp trong một ứng dụng VNeID.
+Dịch vụ hiện đại, dữ liệu thông suốt và cập nhật nhanh trên sổ sức khỏe điện tử.
+".
+Tương tự, trước đó khi được bác sĩ kê đơn, có toa thuốc, ông Văn Đức (67 tuổi, Tây Ninh) thường mua trực tiếp tại nhà thuốc.
+"Con trai vừa hướng dẫn tôi đặt thuốc qua VNeID, rất nhanh.
+Sau này về quê, tôi sẽ học cách tự mua trực tuyến, không cần xếp hàng như trước.
+Chỉ 10-15 phút, thuốc đã giao đến tận nhà, quá thuận tiện cho người dân", ông cho hay.
+Thứ nhất, tạo hệ sinh thái theo dõi sức khỏe toàn diện - từ sổ sức khỏe, đơn thuốc điện tử đến nhà thuốc.
+Thứ hai, người dân không cần đến trực tiếp, vẫn có thể đặt mua theo đơn và nhận thuốc tại nhà qua dịch vụ giao hàng.
+Yếu tố này không chỉ tiết kiệm thời gian, mà còn giảm thiểu chi phí di chuyển, nhất là với người cao tuổi hoặc người bệnh không tiện đi lại.
+Thứ ba, người dân tiện quản lý chi tiết từng đơn hàng gồm: trạng thái giao, thông tin sản phẩm, lịch sử mua sắm, từ đó kiểm soát và bảo vệ sức khỏe bản thân lẫn gia đình hiệu quả hơn.
+Bên cạnh đó, bà con không cần lo lắng vấn đề hàng giả, được đảm bảo thuốc chính hãng từ đơn vị uy tín, đạt tiêu chuẩn dược phẩm.
+Thứ tư, giảm nguy cơ bị lây nhiễm chéo bệnh truyền nhiễm khi mua thuốc.
+Cuối cùng, tăng cường an toàn thông tin cá nhân, tính văn minh.
+Trước đó, Nghị quyết 57của Bộ Chính trị về đột phá phát triển khoa học, công nghệ, đổi mới sáng tạo và chuyển đổi số quốc gia tập trung tháo gỡ nhiều cơ chế chính sách cho ngành khoa học công nghệ với quan điểm đổi mới, bảo đảm quản lý hiệu quả và khuyến khích đổi mới sáng tạo, loại bỏ tư duy "không quản được thì cấm".
+Trên tinh thần đó, việc đưa loạt tiện ích lên VNeID là bước đi phù hợp thời đại, nhằm phục vụ người dân một cách văn minh và thông minh, đồng thời giảm thiểu nguy cơ bị đánh cắp thông tin cá nhân.
+Bước 1: đăng nhập ứng dụng VNeID, vào mục "Hồ sơ sức khỏe", rồi chọn "Nhà thuốc".
+Bước 2: tiếp tục chọn ứng dụng "Nhà thuốc Long Châu".
+Bước 3: đồng ý và xác nhận thông tin để đăng nhập hệ thống Long Châu.
+Bước 4: sau khi đăng nhập thành công, người dùng có thể tiếp tục mua thuốc trên hệ thống này.
+Sau khi hoàn tất, người dân kiểm tra lại bằng cách: vào VNeID, chọn Hồ sơ Sức khỏe - Nhà thuốc - Lịch sử mua thuốc.

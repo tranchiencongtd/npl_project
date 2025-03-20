@@ -1,0 +1,17 @@
+TheoFinancial Times, OpenAIphát hiện dấu hiệu "chưng cất" mà họ nghi ngờ từ DeepSeek.
+Kỹ thuật này được các nhà phát triển sử dụng để đạt hiệu suất tốt hơn trên các mô hình nhỏ, bằng cách sử dụng đầu ra từ những mô hình lớn, cho phép họ có được kết quả tương tự trong các nhiệm vụ cụ thể với chi phí thấp hơn.
+Đây là hoạt động phổ biến trong lĩnh vực AI nhưng nhiều khả năng DeepSeek vi phạm điều khoản dịch vụ của OpenAI.
+Công ty sở hữu ChatGPT từ chối cung cấp thông tin chi tiết về bằng chứng.
+Điều khoản của OpenAI nêu rõ người dùng không thể "sao chép" bất kỳ dịch vụ nào hoặc "sử dụng đầu ra để phát triển các mô hình cạnh tranh với chính OpenAI".
+"Vấn đề nằm ở chỗ bạn thực hiện điều đó để tạo mô hình riêng cho mục đích của riêng bạn", một người thân cận với OpenAI giải thích.
+Trong khi đó, Bloombergđưa tin OpenAI và đối tác Microsoft đang điều tra các tài khoản được cho là củaDeepSeektừng sử dụng giao diện lập trình ứng dụng (API) của OpenAI vào năm ngoái và chặn quyền truy cập vì nghi ngờ có hành vi vi phạm điều khoản.
+Microsoft và DeepSeek chưa đưa ra bình luận.
+Trước đó, David Sacks, chuyên gia AI và tiền số của Tổng thống Mỹ Donald Trump, cũng nói "có khả năng" xảy ra hành vi trộm cắp tài sản trí tuệ.
+"Có một kỹ thuật trong AI gọi là chưng cất, khi một mô hình học hỏi từ một mô hình khác và loại bỏ kiến thức khỏi mô hình gốc", ông nói vớiFox Newsngày 28/1.
+"Có bằng chứng cho thấy những gì DeepSeek làm ở đây là chưng cất kiến thức từ các mô hình OpenAI và tôi không nghĩ OpenAI vui về điều này".
+DeepSeek tuyên bố họ chỉ sử dụng 2.048 card đồ họa Nvidia H800 và 5, 6 triệu USD để đào tạo mô hình V3 với 671 tỷ tham số, bằng một phần nhỏ so với số tiền OpenAI và Google phải bỏ ra để huấn luyện mô hình có quy mô tương đương.
+Một số chuyên gia cho biết mô hình đưa ra những phản hồi có thể cho thấy nó được đào tạodựa trên kết quảtừ GPT-4.
+"Các công ty khởi nghiệp và giới học thuật thường sử dụng kết quả từ những mô hình ngôn ngữ lớn (LLM) thương mại, nhưChatGPT, để đào tạo mô hình khác", Ritwik Gupta, chuyên gia về AI tại Đại học California, Berkeley, nói.
+"Tôi không ngạc nhiên nếu DeepSeek được cho là cũng làm như vậy".
+DeepSeek được thành lập năm 2023 bởiLiang Wenfeng, đồng sáng lập của quỹ đầu tư chuyên về AI High-Flyer.
+Công ty bắt đầu phát triển DeepSeek vào tháng 4/2023, hướng đến siêu trí tuệ nhân tạo tổng quát AGI, tương tự mục tiêu OpenAI và nhiều công ty đang theo đuổi.

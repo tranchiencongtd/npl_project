@@ -1,0 +1,75 @@
+TS Christopher Nguyễn có gần 40 năm kinh nghiệm trong lĩnh vực công nghệ, từng góp công phát triển Chương trình Kỹ thuật máy tính tại Đại học Khoa học và Công nghệ Hong Kong, làm giám đốc kỹ thuật Google Apps, đồng thời là một trong những người đóng góp mã hóa ký tự tiếng Việt cho Unicode 1.0.
+Ông đồng sáng lập và hiện là CEO của Aitomatic, công ty tư vấn AI trong công nghiệp có trụ sở tại Mỹ.
+Ông cũng là thành viên của Liên minh AI, giúp tổ chức Hội nghị quốc tế AISC - một trong những sự kiện trí tuệ nhân tạo hàng đầu diễn ra ở Hà Nội ngày 12-16/3.
+Nhân dịp này, ông chia sẻ về cơ hội của Việt Nam trong lĩnh vực AI và bán dẫn.
+- Là một trong những sự kiện tầm cỡ thế giới được tổ chức ở Việt Nam, ông kỳ vọng gì khi đưa AISC về Việt Nam?
+- AISC được đồng tổ chức bởi Liên minh AI với hơn 160 tổ chức thành viên và đã thực hiện chuỗi sự kiện tại Tokyo, Paris và giờ là lần đầu ở Hà Nội.
+Sự kiện sẽ không chỉ bàn về AI, mà còn cả lĩnh vực bán dẫn, nơi những nhà lãnh đạo và nhà nghiên cứu hàng đầu cùng chia sẻ thông tin và ý tưởng, giống như hội nghị toàn cầu diễn ra tại Paris tháng trước.
+Đây sẽ là cơ hội để các hệ sinh thái về công nghệ AI và bán dẫn ở Việt Nam có thể kết nối với hệ sinh thái toàn cầu.
+Có những người tôi tin nếu không vì sự kiện sẽ rất khó mời họ đến Việt Nam.
+Phần lớn đối tác nước ngoài hiện có mặt để tìm kiếm những thứ như sản xuất chi phí thấp, nhân viên tốt, và sau đó cũng sẽ tìm cách bán sản phẩm cho thị trường trong nước.
+Việt Nam cần tìm cách tiến lên giai đoạn tiếp theo là làm chủ và bán trực tiếp sản phẩm của mình cho khách hàng nước ngoài.
+Tuy nhiên, khách hàng tiềm năng đó chưa đến Việt Nam lúc này.
+Vì vậy cần những sự kiện quốc tế để họ biết đến Việt Nam nhiều hơn.
+Tôi hy vọng hội nghị về bán dẫn và AI sẽ trở thành chất xúc tác thúc đẩy quá trình này, đưa Việt Nam sớm vào giai đoạn làm chủ.
+- Ông nói đến các giai đoạn của quá trình phát triển, vậy theo ông Việt Nam đang ở giai đoạn nào?
+- Tôi cho rằng các quốc gia như Việt Nam phải trải qua ba giai đoạn.
+Đầu tiên là thu hút bằng lợi thế chi phí thấp với nhân công giá rẻ.
+Việt Nam đã trải qua giai đoạn này suốt 20 năm qua.
+Thứ hai, khi đã có tay nghề, chúng ta có thể được trả lương cao và sẽ được đào tạo thêm, thể hiện Việt Nam đã thu hút FDI trong các khu công nghệ cao khắp đất nước.
+10 năm trước, bạn không thể tìm thấy bất kỳ ai biết cách vận hành cơ sở hạ tầng với quy mô lớn như Google và Facebook, nhưng ngày nay có rất nhiều người như vậy ở Việt Nam.
+Điều tương tự cũng xảy ra trong nhiều lĩnh vực khác.
+Giai đoạn hai vẫn đang tiếp tục, nhưng Việt Nam cần tiến tới giai đoạn ba: làm chủ.
+Trong nước cần những công ty có quy mô lớn, bán trực tiếp cho khách hàng trên toàn cầu.
+Điều này rất quan trọng bởi mang lại biên lợi nhuận lớn nhất.
+Một đôi giày tại Mỹ có giá 200 USD, nhưng chi phí sản xuất có thể chỉ 20 USD, còn lại rất nhiều giá trị được thêm vào từ tiếp thị, phân phối, xây dựng thương hiệu.
+Một số công ty trong nước đang chuyển động theo hướng này, nhưng tôi cho rằng Việt Nam chưa bước vào giai đoạn ba.
+Đất nước cần các chính sách rõ ràng để hỗ trợ và khuyến khích những sự dịch chuyển đó.
+Thực tế, có những nền kinh tế bị kẹt ở giai đoạn hai.
+Nó được gọi là bẫy thu nhập trung bình vì khi đó, người lao động là những "nhân viên được trả lương cao" khiến họ khó tiến lên "làm chủ".
+- Sự kiện có nhiều nội dung về cả AI và bán dẫn.
+Hai lĩnh vực này liên quan đến nhau ra sao?
+- Một trong những ví dụ về sự phát triển AI là hơn chục năm trước, khi các nhà khoa học Google sử dụng hạ tầng quy mô lớn để khai thác video trên YouTube.
+Họ tạo ra mạng lưới nơ-ron có thể nhận biết loài vật, người nổi tiếng và những thứ khác.
+Đó là một trong những "phép thuật" đầu tiên của AI.
+Trong 5-10 năm gần đây, công nghệ này trở nên đủ mạnh mẽ để thực sự chạm đến cuộc sống của con người.
+Thực tế rất nhiều ứng dụng AI vốn được phát triển trong phòng thí nghiệm 20-30 năm trước.
+Nhưng nó không phổ biến khi ấy bởi thiếu một thành phần, đó là quy mô.
+Bạn xây dựng thứ gì đó với quy mô vài trăm và thấy nó không mạnh mẽ chút nào rồi bỏ cuộc, dành nguồn lực cho những thứ khác tốt hơn.
+Nhưng nếu bạn tiếp tục trăn trở với nó, nâng quy mô lên hàng chục nghìn, hàng triệu hay hàng tỷ, nó sẽ trở thành kỹ thuật mạnh mẽ.
+Tôi muốn nói đến AI và quy mô của chip bán dẫn.
+Chip bán dẫn không được xây dựng riêng cho AI, mà được dùng cho nhiều ứng dụng như xử lý, lưu trữ.
+Nhưng khi mọi người bắt đầu áp dụng nó vào máy học, con người đã tạo nên những "phép thuật" chúng ta thấy ngày nay như ChatGPT, DeepSeek và nhiều ứng dụng khác.
+Điều tạo nên cuộc cách mạng là quy mô về số bóng bán dẫn.
+Sự hội tụ của AI và bán dẫn thực sự không phải sự trùng hợp ngẫu nhiên mà gần như là nhu cầu tất yếu của công nghệ.
+Bán dẫn tạo ra AI.
+Còn AI đang phát triển và thúc đẩy nhu cầu về công nghệ bán dẫn nhiều hơn.
+- Việt Nam có thể tận dụng sự hội tụ này như thế nào?
+- Thời gian qua, không khó nhận ra những biến chuyển về địa chính trị trên thế giới với sự cạnh tranh âm ỉ giữa các quốc gia và những rủi ro luôn có thể xảy ra.
+Các bên sẽ muốn giảm rủi ro bằng cách tìm thêm nhà cung cấp mới.
+Khi họ nhìn vào các quốc gia có năng lực này, Việt Nam chắc chắn nằm trong danh sách hàng đầu với dân số hơn 100 triệu người, trong bối cảnh về nhu cầu sắp xếp lại và tái cấu trúc chuỗi cung ứng toàn cầu.
+Cùng với sự hội tụ của AI và bán dẫn đã nói ở trên, rất nhiều bạn bè tôi nói đây là cơ hội chỉ có một lần trong đời.
+Khi tôi đến thăm khách hàng của mình là những công ty toàn cầu đặt tại khu vực châu Á-Thái Bình Dương, tất cả đều hỏi về Việt Nam.
+Dường như họ đều muốn đầu tư vào đây.
+Không chỉ vì yếu tố địa chính trị, tôi còn thấy ở họ niềm tin rằng họ có thể tìm thấy nhân tài trong tương lai gần tại Việt Nam, trong khi điều đó ở các nước sở tại gặp nhiều khó khăn.
+Tất cả những điều trên hội tụ lại với nhau, theo tôi không chỉ là cơ hội duy nhất trong đời, mà là cơ hội 4.000 năm mới có một lần.
+- Tuy nhiên cũng cần nhìn nhận Việt Nam còn gặp nhiều khó khăn về nguồn lực, làm sao tận dụng được cơ hội trong điều kiện như thế?
+- Tôi từng khởi nghiệp và cũng từng là giám đốc điều hành của một công ty lớn, hỗ trợ nhiều sinh viên khởi nghiệp, tôi rất thích cách so sánh của nhà đầu tư nổi tiếng Vinod Khosla về "cơ hội 0 triệu USD".
+Đại ý nói cùng là những người khởi nghiệp từ con số không, nhưng nếu coi đó là công ty 0 tỷ USD sẽ khác với công ty 0 triệu USD, từ đó khuyên mọi người hãy có tham vọng, lên kế hoạch hiện thực hóa nó.
+Với lĩnh vực AI và bán dẫn của Việt Nam, tôi muốn chúng ta đặt mình ở vị trí "0 nghìn tỷ USD".
+Hiện tại có thể không có gì nhiều, nhưng cơ hội rất lớn.
+Nếu có thể nhìn thấy tương lai nghìn tỷ USD, chắc chắn sẽ thu hút được những nhà đầu tư có cùng tầm nhìn và cùng nhau xây dựng tương lai đó.
+- Khi tầm nhìn đã có, theo ông Việt Nam nên làm gì để hiện thực hóa?
+- Nhìn vào những thay đổi tại Việt Nam thời gian qua, như tinh gọn bộ máy, Nghị quyết 57, tôi cảm thấy một sự thúc đẩy mạnh mẽ từ những người đứng đầu.
+Nghị quyết 57 nêu rõ quan điểm đổi mới tư duy xây dựng pháp luật, bảo đảm yêu cầu quản lý và khuyến khích đổi mới sáng tạo, loại bỏ tư duy "không quản được thì cấm".
+Đó là sự thay đổi rất quan trọng.
+Việt Nam có thể còn một số hạn chế về nguồn lực, nhưng nếu nhìn danh mục đầu tư vào Việt Nam thời gian qua, có rất nhiều tín hiệu tích cực.
+Tuy vậy, cũng có những thứ chúng ta chưa nên làm, ít nhất giai đoạn này, ví dụ đầu tư vào công ty công nghệ chế tạo chất bán dẫn 2 nm.
+Việt Nam có thể thay đổi góc nhìn để tìm ra hướng tiếp cận có thể dẫn đầu, ví dụ như AI tại biên.
+Chúng ta quen với việc xử lýAItrên đám mây tập trung, nhưng con người vốn sống trong không gian vật lý, như ngôi nhà, ôtô.
+Nơi đó, các thiết bị tại biên trang bị AI sẽ mang đến giá trị hơn rất nhiều.
+Đây sẽ trở thành một cơ hội trị giá hàng nghìn tỷ USD mà trên thế giới chưa có người dẫn đầu rõ ràng, dù rất nhiều công ty lớn tham gia vào cuộc đua.
+Sau khi đã xác định được lĩnh vực, chúng ta có thể lấy 10.000-20.000 người giỏi nhất, đào tạo thành nhà thiết kế IC và tập trung vào dự án AI tại biên.
+Việt Nam có thể dẫn đầu mà không đòi hỏi nhiều tỷ USD đầu tư.
+Thung lũng Silicon là minh chứng cho thấy bạn có thể tạo ra thứ gì đó từ hư không bằng cách sử dụng tài năng con người.
+Không gì là không thể khi có đầu vào tài năng, và Việt Nam có rất nhiều tài năng như vậy.

@@ -1,0 +1,20 @@
+Ngày 1/2, trong phiên Ask Me Anything trên diễn đànReddit, một thành viên hỏi Altman có cân nhắc công khai các nghiên cứu của OpenAI hay không.
+"Có, chúng tôi đang thảo luận.
+Cá nhân tôi nghĩ chúng tôi đi sai hướng trong lịch sử và cần tìm ra một chiến lược nguồn mở khác.
+Không phải ai ở OpenAI cũng đồng ý với quan điểm này và đây cũng không phải là ưu tiên hàng đầu hiện tại của chúng tôi", Altman trả lời.
+Công ty AI Trung QuốcDeepSeekđang gây chấn động tuần qua với mô hìnhR1được cho là có chi phí thấp và hiệu suất cao, đồng thời hoàn toàn nguồn mở hướng đến cộng đồng, ngược với giải pháp "đóng" của OpenAI và Google.
+Thuật ngữ nguồn mở (open source) xuất hiện từ khi lĩnh vực phần mềm ra đời, trong đó phần mã nguồn của một hệ thống được phát hành công khai trên các nền tảng chia sẻ, có thể truy cập rộng rãi, bất kỳ ai cũng có thể nghiên cứu, sửa đổi và phát triển ứng dụng trên đó.
+Meta của Mỹ, DeepSeek của Trung Quốc vàMistraltại Pháp đang đi theo hướng này.
+Giám đốc AI của Meta Yann LeCun cho biết ý nghĩa lớn nhất từ thành công của DeepSeek là cho thấy giá trị của mô hình AI nguồn mở so với độc quyền.
+Các mô hình Llama của Meta hiện chủ yếu mở, cho phép truy cập miễn phí vào các chi tiết quan trọng, giúp các nhà phát triển và công ty khác tùy chỉnh mô hình để sử dụng cho mục đích riêng.
+Một thành viên Reddit hỏiSam Altmanliệu DeepSeek có làm thay đổi kế hoạch của ông đối với OpenAI tương lai không.
+"Đó là một mô hình rất tốt", Altman nhận xét về DeepSeek.
+"Chúng tôi sẽ tạo ra những mô hình tốt hơn, nhưng chúng tôi sẽ có ít lợi thế hơn so với các năm trước".
+Dù có tênOpenAI, công ty hiện chọn cách tiếp cận khép kín với hầu hết giải pháp mang tính độc quyền và tính phí truy cập.
+Hồi tháng 3/2024, Elon Musk tuyên bố sẽ rút đơn kiện OpenAI nếu công ty đồng ý đổi sang tênClosedAI.
+Trong bài đăng tiếp theo trên X, ông lặp lại thông điệp, yêu cầu "OpenAI cần ngừng sống dối trá" bởi sứ mệnh của công ty khi thành lập là "đi theo hướng mở, phi lợi nhuận nhằm cứu thế giới khỏi tương lai đen tối".
+Elon Muskthậm chí chế ảnhSam Altmancầm thẻ khách khi đến trụ sở công ty với dòng chữ được chỉnh sửa từ OpenAI (AI mở) thành ClosedAI (AI đóng).
+TheoBusiness Insider, từ tháng 11/2019 trở về trước, OpenAI vẫn công khai GPT và GPT-2.
+Tuy nhiên sau đó, công ty chọn con đường tăng trưởng doanh thu và lợi nhuận, từ đó "đóng" mã nguồn của các mô hình AI như GPT-4o và OpenAI o1.
+Altman khi đó cho biết dù không nguồn mở hoàn toàn, OpenAI vẫn "mở" theo một số cách khác, như cung cấp phiên bản miễn phí cho công chúng.
+"Nếu chúng tôi có thể tiếp tục đưa cácAImạnh mẽ dưới dạng miễn phí hoặc chi phí thấp ra thế giới, tôi nghĩ đó cũng là cách chúng tôi hoàn thành sứ mệnh ban đầu", Altman nói.

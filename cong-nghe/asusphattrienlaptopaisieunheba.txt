@@ -1,0 +1,36 @@
+AI trở thành cuộc đua mới cho các nhà sản xuất khi người dùng yêu cầu ngày càng cao.
+Tại CES 2025, Qualcomm giới thiệu Snapdragon X Series với khả năng xử lý lên đến 45 TOPs (tức có thể thực hiện 45.000 tỷ phép tính mỗi giây), còn AMD cũng giới thiệu giải pháp AMD Ryzen AI.
+Hai dòng chip AI mới này ngay lập tức được Asus áp dụng trên các sản phẩm mới tại Việt Nam.
+Bộ đôi Zenbook A14 (UX3407) và Zenbook 14 (UM3406) vừa ra mắt là những sản phẩm cụ thể hóa chiến lực phát triển laptop AI siêu mỏng nhẹ của hãng.
+Thời lượng pin của các dòng laptop mới tăng lên đáng kể, một phần là nhờ tác vụ AI chạy nền có thể tự động điều chỉnh mức sử dụng CPU, GPU và màn hình theo nhu cầu thực tế.
+Zenbook A14đánh dấu cột mốc quan trọng trong hành trình tối ưu thiết kế của Asus.
+Từng tiên phong trong xu hướng laptop siêu di động (netbook) với Eee PC ra mắt năm 2007, hãng tiếp tục kế thừa triết lý thiết kế này qua dòng sản phẩm Zenbook.
+Kết hợp với chất liệu Ceraluminum độc quyền ra mắt năm 2024, thương hiệu có thể tạo nên những sản phẩm laptop nhẹ nhưng vẫn đảm bảo độ bền.
+Dòng Zenbook A14 được hãng giới thiệu là Copilot+PC nhẹ nhất thế giới hiện nay khi có trọng lượng 980 gram.
+Khung máy được làm hoàn toàn bằng Ceraluminum, hợp kim nhôm gốm cao cấp do Asus độc quyền phát triển.
+Theo hãng, chất liệu này nhẹ hơn 30% nhưng bền gấp ba lần so với hợp kim nhôm truyền thống.
+Nhờ đó, máy chống trầy xước, bám bẩn và đạt độ bền đạt chuẩn quân đội MIL-STD 810H.
+Dù siêu nhẹ, Zenbook A14 vẫn tích hợp đủ cổng cần thiết 2 cổng USB-C, 1 cổng USB-A, HDMI và jack 3.5 mm.
+Máy trang bị vi xử lý Snapdragon X (X1-26-100), tích hợp GPU Adreno A1-45 cùng NPU 45 TOPS, vốn được Qualcomm thiết kế để đáp ứng tốt các tác vụ AI trên Windows 11 Copilot+ PC.
+Từ tóm tắt văn bản, xóa phông webcam đến nhận diện giọng nói, máy đều có khả năng xử lý nhanh gọn, không tiêu tốn nhiều năng lượng.
+Khả năng tối ưu hóa các hiệu suất phần cứng của chip AI kết hợp cùng viên pin 70 Wh giúp thiết bị đạt thời lượng 15-20 tiếng cho công việc thường nhật, vượt mốc 20 tiếng khi phát video ngoại tuyến.
+Dòng máy dùng màn hình FHD Lumina OLED 14 inch, độ phân giải 1920 x 1200 pixel.
+Màn hình Lumina OLED của Asus mang đến màu đen sâu, độ tương phản cao, phù hợp cả giải trí lẫn làm việc sáng tạo.
+Ngoài ra, laptop cũng được trang bị Windows Phone Link, cho phép kết nối điện thoại Android hoặc iOS với Windows.
+Từ đó, người dùng có thể trả lời cuộc gọi, quản lý thông báo và chuyển file trực tiếp đến điện thoại từ laptop, thậm chí có thể biến smartphone thành webcam.
+DòngZenbook 14(UM3406) lại tập trung vào cân bằng giữa sức mạnh CPU, GPU và khả năng di động.
+Máy có trọng lượng 1, 2 kg, độ dày 14, 9 mm, vẫn nằm trong nhóm laptop mỏng nhẹ nhưng có cấu hình nhỉnh hơn so với Zenbook A14.
+Phần cứng của Zenbook 14 dựa trên AMD Ryzen AI 7 350 tích hợp AMD Radeon Graphics, kèm nhân Ryzen AI.
+Hệ thống này có khả năng xử lý nhanh các tác vụ văn phòng, chơi game eSports ở thiết lập trung bình, dựng video ngắn hoặc mở hàng loạt tab.
+Dữ liệu từ AMD cho thấy chip AI này có thể nén tệp nhanh hơn 26%, đa nhiệm nhanh hơn tới 41%, và khả năng đồ họa nhanh hơn 2, 2 lần.
+AI tích hợp trong Ryzen còn giúp giảm bớt gánh nặng cho CPU, GPU khi xử lý những tính năng như nhận diện khuôn mặt hay tối ưu giọng nói.
+Với bộ xử lý AI tích hợp sẵn đồ hoạ, phiên bản Zenbook 14 chip AMD lần này được nâng cấp RAM tối đa lên đến 32 GB để đáp ứng nhu cầu đa nhiệm.
+Màn hình Lumina OLED 3K 120Hz cũng được nâng cấp so với các bản năm trước với độ phân giải 2880 x 1800 pixel, hỗ trợ 100% dải màu sRGB và DCI-P3.
+Nhờ đó, hình ảnh hiển thị sống động, sắc nét với độ đen sâu, đáp ứng tốt cho người làm nội dung hoặc chỉnh sửa đồ họa ở mức bán chuyên.
+Chơi game, xem phim hay tham gia hội họp trực tuyến đều đạt chất lượng thị giác cao.
+Thời lượng pin 75 Wh cho khoảng 10-12 tiếng làm việc, đáp ứng một ngày làm việc.
+Máy cũng hỗ trợ sạc nhanh qua cổng USB-C, có thể sạc 60% trong 49 phút.
+Theo Asus, Zenbook A14 và Zenbook 14 là lựa chọn phù hợp cho người cần laptop mỏng nhẹ, linh hoạt nhưng vẫn đi kèm hiệu năng ổn định.
+Kết hợp công nghệ vi xử lý từ Qualcomm và AMD cùng với nguyên lý thiết kế đặc trưng, hãng đã khắc phục được những hạn chế về độ bền, tản nhiệt, thời lượng pin.
+"Hai sản phẩm laptop AI này mở ra một giai đoạn mới, khi mà 'mỏng nhẹ' không còn đồng nghĩa với 'hy sinh hiệu suất'.
+AI sẽ như trợ thủ đắc lực, không chỉ hỗ trợ các tác vụ thường ngày mà còn bền bỉ chạy nền, giúp tăng thời lượng pin của thiết bị", bà Ana Nguyễn, đại diện truyền thông Asus nhận định.

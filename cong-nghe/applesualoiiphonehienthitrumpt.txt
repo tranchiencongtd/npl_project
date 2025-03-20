@@ -1,0 +1,14 @@
+Một tài khoản TikTok tuần trước đăng video lỗi kỳ lạ trên iPhone và nhanh chóng lan truyền với gần ba triệu lượt xem.
+Khi sử dụng tính năng chuyển giọng nói thành văn bản trên các ứng dụng như tin nhắn, lệnh thoại cho từ "racist" (phân biệt chủng tộc) sẽ tự động hiển thị tạm thời thành "Trump" trước khi đổi thành đúng từ mong muốn.
+"Chúng tôi nhận thấy có vấn đề với tính năng nhận dạng giọng nói hỗ trợ sửa lỗi chính tả và đang triển khai bản sửa sớm nhất có thể", Apple cho biết trong phản hồi gửi tớiFox News.
+Nhà sản xuất iPhone cho rằng lỗi này do sự chồng chéo ngữ âm giữa hai từ.
+Tuy nhiên, kết quả tương tự cũng xuất hiện với một số từ khác bắt đầu bằng chữ cái "r", như "rampant" (hung hăng) và "rampage" (sự điên cuồng).
+Công ty không cho biết các dòng máy nào cũng như phiên bản iOS bao nhiêu sẽ gặp lỗi kể trên.
+Sự việc khiến nhiều người tỏ ý hoài nghi là lỗi cố ý khi "racist" được viết thường nhưng hiển thị nhầm thành "Trump" vẫn được viết hoa chữ "T" theo quy cách viết tên riêng.
+"Điều này có vẻ giống như một trò đùa cố ý", John Burkey, cựu thành viên nhóm phát triển Siri của Apple, chia sẻ vớiNew York Times.
+"Câu hỏi duy nhất là: Có ai đó đã đưa thông tin này vào dữ liệu hoặc các đoạn mã không?" Burkey nói thêm.
+Tin tức xuất hiện chỉ vài ngày sau khi CEO Apple Tim Cook gặp Tổng thống Mỹ Donald Trump tại Nhà Trắng.
+Sau cuộc họp, ông Trump cho biết "Quả táo" sẽ chuyển một số hoạt động sản xuất về Mỹ để tránh vấn đề thuế.
+Ông Trump áp thuế 10% với hàng hóa từ Trung Quốc, có hiệu lực từ ngày 4/2 và đe dọa sẽ áp thuế ít nhất 25% với chip do nước ngoài sản xuất.
+Đầu tuần này, Apple công bố khoản đầu tư 500 tỷ USD tại Mỹ trong bốn năm, bắt đầu từ tháng 2, trong đó có nhà máy sản xuất máy chủ AI tại Houston và tạo ra 20.000 việc làm mới.
+"Chúng tôi lạc quan về sự đổi mới trong tương lai của Mỹ và tự hào với cam kết 500 tỷ USD để đóng góp cho tương lai đó", CEO Tim Cook cho biết.

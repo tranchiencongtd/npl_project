@@ -1,0 +1,37 @@
+Cuối tháng 12/2024, DeepSeek gây bất ngờ khi công bố mô hình ngôn ngữ lớn (LLM) DeepSeek V3 miễn phí.
+Dù cònmột số vấn đềliên quan đến phản hồi, mô hình hiện được đánh giá rất cao khi chỉ mất hai tháng để xây dựng với chi phí chưa đến 6 triệu USD, đồng thời dùng GPU H800 vốn được Nvidia hạ cấp sức mạnh để tuân thủ lệnh cấm của Mỹ, thay vì những mẫu chip AI mạnh nhất thị trường.
+Trong một loạt bài kiểm tra chuẩn của bên thứ ba, mô hình của DeepSeek đã vượt Llama 3.1 của Meta, GPT-4o của OpenAI và Claude Sonnet 3.5 của Anthropic với độ chính xác từ giải quyết vấn đề phức tạp đến toán học và mã hóa.
+V3 cũng đánh bại đối thủ cạnh tranh trên Aider Polyglot, bài kiểm tra được thiết kế để đo lường khả năng của các mô hình AI.
+Theo DeepSeek, mô hình được đào tạo trên một tập dữ liệu gồm 14, 8 nghìn tỷ token cùng kích thước khổng lồ với 671 tỷ tham số, lớn hơn khoảng 1, 6 lần so với Llama 3.1 405B.
+Nhưng V3 chưa phải là sản phẩm duy nhất.
+Ngày 20/1, DeepSeek tiếp tục tung mô hình mới "có khả năng lý luận" mang tên DeepSeek R1 và đã có mã nguồn trên Github.
+Theo đánh giá của một số bên thứ ba, AI này thậm chí vượt trội so vớio1mới nhất của OpenAI trong nhiều bài kiểm tra.
+"DeepSeek R1 là mã nguồn mở 100%, rẻ hơn 96, 4% so với OpenAI o1 trong khi vẫn mang lại hiệu suất tương tự.
+OpenAI o1 mất 60 USD cho một triệu token đầu ra, còn DeepSeek R1 chỉ cần 2, 19 USD", Shubham Saboo, Giám đốc sản phẩm của DeepSeek, cho biết trên X cuối tháng 1.
+Arnaud Bertrand, người sáng lập HouseTrip và Me & Qi, so sánh trên X: "Về cơ bản, điều này giống như ai đó phát hành điện thoại có sức mạnh bằng với iPhone, nhưng bán với giá 30 USD thay vì 1.000 USD".
+″Mô hình DeepSeek mới thực sự ấn tượng.
+Họ đã biết cách thực hiện hiệu quả một mô hình nguồn mở có khả năng suy luận, đạt hiệu quả tính toán siêu việt", CEO Microsoft Satya Nadella phát biểu tại Diễn đàn Kinh tế Thế giới ở Davos ngày 22/1 khi nói về AI mới của DeepSeek.
+"Chúng ta nên xem xét những diễn biến ở Trung Quốc một cách rất, rất nghiêm túc".
+Giới chuyên gia cũng đánh giá cao LLM mà DeepSeek đang phát triển.
+"Họ có thể chắt lọc để tạo ra một LLM thực sự tốt và sử dụng quy trình gọi là 'chưng cất' để làm điều đó", Chetan Puttagunta, chuyên gia của Benchmark, nói vớiCNBC.
+"Về cơ bản, họ sử dụng một mô hình rất lớn để giúp mô hình nhỏ của mình trở nên thông minh và cách này rất tiết kiệm chi phí".
+TheoCNBC, những diễn biến mới làm dấy lên hồi chuông cảnh báo về việc liệu vị thế dẫn đầu toàn cầu của Mỹ về AI có đang bị thu hẹp hay không.
+Đồng thời, điều này cũng đặt ra câu hỏi về khoản chi khổng lồ của các công ty công nghệ lớn cho việc xây dựng mô hình AI và trung tâm dữ liệu có hiệu quả không, khi Trung Quốc cũng có thể tạo được LLM có sức mạnh lớn với chi phí thấp.
+DeepSeek được Liang Wenfeng thành lập tháng 5/2023, đặt trụ sở ở Hàng Châu, Chiết Giang, và do High-Flyer, một trong những quỹ đầu tư hàng đầu Trung Quốc, sở hữu.
+Công ty được High-Flyer tài trợ toàn phần và không có kế hoạch huy động vốn.
+Công ty tập trung vào xây dựng công nghệ nền tảng.
+TheoChinaTalk, không giống các công ty AI tại Trung Quốc, DeepSeek tuyên bố sứ mệnh "giải mã bí ẩn của AGI bằng sự tò mò".
+Phòng thí nghiệm của công ty hiện tập trung nghiên cứu các cải tiến về kiến trúc và thuật toán có khả năng thay đổi cuộc chơi trong lĩnh vực trí tuệ nhân tạo.
+Trong số 7 startup AI lớn của Trung Quốc, DeepSeek kín tiếng nhất, nhưng luôn tạo được ấn tượng theo cách không ngờ tới.
+Không như nhiều công ty lớn đốt tiền thông qua các khoản trợ cấp, DeepSeek tự chủ tài chính và sớm có lãi.
+Thành công này bắt nguồn từ sự đổi mới toàn diện của công ty trong kiến trúc mô hình AI, đặc biệt việc sáng tạo ra kiến trúc MLA (multi-head latent attention) mới giúp giảm mức sử dụng bộ nhớ xuống 5-13% so với kiến trúc MHA đang có trên các LLM mạnh nhất trên thế giới.
+Ngoài ra, một cấu trúc khác của công ty là DeepSeekMoESparse cũng giúp giảm chi phí tính toán, dẫn đến giảm tổng chi phí.
+Theo một số nguồn tin, tại Thung lũng Silicon, DeepSeek được gọi là "thế lực bí ẩn từ phương Đông" từ khi mô hình DeepSeek V2 được giới thiệu năm ngoái.
+Khi đó, các nhà phân tích của SemiAnalysis đánh giá đây "có thể là mô hình ấn tượng nhất năm", còn cựu nhân viên OpenAI Andrew Carr cho rằng sản phẩm "đầy trí tuệ và đáng kinh ngạc".
+Jack Clark, cựu giám đốc chính sách của OpenAI và đồng sáng lập Anthropic, tin DeepSeek "đã thuê một nhóm thiên tài vượt sức tưởng tượng" để phát triển các mô hình, đồng thời so sánh chúng "có quy mô lớn ngang ngửa với máy bay không người lái và ôtô điện".
+Nhưng DeepSeek không phải là công ty Trung Quốc duy nhất đang thâm nhập vào lĩnh vực LLM hiệu suất lớn và chi phí thấp.
+Trước đó, Kai-Fu Lee, chuyên giaAIhàng đầu Trung Quốc và là người sáng lập 01.ai, cho biết mô hình của công ty chỉ được đào tạo với 3 triệu USD, gồm 2.000 GPU, nhưng "có sức mạnh ngang ngửa" GPT-4 của OpenAI vốn chạy trên hệ thống có chi phí được cho là từ 80 triệu đến 100 triệu USD, theoTom's Hardware.
+Ngày 21/1, ByteDance, công ty mẹ của TikTok, ra bản cập nhật mô hình Doubao-1.5-pro, tuyên bố mô hình này vượt trội OpenAI o1 trong AIME, một bài kiểm tra chuẩn đánh giá mức độ hiểu và phản hồi của các mô hình AI với các hướng dẫn phức tạp, theoReuters.
+Các công ty Trung Quốc khác đã công bố mô hình lý luận chỉ riêng đầu tháng 1, gồm Moonshot AI, Minimax và iFlyTek.
+"Sự tối ưu là khởi nguồn của các sáng chế", Aravind Srinivas, CEO của Perplexity AI, nói vớiCNBC.
+"Vì luôn phải tìm giải pháp thay thế trong bối cảnh bị các hạn chế bủa vây, nên cuối cùng, họ đã xây dựng được thứ gì đó hiệu quả hơn nhiều".

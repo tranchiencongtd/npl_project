@@ -1,0 +1,21 @@
+Từ giữa năm ngoái, phép so sánh 9, 9 với 9, 11 từng gây ồn ào trên mạng xã hội và được coi là phép thử gây "rối não" cho một số mô hình AI.
+Câu hỏi có vẻ đơn giản, nhưng nhiều chatbot AI trả lời sai.
+Cụ thể, ChatGPT, Meta AI, Google Gemini đều nói 9, 11 lớn hơn.
+Thử nghiệm lại vào tháng 2, các chatbot này vẫn đáp lại bằng câu trả lời tương tự.
+Khi DeepSeek rộ lên tuần từ cuối tháng 1, nhiều người cũng mang bài toán trên để thử thách chatbot mới từ Trung Quốc.
+AI này trả lời tuần tự theo từng bước, so sánh phần nguyên và phần thập phân, trước khi kết luận cuối cùng "0, 90 > 0, 11, do đó 9, 9 > 9, 11".
+Trước đó, khi thử thách bắt đầu xuất hiện tại Trung Quốc hồi tháng 7/2024, hai chatbot phổ biến tại đây là Kimi của Moonshot AI và Baixiaoying của Baichuan lúc đầu đều trả lời sai rằng 9, 11 lớn hơn.
+Cả hai đã sửa thuật toán sau khi người dùng phàn nàn, đồng thời xin lỗi và đưa ra nguyên nhân nằm ở sự không chính xác của "phương pháp tiếp cận chuỗi suy nghĩ", trong đó AI được hướng dẫn từng bước đối với một vấn đề.
+Ví dụ, AI tách con số sau dấu phẩy, từ đó so sánh 11 với 9 và khẳng định 11 lớn hơn, nên 9, 11 cũng lớn hơn.
+Ngoài ra, một số AI phải cần đến công đoạn phức tạp hơn.
+Chẳng hạn, Qwen LLM của Alibaba sử dụng Python Code Interpreter để tính toán câu trả lời, trong khi Ernie Bot của Baidu thực hiện diễn giải sáu bước mới trả lời đúng.
+Theo Wu Yiquan, nhà nghiên cứu khoa học máy tính tại Đại học Chiết Giang ở Hàng Châu, việcAIkhông giỏi toán rất phổ biến.
+Các mô hình ngôn ngữ lớn đứng sau không sở hữu khả năng toán học, bởi chúng dự đoán câu trả lời dựa trên dữ liệu đào tạo.
+"Một số LLM hoạt động tốt trong bài kiểm tra toán có thể là do 'nhiễm dữ liệu', nghĩa là thuật toán đã ghi nhớ câu trả lời vì các câu hỏi tương tự đã có trong dữ liệu đào tạo của nó", Yiquan giải thích.
+"Thế giới AI được mã hóa, do đó số, từ, dấu câu và khoảng trắng đều được xử lý như nhau.
+Bất kỳ thay đổi nào trong lời nhắc đều có thể ảnh hưởng đáng kể đến kết quả".
+Theo các chuyên gia, người dùng không nên tin tưởng hoàn toàn vào mô hình AI.
+Thực tế, chúng nhiều lần bị phát hiện trả lời sai hoặc gặp tình trạng "ảo giác", tức bịa ra câu trả lời sao cho nghe có vẻ thuyết phục nhất.
+Ngày 20/1, công ty khởi nghiệp Trung QuốcDeepSeekcông bố mô hình V3 miễn phí và đặc biệt là mô hình R1 "được đào tạo trên các chip cũ của Nvidia, mã nguồn mở 100%, rẻ hơn 96, 4% so với OpenAI o1 trong khi vẫn mang lại hiệu suất tương tự".
+Công ty cho biết họ chỉ mất hai tháng và chi phí 5, 6 triệu USD để tạo mô hình AI sử dụng chip H800 kém tiên tiến của Nvidia.
+Phiên bản V3 thậm chí vượt ChatGPT trở thành ứng dụng được tải nhiều nhất trên App Store, trong khi giá trị củaNvidiabị thổi bay gần 600 tỷ USD.

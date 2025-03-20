@@ -1,0 +1,28 @@
+Dự án ALERTCalifornia của Đại học California ở San Diego (UC San Diego) hiện triển khai mạng lưới camera tại các địa điểm nguy cơ cao, với 115 camera riêng ở Los Angeles, California, cùng hơn 1.140 camera trên toàn bang này.
+Viết trên X tháng trước, phòng cứu hỏa Quận Cam đã ghi nhận hệ thống này đóng vai trò quan trọng trong việc phát hiện cháy thảm thực vật bằng AI, cho phép lực lượng ứng cứu đầu tiên kiểm soát đám cháy.
+Đây cũng là lần đầu đơn vị này sử dụng AI cho mục đích phát hiện cháy rừng.
+TheoBusiness Insider, khi cháy rừng lan rộng ở Los Angeles, bang California tuần này khiến nhà cửa bị tàn phá, giao thông tắc nghẽn và buộc hàng chục nghìn người phải sơ tán, lực lượng cứu hỏa California đã ứng dụng hàng loạt công nghệ cả mới và cũ để ngăn sự cố lan rộng.
+Trong đó, hệ thống cảm biến và camera AI lần đầu phát huy vai trò đáng kể trong việc cảnh báo đám cháy, còn drone AI và máy bay trực thăng hút nước biển để dập tắt lửa.
+ALERTCalifornia hiện đóng vai trò đáng kể trong quá trình ngăn cháy lan thêm.
+Với cảm biến và camera AI được đặt trên tháp cao và những nơi khó tiếp cận, chúng có thể thu thập nhiều dữ liệu theo thời gian thực, gồm nhiệt độ, điều kiện môi trường, dấu hiệu có lửa...
+để đưa ra cảnh báo lập tức.
+"Trước đây, đội cứu hỏa cần trung bình 20-30 phút để đến đám cháy và đưa ra quyết định.
+Nhưng hiện tại, chúng tôi đã phản ứng chỉ vài giây sau báo cáo đầu tiên kể từ khi nhận dữ liệu từ hệ thống camera AI.
+Đó là sự khác biệt, và tôi không thể diễn tả bằng lời về sự khác biệt đó", Tony Mecham, người đứng đầu đội cứu hỏa Los Angeles County, cho biết trên website của UC San Diego.
+Tại Mỹ, nhiều công ty khởi nghiệp cũng bắt đầu tham gia phát triển các hệ thống phát hiện và ngăn cháy rừng.
+Sonia Kastner, đồng sáng lập kiêm CEO Pano AI, đánh giá công tác chữa cháy đang thay đổi theo hướng ứng dụng công nghệ.
+Trong bối cảnh các đám cháy xuất hiện nhiều hơn và gây hậu quả nặng nề hơn, việc phát hiện sớm và ngăn chặn nhanh chóng bằng công nghệ là điều cần thiết.
+"Bạn có thể nghĩ về nó tương tự cách chúng ta điều trị ung thư", Kastner nói vớiBusiness Insider.
+"Chúng tôi sàng lọc sớm, sau đó 'điều trị' tích cực ở giai đoạn một để không chuyển biến sang giai đoạn bốn".
+Kastner cho biết, thay vì dựa vào báo cáo của con người, camera và hệ thống AI có thể phân tích nhanh chóng vấn đề, qua đó cung cấp cho lực lượng ứng cứu khả năng xác nhận nhanh hơn và vị trí chính xác hơn.
+"Người ngoài cuộc có nhìn thấy đám cháy hay không là tùy thuộc may mắn.
+Sau đó, bước xác nhận bắt buộc là xe cứu hỏa phải đi vòng quanh và cố gắng tìm ra đám cháy.
+Công việc này mất rất nhiều thời gian", theo Kastner.
+Camera và cảm biến AI có tác dụng giúp người ứng cứu biết nơi có hỏa hoạn, trong khi việc kiểm soát đám cháy vẫn đòi hỏi phải sử dụng nhiều công nghệ vật lý hơn.
+Đây là lúc vệ tinh và máy bay không người lái tích hợp AI phát huy hiệu quả, bên cạnh các thiết bị cũ hơn như trực thăng.
+Website của Cơ quan Lâm nghiệp Mỹ cũng cung cấp chi tiết các loại máy bay được sử dụng để ứng phó với cháy rừng, từ máy bay không người lái có thể mang 3.000 lít chất chống cháy đến các mẫu trực thăng mang 15.000 lít.
+Những máy bay này cùng với đội bay tư nhân Coulson Aviation cũng được phát hiện đang dập lửa tại đám cháy ở California.
+"Đội Coulson Crew của chúng tôi đang ở tuyến đầu trong đám cháy tại California.
+Chúng tôi vẫn tận tâm hỗ trợ các nỗ lực dập lửa, bảo vệ tính mạng cũng như tài sản", đại diện Coulson Aviation viết trên X ngày 8/1.
+Ngoài công nghệ, lính cứu hỏa mặt đất vẫn dựa vào các công cụ và kỹ thuật đã có hàng thập kỷ để chữa cháy, gồm vòi nước công suất lớn, cưa máy và thậm chí cả xô.
+"Đây là công việc khó khăn, nguy hiểm, nhưng công nghệ hiện đại đang giúp lực lượng ứng cứu trên mặt đất và trên không thực hiện công việc hiệu quả hơn", Mecham nói thêm.

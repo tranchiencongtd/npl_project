@@ -1,0 +1,17 @@
+Cuối tháng 2, Wang Hong, Đại học New York (Mỹ) cùng cộng sự Joshua Zahl ở Đại học British Columbia (Canada) đã có đóng góp mang tính đột phá cho lĩnh vực Toán học nhờ giải được giả thuyết Kakeya trong không gian ba chiều.
+Bài toán được lấy cảm hứng từ câu hỏi do nhà Toán học người Nhật Sōichi Kakeya đặt ra vào năm 1917: Diện tích nhỏ nhất mà một chiếc kim mỏng vô hạn có thể quét được khi quay là bao nhiêu?
+Bài toán này đã được giải trong không gian hai chiều, tuy nhiên lời giải trong không gian ba chiều của nó đã khiến các nhà toán học thế giới bối rối trong hơn một thế kỷ.
+Qua nhiều năm, câu hỏi này được phát triển thành nghiên cứu về tập hợp Kakeya - những hình chứa một đoạn thẳng theo mọi hướng trong một không gian nhất định.
+Wang và Zahl đã chứng minh được tập hợp Kakeya không thể "quá nhỏ" - tức là những tập này phải là ba chiều mặc dù có thể không có thể tích ba chiều.
+Phần chứng minh của Wang được công bố vào ngày 24/2 trong một bài báo dài 127 trang trên kho lưu trữ mở arXiv.
+Bài báo chưa được bình duyệt, nhưng đã trở thành tâm điểm trong cộng đồng Toán học.
+"Tôi rất vui mừng thông báo rằng giả thuyết tập hợp Kakeya, một trong những bài toán mở được tìm hiểu nhiều nhất trong lý thuyết đo lường hình học, đã được Hong Wang và Joshua Zahl chứng minh trong không gian ba chiều", Terence Tao, chủ nhân Giải thưởng Fields năm 2006, viết trong một bài đăng trên trang mạng xã hội Mastodon.
+Kết quả của Wang đánh dấu cột mốc quan trọng, có ý nghĩa sâu rộng trong nghiên cứu toán học, đặc biệt là trong giải tích điều hòa, lý thuyết số và tổ hợp cộng tính.
+Bước đột phá này có thể tác động đến các ứng dụng trong khoa học máy tính và mật mã như tạo hình ảnh, xử lý dữ liệu và truyền thông không dây.
+Eyal Lubetzky, trưởng khoa Toán học tại Viện Courant, Đại học New York, Mỹ, đánh giá đây là một trong những thành tựu toán học hàng đầu của thế kỷ 21.
+Hong Wang hiện là giáo sư bậc hai (Associate Professor) tại Viện này.
+Năm 16 tuổi, cô từng đạt 653/750 điểm trong kỳ thi tuyển sinh đại học Trung Quốc và được nhận vào Khoa Khoa học Trái đất của Đại học Bắc Kinh, sau đó chuyển sang khoa Toán.
+Wang lấy bằng thạc sĩ tại Đại học Paris Sud và Ecole Polytechnique (Pháp), bằng tiến sĩ tại Viện Công nghệ Massachusetts - MIT (Mỹ).
+Nhiều chuyên gia coi Wang là ứng cử viên nặng ký cho Giải thưởng Fields năm 2026, vốn được mệnh danh là "Nobel Toán học".
+Nếu điều này thành sự thật, Wang là người phụ nữ Trung Quốc đầu tiên nhận giải thưởng danh giá này.
+Trong lịch sử, chưa nhà Toán học Trung Quốc nào giành được giải thưởng Fields, trừ Shing-Tung Yau, người Mỹ gốc Hoa và Terence Tao, người Australia gốc Hoa.

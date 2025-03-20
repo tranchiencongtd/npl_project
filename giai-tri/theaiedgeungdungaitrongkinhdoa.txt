@@ -1,0 +1,20 @@
+Cuốn sách do NXB Công thương phát hành bản dịch vào tháng 2, đề cập cách khai thác trí tuệ nhân tạo trong hoạt động kinh doanh và tiềm năng vô hạn của công nghệ này.
+TrongThe AI Edge, tác giả chỉ ra trí tuệ nhân tạo giúp người dùng tạo bài thuyết trình, báo cáo hoặc video được tùy chỉnh theo hồ sơ của từng khách hàng, soạn thảo tin nhắn tìm kiếm khách tiềm năng, dự báo doanh số.
+Sách nhấn mạnh con người nên kết hợp với công nghệ để làm việc hiệu quả hơn.
+Blount và Iannarino cho rằng AI không thay thế hoạt động của con người, thay vào đó chúng hỗ trợ bằng cách tự động hóa các tác vụ lặp đi lặp lại và cung cấp thông tin hữu ích.
+Nhờ đó, người bán hàng tiết kiệm thời gian, phát triển những khả năng chỉ con người có được như xây dựng mối quan hệ, khai phá năng lực sáng tạo.
+Theo Blount và Iannarino, ba chìa khóa ứng dụng trí tuệ nhân tạo hiệu quả là: Adopt (đón nhận): cam kết trở thành người tiên phong trong việc sử dụng công nghệ tiên tiến, tận dụng nó để tạo ra lợi thế cạnh tranh đột phá; Adapt (thích nghi): điều chỉnh để đưa công nghệ mới vào quy trình bán hàng.
+Tránh coi AI như một giải pháp phù hợp cho mọi tình huống.
+Quan trọng nhất, dùng trí tuệ nhân tạo để tiết kiệm thời gian, giúp tập trung vào các tương tác và chiến lược nhân văn có giá trị cao; Adept (thành thạo): nhanh chóng tích hợp AI vào quy trình bán hàng, sau đó sử dụng, thực hành, thử nghiệm cho đến khi thành thạo.
+Ngoài liệt kê những nền tảngtiềm năng như Chat GPT, Google Gemini, Claude, sách hướng dẫn người đọc thiết kế câu lệnh (prompt) phù hợp: "Câu lệnh là một đoạn văn bản ngôn ngữ tự nhiên mô tả nhiệm vụ mà AI cần thực hiện.
+Về cơ bản, nhập câu lệnh là cách giao tiếp với AI bằng ngôn ngữ của nó".
+Ví dụ, để chỉnh sửa giọng điệu, tránh làm mất lòng khách hàng, người đọc nên sử dụng câu lệnh trên Chat GPT: "Hãy chỉnh sửa văn bản để đảm bảo rằng không có điều gì gây khó chịu cho người nhận".
+Các tác giảcũng đề cao tầm quan trọng của công việc biên tập, người dùng có thể sử dụng AI trong quá trình chỉnh sửa văn bản.
+Sách chỉ ra: "Văn bản do con người viết còn nhiều điểm lộn xộn và không hoàn hảo.
+Trong khi đó, văn bản do người máy tạo ra lại cứng nhắc và nhàm chán.
+AI đã thu nạp toàn bộ quy tắc ngữ pháp, biết cách đánh vần chính xác và có thể kiểm tra tài liệu viết với tốc độ vượt xa con người".
+The AI Edgecó ngôn ngữ dễ hiểu, bài tập thực hành cuối chương giúp người đọc ứng dụng vào thực tế.
+Độc giả Kris nhận xét trên trangGoodreads: "Đây không chỉ là một tác phẩm về AI mà còn là hướng dẫn để bạn thành công trong kinh doanh bằng cách kết hợp công nghệ với yếu tố con người".
+Anthony Iannarino, 58 tuổi, là doanh nhân, diễn giả người Mỹ, ông viết bốn cuốn sách ghi lại các phương pháp giúp cải thiện hiệu quả kinh doanh và tăng tỷ lệ chốt giao dịch.
+Jeb Blount được coi là lãnh đạo trong giới kinh doanh và nghiên cứu khách hàng.
+Ông là tác giả của 16 tác phẩm về bán hàng như:Kỹ năng bán hàng trực tuyến(2022), Nói sao cho khách hàng thích - bán sao cho khách hàng mua(2023).

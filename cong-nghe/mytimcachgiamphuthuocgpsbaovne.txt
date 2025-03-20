@@ -1,0 +1,15 @@
+Trong thông báo ngày 5/3, FCC cho biết kế hoạch bỏ phiếu sẽ diễn ra vào tháng 4 với mục đích khám phá những giải pháp tương tự GPS, sau khi xuất hiện lo ngại về an ninh quốc gia liên quan đến việc phụ thuộc vào một hệ thống định vị duy nhất.
+GPS, viết tắt của Hệ thống Định vị Toàn cầu (Global Positioning System), là mạng lưới vệ tinh và thiết bị thu được sử dụng để định vị, điều hướng và tính thời gian trên Trái Đất.
+Hiện tại, hầu hết thiết bị di động, tàu thuyền, máy bay, ôtô...
+đều sử dụng hệ thống này.
+"Tiếp tục phụ thuộc quá nhiều vào một hệ thống khiến chúng ta dễ bị tổn thương", Chủ tịch FCC Brendan Carr cho biết.
+"Chúng ta cần phát triển công nghệ dự phòng".
+Trước đó, nhất là từ năm 2023, có nhiều báo cáo liên quan đến sự gia tăng tình trạng nhiễu GPS trên toàn cầu, gọi là hiện tượng giả mạo (spoofing).
+Chẳng hạn, máy bay có nguy cơ bị tai nạn nếu đi chệch hướng do định vị sai.
+GPS là một trong những công cụ dẫn đường quan trọng trong ngành hàng không, thay thế các thiết bị mặt đất đắt tiền dùng để truyền tín hiệu vô tuyến hướng dẫn máy bay hạ cánh.
+"Sự gián đoạn đối với GPS có khả năng làm suy yếu nền kinh tế và an ninh quốc gia.
+Những rủi ro đối với hệ thống đang gia tăng", Carr nói, đồng thời lưu ý rằng Tổng thống Donald Trump và một nhóm các nhà lập pháp lưỡng đảng đã kêu gọi hành động trong nhiều năm.
+FCC dự kiến thực hiện một cuộc bỏ phiếu nhằm cân nhắc một số giải pháp tiên tiến hơn, gồm hệ thống Định vị, Điều hướng và Thời gian (PNT) thay thế GPS.
+"Chúng tôi hy vọng nỗ lực này sẽ thu hút các bên, gồm cả chính phủ và doanh nghiệp, nhằm khuyến khích phát triển công nghệ và giải pháp PNT mới", Carr nói thêm.
+GPS do Bộ Quốc phòng Mỹ thiết kế, vận hành bởi Không lực Mỹ, ban đầu dùng trong mục đích quân sự nhưng hỗ trợ dân sự từ sau những năm 1980.
+Ngoài GPS, thế giới hiện có một số hệ thống định vị qua vệ tinh khác như Glonass của Nga, Galileo của Liên minh châu Âu, QZSS của Nhật Bản và Bắc Đẩu (Beidou) của Trung Quốc.

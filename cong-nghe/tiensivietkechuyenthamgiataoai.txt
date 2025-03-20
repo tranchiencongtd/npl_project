@@ -1,0 +1,32 @@
+"Vài tháng làm việc ở xAI mang lại cho mình thật nhiều giá trị, cơ hội và cảm xúc", Phạm Hy Hiếu, 33 tuổi, chia sẻ trên Facebook ngày 18/2 sau khi mô hìnhGrok 3 ra mắt.
+Để có được AI mà Elon Musk nhận xét là "thông minh nhất trên Trái Đất", anh cho biết: "Grok 3 là kết quả của hàng tháng trời nghiên cứu phát triển của mình và đồng nghiệp, cũng là chừng đó thời gian vợ chồng con cái của các nhân viên xAI phải hy sinh, ít được gặp người thân".
+Trong bài viết tiếp theo, anh nói đã ký hợp đồng với xAI vào tháng 7/2024 và sớm có cảm giác công ty "tiết kiệm đến từng giây phút".
+Khi ký hợp đồng, anh được hẹn đầu tuần sau đó đi làm.
+Nhưng từ Thứ Năm, công ty đã gọi đến nhận laptop, cài đặt trước mọi thứ để sẵn sàng cho buổi làm việc đầu tiên.
+Ngay sau khi nhận laptop, một đồng nghiệp "đàn anh" tại xAI gọi điện, đưa ra một vấn đề khó liên quan đến dao động điện từ của siêu máy tínhColossus: Trường hợp quá nhiều GPU cùng vận hành, năng lượng chúng tiêu thụ sẽ cộng hưởng, gây hư hỏng hệ thống turbine cung cấp điện cho chúng.
+Người này hỏi anh có thể giải quyết trong buổi sáng được không.
+Thực tế, câu chuyện này cũng đượcElon Muskchia sẻ trong buổi livestream ra mắt Grok 3.
+Ông ví siêu máy tính Colossus "như một dàn nhạc giao hưởng" và 100.000 chip GPU dùng để đào tại AI "như trăm nghìn nhạc công".
+Khi họ "cùng hát, hoặc cùng im lặng", cộng hưởng của dao động sẽ rất lớn.
+Phạm Hy Hiếu sau khi được đề xuất đã viết một chương trình cho GPU Kernel giúp giảm dao động nói trên, nhưng đòi hỏi hệ thống tiêu tốn nhiều điện hơn.
+"Bản chất của Kernel đó là khi hệ thống rơi vào pha tiêu thụ ít điện năng, mình bắt nó phải làm thêm việc, buộc tiêu thụ nhiều điện hơn", anh giải thích.
+Ngày hôm sau, Musk nghe báo cáo về vấn đề tốn điện và nói dao động là không tránh khỏi, nên phải tăng sức chịu đựng cho các turbine.
+Ông điều một hệ thống pin megapack từ Tesla đến, dùng các miếng pin này làm bộ đệm năng lượng.
+Lúc này, turbine sẽ sinh ra năng lượng và nạp vào các viên pin megapack.
+GPU lấy năng lượng từ viên pin thay vì trực tiếp từ turbine, giúp turbine chịu tác động nhỏ hơn.
+"Điều này cho thấy năng lực suy nghĩ tuyệt vời của Musk", anh Hiếu cho biết.
+"Một ý tưởng thiên tài.
+Bạn nghĩ xem, bao nhiêu người trở thành tỷ phú mà vẫn có thể tư duy sâu sắc ở một vấn đề kỹ thuật như thế?".
+Anh đánh giá tỷ phú Mỹ "nổi tiếng và đầy tranh cãi", nhưng những bản chất tốt đẹp của ông "vô cùng đáng học hỏi".
+Musk có tầm nhìn sâu rộng và suy nghĩ sáng tạo (out of the box).
+Trước khi đến với xAI, tiến sĩPhạm Hy Hiếukhông xa lạ với cộng đồng AI Việt Nam và thế giới.
+Anh được 5 trường đại học nổi tiếng ở Mỹ chấp nhận cấp học bổng toàn phần năm 2011.
+Hiếu tốt nghiệp Đại học Stanford năm 2015, được Microsoft, Facebook, Google cùng lúc mời về làm.
+Anh chọn Google dù từng bị công ty đánh trượt khi nộp đơn ứng tuyển lần đầu năm 2012.
+Hiếu làm nhiệm vụ phát triển ứng dụng của mạng neuron tại Google Brain.
+Năm 2017, Google liên hệ với Đại học Carnegie Mellon (Mỹ) thiết kế chương trình đào tạo tiến sĩ liên kết, cho phép anh vừa làm nghiên cứu sinh vừa là nhân viên công ty.
+Từ năm thứ nhất nghiên cứu tiến sĩ, anh đạt được những thành công đáng kể, dù hai năm sau không có nhiều thành tựu mới.
+Anh nhận ra dù nghiên cứu cái khó, phức tạp nhưng không có tính ứng dụng thực tiễn cũng không có kết quả.
+Học cách tư duy đơn giản giúp anh đạt được nhiều thành tựu trong những năm cuối nghiên cứu tiến sĩ tại Google.
+Năm 2021, ở tuổi 29, anh bảo vệ thành công luận án tiến sĩ tại Đại học Carnegie Mellon và xuất bản thêm 6 bài báo khoa học trong kỷ yếu của hội nghị khoa học quốc tế, tăng thêm 5.000 lượt trích dẫn cho các nghiên cứu.
+Riêng đề tài ứng dụng AI giải các bài toán rời rạc của anh được Google ứng dụng giúp giảm chi phí dạy và học cho các chương trình AI xuống hàng nghìn lần, giúp hạn chế sử dụng siêu máy tính, gồm hàng nghìn chip xử lý đắt tiền, cộng thêm hàng nghìn GB dữ liệu.

@@ -1,0 +1,10 @@
+Các nhà nghiên cứu phát triển một robot 4 chân có thể chạy nhanh hơn người nhanh nhất thế giới.
+Robot mang tên Báo đen 2.0 là dự án hợp tác của nhóm nghiên cứu ở công ty khởi nghiệp Mirror Me và Trung tâm cơ khí liên ngành tại Đại học Chiết Giang, Trung Quốc, Live Sciencehôm 1/2 đưa tin.
+Robot nặng 38 kg và cao 0, 63 m, có thể chạy nước rút 100 m trong chưa đầy 10 giây.
+Trong video, nhóm phát triển robot cho biết nó đạt tốc độ 10, 4 m/giây, chỉ gần bằng tốc độ 10, 44 m/s mà vận động viên Usain Bolt đạt được tại giải Vô địch Điền kinh Thế giới năm 2009.
+Để đạt tốc độ này, các nhà nghiên cứu trang bị cho robot khớp linh hoạt giống đầu gối ở 4 chân và thêm cấu trúc sợi carbon gia cố nhằm duy trì độ kiên cố dưới áp lực từ sức nặng của robot khi di chuyển ở tốc độ tối đa.
+Theo Xinhua, Báo đen 2.0 sử dụng trí tuệ nhân tạo (AI), bao gồm học máy, để điều chỉnh chuyển động theo môi trường.
+Mục đích sử dụng robot Báo đen 2.0 chưa được tiết lộ.
+Các robot 4 chân khác như DEEP Robotics Lynx hướng tới mục đích an ninh và khảo sát môi trường độc hại, nhưng tốc độ tối đa của nó chỉ ở mức 4, 9 m/giây, chưa bằng một nửa tốc độ của Báo đen 2.0.
+Năm 2012, công ty Boston Dynamics đạt tốc độ 12, 6 m/giây với robot báo săn.
+Tuy nhiên, đây là thiết bị lớn và nặng hơn nhiều và chưa có mặt trên thị trường.

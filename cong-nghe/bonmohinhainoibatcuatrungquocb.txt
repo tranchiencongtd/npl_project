@@ -1,0 +1,19 @@
+Ngành công nghệ AI tại Trung Quốc đang nóng lên với sự xuất hiện của các mô hình sánh ngang với đối thủ từ Mỹ.
+Trong đó, bốn cái tên nổi bật là DeepSeek, Alibaba, Tencent và Manus.
+DeepSeek, startup AI thành lập tại Hàng Châu, Trung Quốc năm 2023, làm dậy sóng ngành công nghiệp trí tuệ nhân tạo cuối tháng 1.
+Mô hình mới của họ khiến cổ phiếu các hãng công nghệ Mỹ như Nvidia lao dốc, do nhiều nhà đầu tư hoài nghi về sự dẫn đầu của Mỹ trong lĩnh vực AI.
+Theo DeepSeek, mô hình R1 được xây dựng trên nền tảng V3 với khoảng 2.000 chip Nvidia H800, tiêu tốn tổng chi phí 5, 6 triệu USD, chỉ bằng một phần nhỏ so với số tiền khổng lồ mà Meta, Microsoft, Google hay OpenAI bỏ ra.
+Ví dụ, Mark Zuckerberg, CEO Meta, tuyên bố kế hoạch chi hơn 60 tỷ USD trong năm 2025 để đầu tư vào AI.
+QwQ-32B nhanh chóng trở thành tâm điểm chú ý từ tuần trước khi Alibaba tuyên bố mô hình AI nguồn mở này hiệu quả hơn khi chỉ dùng dữ liệu bằng 20% so với DeepSeek-R1.
+Động thái này khiến cổ phiếu của Alibaba tăng vọt 8%, trong khi cổ phiếu Nvidia một lần nữa đi xuống.
+Tháng trước, cổ phiếu Alibaba cũng tăng mạnh sau khi Apple hợp tác đưa tính năng AI vào iPhone tại Trung Quốc.
+Đầu tháng 3, công ty công bố kế hoạch đầu tư ít nhất 380 tỷ nhân dân tệ (53 tỷ USD), vào cơ sở hạ tầng điện toán đám mây và AI trong ba năm tới.
+Cũng trong tuần trước, Yuanbao, chatbot AI của Tencent, vươn lên vị trí số một trên App Store tại Trung Quốc, đẩy ứng dụng DeepSeek xuống thứ hay.
+Yuanbao thực tế đã ra mắt từ tháng 5/2024, nhưng bắt đầu nhận được sự chú ý mạnh mẽ từ tháng 2 khi Tencent đưa chính DeepSeek R1 vào để hỗ trợ truy vấn.
+Điểm mạnh của AI này còn nằm ở việc nó có thể truy cập hệ sinh thái nội dung rộng lớn WeChat của Tencent để trả về kết quả tìm kiếm.
+Tuần trước, WeChat bổ sung nút tải xuống Yuanbao, giúp chatbot tăng cơ hội tiếp cận hơn 1, 3 tỷ người dùng mạng xã hội này.
+Manus đang trở thànhhiện tượng AImới nhất ở Trung Quốc, được nhiều phương tiện truyền thông gọi là "khoảnh khắcDeepSeekthứ hai", ám chỉ AI Agent này có thể tạo đột phá giống như công ty đồng hương đã làm hồi đầu năm.
+TrangForbesgọi mô hình do startup Monica phát triển là "tác nhân AI hoàn toàn tự động đầu tiên trên thế giới", với khả năng suy nghĩ, lập kế hoạch và thực hiện các nhiệm vụ một cách độc lập như con người.
+Không giống như các chatbot yêu cầu nhiều đầu vào, Manus có thể hoàn thành nhiệm vụ phức tạp như sắp xếp sơ yếu lý lịch, phân tích cổ phiếu, thu thập dữ liệu và thậm chí xây dựng trang web chỉ sau một lần nhắc.
+Tuy nhiên, một số chuyên gia cho rằng Manus bị thổi phồng, chỉ là vỏ bọc AI sử dụng các mô hình khác, như Claude 3 của Anthropic.
+Nó cũng gây tranh cãi khi chỉ cho số ít người được mời sử dụng, dấy lên nghi vấn nhóm phát triển cố tình tạo sự khan hiếm cho sản phẩm của mình.

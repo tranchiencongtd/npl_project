@@ -1,0 +1,17 @@
+Được công bố đầu tuần bởi các nhà nghiên cứu từ các trường đại học tại Thượng Hải và Hong Kong, nhóm đã phát triển hệ thống có tên HoST (Kiểm soát đứng lên của robot hình người) với khả năng kiểm soát việc đứng lên lập tức khi đang ở các tư thế như nằm hoặc ngồi ở nhiều địa hình khác nhau.
+HoST hiện ứng dụng đầu tiên trên Unitree G1.
+Trong video do nhóm đăng trên YouTube, robot Unitree G1 đã có thể đứng dậy lập tức khi đang ở trạng thái nằm ngửa, ngồi dựa vào tường, nằm trên ghế sofa và ngả lưng trên ghế.
+Nhóm cũng thử nghiệm khả năng tự đứng lên của robot hình người trên nhiều địa hình và độ dốc khác nhau như đường đá, dốc kính và khi dựa vào cây.
+Họ thậm chí ngăn robot bằng cách đánh hoặc đá, nhưng cỗ máy vẫn đứng thành công.
+Theo nhóm nghiên cứu, HoST sử dụng hệ thống AI học tăng cường bằng cách cho robot liên tục thử và sai.
+Về bản chất, robot thực hiện một hành động và nếu hành động đó chưa chính xác, nó sẽ tự khuyến khích thực hiện lại vào lần tiếp theo cho đến khi thành công.
+Nếu hành động đó dẫn đến kết quả tích cực, nó sẽ được gửi một "tín hiệu phần thưởng", khuyến khích cải thiện hành động này ở những lần tiếp theo cho đến khi hoàn thiện nhất.
+Trong "hệ thống phần thưởng" của HoST được chia làm bốn phần riêng biệt theo từng cấp độ nhằm giúp robot phản hồi có mục tiêu hơn.
+Nhóm cũng đưa một loạt các ràng buộc chuyển động, gồm làm mịn chuyển động và giới hạn tốc độ để ngăn chặn các hành động bất thường.
+Ban đầu, nhóm cho biết đã huấn luyện mô phỏng HoST bằng cách sử dụng Isaac Gym - một môi trường ảo do Nvidia phát triển.
+Sau khi được đào tạo đầy đủ, nó được đưa vào Unitree G1 với kết quả đã được thể hiện trong video.
+"Đứng dậy được xem là bản năng thứ hai của con người, nhưng là điều mà robot hình người đã phải vật lộn nhưng chưa thể sao chép được ở mức độ nhuần nhuyễn.
+HoST khắc phục được vấn đề này, khi Unitree G1 chứng minh chuyển động đứng lên mượt mà, ổn định và mạnh mẽ trong nhiều tình huống thực tế", đại diện nhóm nghiên cứu nói vớiLive Science.
+"Nhìn về tương lai, công trình này mở đường cho việc tích hợp điều khiển đứng lên cho các cỗ máy hình người hiện có, cùng tiềm năng mở rộng khi đưa chúng vào thế giới thực".
+Trước đó, một số nhà sản xuất robot hình người cũng thử nghiệm khả năng thăng bằng trên sản phẩm của mình.
+Chẳng hạn, robot Optimus của Tesla đã có thể đi trên các sườn dốc và tự đứng dậy khi té ngã; hay Unitree H1, G1 đứng vững khi bị xô hoặc ngoại lực tác động.

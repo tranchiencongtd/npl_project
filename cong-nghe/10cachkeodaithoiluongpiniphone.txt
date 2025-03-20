@@ -1,0 +1,26 @@
+iPhonelà một trong những smartphone có thời lượng pin tốt nhất, đáp ứng đủ nhu cầu sử dụng trong ngày của người dùng.
+Tuy nhiên, việc kéo dài thời gian sử dụng vẫn luôn được quan tâm, đặc biệt trong một số tình huống cần thiết.
+Tính năng iPhone Mirroring cho phép điều khiển iPhone từ máy Mac và nhận thông báo trên màn hình Mac.
+Dù tiện lợi, tính năng này làm hao pin đáng kể vì kết nối giữa hai thiết bị luôn hoạt động.
+Để tắt, người dùng truy cậpCài đặt > Cài đặt chung > AirPlay và Liên tục > Chỉnh sửa.
+Sau đó, xóa các máy Mac mà iPhone kết nối.
+Apple Intelligence, hoạt động trên bộ đôi iPhone 15 Pro và bốn phiên bản iPhone 16, là tính năng ngốn pin, do các chức năng như tạo ảnh Genmoji, chỉnh sửa ảnh Image Playground hay công cụ viết Writing Tools xử lý thông tin hoàn toàn trên thiết bị.
+Ước tính một giờ tạo biểu tượng cảm xúc bằng Genmoji tiêu tốn 50% pin của iPhone 16 Pro Max.
+Do đó, người dùng nên hạn chế sử dụng tính năng AI khi không cần thiết.
+Màn hình OLED của iPhone tiết kiệm pin khi chuyển sang chế độ tối vì cần ít năng lượng hơn để hiển thị màu đen.
+Theo nghiên cứu của Đại học Purdue năm 2021, chế độ tối đặc biệt hữu ích khi sử dụng ngoài trời nắng.
+Trong môi trường ánh sáng yếu, chế độ tối không tiết kiệm nhiều nhưng vẫn tiêu thụ ít điện năng.
+Theo Apple, người dùng nên bật kết nối Wi-Fi để tránh máy chuyển sang mạng di động, từ đó tiết kiệm năng lượng.
+Khi không có Wi-Fi còn tín hiệu di động kém, nên bật chế độ máy bay để giảm thiểu hao pin do thiết bị liên tục tìm kiếm tín hiệu.
+Phản hồi haptic trên bàn phím được đánh giá thú vị nhưng tốn nhiều năng lượng.
+Người dùng nên điều chỉnh khi cần bằng cách vàoCài đặt > Âm thanh & Haptic > Phản hồi bàn phímvà tắt Haptic.
+Các thông báo liên tục có thể làm tiêu hao pin nhanh chóng, nên thiết lập chế độ Focus để điều chỉnh thông báo phù hợp với từng hoạt động cụ thể.
+Trong đó, chế độ "Giảm gián đoạn" lọc thông tin không quan trọng trên thiết bị hỗ trợ Apple Intelligence.
+Người dùng cũng nên bật tổng hợp thông báo để nhận cùng lúc thay vì từng thông báo riêng lẻ.
+Bản đồ ngoại tuyến hữu ích khi tín hiệu yếu hoặc không có mạng di động, giúp người dùng vẫn xem được hướng dẫn và chỉ đường đầy đủ mà không cần kết nối Internet.
+Bật chế độ tiết kiệm năng lượng là cách dễ nhất để kéo dài thời gian sử dụng pin.
+Người dùng có thể thiết lập tự động bật chế độ này khi máy ở mức % pin nhất định bằng ứng dụng Shortcuts.
+Tính năng theo dõi sức khỏe lưu dữ liệu chuyển động của người dùng.
+Nếu đã sử dụng Apple Watch hay thiết bị theo dõi khác, hãy tắt tính năng này để tiết kiệm pin.
+Nhiều ứng dụng yêu cầu quyền truy cập Bluetooth hoặc vị trí không cần thiết, làm hao pin vô ích.
+người dùng nên kiểm tra và tắt quyền truy cập trong mục Cài đặt của iPhone.

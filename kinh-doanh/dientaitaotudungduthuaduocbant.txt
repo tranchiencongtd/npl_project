@@ -1,0 +1,21 @@
+Điện tự sản xuất, tự tiêu thụ là nguồn điện do tổ chức, cá nhân thực hiện để phục vụ cho nhu cầu của họ.
+Tại Nghị định 58 hướng dẫn Luật Điện lực (sửa đổi) ngày 3/3, Chính phủ quy định hệ thống điện mặt trời mái nhà tự sản xuất - tiêu thụ không dùng hết được bán lên hệ thống điện quốc gia, tối đa 20% công suất lắp đặt thực tế.
+Quy định này tương tự với Nghị định 135 áp dụng từ tháng 10/2024.
+Ngoài điện mặt trời mái nhà, các nguồn điện tái tạo tự sản xuất, tự tiêu thụ khác (gió, mặt trời, điện sinh khối...) được bán sản lượng điện dư, nhưng tối đa 10%.
+Như vậy, đối tượng bán điện dư thừa vào hệ thống được mở rộng so với các quy định hiện nay.
+Chi phí mua sản lượng điện dư thừa từ các nguồn năng lượng tái tạo sẽ được cập nhật trong thông số đầu vào tính phương án giá điện hàng năm của Tập đoàn Điện lực Việt Nam (EVN).
+Các dự án, công trình trước khi đầu tư, lắp đặt phải bảo đảm quy hoạch, xây dựng, đất đai, bảo vệ môi trường, an toàn, phòng cháy chữa cháy.
+Người dân không được nhập các thiết bị đã qua sử dụng cho dự án năng lượng tái tạo tự dùng bán lượng điện dư vào hệ thống.
+Trường hợp là nguồn đấu nối với lưới (công suất đặt từ 100 kW trở lên), người dân phải lắp thiết bị kết nối với hệ thống giám sát, điều khiển của cấp điều độ phân phối.
+Đơn vị điều độ sẽ quyết định việc huy động hoặc ngừng, giảm công suất phát lên lưới từ các nguồn này trong trường hợp đe dọa tới khả năng cung cấp điện.
+Giá mua từ các nhà máy điện tái tạo nhỏ tự sản xuất, tiêu thụ sẽ là mức bình quân tại Biểu giá chi phí tránh được mà Bộ Công Thương công bố hàng năm.
+Trong đó, chi phí tránh được là phí sản xuất 1 kWh của tổ máy có giá cao nhất trong hệ thống điện.
+Chi phí này tránh được khi EVN mua sản lượng thay thế tương ứng từ nhà máy thủy điện nhỏ.
+Biểu phí tránh được là biểu giá tính trên chi phí tránh được theo thời gian sử dụng (ngày, vùng, mùa trong năm) áp dụng cho các nhà máy điện nhỏ.
+Ngoài mua bán điện, nghị định cũng đưa ra một số ưu đãi như ưu tiên huy động vào giờ cao điểm với các dự án năng lượng tái tạo có lắp hệ thống lưu trữ, đấu nối hệ thống quốc gia.
+Ưu đãi này không áp dụng cho nguồn điện tự sản xuất, tự tiêu thụ.
+Các dự án năng lượng mới được sản xuất từ 100% hydrogen xanh, amoniac xanh...
+có thêm ưu đãi tiền thuê đất.
+Cụ thể, các dự án này được miễn tiền sử dụng khu vực biển tối đa 3 năm trong thời gian xây dựng và giảm 50% tiền này 9 năm tiếp theo.
+Họ cũng được miễn tiền sử dụng, thuê đất trong thời gian xây dựng không quá 3 năm.
+Cùng với đó, các dự án được cam kết sản lượng mua điện tối thiểu dài hạn là 70% trong thời hạn trả nợ gốc vốn vay, nhưng không quá 12 năm.

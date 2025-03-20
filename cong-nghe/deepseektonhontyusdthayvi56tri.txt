@@ -1,0 +1,33 @@
+Theo phân tích của SemiAnalysis, công ty nổi tiếng về nghiên cứu, tư vấn thị trường bán dẫn và AI, chi tiêu tính riêng cho phần cứng của DeepSeek "cao hơn 500 triệu USD".
+Bên cạnh đó, việc tạo dữ liệu tổng hợp để mô hình đào tạo đòi hỏi "lượng tính toán đáng kể".
+Con số 5, 6 triệu USD chỉ bao gồm chi phí đào tạo, chưa tính đến chi phí nghiên cứu, phát triển, chuẩn bị dữ liệu, bảo trì phần cứng và các vấn đề liên quan khác.
+"Phân tích của chúng tôi cho thấy tổng chi phí vốn máy chủ có thể là 1, 6 tỷ USD, trong đó phần đáng kể là 944 triệu USD liên quan đến vận hành các cụm máy này", SemiAnalysis cho hay.
+"Họ còn phải thử nghiệm, đưa ra kiến trúc mới, thu thập và làm sạch dữ liệu, trả lương cho nhân viên và nhiều việc khác nữa".
+Đi sâu vào chi tiết, SemiAnalysis nhận định DeepSeek có thể đã tiếp cận khoảng 10.000 mẫu GPU Nvidia H800 giảm hiệu năng để tuân thủ lệnh cấm chip AI của Mỹ đối với Trung Quốc và khoảng 10.000 GPU H100.
+Ngoài ra, công ty có thể dùng phiên bản H20 để đào tạo các mô hình.
+"Những GPU này được chia sẻ giữa quỹ đầu tư High-Flyer với DeepSeek, phân phối theo địa lý ở mức độ nào đó.
+Chúng được sử dụng để giao dịch, suy luận, đào tạo và nghiên cứu", theo SemiAnalysis.
+Thời gian qua, DeepSeek đăng nhiều thông tin săn tìm nhân tài AI, cũng như thường xuyên tổ chức sự kiện tuyển dụng tại các trường đại học hàng đầu Trung Quốc.
+Trong đó, công ty đề cập "cơ hội truy cập 10.000 GPU không giới hạn", được cho là đưa ra mức lương hơn 1, 3 triệu USD mỗi năm cho một số ứng viên triển vọng, cao hơn nhiều so với các công ty công nghệ lớn của Trung Quốc cũng như các phòng thí nghiệm AI thế giới như Moonshot.
+"Nói rõ hơn, DeepSeek vẫn là duy nhất và đi đầu khi đạt mức tối ưu chi phí cho các mô hình AI mạnh mẽ", SemiAnalysts nhấn mạnh, thêm rằng DeepSeek R1 là "mô hình rất tốt" và việc bắt kịp được ranh giới lý luận AI của toàn cầu nhanh như vậy là điều "thực sự ấn tượng".
+DeepSeek chưa đưa ra bình luận.
+Trong các công bố trước đây của mình, DeepSeek cũng không đưa ra con số tổng thể, ngoài mức 5, 576 triệu USD, chủ yếu để thuê máy chủ AI và "đào tạo chính thức" cho các mô hình.
+Có nghĩa, con số này chưa tính đến các nghiên cứu, thí nghiệm liên quan đến kiến trúc, thuật toán hoặc dữ liệu.
+Trước đó, một số chuyên gia cũng nhận định DeepSeek đã biết cách tối ưu huấn luyện mô hình AI của mình với chi phí thấp, nhưng 6 triệu USD chưa thực sự là con số cuối cùng.
+Yann LeCun, Giám đốc AI của Meta, nói có "hiểu lầm lớn" khi so sánh việc các công ty Mỹ chi hàng tỷ USD vào AI với DeepSeek.
+"Có sự hiểu lầm lớn về đầu tư cơ sở hạ tầng AI.
+Phần lớn trong số hàng tỷ USD đó được đầu tư vào cơ sở hạ tầng để 'suy luận', không phải để đào tạo", LeCun viết trên mạng xã hội Threads tuần trước.
+"Việc chạy dịch vụ trợ lý AI cho hàng tỷ người đòi hỏi rất nhiều tính toán.
+Khi bạn đưa khả năng hiểu video, lý luận, bộ nhớ quy mô lớn và các khả năng khác vào hệ thốngAI, chi phí suy luận sẽ tăng lên.
+Vì thế, phản ứng của thị trường đối với DeepSeek là thiếu cơ sở".
+Thomas Sohmers, nhà sáng lập Positron - công ty khởi nghiệp về phần cứng AI, đồng ý với LeCun rằng suy luận sẽ chiếm tỷ trọng lớn hơn trong chi phí cơ sở hạ tầng AI.
+"Nhu cầu suy luận và chi tiêu cho cơ sở hạ tầng sẽ tăng nhanh chóng", ông nói vớiBusiness Insider.
+"Trong tương lai, khi mức độ phổ biến cao hơn, DeepSeek sẽ phải xử lý nhiều yêu cầu hơn, qua đó buộc chi nhiều tiền hơn cho suy luận".
+Nói vớiCNBC, Alexandr Wang, CEO của Scale AI, cũng tiết lộ ông nắm thông tin DeepSeek đang sở hữu 50.000 chip Nvidia H100.
+"Tuy nhiên, do biện pháp kiểm soát xuất khẩu của Mỹ, DeepSeek không thể công khai điều này", Wang nói.
+Elon Musk, nhà sáng lập xAI và thân cận với Tổng thống Donald Trump, tỏ ra đồng tình: "Rõ ràng là như vậy".
+Để có chi phí thấp, công ty cũng được cho là đã sử dụng kỹ thuật "chưng cất".
+Ngày 29/1, OpenAInói vớiFTrằng có dấu hiệu "chưng cất" mà họ nghi ngờ từ DeepSeek.
+Kỹ thuật này được các nhà phát triển sử dụng để đạt hiệu suất tốt hơn trên các mô hình nhỏ, bằng cách sử dụng đầu ra từ những mô hình lớn, cho phép họ có được kết quả tương tự trong các nhiệm vụ cụ thể với chi phí thấp hơn.
+DeepSeekđược Liang Wenfeng thành lập tháng 5/2023, đặt trụ sở ở Hàng Châu, Chiết Giang, và do quỹ đầu tư High-Flyer sở hữu.
+Công ty được High-Flyer tài trợ và không có kế hoạch huy động vốn, tập trung vào xây dựng công nghệ nền tảng.

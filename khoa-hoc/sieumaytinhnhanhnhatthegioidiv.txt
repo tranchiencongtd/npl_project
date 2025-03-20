@@ -1,0 +1,17 @@
+Siêu máy tính nhanh nhất thế giới đi vào hoạt động ở Phòng thí nghiệm quốc gia Lawrence Livermore (LNNL) tại California.
+Cỗ máy mang tên "El Capitan" có kinh phí chế tạo 600 triệu USD sẽ xử lý nhiều nhiệm vụ nhạy cảm và tối mật bao gồm bảo đảm an toàn kho vũ khí hạt nhân của Mỹ khi không có thử nghiệm dưới lòng đất, theo đại diện của LNNL.
+Nghiên cứu với cỗ máy chủ yếu tập trung vào an ninh quốc gia, bao gồm phát hiện vật liệu, vật lý mật độ năng lượng cao, dữ liệu hạt nhân và thiết kế vũ khí cũng như nhiều nhiệm vụ tối mật khác, Live Sciencehôm 21/1 đưa tin.
+Quá trình chế tạo El Capitan bắt đầu vào tháng 5/2023 và cỗ máy hoạt động vào tháng 11/2024 trước khi ra mắt chính thức vào ngày 9/1.
+El Capitan trở thành siêu máy tính nhanh nhất thế giới khi hoạt động đầy đủ năm ngoái với số điểm 1, 742 trên thang đo hiệu suất (HPL).
+Đây là bài kiểm tra dùng để đánh gia tốc độ của siêu máy tính trên khắp thế giới.
+El Capitan là máy tính thứ ba đạt tới tốc độ tính toán exascale.
+Nó có hiệu suất 2, 746 exaFLOPS.
+Hiệu suất được đo theo phép toán dấu chấm động mỗi giây (FLOPS).
+Dù rất khó so sánh, những máy tính tốt nhất thường có công suất vài trăm gigaFLOPS, bằng một nghìn tỷ (10^9) FLOPS.
+Một exaFLOP bằng một tỷ tỷ (10^18) FLOPS.
+Siêu máy tính nhanh thứ hai trên thế giới hiện nay là Frontier ở Phòng thí nghiệm quốc gia Oak Ridge tại Illinois.
+Nó có hiệu suất tiêu chuẩn là 1, 353 exaFLOPS với mức đỉnh là 2, 056 exaFLOPS.
+El Capitan hoạt động nhờ hơn 11 triệu lõi xử lý và đồ họa xếp gọn trong 44.544 bộ xử lý AMD MI300A, chip kết hợp AMD EPCY Genoa CPU, card đồ họa AMD CDNA3 và bộ nhớ máy tính.
+Mỗi bộ xử lý sử dụng 128 gigabyte bộ nhớ băng thông cao, đạt tốc độ cao trong khi tiêu thụ ít điện hơn.
+El Capitan được đặt sản xuất bởi chương trình CORAL-2 của Bộ Năng lượng Mỹ để thay thế siêu máy tính Sierra triển khai vào năm 2018.
+Siêu máy tính này vẫn được sử dụng và xếp thứ 14 trong danh sách Top500 gần đây nhất.

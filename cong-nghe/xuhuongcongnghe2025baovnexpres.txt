@@ -1,0 +1,40 @@
+Lĩnh vực công nghệ năm 2025 được dự đoán sẽ tiếp nối xu hướng AI tạo sinh và robot hình người, nhưng sản phẩm sẽ có tính ứng dụng và chuyên biệt hơn.
+Bên cạnh đó, thế giới có thể chứng kiến những cột mốc mới trong cuộc đua Internet vệ tinh, điện toán lượng tử, xe tự lái cũng như những tính toán để phát triển công nghệ theo hướng bền vững.
+AI tạo sinh năm qua đã hỗ trợ người dùng trong việc tạo văn bản, ảnh, video.
+Năm nay, giới chuyên gia nhận định xu hướng mới sẽ là Agentic AI (Tác nhân AI).
+Trong đó, các hệ thống được thiết kế để thực hiện độc lập những nhiệm vụ phức tạp, liên tục học hỏi từ thông tin đầu vào và đưa ra quyết định mà không cần sự giám sát của con người.
+"Hãy tưởng tượng AI làm dịch vụ khách hàng có thể dự đoán nhu cầu của người dùng trước khi đưa ra câu trả lời, hoặc AI quản lý mạng xác định các vấn đề tiềm ẩn và giải quyết chúng một cách tự động, đảm bảo dịch vụ không bị gián đoạn", Liz Centoni, Giám đốc Trải nghiệm khách hàng của Cisco, nói vớiNational Technology.
+"Đây sẽ là xu hướng nổi bật của 2025, khi AI tự chủ và tự động hóa, cũng như được tích hợp vào các thiết bị cá nhân, IoT, robot...
+để thực hiện tác vụ trong tình huống thực tế".
+Không giống công cụ AI hiện tại và các mô hình ngôn ngữ lớn dựa trên lời nhắc của người dùng hoặc quy trình làm việc được xác định trước, Agentic AI tự "trao quyền" cho các hệ thống lập kế hoạch và hành động chủ động để đạt được mục tiêu do người dùng xác định.
+Các công ty tiên phong đã đưa Agentic AI vào sản phẩm của mình, như Google với Gemini 2.0, Anthropic với mô hình Claude, còn OpenAI cũng dự kiến ra nền tảng hỗ trợ Tác nhân AI có tên Operator trong tháng 1/2025.
+TheoEmergen Research, thị trường Agentic AI hiện ước tính khoảng 30, 89 tỷ USD, đạt tốc độ tăng trưởng kép hàng năm (CAGR) 31, 68% từ nay đến 2030.
+Internet vệ tinh đang chứng minh tầm quan trọng trong việc cung cấp kết nối ở vùng chiến sự, nơi hiểm trở, vùng sâu vùng xa.
+Starlink củaSpaceXhiện thống trị thị trường với 5.200 vệ tinh đang hoạt động, phủ sóng tại hàng chục quốc gia.
+Tuy nhiên, công ty củaElon Musksẽ đối mặt với nhiều đối thủ trong năm nay.
+Công ty hai năm tuổiSpaceSailcủa Trung Quốc đang thu hút sự chú ý sau khi đạt thỏa thuận cung cấp Internet vệ tinh ở Brazil hồi tháng 11/2024.
+SpaceSail không phải công ty duy nhất.
+Trung Quốc đang hướng đến quy mô 50.000 vệ tinh thông qua bốn dự án: SpaceSail với 14.000 vệ tinh, China Satellite Network với chùm 12.992 vệ tinh, Lanjian Aerospace với 10.000 vệ tinh và GuoWang với 13.000 vệ tinh.
+Ngoài Trung Quốc, Liên minh châu Âu (EU), Ấn Độ, Nga và đảo Đài Loan cũng từng bày tỏ sự quan tâm đến việc tạo chòm sao riêng.
+"Tương lai Internet vệ tinh có thể là cuộc cạnh tranh khốc liệt giữa Mỹ, Trung Quốc, EU và Nga - những nền kinh tế lớn có năng lực về sản xuất, phóng và vận hành vệ tinh", Zhang Rui, thành viên Hiệp hội nghiên cứu thị trường Trung Quốc, nói vớiGlobal Times.
+Giữa 2024, Liên Hợp Quốc đưa ra nhận định rằng 2025 sẽ là Năm quốc tế về khoa học và công nghệ lượng tử.
+Dù chưa phổ biến, những tiến bộ gần đây, trong đó có sự ra đời của chipGoogle Willow, hứa hẹn mở ra các ứng dụng thực tế của điện toán lượng tử.
+TheoForbes, với khả năng tính toán nhanh hơn hàng trăm triệu lần so với máy tính truyền thống, máy tính lượng tử đã được ứng dụng để phát hiện thuốc mới, tối ưu hóa trong tài chính, hậu cần thời gian qua.
+Trong năm nay, công nghệ này dự kiến sẽ cách mạng hóa nhiều lĩnh vực, như theo dõi mô hình khí hậu, khám phá vật liệu, gene, năng lượng sạch và mã hóa trong tương lai gần.
+Các chuyên gia cũng đánh giá điện toán lượng tử sẽ tăng cường sức mạnh của AI, giúp xử lý dữ liệu với tốc độ chưa từng có.
+Thậm chí, có ý kiến rằng 2025 có thể đánh dấu sự xuất hiện của "Ngày Q" - khi máy tính lượng tử trở nên đủ mạnh để khiến các phương pháp mã hóa hiện tại lạc hậu, gây tác động lớn với quyền riêng tư và bảo mật.
+Từ 2025, người Mỹ có thể gọi xe Waymo hoàn toàn tự động thông qua ứng dụng Uber tại Atlanta và Austin, Texas.
+Dịch vụ do Google hỗ trợ cũng đã được lên kế hoạch vận hành tại Nhật Bản.
+Trong khi đó, Zoox của Amazon dự kiến cung cấp xe tự lái tại Las Vegas, San Francisco và bắt đầu thử nghiệm ở Austin và Miami.
+Công ty Tesla của Elon Musk cũng sẽ cập nhật phần mềm "Tự lái hoàn toàn" cho Model 3 và Model Y tại Texas và California.
+TheoWSJ, trong năm 2025, xe tự hành xuất hiện nhiều hơn trên đường, thúc đẩy lĩnh vực này bùng nổ, vượt 400 tỷ USD vào năm 2035.
+Còn theo CMC Global, thị trường xe tự hành toàn cầu dự kiến tăng từ 1.921 tỷ năm 2023 lên 13.632 tỷ USD vào 2030, tốc độ tăng trưởng kép hàng năm 32, 3%.
+Yếu tố giúp thúc đẩy gồm sự tiến bộ của AI và hệ thống máy học, thị giác máy tính, kết hợp cảm biến chất lượng cao cho khả năng hoạt động chính xác - những thứ còn thiếu với xe tự lái những năm qua.
+Dù vậy, để xuất hiện phổ biến trên đường phố, xe tự lái có thể vấp phải các thách thức về pháp lý và xã hội, đặc biệt là xây dựng niềm tin cho người dùng về sự an toàn khi vận hành.
+Công nghệ bền vững được coi là xu hướng then chốt khi các tổ chức ngày càng ưu tiên những sáng kiến thân thiện môi trường nhằm chống lại biến đổi khí hậu.
+Xu hướng này bao gồm việc phát triển và sử dụng công nghệ giúp giảm tiêu thụ năng lượng, hạn chế lượng khí thải carbon và thúc đẩy hoạt động kinh tế tuần hoàn.
+"Từ các trung tâm dữ liệu dùng năng lượng tái tạo, thiết bị tiết kiệm năng lượng cho đến giải pháp AI tối ưu hóa việc sử dụng tài nguyên, công nghệ bền vững đang định nghĩa lại cách thức hoạt động của doanh nghiệp với trọng tâm là cân bằng sinh thái lâu dài", Simpli Learnđánh giá.
+Nhiều công ty công nghệ lớn đều đã có cam kết về bảo vệ môi trường, chẳng hạn Meta, Amazon, Google và Microsoft đầu tư hàng tỷ USD vào năng lượng sạch.
+Tuy nhiên, công nghệ bền vững có thể được thúc đẩy mạnh mẽ hơn trong 2025 nhờ nhận thức ngày càng tăng của người tiêu dùng, các quy định chặt chẽ hơn từ chính phủ và nhu cầu chứng minh trách nhiệm xã hội của doanh nghiệp.
+Năm nay, các công ty được dự đoán tiếp tục tận dụng những tiến bộ của IoT, AIvà blockchain để tăng cường tính bền vững trong chuỗi cung ứng, quản lý chất thải và lưới điện.
+TheoFortune, thị trường công nghệ xanh và bền vững toàn cầu sẽ tăng trưởng đáng kể, từ 20, 90 tỷ năm 2024 lên 105, 26 tỷ USD năm 2032 với CAGR đạt 22, 4%.

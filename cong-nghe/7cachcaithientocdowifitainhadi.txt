@@ -1,0 +1,33 @@
+Với hầu hết gia đình, Tết Nguyên đán là dịp sum họp.
+Khi có nhiều người cùng kết nối, mạng wifi gia đình có thể bị chậm hơn thông thường.
+Thay vì đăng ký gói cước có tốc độ cao hơn, người dùng có thể sử dụng một số thủ thuật giúp việc sử dụng suôn sẻ.
+Thông thường, nhà mạng sẽ cung cấp bộ định tuyến mặc định.
+Nhưng nếu sử dụng nhiều năm, chúng có thể lạc hậu do dùng công nghệ và chuẩn cũ hơn.
+Người dùng có thể liên hệ nhà cung cấp dịch vụ để thay bộ định tuyến mới, hoặc chủ động mua thiết bị từ bên thứ ba có hỗ trợ 802.11ax, Wi-Fi 6.
+Những thông số này có thể chưa phải mới nhất, nhưng đủ đáp ứng nhu cầu của gia đình.
+Riêng WiFi 6 mang lại tốc độ nhanh, hiệu suất tốt và phạm vi phủ sóng mạnh, đặc biệt khi kết nối nhiều thiết bị cùng một lúc.
+Khi lắp đặt, một số kỹ thuật viên nhà mạng đặt bộ định tuyến ở nơi họ thấy thuận tiện nhất nếu không được chủ nhà yêu cầu.
+Tuy nhiên, việc này có thể khiến sóng wifi không lan tỏa được toàn bộ ngôi nhà.
+Bộ định tuyến gửi tín hiệu ra mọi hướng.
+Do đó, vị trí tốt nhất là ở trung tâm của ngôi nhà.
+Lưu ý rằng sóng của chúng có thể bị ảnh hưởng bởi vật cản, nhất là lò vi sóng, tủ lạnh, TV, bể cá (do sóng wifi không truyền tốt qua nước).
+Do đó, nên đặt bộ định tuyến xa những vật này.
+Bên cạnh đó, bộ định tuyến thường có xu hướng truyền tín hiệu mạnh nhất xuống dưới.
+Vì vậy, người dùng nên gắn thiết bị này trên cao để tối đa hóa phạm vi phủ sóng.
+Một số bộ định tuyến không có ăng-ten, nhưng cũng có thiết bị có tới 8 ăng-ten để giúp định hướng tín hiệu.
+Nếu có từ hai ăng-ten trở lên trên bộ định tuyến, không nên đặt tất cả theo cùng một hướng.
+Người dùng nên để chúng vuông góc với nhau: một cái theo chiều ngang và cái kia theo chiều dọc, hoặc thay đổi một chút vị trí của các ăng-ten để bao phủ nhiều góc độ.
+Hiện nay, nhiều phần mềm hỗ trợ đo khả năng phủ sóng của mạng wifi gia đình và hiển thị dưới dạng bản đồ nhiệt, chẳng hạn NetSpot, Ekahau, Acrylic.
+Người dùng có thể cài trên smartphone hoặc máy tính, sau đó di chuyển xung quanh, hay thông qua smarthome đang kết nối với ngôi nhà để lập bản đồ cường độ tín hiệu.
+Từ bản đồ này, người dùng sẽ xác định đặt bộ định tuyến ở đâu hoặc đưa ra giải pháp phủ sóng tối ưu.
+Nếu ngôi nhà có "vùng chết" với wifi, tức sóng truyền đến khu vực đó yếu hơn so với những nơi khác, người dùng có thể cân nhắc sử dụng bộ mở rộng.
+Thiết bị này về cơ bản không làm wifi nhanh hơn, nhưng cung cấp kết nối nhất quán trên một khu vực rộng hơn.
+Hiện nay, các mẫu mở rộng wifi có giá không cao, từ vài trăm nghìn đồng người dùng đã có thể mua được một thiết bị của hãng có tên tuổi.
+Người dùng thường coi bộ định tuyến là thiết bị "cài xong và quên đi".
+Bản cập nhật chương trình cơ sở do nhà sản xuất phát hành có thể tăng hiệu suất, sửa lỗi và tăng cường bảo mật.
+Người dùng chỉ cần truy cập trang hỗ trợ để kiểm tra bản cập nhật và nâng cấp nếu có.
+Bước đơn giản này giúp wifi gia đình nhanh và đáng tin cậy hơn.
+Có thể trong một số lần, người dùng đã chia sẻ mật khẩu ra bên ngoài.
+Ngoài ra, có nhiều công cụ dò mật khẩu wifi nếu đã có người chia sẻ lên ứng dụng từ trước.
+Dù bằng cách nào, những kết nối này có thể khiến mạng chậm hơn.
+Trong trường hợp này, người dùng cần đăng nhập bộ định tuyến, kiểm tra những ai đang kết nối vào mạng, sau đó chọn người cần chặn và loại bỏ.

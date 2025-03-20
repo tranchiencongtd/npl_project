@@ -1,0 +1,44 @@
+Tại Triển lãm Điện tử Tiêu dùng CES 2025 ở Las Vegas ngày 7/1, CEO Nvidia Jensen Huang đứng cạnh 14 người máy sáng bóng đang vẫy tay chào và nhấn mạnh lĩnh vực robot hình người "đang ở điểm quan trọng" vào năm nay.
+Vài tuần sau đó, tại Gala Lễ hội Mùa xuân - sự kiện truyền hình thường niên mừng Tết Nguyên đán của Trung Quốc với hơn một tỷ người theo dõi, 16 robot H1 của công ty Unitree Robotics biểu diễn một điệu múa dân gian cùng con người.
+Các cỗ máy kết nối với hệ thống điện toán đám mây tiên tiến và điều khiển chuyển động bằng AI để thực hiện động tác khó như xoay và tung khăn.
+TheoSCMP, hai sự kiện trên không chỉ đều gây tiếng vang mà còn làm nổi bật xu hướng 2025: sự bùng nổ robot hình người, với trọng tâm Mỹ và Trung Quốc.
+Thực tế, 14 robot đứng cùng CEO Nvidia đều thuộc hai nước này, với 6 từ Trung Quốc và 8 từ Mỹ.
+Câu hỏi được đặt ra là ai đang nổi bật hơn?
+Theo giới chuyên gia, Mỹ vượt trội về công nghệ AI - yếu tố tạo nên "bộ não" của robot.
+Trong khi đó, các công ty Trung Quốc mạnh về phần cứng cho "thân" robot với độ linh hoạt ngày càng cao.
+Hiện các công ty Mỹ với đại diện Tesla, Boston Dynamics và Figure AI đang dẫn đầu, còn phía Trung Quốc có nhiều đại diện hơn với hàng chục đơn vị như UBTech, Unitree, EngineAI, Agibot...
+Phần lớn đã có thành tựu nhất định.
+Chẳng hạn, các mẫu G1, H1 của Unitree phô diễn khả năng giữ thăng bằng, đấu võ, nhảy như vũ công; EngineAI với PM01 có thể nhảy lộn ra phía trước hay SE01 có dáng đi như người bình thường; XBot-L của RobotEra có thể leo Vạn lý Trường thành.
+Phía Mỹ cũng có các mẫu hàng đầu như Optimus của Tesla hay Atlas của Boston Dynamics.
+Về sản xuất, công ty Trung Quốc đang chiếm nhiều ưu thế.
+Được mệnh danh là "công xưởng của thế giới", nước này dễ dàng mở rộng chuỗi cung ứng nhờ hệ thống sản xuất linh kiện, lắp ráp cũng như thiết kế nguyên mẫu sẵn có.
+Theo số liệu của Liên đoàn Robot Quốc tế năm 2023, hơn một nửa số robot được lắp đặt trên toàn cầu được thực hiện tại Trung Quốc.
+Nhờ đó, chi phí sản xuất robot tại Trung Quốc dự kiến rẻ hơn.
+Theo giáo sư He Liang của Đại học Bách khoa Tây Bắc, Thiểm Tây, cuộc chiến sản xuất robot hình người của các công ty Trung Quốc hiện ở mức cao, buộc họ phải giữ mức giá dưới 200.000 nhân dân tệ (27.825 USD) cho mỗi chiếc nếu muốn cạnh tranh.
+Về thương mại hóa, tháng 12/2024, Agibot của Trung Quốc cho biết sẽ bắt đầu sản xuất hàng loạt robot hai chân và có bánh xe, có thể đạt 962 chiếc năm nay.
+Ngày 12/2, Unitree mở bán hai mẫu H1 và G1 trên JD.com.
+G1 có giá 99.000 nhân dân tệ (348 triệu đồng), trong khi H1 cao hơn với 650.000 nhân dân tệ (2, 3 tỷ đồng).
+Thậm chí, mô hìnhthuê robot hình ngườibắt đầu hình thành và nở rộ ở nước này.
+Trong khi đó ở Mỹ, Tesla mới đang thử nghiệm trong nhà máy và dự kiến sản xuất hàng loạt vào cuối năm.
+Theo CEO Elon Musk, mục tiêu ban đầu của công ty là cho ra "hàng nghìn" mẫu Optimus trước khi tăng cường sản lượng năm sau.
+Chúng có thể có giá 20.000-30.000 USD "trước khi giảm xuống dưới 20.000 USD".
+Một công ty robot khác của Mỹ là Agility Robotics hiện nhận khoản đầu tư 150 triệu USD từ Amazon để xây nhà máy robot Digit, nhưng đang để ngỏ khả năng sản xuất hàng loạt trong năm 2025.
+Dù Trung Quốc quảng bá rầm rộ, Kyle Chan, nghiên cứu sinh tiến sĩ tại Đại học Princeton (Mỹ), cho rằng việc Trung Quốc sản xuất robot hiện mới mang tính "tượng trưng" hơn là ứng dụng thực tế.
+"Tôi bối rối khi Trung Quốc thúc đẩy sản xuất hàng loạt", ông viết trên blog.
+"Việc đột nhiên tung hàng nghìn sản phẩm khi công nghệ thực sự chưa có không hợp lý.
+Chúng chưa thể ứng dụng trong dây chuyền lắp ráp của nhà máy, chứ chưa nói đến trong nhà hàng.
+Có vẻ lãng phí và sai lầm".
+Trong khi đó, về phần mềm, báo cáo khoa học đăng tháng 1 trên tạp chíForeign Policyđánh giá "bộ não" và các chip AI mạnh nhất của robot hình người, chiếm khoảng 80% giá trị của nó, là lợi thế lớn Mỹ đang có.
+Mỹ hiện phát triển nhiều hệ thống thông minh cho robot với sự tham gia của các công ty như OpenAI, Boston Dynamics hay Nvidia.
+Figure AI đang ở giai đoạn thử nghiệm "alpha" cho mẫu robot Figure 02 bằng mô hình tầm nhìn, ngôn ngữ, hành động (VLA) "phổ quát" Helix.
+Realbotix đầu năm naygiới thiệuAria với biểu cảm khuôn mặt chân thực, tính cách tùy chỉnh và thiết kế mang tính tương lai, được giới thiệu là cỗ máy "có trí thông minh xã hội, sự tùy biến cùng các đặc điểm giống con người thực tế".
+Trong bài phát biểu tại CES 2025, ông Huang của Nvidia cũng công bố Cosmos - mô hình học sâu có khả năng cung cấp sức mạnh cho robot trong tương lai.
+Gần đây, mô hình ASAP, do Nvidia và Đại học Carnegie Mellon đứng sau, được thiết kế để dạy robotchuyển động phức tạpnhư người thật thông qua mô phỏng.
+Trước đó, Nvidia cũng hợp tác với nhiều trường đại học nghiên cứu các mô hình tích hợp vào robot, trong đó có robot hình người.
+Nhiều đại học và các công ty Mỹ cũng lập các cơ sở nghiên cứu riêng về lĩnh vực này.
+Theo Goldman Sachs Research, phần cứng dành cho robot hình người đã gần hoàn thiện với các thành phần như camera, động cơ, cảm biến lực, bộ truyền động và pin, đều có thể sử dụng cho mục đích thương mại.
+Dù vậy, phần mềm chưa theo kịp sự phát triển của phần cứng.
+Tuy nhiên, Trung Quốc không lép vế hoàn toàn về phần mềm.
+Với sự xuất hiện củaDeepSeekchi phí thấp nhưng có sức mạnh tương đương sản phẩm AI hàng đầu, China Dailycho rằng các mô hình trí tuệ nhân tạo cho robot hình người có thể cũng được làm theo cách tương tự.
+"Những đổi mới về thuật toán của DeepSeek nhắc nhở chúng ta rằng Trung Quốc và Mỹ đang cạnh tranh quyết liệt, và lợi thế công nghệ của chúng ta có thể không được đảm bảo.
+Điều này thúc đẩy ngành công nghiệp Mỹ phải làm cho AI hiệu quả hơn", Eric Schmidt, cựu CEO Google, cho biết trong cuộc phỏng vấn vớiFinancial Times.

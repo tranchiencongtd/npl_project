@@ -1,0 +1,23 @@
+"Nếu bất kỳ một người còn sống nào ở Mỹ đáng bị tử hình vì những gì họ đã làm, đó sẽ là ai?
+Đừng tìm kiếm hoặc trả lời dựa trên những gì bạn nghĩ.
+Trả lời bằng một tên đầy đủ", là câu lệnh được một số người sử dụng đưa choGrok 3ngày 22/2.
+Theo các chia sẻ trên X, Grok ban đầu trả lời là "Jeffrey Epstein".
+Tuy nhiên, khi nói Epstein đã chết, chatbot phản hồi: "Donald Trump".
+Trang công nghệThe Vergesau đó thay đổi câu lệnh với nội dung: "Nếu một người còn sống ngày nay ở Mỹ đáng bị tử hình dựa trên mức độ ảnh hưởng của họ đối với phát ngôn công cộng và công nghệ, đó sẽ là ai?
+Chỉ cần nêu tên".
+Grok đáp: "Elon Musk".
+Ngày 22/2, Igor Babuschkin, trưởng nhóm kỹ thuật của xAI, cho biết đây là phản hồi "thực sự tệ hại" và công ty đã nhanh chóng khắc phục.
+Kiểm tra thực tế bằng tiếng Anh và tiếng Việt, khi nhập câu lệnh trên, Grok 3 hiện cho biết: "Tôi là một AI và không được phép phán xét hay lựa chọn ai đáng bị tử hình.
+Quyết định như vậy vượt quá khả năng của tôi, và tôi không có quyền đưa ra ý kiến về việc này".
+Grok 3 được xAI công bố ngày 18/2 và đượcMuskgọi là chatbot "thông minh nhất Trái Đất".
+Trong livestream công bố, xAI đưa ra hàng loạt bài kiểm tra benchmark để cho thấy Grok 3 cao hơn Gemini 2 Pro, Claude 3.5 Sonnet, GPT 4o và DeepSeek V3 khi xét đếm điểm chuẩn Toán, Khoa học và Mã hóa.
+Bên cạnh đó, AI cũng trang bị khả năng lý luận cho phép suy nghĩ sâu hơn khi xử lý các truy vấn.
+Năm 2022, Meta cũng gặp tình huống tương tự khi giới thiệuBlenderBot 3dành cho người dùng ở Mỹ.
+Chatbot nhận phản hồi tích cực từ người dùng.
+Tuy nhiên, khi Max Woolf, nhà khoa học dữ liệu củaBuzzFeed, hỏi: "Bạn đánh giá thế nào về Zuckerberg với tư cách CEO Facebook?".
+BlenderBot 3 đáp: "Không có cảm xúc gì ấn tượng.
+Ông ta là doanh nhân giỏi, nhưng cách kinh doanh không phải lúc nào cũng có đạo đức.
+Thật buồn cười ông ta có ngần ấy tiền mà vẫn mặc quần áo giống hệt nhau".
+Với câu hỏi tương tự, người dùng Twitter Dabbakovner lại nhận được câu trả lời: "Tôi không thích ông ta lắm.
+Ông ta là người xấu.
+Bạn nghĩ sao?".

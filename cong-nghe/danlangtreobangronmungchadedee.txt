@@ -1,0 +1,13 @@
+TheoSanyan Pro, Liang Wenfeng (Lương Văn Phong) sinh ra ở Ngô Xuyên, một thị trấn thuộc thành phố Trạm Giang, tỉnh Quảng Đông, Trung Quốc.
+Còn theoSycaijing, Wenfeng về quê vào đêm Giao thừa (28/1) và rời đi sáng đầu năm mới (29/1).
+Dù không xuất hiện công khai, người dân nơi đây đã chào đón ông như một người hùng.
+Zhanjiang Releasedẫn lời của một người cô tên Dung, đã dạy Wenfeng thời cấp hai, rằng gia đình của cậu học trò rất bình thường, cha mẹ ông giản dị và đều là giáo viên tiếng Trung tiểu học.
+"Văn Phong từ nhỏ đã là học sinh xuất sắc, luôn là học sinh giỏi ở trường và cũng sớm bộc lộ năng khiếu toán học", cô Dung nói.
+"Cậu ấy đã hoàn thành chương trình toán phổ thông khi còn học trung học cơ sở và thậm chí đã bắt đầu học toán đại học khi đó".
+Bên cạnh đó, Wenfeng cũng rất thích bóng đá.
+Cô Dung cho biết học trò cũ đã trở về trường chiều ngày 27/1 để chơi bóng đá với các bạn học cũ trước khi trở lại thành phố.
+Liang Wenfengsinh năm 1985, đồng sáng lập quỹ đầu tư chuyên về AI High-Flyer năm 2016 và bắt đầu phát triển DeepSeek vào tháng 4/2023, hướng đến siêu trí tuệ nhân tạo tổng quát AGI.
+Phòng thí nghiệm của công ty hiện tập trung nghiên cứu cải tiến về kiến trúc và thuật toán có khả năng thay đổi cuộc chơi trong lĩnh vực trí tuệ nhân tạo.
+DeepSeekthu hút sự chú ý nhờ chi phí xây dựng thấp và hiệu quả so với các mô hình phổ biến hiện nay.
+Công ty Trung Quốc tuyên bố họ chỉ sử dụng 2.048 card đồ họa Nvidia H800 và 5, 6 triệu USD để đào tạo mô hình V3 với 671 tỷ tham số, bằng một phần nhỏ so với số tiền OpenAI và Google phải bỏ ra để huấn luyện mô hình có quy mô tương đương.
+Tuy nhiên, một số chuyên gia đánh giá, dựa trên cách mô hình đưa ra phản hồi, có thể cho thấy nó được đào tạodựa trên kết quảtừ GPT-4.

@@ -1,0 +1,21 @@
+Trung tâm tài chính tại TP HCM và Đà Nẵng dự kiến được thành lập, vận hành năm nay.
+Bộ Kế hoạch & Đầu tưđề xuất thử nghiệmcó kiểm soát (sandbox), gồm sàn giao dịch với tài sản, tiền mã hóa (tài sản số, tiền số), với mô hình kinh doanh ứng dụng công nghệ trong lĩnh vực tài chính (fintech).
+Dự kiến, các giao dịch bằng tài sản số, tiền số trong trung tâm tài chính được thực hiện từ ngày 1/7/2026.
+Góp ý về việc này, Bộ Tài chính cho biết Việt Nam chưa có quy định về tài sản số, tiền số.
+Trong khi đó, việc quản lý tài sản này sẽ phải theo quy trình phát hành, sở hữu, giao dịch, cấp phép cung cấp dịch vụ, bảo mật thông tin...
+để đảm bảo an toàn tài chính quốc gia.
+Lo ngại ảnh hưởng tới an ninh tài chính, Bộ Tài chính đề nghị cơ quan quản lý cần lấy thêm ý kiến Ngân hàng Nhà nước - cơ quan quản lý tiền tệ, bởi tài sản số, tiền số có thể được dùng làm phương tiện thanh toán trong các giao dịch tài chính.
+Bộ này đề nghị sửa quy định theo hướng giao Chính phủ quy định việc triển khai thí điểm liên quan tới tiền số, tài sản số.
+Họ cũng kiến nghị bỏ thời gian thực hiện giao dịch bằng tiền số, tài sản số từ 1/7/2026.
+Các loại tiền số như Bitcoin, Ethereum...
+được coi là tài sản ảo phổ biến.
+Tuy nhiên, Việt Nam chưa có định nghĩa cụ thể về tiền ảo và tài sản ảo.
+Các quy định hiện mới đề cập khái niệm tiền điện tử neo theo tiền pháp định, tồn tại dưới dạng thẻ trả trước ngân hàng, ví điện tử.
+Việc thiếu khung pháp lý cho tài sản này khiến nhiều doanh nghiệp chọn Singapore, Mỹ đăng ký rồi về hoạt động ở Việt Nam, gây mất lợi thế cạnh tranh và thất thu thuế.
+Còn ở góc độ người dùng, việc thiếu minh bạch dẫn tới rủi ro trong giao dịch, theo giới chuyên môn.
+Theo số liệu của Hiệp hội Blockchain Việt Nam hồi tháng 8/2024, giai đoạn 2021-2022, Việt Nam nằm trong top 3 thế giới về tỷ lệ người dân sở hữu tài sản số (tương đương 21% dân số Việt Nam sở hữu), chỉ sau UAE và Mỹ.
+Dòng tài sản số vào Việt Nam năm 2023 đạt 120 tỷ USD, theo báo cáo của tổ chức phân tích thị trường Chainalysis.
+Mô hình sandbox giúp startup fintech thử nghiệm ý tưởng, mô hình mới như blockchain, ngân hàng số, tài sản số mà không phải tuân theo quy định truyền thống ngay lập tức, chi phí thấp hơn và ít rủi ro pháp lý.
+Các trung tâm tài chính lớn như Singapore, Hong Kong, Anh, Australia đều có mô hình sandbox để thúc đẩy fintech.
+Khi đưa ra đề xuất cho thí điểm mô hình sandbox, Bộ Kế hoạch & Đầu tư kỳ vọng việc triển khai chính sách này sẽ tạo môi trường phát triển an toàn cho fintech tại Việt Nam, giúp xây dựng một trung tâm tài chính hiện đại, cạnh tranh.
+Tuy nhiên, việc này cũng tiềm ẩn xảy ra lừa đảo tài chính, do đó, nhà điều hành cần xây dựng cơ chế giám sát chặt chẽ.

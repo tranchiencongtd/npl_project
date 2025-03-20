@@ -1,0 +1,24 @@
+"Hãy cẩn thận khi mua token Squid.
+Tên của những người mua nhiều nhất khá giống nhau.
+Đó không thể là trùng hợp ngẫu nhiên", tài khoảnNroj90viết trên X kèm ảnh 11 địa chỉ đang nắm giữ tiền số Squid của dự án SquidGamesSolana.
+Người này nhận định việc các địa chỉ ví nắm giữ khối lượng token và quá trình giao dịch "trông giống nhau" có nghĩa nó đang được phân phối cho số ít người, thậm chí chỉ là một người.
+Do đó, người đứng sau có thể sẽ lập tức bán token khi dụ được nhiều người chơi, kéo theo việc sập giá.
+Trong lĩnh vực tiền số, cách này gọi làrút thảm(rug pull) - thuật ngữ chỉ nhóm phát triển tiền số nào đó từ bỏ dự án đột ngột và mang theo tất cả số tiền có được của nhà đầu tư đã đổ vào.
+Hình thức lừa đảo này có từ lâu, nhưng vẫn phổ biến thời gian qua, nhất là các dự án liên quan đến tài chính phi tập trung (DeFi).
+Theo thống kê củaDexScreener, sau khi Netflix phát hànhSquid Gamemùa hai hôm 26/12, có khoảng 50 token liên quan đến phim được ghi nhận giao dịch với khối lượng từ vài trăm đến gần 7 triệu USD.
+Các token chủ yếu được tạo trong tháng 12, nhưng một số đã có từ năm 2021 khi mùa đầu tiên ra mắt.
+Hầu hết tăng giá nhanh nhưng sau đó mất 50-80% giá trị trong thời gian ngắn.
+Có 5 mã giảm hơn 95% giá trị, thậm chí một mã được triển khai trên blockchain Base giảm 99% chỉ sau ba giờ.
+Ngày 28/12, công ty bảo mật blockchain PeckShield cũng cảnh báo về các token lừa đảo ăn theoSquid Game"đang nở rộ, tự do không kiểm soát" và khuyến cáo người chơi không nên giao dịch để tránh mất sạch tiền.
+Năm 2021, nhiều người từng mất tiền vì trò lừa liên quan.
+Bernard, nhà đầu tư tiền số ở Thượng Hải, mất khoản tiết kiệm28.000 USD vì đầu tư token Squid, theoCNBC.
+Một trường hợp khác nói vớiCoinTelegraphrằng mình đã chi "vài trăm USD", sau đó token tăng giá hơn 45.000% nhưng không bán được do không có thanh khoản, cũng không thể rút tiền đã nạp vào.
+Tiền số vẫn là lĩnh vực được ví như "miền Tây hoang dã", khiến các hình thức lừa đảo vẫn tiếp diễn, trong đó có "rút thảm".
+Theo Kim Grauer, đứng đầu bộ phận nghiên cứu tại Chainalysis, việc dễ dàng và tự do tạo ra token mới trên các blockchain và niêm yết trên sàn phi tập trung (DEX) là kẽ hở để các nhóm tìm cách khai thác.
+"Việc tạo mới cũng như kiểm tra token không bị kiểm soát, do đó các vụ lừa đảo ở các quy mô khác nhau vẫn sẽ diễn ra", Grauer nói vớiCoinTelegraph.
+"Những nhà đầu tư mới sẽ là mục tiêu hàng đầu, bởi họ chưa có nhiều kiến thức và kinh nghiệm trong lĩnh vực này".
+Eva Crouwel, phụ trách mảng tội phạm tài chính của sàn giao dịch tiền số Luno, cho rằng người dùng nên cẩn thận trước dự án thiếu minh bạch, không có thông tin đội ngũ phát triển rõ ràng, website sơ sài, không có sách trắng, lộ trình phát triển chi tiết.
+"Hãy bắt đầu với việc thẩm định càng nhiều, càng kỹ càng tốt.
+Nên xem kỹ hồ sơ mạng xã hội của nhóm phát triển, công ty, hợp đồng thông minh và chú ý nhận xét của những người tham gia trước trên trang phản hồi.
+Bên cạnh đó, có thể xem độ uy tín của từng thành viên nhóm dự án trong cộng đồng tiền điện tử trước khi quyết định đầu tư", Crouwel nói vớiCNBCnăm 2021.
+Chuyên gia này cũng cho rằng, người dùng không nên bỏ ra số tiền quá lớn và xác định mất chúng nếu xảy ra sự cố.

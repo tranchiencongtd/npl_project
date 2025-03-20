@@ -1,0 +1,54 @@
+Từng được coi là "con hổ châu Á sắp giàu có", Malaysia mắc kẹt trong bẫy thu nhập trung bình sau khủng hoảng tài chính châu Á cuối 1990.
+Giờ đây, giới chức nước này kỳ vọng phát triển các trung tâm dữ liệu sẽ giúp thúc đẩy tăng trưởng, hiện đại hóa nền kinh tế và tạo hàng nghìn việc làm lương cao.
+Theo thống kê của Knight Frank (Anh), nước này đã thu hút hơn 31 tỷ USD đầu tư vào trung tâm dữ liệu chỉ trong 10 tháng đầu năm 2024, gấp ba lần năm 2023.
+Hiện Malaysia xếp thứ 14 thế giới về công suất vận hành trung tâm dữ liệu, vẫn nhỏ hơn các thị trường lớn như Frankfurt, London, Amsterdam, Paris và Dublin.
+Tuy nhiên, Pritesh Swamy, chuyên gia trung tâm dữ liệu châu Á tại Cushman & Wakefield, dự báo nước này có thể vào top 10 trong 5-7 năm tới, nhờ đang "phát triển với tốc độ chưa từng thấy" như bất kỳ nơi nào trên thế giới.
+Theo xu hướng phát triển của trí tuệ nhân tạo (AI) hiện tại, McKinsey dự báo nhu cầu trung tâm dữ liệu toàn cầu có thể tăng trưởng 19-22% mỗi năm trong giai đoạn 2023-2030, đạt mức 171-219 gigawatt (GW).
+Ít khả năng xảy ra hơn là kịch bản tăng trưởng đến 27% mỗi năm, đẩy nhu cầu lên 298 GW.
+So với mức hiện tại là 60 GW, điều này có thể dẫn đến tình trạng thiếu hụt nguồn cung đáng kể.
+Vì vậy, để tránh nguy cơ thiếu hụt, ngành trung tâm dữ liệu cần xây dựng gấp đôi tổng công suất đã triển khai từ năm 2000 đến nay và phải hoàn thành trong chưa đầy một phần tư thời gian.
+Malaysia là một trong số các nước nhìn thấy cơ hội từ ngành này.
+Riêng tại bang Johor, đã có 22 trung tâm dữ liệu, chủ yếu do các công ty nước ngoài sở hữu.
+Chúng trải rộng trên diện tích hơn 21 hecta, tương đương gần 40 sân bóng đá.
+Tất nhiên, không phải tất cả đều đã đi vào hoạt động.
+Bộ trưởng Đầu tư, Thương mại và Công nghiệp Malaysia Tengku Zafrul Aziz tin rằng sự trỗi dậy của Johor sẽ giúp Malaysia trở thành "một nhân tố quan trọng trong hệ sinh thái số Đông Nam Á".
+Theo một báo cáo hồi tháng 4, bang này dự kiến đạt công suất 1, 6 GW trung tâm dữ liệu, tăng vọt từ gần như con số 0 năm 2019, trở thành thị trường tăng trưởng nhanh nhất Đông Nam Á.
+Nhưng dồn lực thu hút đầu tư trung tâm dữ liệu là một ván cược.
+Một số áp lực tiềm ẩn đang nổi lên tại nước này.
+Giới chuyên gia cảnh báo những nước đang cạnh tranh hút đầu tư tỷ USD từ các tập đoàn công nghệ có thể đang thổi phồng lợi ích của trung tâm dữ liệu trong khi đánh giá thấp cái giá phải trả.
+Các dự án này tiêu tốn đất, nước, điện nhưng tạo ra ít việc làm.
+Theo tổ chức Good Jobs First của Mỹ, hầu hết trung tâm chỉ có 30-50 nhân sự vận hành, ngay cả loại lớn cũng chỉ tuyển tối đa 200 người.
+Sofia Scasserra, chuyên gia tại Viện Nghiên cứu xuyên quốc gia (Amsterdam), ví việc các công ty công nghệ khai thác tài nguyên (đất, điện, nước) ở các nước và thu lợi từ dữ liệu người dân giống như "chủ nghĩa thực dân kỹ thuật số".
+Bà so sánh với việc Tây Ban Nha khai thác bạc ở Bolivia, làm giàu cho châu Âu nhưng để lại rất ít cho Mỹ Latinh.
+"Họ đang khai thác dữ liệu theo cách tương tự.
+Dữ liệu thậm chí không mang lại thuế", bà nói.
+Thực tế, phần lớn công suất trung tâm dữ liệu Malaysia không phục vụ người dùng trong nước.
+Chúng kết nối qua mạng cáp ngầm để phục vụ Đông Á, Trung Quốc và châu Âu.
+Chủ sở hữu cũng là các tập đoàn nước ngoài như Equinix, Microsoft (Mỹ) hay GDS Holdings (Trung Quốc) – đơn vị hợp tác với Alibaba.
+Quan ngại lớn hơn là năng lực đảm bảo điện và nước.
+Trung tâm dữ liệu là những tòa nhà lớn không có cửa sổ, chứa đầy máy chủ, đòi hỏi điện năng khổng lồ.
+Khi các công ty công nghệ tận dụng chúng cho AI, nhu cầu điện có thể vượt 5 GW vào năm 2035, theo Ngân hàng Đầu tư Kenanga Malaysia, tức chiếm hơn một nửa tổng công suất năng lượng tái tạo của Malaysia năm 2023.
+Năm 2022, hơn 95% năng lượng của Malaysia đến từ nhiên liệu hóa thạch, theo Cơ quan Năng lượng Quốc tế (IEA).
+Quốc gia này hiện là nhà xuất khẩu khí hóa lỏng lớn thứ năm thế giới.
+Thủ tướng Anwar Ibrahim khẳng định Malaysia vẫn sẽ dư năng lượng để đáp ứng các dự án lớn và duy trì xuất khẩu.
+Tuy nhiên, không phải ai cũng tin tưởng, như Winson Lau, chủ một trang trại cá cảnh xuất khẩu tại Johor.
+Ngay cả khi chưa có trung tâm dữ liệu, Malaysia đã dễ bị mất điện do bão.
+Một trận bão kéo dài 30 phút năm ngoái khiến ông mất 300.000 con cá, thiệt hại hơn 1 triệu USD.
+Ông lo lắng sự xuất hiện của các trung tâm dữ liệu sẽ làm tình trạng mất điện kéo dài hơn.
+Để tồn tại, ông đang chuyển trang trại sang Thái Lan và tìm địa điểm mới.
+"Trung tâm dữ liệu lớn đang đến, mà điện thì thiếu.
+Sẽ rất điên rồ", ông nói.
+Malaysia có khí hậu nóng ẩm hơn so với các quốc gia từng là điểm đến lý tưởng của trung tâm dữ liệu, như Ireland.
+Điều này đồng nghĩa với việc cần nhiều điện và nước hơn để làm mát, theo Alex de Vries, nhà sáng lập Digiconomist, chuyên nghiên cứu tác động không mong muốn của xu hướng công nghệ số.
+Ông chỉ ra rằng nhiều công ty vận hành trung tâm dữ liệu đang dịch chuyển sang các quốc gia mới sau khi những lời hứa hẹn về tác động tích cực đến tăng trưởng kinh tế tại các thị trường trước đó không thành hiện thực.
+"Các tập đoàn công nghệ lớn đang cố đánh lạc hướng bạn khỏi một bài toán rất đơn giản, " ông nói.
+Bộ trưởng Đầu tư, Thương mại và Công nghiệp Malaysia Tengku Zafrul Aziz thừa nhận rằng nhu cầu điện từ trung tâm dữ liệu là "đáng kể".
+Để giải quyết, chính phủ đang soạn thảo hướng dẫn vận hành hiệu quả và cho phép các trung tâm dữ liệu mua trực tiếp năng lượng sạch từ nhà sản xuất.
+Với khách hàng lớn như trung tâm dữ liệu, một số chuyên gia kỳ vọng đó là động lực thúc đẩy phát triển năng lượng sạch.
+Putra Adhiguna, nhà nghiên cứu ở viện Energy Shift (Jakarta) đồng ý rằng điều đó có thể xảy ra, nhưng cảnh báo rằng nhu cầu điện ngày càng tăng khiến quá trình chuyển đổi trở nên phức tạp hơn."Thêm trung tâm dữ liệu vào bài toán này, mọi thứ chỉ càng khó khăn hơn, " ông nói.
+Ngoài ra, hệ thống làm mát của các trung tâm dữ liệu sử dụng nước bơm lên để giảm nhiệt.
+Cư dân địa phương ngày càng lo ngại về nguy cơ thiếu nước, vấn đề từng khiến các nước đang phát triển khác, như Chile, đau đầu.
+Theo báo cáo biến đổi khí hậu của Liên Hợp Quốc năm 2022, Malaysia và Đông Nam Á nói chung đối mặt với nguy cơ thời tiết cực đoan, bao gồm hạn hán.
+Francis Hutchinson, chuyên gia Viện ISEAS-Yusof Ishak (Singapore) lưu ý Johor gần đây từng gặp sự cố gián đoạn nguồn nước.
+Hạ tầng cấp nước bang này vốn chịu áp lực từ dân số tăng và nhu cầu của các công viên nước phục vụ du lịch.
+Thêm nước làm mát cho các trung tâm dữ liệu có thể khiến tình trạng nghiêm trọng hơn."Hơn cả điện, nước mới là vấn đề đáng lo", ông nói.

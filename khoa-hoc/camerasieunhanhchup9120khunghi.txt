@@ -1,0 +1,17 @@
+Nhóm nghiên cứu tại Viện Khoa học và Công nghệ Tiên tiến Hàn Quốc (KAIST) phát triển camera lấy cảm hứng từ mắt côn trùng để chụp ảnh tốc độ cực cao trong điều kiện ánh sáng yếu, Interesting Engineeringhôm 17/1 đưa tin.
+Kết quả nghiên cứu được công bố trên tạp chíScience Advances.
+Camera mới chỉ dày chưa đến 1 mm, giúp dễ dàng tích hợp vào các hệ thống khác nhau.
+Nó có khả năng chụp 9.120 khung hình mỗi giây, tạo ra hình ảnh rõ nét ngay cả trong điều kiện ánh sáng yếu, giống như côn trùng.
+Do đó, thiết bị có tiềm năng ứng dụng trong nhiều lĩnh vực, như thiết lập hệ thống camera di động, giám sát an ninh và chụp ảnh y tế.
+"Chúng tôi đã thử nghiệm và xác nhận rằng máy ảnh lấy cảm hứng từ mắt côn trùng có hiệu suất xuất sắc khi chụp ảnh tốc độ cao với ánh sáng yếu dù kích thước nhỏ", Hyun-Kyung Kim, nghiên cứu sinh tiến sĩ tại Khoa Kỹ thuật Sinh học và Não bộ thuộc KAIST, tác giả chính của nghiên cứu, cho biết.
+Mắt côn trùng cấu tạo từ nhiều đơn vị tí hon gọi là ommatidium, mỗi đơn vị hoạt động độc lập, cho phép chúng xử lý thông tin từ nhiều phần khác nhau của trường thị giác cùng lúc.
+Quá trình xử lý song song này giúp chúng nhanh chóng phát hiện và theo dõi những đối tượng di chuyển nhanh như con mồi hoặc kẻ thù.
+Trong điều kiện ánh sáng yếu, mắt côn trùng tăng cường độ nhạy bằng cách tích hợp tín hiệu ánh sáng trong thời gian dài hơn.
+"Khác với các hệ thống camera mắt đơn truyền thống, camera lấy cảm hứng từ sinh học sử dụng cấu trúc giống mắt kép cho phép thu nhận song song nhiều khung hình từ những khoảng thời gian khác nhau", nhóm nghiên cứu cho biết.
+Sự thu nhận song song này giúp camera thu thập nhiều ánh sáng hơn, cải thiện độ nhạy ngay cả khi chụp các đối tượng di chuyển nhanh.
+Nhóm nhà khoa học cũng đã chứng minh rằng camera mới có thể chụp trong điều kiện tối hơn 40 lần so với camera tốc độ cao truyền thống.
+Kỹ thuật chia kênh cũng làm tăng đáng kể tốc độ của camera.
+Điều này dẫn đến tốc độ khung hình nhanh hơn hàng nghìn lần so với camera trang bị loại cảm biến hình ảnh dùng trong đóng gói hàng hóa.
+Để đảm bảo hình ảnh sắc nét, nhóm nghiên cứu còn sử dụng thuật toán khôi phục hình ảnh nén, giúp loại bỏ hiện tượng mờ nhòe.
+Các nhà khoa học dự định phát triển công nghệ này hơn nữa bằng cách tạo ra các thuật toán xử lý hình ảnh tiên tiến.
+Chúng sẽ cho phép camera chụp ảnh 3D và đạt được hình ảnh siêu phân giải.

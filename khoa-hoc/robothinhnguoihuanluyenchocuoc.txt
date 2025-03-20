@@ -1,0 +1,23 @@
+Trung Quốc sẽ tổ chức cuộc thi bán marathon đầu tiên trên thế giới ở Bắc Kinh vào ngày 13/4, thôi thúc một số nhà phát triển robot hàng đầu nước này huấn luyện và chuẩn bị robot hình người cho cuộc đua, Interesting Engineeringhôm 15/3 đưa tin.
+Sự kiện được thiết kế để thể hiện tốc độ, sự nhanh nhẹn và hiệu suất của robot, sẽ cung cấp một cách mới nhằm xúc tiến công nghệ robot của Trung Quốc.
+Cuộc đua có cự ly 21 km sẽ trở thành bài kiểm tra áp lực đối với các robot, thúc đẩy phần cứng của chúng tới giới hạn.
+Theo các báo cáo, đối tượng robot tham gia cuộc thi bị hạn chế ở robot hình người, những mô hình hai chân như Casbot 1 của Casbot và Wheat của Magiclab.
+Robot thi đấu có thể được điều khiển từ xa (bán tự động) hoặc tự động hoàn toàn.
+Robot đứng đầu sẽ nhận được khoản tiền thưởng 691 USD, ngoài ra còn có giải thưởng cho robot có tư thế tốt nhất, robot được yêu thích nhất và robot chạy qua vạch đích.
+Đối tượng đăng ký bị giới hạn ở những công ty khởi nghiệp robot, viện nghiên cứu, trường đại học, câu lạc bộ robot và các tổ chứng sáng tạo trên khắp thế giới.
+"Đường chạy 21 km là một bài kiểm tra cực hạn", Zhou Di, chuyên gia ở Bộ Khoa học và Công nghệ Trung Quốc, nhận xét.
+"Ở các ứng dụng công nghiệp và gia đình, khả năng chạy đường dài không phải luôn là ưu tiên hàng đầu đối với robot".
+Tuy nhiên, cuộc thi marathon robot không chỉ đóng vai trò như một công cụ tiếp thị độc đáo mà còn mang đến cơ hội đích thực để so sánh robot.
+Đó là một loại thử nghiệm dành cho các khách hàng tiềm năng cũng như nhà đầu tư.
+Cả robot Casbot 01 và Wheat đều cao 1, 7 m và nặng 60 kg, tương tự chiều cao và trọng lượng trung bình của con người.
+Tuy nhiên, dù hai cỗ máy này rất cao cấp, chúng vẫn phải vượt qua chặng đường dài trước khi có thể chạy xa.
+"Ví dụ, nếu phần mềm truyền lệnh nhưng motor của robot quay sai góc, robot nhiều khả năng sẽ ngã", Chen Chunyu, phó chủ tịch kiêm giám đốc nghiên cứu và phát triển của công ty Magiclab ở Tô Châu, cho biết.
+Để xử lý vấn đề đó, nhà khát triển cần tinh chỉnh phần cứng và thuật toán, kéo dài khoảng 2 - 3 tháng.
+"Sau khi đạt độ ổn định, chúng tôi bắt đầu thí nghiệm với thuật toán mới để dạy robot những chuyển động phức tạp hơn như chạy", Chunyu nói.
+Sự kiện chạy đường dài kiểu này sẽ đóng vai trò như bài kiểm tra thực sự đối với robot tham gia bởi liên quan tới kỹ thuật phức tạp.
+Tương tự đối với con người, hoạt động chạy đặt ra nhiều áp lực đối với đầu gối và mắt cá chân của robot, đòi hỏi momen lực cao để vận hành.
+Momen lực càng lớn sẽ đồng nghĩa với càng nhiều điều chỉnh đối với cấu trúc cơ học của robot để chịu tác động và rung động cao.
+Chạy trong thời gian dài cũng đòi hỏi motor làm việc liên tục, dẫn tới quá nhiệt và hư hỏng.
+Hoạt động ở áp lực cao trong thời gian dài làm tăng độ mài mòn đối với các bộ phận robot và rút ngắn tuổi thọ của chúng.
+"Chỉ những robot vượt qua giai đoạn thứ ba này mới sẵn sàng để giao tới khách hàng", Yang Guodong, nhà đồng sáng lập kiêm giám đốc trí thông minh thể thao ở trung tâm nghiên cứu và phát triển của Casbot, cho biết.
+"Nếu cuộc thi này được tổ chức cách đây một năm, sẽ không có nhiều robot đủ khả năng tham gia".

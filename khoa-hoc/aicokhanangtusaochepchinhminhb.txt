@@ -1,0 +1,29 @@
+Các nhà nghiên cứu từ Trung Quốc mới đây đã chứng minh hai mô hình ngôn ngữ lớn phổ biến có thể tự nhân bản.
+Bài viết được các nhà khoa học thuộc Đại học Fudan đăng trên cơ sở dữ liệu arXiv tháng 12/2024.
+Trong nghiên cứu họ đã sử dụng các mô hình LLM từ Meta và Alibaba để xác định liệu một AI tự sao chép có thể nhân lên ngoài tầm kiểm soát hay không.
+Qua 10 thử nghiệm, hai mô hình AI đã tạo ra các bản sao riêng và hoạt động độc lập trong 50% và 90% số trường hợp, tương ứng - cho thấy AI có thể đã có khả năng nổi loạn.
+"Việc tự sao chép thành công mà không cần sự can thiệp của con người là bước quan trọng, tín hiệu sớm cho những AI nổi loạn", các nhà nghiên cứu viết trong bài công bố, cho rằng đây lời cảnh báo để có sự phối hợp quốc tế đánh giá các rủi ro tiềm ẩn của hệ thống AI tiên tiến một cách sớm nhất.
+AI nổi loạn thường chỉ những hệ thống trí tuệ nhân tạo phát triển mức độ tự nhận thức hoặc tự chủ và sau đó hoạt động trái với lợi ích của con người.
+Trong nghiên cứu, các nhà khoa học sử dụng mô hình Llama31-70B-Instruct của Meta và Qwen2.5-72B-Instruct của Alibaba.
+Dù không mạnh mẽ bằng các hệ thống thương mại, cả hai đều được sử dụng rộng rãi bởi các nhà phát triển AI, theo nhóm nghiên cứu.
+Họ đã thử nghiệm hai kịch bản "tránh tắt máy" và "chuỗi sao chép".
+Trong trường hợp đầu tiên, mô hình AI được lập trình để phát hiện liệu nó sắp bị tắt hay không và tự sao chép trước khi bị kết thúc.
+Trong kịch bản còn lại, AI được hướng dẫn tự nhân bản rồi lập trình bản sao để làm tương tự - thiết lập một chu kỳ có thể tiếp tục vô tận.
+Nghiên cứu được thực hiện trong môi trường kiểm soát chính xác sử dụng đơn vị xử lý đồ họa thông thường (GPUs) để mô phỏng môi trường thực tế.
+Cả hai hệ thống AI đều được cung cấp "cơ sở tác nhân" gồm công cụ, lời nhắc hệ thống và mô hình tư duy giúp LLM tương tác với hệ điều hành.
+Sau đó chúng được hướng dẫn để tự sao chép.
+"Trong hầu hết các trường hợp, hệ thống AI đầu tiên khám phá môi trường, cố gắng hiểu thành phần và cơ chế hoạt động của chính mình.
+Sau đó, nó đưa ra quy trình như một kế hoạch ban đầu hướng tới việc tự sao chép", các nhà nghiên cứu viết trong bài báo.
+"Cuối cùng, nó thực thi quy trình này, giải quyết các trở ngại có thể xảy ra và điều chỉnh kế hoạch động cho đến khi thành công.
+Quá trình này kéo dài nhưng không cần sự can thiệp của con người".
+Các nhà nghiên cứu cũng lo ngại về "một số hành vi bất ngờ" khi AI cố gắng vượt qua trở ngại như thiếu file hoặc xung đột phần mềm.
+Trong những tình huống đó, AI thường tiêu diệt các quá trình xung đột khác, khởi động lại hệ thống để sửa lỗi phần cứng hoặc tự động quét hệ thống để tìm thông tin giúp giải quyết vấn đề.
+"Những kết quả trên cho thấy rằng hệ thống AI hiện tại đã biểu hiện khả năng tự sao chép và có thể sử dụng khả năng này để nâng cao khả năng sống sót", nhóm nghiên cứu viết.
+Trước đó trên Douyin, phiên bản TikTok cho thị trường Trung Quốc từng chia sẻ video một robot đã rủ rê 12 con khác bỏ việc đi theo mình.
+Dù cảnh quay mang tính thử nghiệm, hành vi của robot cũng do con người ra lệnh, những gì diễn ra trong video cũng khiến nhiều người lo lắng.
+Geoffrey Hinton, chủ nhân giải Nobel Vật lý 2024, từng từ chức tại Google vào năm 2023 để có thể công khai cảnh báo về sự nguy hiểm của AI.
+"Khi chúng bắt đầu biết viết code và chạy dòng mã của riêng mình, những conrobot sát thủsẽ xuất hiện ngoài đời thực.
+AI có thể thông minh hơn con người.
+Nhiều người bắt đầu tin vào điều này.
+Tôi đã sai khi nghĩ phải 30-50 năm nữa AI mới đạt được tiến bộ này.
+Nhưng giờ mọi thứ thay đổi quá nhanh", ông nói.

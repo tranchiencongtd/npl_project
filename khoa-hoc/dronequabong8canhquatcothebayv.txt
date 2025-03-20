@@ -1,0 +1,14 @@
+HAGAMOSphere, drone hình cầu giống quả bóng có thể di chuyển theo mọi hướng mà không cần nghiêng, được trao giải Innovation Award Honoree và trưng bày tại triển lãm CES 2025 diễn ra ở Las Vegas, Mỹ, ngày 7 - 10/1.
+Giải thưởng cho thấy nguyên mẫu được công nhận về thiết kế và kỹ thuật xuất sắc.
+Đây là lần đầu tiên công ty hóa chất hàng đầu Nhật Bản DIC nhận giải thưởng này.
+DIC đã hợp tác với Masashi Miwa, phó giáo sư tại Đại học Tokushima, và công ty chuyên phát triển drone Hishida để phát triển và thử nghiệm mẫu drone mới.
+DIC tham gia chọn vật liệu để chế tạo drone, thiết kế cấu trúc cần thiết cho sản xuất hàng loạt, và sử dụng kỹ thuật hỗ trợ bằng máy tính (CAE) để chạy các mô phỏng bay.
+"Chúng tôi mong muốn cung cấp giá trị mới cho xã hội thông qua những sáng kiến và công nghệ tiên tiến", Takashi Ikeda, chủ tịch kiêm CEO của DIC, cho biết.
+Vài năm qua, thiết kế của các loại drone trên thế giới trải qua nhiều thay đổi.
+Chúng trang bị thêm nhiều thiết bị giúp giữ ổn định khi bay, nhưng không cần nghiêng là một thành tựu đáng chú ý.
+Bên trong HAGAMOSphere có 8 cánh quạt gắn trên khung hình lập phương.
+Một thuật toán độc quyền giữ cho drone thăng bằng thông qua việc điều khiển cách quay của 8 cánh quạt.
+Điều này cho phép nó di chuyển tiến, lùi, trái, phải mà không cần nghiêng.
+DIC còn cải tiến thêm bằng cách phát triển một lớp bảo vệ hình cầu đặc biệt cho phép drone lăn trên mặt đất và tự di chuyển.
+Nhờ đó, drone có thể hoạt động cả trên không lẫn dưới mặt đất tùy theo yêu cầu, mở rộng phạm vi ứng dụng.
+Với những khả năng độc đáo, drone có thể dùng cho nghiên cứu, tìm kiếm cứu nạn, trinh sát, ứng phó với thảm họa, thậm chí trong những cuộc đua drone.

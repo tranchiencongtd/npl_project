@@ -1,0 +1,17 @@
+Theo chuỗi cửa hàng điện tử PC Koubou tại Nhật, tuần qua có khoảng 400 người xuất hiện tại cửa hàng tại Akihabara (Tokyo) sau khi dòng GeForce RTX 50 được mở bán, gồm chip RTX 5090 và RTX 5080.
+Lượng khách hàng vượt khả năng đáp ứng đã gây náo loạn, khiến cửa hàng này phải ngừng bán hàng và lên tiếng xin lỗi.
+CNNdẫn lời Taizo Hashida, Giám đốc công ty sở hữu chuỗi cửa hàng nói trên, cho biết "khoảng 90% người mua là khách nói tiếng Trung".
+Trang này đánh giá đây là minh chứng cho tác động của cuộc chiến công nghệ Mỹ - Trung đối với các game thủ đang tìm kiếm bản nâng cấp cho card đồ họa của mình.
+Dòng card đồ họa GeForce RTX 50 được bán ra cuối tháng 1, được giới game thủ săn đón nhờ nâng về tốc độ xử lý và khả năng dựng hình ảnh tốt hơn, mang lại trải nghiệm chơi game mượt mà hơn.
+Mẫu card đầu bảng của dòng này là RTX 5090 có giá 1.999 USD tại Mỹ, khoảng 2.600 USD tại Nhật Bản.
+Tại Trung Quốc, một phiên bản "họ hàng" của mẫu này là RTX 5090D được bán với giá khoảng 2.270 USD, nhưng bị giảm sức mạnh khiến nó không đủ đáp ứng nhu cầu của nhiều người dùng.
+Phiên bản RTX 5090 bản quốc tế có khả năng xử lý 3.352 TOPS (nghìn tỷ phép tính mỗi giây), trong khi RTX 5090D chỉ cung cấp 2.375 TOPS, tức yếu hơn 29%.
+Trước đó, theoReuters, các phiên bản RTX 4090D dành riêng cho thị trường Trung Quốc cũng có hiệu suất chơi game thấp hơn 5% so với bản RTX 4090 quốc tế.
+"Đối với các game thủ cuồng nhiệt, sự khác biệt này có ý nghĩa rất lớn.
+Do đó họ muốn tìm mua sản phẩm từ các thị trường khác".
+Gil Luria, người đứng đầu bộ phận nghiên cứu công nghệ tại nhóm đầu tư DA Davidson, nhận định.
+Tuy nhiên theo Luria, việc giảm sức mạnh là bắt buộc choNvidiađể đáp ứng các lệnh hạn chế từ Mỹ, do lo ngại chip có thể được sử dụng để phát triển các công cụ AI tiên tiến hoặc vũ khí.
+Nhu cầu cao khiến những người bán cũng tìm nhiều cách đưa các mẫu card mới đến Trung Quốc.
+Trên các mạng xã hội nước này, nhiều người nhận là du học sinh, khách du lịch tìm hiểu về cách "xách tay" mẫu card vào Trung Quốc.
+Trên trang thương mại điện tử Taobao, nhiều sản phẩm được rao bán với giá 5.700 USD, gấp gần ba lần giá gốc.
+Nvidia chưa bình luận về việc này.

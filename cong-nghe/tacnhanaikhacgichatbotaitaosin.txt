@@ -1,0 +1,67 @@
+Hai khái niệm trí tuệ nhân tạo đang được nhắc đến nhiều hiện nay là AI tạo sinh - Generative AI (GenAI) và Tác nhân AI - Agentic AI (AI Agent).
+AI tạo sinh là khả năng sáng tạo của AI.
+Các hệ thống được thiết kế để tạo ra nội dung, như văn bản, hình ảnh, âm nhạc, video hay viết code.
+Về bản chất, AI tạo sinh học từ dữ liệu hiện có và sử dụng kiến thức đó để tạo đầu ra mới, độc đáo mô phỏng sự sáng tạo của con người.
+Các công cụ nổi bật của làn sóng AI tạo sinh như ChatGPT, Dall-E, Midjourney.
+Về bản chất, chúng dựa vào mô hình học máy tiên tiến, đặc biệt là các thuật toán mạng nơ-ron thần kinh, để phân tích và cho ra kết quả cuối.
+Nhưng AI tạo sinh không hoàn hảo.
+Đầu ra của chúng chỉ tốt nếu dữ liệu được đào tạo chất lượng cao.
+Nếu cung cấp dữ liệu thiên vị hoặc không đầy đủ, nó sẽ phản ánh những sai sót.
+Hơn nữa, nó không thực sự "hiểu" những gì tạo ra, thay vào đó đơn giản chỉ dự đoán những gì có thể xảy ra tiếp theo dựa trên dữ liệu huấn luyện.
+Dù hạn chế, AI tạo sinh đang cách mạng hóa các ngành công nghiệp, từ tiếp thị đến giải trí.
+Trong khi đó, Tác nhân AI là công nghệ có thể giải quyết các vấn đề tự động.
+Nó được thiết kế để hoạt động tự động nhằm đạt được mục tiêu cụ thể.
+Không chỉ tạo ra đầu ra, chúng còn đưa ra quyết định, hành động và thích ứng với môi trường thay đổi.
+Có thể hình dung Tác nhân AI như bộ não đằng sau xe tự hành, hệ thống tự động hóa quy trình bằng robot hay trợ lý thông minh có thể lên lịch họp và đặt hàng tạp hóa.
+Nếu trang bị cảm biến, thuật toán, bộ truyền động, như trên robot hình người, chúng thậm chí nhận biết môi trường, xử lý thông tin và thực hiện hành động một cách chủ động.
+Điều khiến Tác nhân AI trở nên khác biệt là khả năng hành động có mục đích.
+Nó không chỉ phản ứng với đầu vào, mà còn xem xét các mục tiêu và đưa ra lựa chọn để đạt được mục tiêu đó.
+Ví dụ, một máy bay không người lái tự động giao hàng phải vượt qua chướng ngại vật, tối ưu hóa lộ trình và thích ứng với các tình huống không lường trước được, tất cả đều không có sự can thiệp của con người.
+Tuy nhiên, tính tự chủ của Tác nhân AI cũng đặt ra câu hỏi quan trọng về đạo đức và trách nhiệm giải trình.
+Ai chịu trách nhiệm khi một hệ thống tự chủ mắc lỗi?
+Làm thế nào để đảm bảo các hệ thống này hoạt động theo cách phù hợp với các giá trị của con người?
+Đây là một số thách thức cần giải quyết khi AI tác nhân trở nên phổ biến hơn, điều theo giới chuyên gia là sẽ xảy ra ngay trong năm nay.
+Cách dễ nhất để phân biệt AI tạo sinh với Tác nhân AI là chức năng chính của chúng.
+AI tạo sinh thường tạo ra thứ gì đó mới, trong khi Tác nhân AI là về việc đạt được thứ gì đó cụ thể.
+Một bên tạo ra, bên còn lại là hành động.
+Nói cách khác, những gì AI tạo sinh làm phần lớn "tĩnh" do đầu ra dựa trên dữ liệu đã học được.
+Ngược lại, Tác nhân AI "động" khi liên tục xử lý thông tin mới, học hỏi từ môi trường xung quanh nó và điều chỉnh hành động sao cho phù hợp.
+Một khác biệt quan trọng khác nằm ở tính phức tạp về mục tiêu.
+AI tạo sinh hoạt động trên các nhiệm vụ hẹp và được xác định rõ ràng, chẳng hạn tạo một đoạn văn bản hoặc một bức tranh kỹ thuật số.
+Tác nhân AI giải quyết các mục tiêu rộng hơn, nhiều bước đòi hỏi phải ra quyết định và điều chỉnh liên tục.
+Trên thực tế, hai loại hình AI này thường hoạt động cùng nhau, hỗ trợ và bổ sung cho nhau.
+Chẳng hạn, một hệ thống Tác nhân AI có thể dùng AI tạo sinh để giúp giao tiếp hiệu quả hơn hoặc tạo nội dung tùy chỉnh ngay lập tức.
+Lấy ví dụ về nhân viên dịch vụ khách hàng ảo.
+Tác nhân AI sẽ làm nhiệm vụ xử lý tương tác thời gian thực, đưa ra quyết định dựa trên thông tin đầu vào của người dùng và hướng dẫn cuộc trò chuyện.
+Lúc này, một thành phần bên trong là AI tạo sinh có thể tạo ra các phản hồi sắc thái và được cá nhân hóa cho câu hỏi cụ thể.
+Sự kết hợp cũng thể hiện rõ trong các lĩnh vực như robot.
+Trong tương lai, một đầu bếp robot hình người được trang bị AI tạo sinh và Tác nhân AI để đưa ra công thức nấu ăn mới dựa trên sở thích của người dùng, xử lý quá trình nấu ăn thực tế, đảm bảo mọi thứ được chế biến hoàn hảo.
+Theo giới chuyên gia, ranh giới giữa AI tạo sinh và Tác nhân AI sẽ ngày càng mờ nhạt khi cả hai liên tục phát triển và cải thiện khuyết điểm.
+Những tiến bộ trong công nghệ có thể dẫn đến việc các hệ thống tích hợp liền mạch giữa sáng tạo và hành động.
+Chúng không chỉ tạo ra những ý tưởng sáng tạo, mà còn tự động triển khai.
+Đây được xem là bước ngoặt cho rất nhiều ngành công nghiệp, từ chăm sóc sức khỏe đến sản xuất.
+Tuy nhiên, đi kèm với tiềm năng là trách nhiệm.
+Các chuyên gia cho rằng cần phải đảm bảo những công nghệ này sẽ được phát triển một cách có đạo đức, minh bạch và có trách nhiệm.
+Bằng cách hiểu được sự khác biệt giữa AI tạo sinh và Tác nhân AI, con người có thể đánh giá điểm mạnh, sự độc đáo của chúng, hướng chúng tới một tương lai mà AI phục vụ nhân loại theo những cách có ý nghĩa và mang tính chuyển đổi.
+Từ cuối năm ngoái, ngành công nghệ bắt đầu có những phân tích sâu hơn về Tác nhân AI.
+Trong đó, một số cho rằng công nghệ này sẽ thay đổi mọi thứ.
+CEO OpenAI Sam Altman hay CEO Microsoft Satya Nadella cho rằng Tác nhân AI sẽ thay đổi cơ bản cách con người tiếp cận công việc.
+Đến nay, hàng loạt công ty lớn như OpenAI, Microsoft, Salesforce, Amazon, Google cũng đã xây dựng cho mình các sản phẩm liên quan đến Tác nhân AI.
+Dù vậy, giới chuyên gia cho rằng cũng tương tự các khái niệm về AI trước đây như "siêu trí tuệ nhân tạo AGI" hay "trí tuệ đa phương thức" (Multimodal), thuật ngữ "AI Agent" đang bị lạm dụng.
+"Ngành công nghiệp đang lạm dụng thuật ngữ 'AI Agent' đến mức vô nghĩa", Ryan Salva, một giám đốc sản phẩm Google và từng là cựu lãnh đạo GitHub Copilot, nói vớiTechCrunch.
+"Đó là điều gây khó chịu".
+Trong một bài đăng trên blog, OpenAI định nghĩa Tác nhân AI là "hệ thống tự động có thể tự động hoàn thành nhiệm vụ thay mặt cho người dùng".
+Tuy nhiên, trong tài liệu cho nhà phát triển sau đó, công ty của Sam Altman lại có định nghĩa là "Mô hình ngôn ngữ lớn (LLM) được trang bị hướng dẫn và các công cụ".
+Trong khi đó, các công ty khác cũng định nghĩa Tác nhân AI theo cách riêng.
+Microsoft nói đây là "ứng dụng mới cho thế giới được hỗ trợ bởi AI" và có thể tùy chỉnh cho từng chuyên môn.
+Anthropic trực tiếp hơn khi cho biết công nghệ này "có thể được định nghĩa theo nhiều cách", gồm cả "các hệ thống hoàn toàn tự động hoạt động độc lập trong thời gian dài", đồng thời "các triển khai theo quy định tuân theo các quy trình làm việc được xác định trước".
+Salesforce thậm chí định nghĩa rộng hơn khi gọi đây là "một loại hệ thống có thể hiểu và phản hồi các yêu cầu của khách hàng mà không cần sự can thiệp của con người".
+"Các công ty công nghệ 'có lịch sử lâu đời' về việc không tuân thủ chặt chẽ các định nghĩa kỹ thuật", Rich Villars, Phó chủ tịch cấp cao phụ trách nghiên cứu toàn cầu của IDC, nhận xét.
+"Họ quan tâm nhiều hơn đến những gì họ đang cố gắng đạt được ở cấp độ kỹ thuật, đặc biệt là ở những lĩnh vực phát triển nhanh chóng".
+Andrew Ng, người sáng lập nền tảng học tập AI DeepLearning, cho rằng vấn đề tiếp thị cũng là lý do.
+"Các khái niệm 'tác nhân' AI và quy trình làm việc 'tác nhân' từng mang ý nghĩa kỹ thuật.
+Nhưng khoảng một năm trước, các nhà tiếp thị và một số công ty lớn đã nắm bắt và quảng bá chúng".
+Jim Rowan, Giám đốc AI của Deloitte, cho rằng khi không có định nghĩa chuẩn hóa, việc đánh giá hiệu suất và đảm bảo kết quả nhất quán trở nên khó khăn trong tương lai.
+"Điều này có thể dẫn đến nhiều cách diễn giải khác nhau về những gì các Tác nhân AI nên cung cấp, từ đó làm phức tạp các mục tiêu và kết quả", ông nói.
+Ngoài ra các chuyên gia cũng cho rằng nếu không có sự thống nhất về định nghĩa Tác nhân AI, những vấn đề liên quan đến quản lý sẽ khó khăn hơn trong tương lai.
+Vấn đề thậm chí có thể ảnh hưởng đến toàn bộ lĩnh vực AI.

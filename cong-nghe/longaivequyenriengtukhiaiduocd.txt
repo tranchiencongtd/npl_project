@@ -1,0 +1,41 @@
+Trong bối cảnh AI đang được đưa vào từng ngóc ngách ứng dụng, dịch vụ mà con người sử dụng hằng ngày, từ email, sổ sách kế toán đến phương tiện truyền thông xã hội, nhiều chuyên gia lo ngại chính sách bảo mật không rõ ràng đang khiến dữ liệu cá nhân của người dùng bị sử dụng để đào tạo mô hình AI.
+"Việc tích hợp nhanh chóngAIvào phần mềm và dịch vụ đã và sẽ tiếp tục đặt ra những câu hỏi quan trọng về chính sách bảo mật trong kỷ nguyên AI", CNBCdẫn lời Lynette Owens, Phó chủ tịch bộ phận giáo dục người tiêu dùng toàn cầu tại công ty an ninh mạng Trend Micro, nói.
+"Điều này khiến thông tin cá nhân của chúng ta bị sử dụng mà không có sự đồng ý.
+Đã đến lúc mọi ứng dụng, trang web hoặc dịch vụ trực tuyến phải xem xét kỹ lưỡng dữ liệu họ đang thu thập và liệu dữ liệu đó có thể được truy cập để đào tạo AI hay không".
+Theo Owens, hầu hết chương trình, ứng dụng được dùng hàng ngày đều tiềm ẩn nguy cơ.
+"Nhiều nền tảng tích hợp AI vào hoạt động của họ trong nhiều năm, từ rất lâu trước khi trí tuệ nhân tạo trở thành thuật ngữ thông dụng", ông nói, lấy ví dụ về Gmail dùng AI để lọc thư rác và dự đoán văn bản với tính năng soạn thảo thông minh, hay Netflix dựa vào AI để phân tích thói quen xem và đề xuất nội dung.
+Các nền tảng truyền thông xã hội như Facebook và Instagram sử dụng AI để nhận dạng khuôn mặt trong ảnh và hiển thị nội dung cá nhân hóa.
+Không phủ nhận lợi ích của các công cụ này, nhưng Owens nhấn mạnh người tiêu dùng phải đánh đổi quyền riêng tư, đặc biệt lượng dữ liệu cá nhân được thu thập cho mục đích đào tạo các hệ thống AI.
+"Mọi người nên xem xét cẩn thận các cài đặt riêng tư, hiểu dữ liệu nào đang được chia sẻ và thường xuyên kiểm tra bản cập nhật về điều khoản dịch vụ", ông lưu ý.
+Một vấn đề đang gây tranh cãi là trải nghiệm kết nối Connected Experiences củaMicrosoft, được giới thiệu năm 2019 nhưng rộ trở lại gần đây.
+Trong đó, hệ thống sẽ phân tích nội dung khi người dùng sử dụng Office để đề xuất thiết kế, gợi ý chỉnh sửa, thông tin chi tiết về dữ liệu.
+Tính năng này được kích hoạt mặc định nếu người dùng không tắt.
+Các chuyên gia lo ngại sự phát triển AI có thể dẫn đến tình trạng dữ liệu và thông tin trong các phần mềm như Microsoft Word bị khai thác theo cách mà các cài đặt riêng tư hiện tại chưa bao quát hết.
+Phát ngôn viên Microsoft cho biết công ty không sử dụng dữ liệu từ Microsoft 365 để huấn luyện mô hình AI lớn.
+Trong một số trường hợp, người dùng có thể đồng ý cung cấp dữ liệu cho mục đích cụ thể, chẳng hạn phát triển mô hình tùy chỉnh theo yêu cầu của khách hàng doanh nghiệp.
+Ngoài ra, tính năng này hỗ trợ các công cụ phổ biến như cùng biên tập theo thời gian thực, lưu trữ đám mây và gợi ý chính tả, ngữ pháp trong Word.
+Ted Miracco, CEO công ty bảo mật Approov, cho rằng tính năng như "Connected Experiences" của Microsoft là con dao hai lưỡi: tăng năng suất nhưng làm dấy lên vấn đề quyền riêng tư.
+Việc mặc định kích hoạt có thể khiến dữ liệu bị thu thập mà không nhận thức đầy đủ, do đó các tổ chức nên cân nhắc khi để tính năng này hoạt động.
+"Cam kết của Microsoft chỉ giải tỏa được phần nào, nhưng không giải quyết triệt để lo ngại thực sự về quyền riêng tư", Miracco nhận xét.
+Kaveh Vahdat, nhà sáng lập công ty tiếp thị RiseOpp, nhấn mạnh: "Việc tự động bật tính năng này, dù có ý tốt, vẫn buộc người dùng phải kiểm tra và điều chỉnh cài đặt, khiến họ cảm thấy bị kiểm soát hoặc thao túng".
+Theo ông, các công ty nên minh bạch và ưu tiên chế độ mặc định tắt (opt-out), đồng thời cung cấp thông tin dễ hiểu về cách dữ liệu được xử lý.
+"Dù công nghệ hoàn toàn an toàn, nhận thức của công chúng bị định hình không chỉ bởi sự thật mà còn bởi nỗi sợ và giả định, đặc biệt trong thời đại AI khi họ đang cảm thấy dần mất quyền kiểm soát", ông nói.
+Jochem Hummel, phó giáo sư về hệ thống thông tin và quản lý tại Warwick Business School (Anh), nhận định việc chia sẻ dữ liệu mặc định giúp các công ty cải thiện sản phẩm và duy trì cạnh tranh.
+Tuy nhiên, từ góc độ người dùng, ưu tiên quyền riêng tư bằng cách sử dụng mô hình opt-in (tùy chọn đồng ý) là "cách tiếp cận có đạo đức".
+Nếu tính năng bổ sung không thực sự cần, người dùng có thể tự chọn những gì phù hợp với mình.
+Hummel cũng chỉ ra có những lợi ích thực tế từ việc đánh đổi giữa công cụ hỗ trợ AI và sự riêng tư.
+Ông nhận thấy thế hệ trẻ, lớn lên cùng công nghệ và mạng xã hội, ít lo ngại và đón nhận tích cực hơn.
+"Ví dụ, sinh viên của tôi hiện tạo các bài thuyết trình tốt hơn bao giờ hết", ông nói.
+Kevin Smith, Giám đốc thư viện tại trường Cao đẳng Colby (Mỹ), cho rằng lo ngại về vi phạm bản quyền bởi các mô hình ngôn ngữ lớn (LLM) bị phóng đại, nhưng sự phát triển của AI vẫn gắn liền với vấn đề quyền riêng tư.
+"Nhiều nỗi lo về quyền riêng tư đã tồn tại từ lâu.
+Sự phát triển nhanh chóng của AI chỉ khiến chuyện này được chú ý hơn", ông nói.
+"Rủi ro lớn nhất là AI có thể tiết lộ dữ liệu cá nhân vốn an toàn hơn trong các hệ thống 'tĩnh' và đây là thách thức cần giải quyết".
+Trong hầu hết chương trình, việc tắt AI thường nằm ở một nơi rất sâu trong cài đặt.
+Ví dụ, để tắt Connected Experiences của Microsoft, người dùng cần vàoFile > Account > Privacy Settings > Manage Settingsvà tìm đến mục này.
+Microsoft cảnh báo việc tắt tính năng sẽ hạn chế một số trải nghiệm, như hợp tác và gợi ý AI.
+Tương tự, trong Gmail, người dùng cần vàoMenu > Settings > Generalvà bỏ chọn tính năng thông minh.
+TheoMalwarebytes, việc tắt cài đặt có thể làm giảm chức năng, nhưng nếu không sử dụng nhiều, người dùng nên tắt.
+Trong khi đó, Wes Chaar, chuyên gia quyền riêng tư, cho rằng không nên đổ trách nhiệm lên người dùng.
+"Các công ty thường giới thiệu các tính năng như tùy chọn nâng cao, nhưng người dùng không hiểu rõ phạm vi dữ liệu bị thu thập", ông nói, so sánh điều này như việc mời một trợ lý vào nhà và sau đó phát hiện họ ghi chú các cuộc trò chuyện để sử dụng trong tài liệu huấn luyện.
+Chuyên gia này cũng nhấn mạnh sự bất cân bằng trong hệ sinh thái kỹ thuật số hiện tại, nơi thiếu hệ thống mạnh mẽ ưu tiên sự đồng ý của người dùng và cho phép họ kiểm soát dữ liệu.
+"Nếu không có hệ thống đảm bảo quyền kiểm soát, người dùng dễ bị tổn thương khi dữ liệu của họ bị sử dụng lại theo những cách họ không lường trước hoặc không hưởng lợi", Chaar nói.

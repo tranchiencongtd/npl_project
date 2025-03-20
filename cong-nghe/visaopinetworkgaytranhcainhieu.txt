@@ -1,0 +1,81 @@
+Sau 6 năm chờ đợi, đội ngũ Pi Network thông báo "mở mạng", tức cho phép người chơi giao dịch đồng Pi ra bên ngoài thị trường.
+Tuy nhiên, từ khi ra đời, dự án này gây nhiều tranh cãi, trong khi chưa được đánh giá cao về mặt công nghệ.
+Pi Network ra mắt vào Ngày của Pi 14/3/2019 bởiNicolas Kokkalis, Chengdiao Fan và Vince McPhillip, trong đó McPhillip đã rời dự án vì bất đồng quan điểm.
+Phiên bản đầu tiên của ứng dụng di động cho phép người dùng, gọi là Pioneers (người tiên phong), "khai thác" Pi trực tiếp từ smartphone.
+Một năm sau, Pi Network bắt đầu giai đoạn testnet, đánh dấu bước tiến quan trọng hướng tới phi tập trung, tức cho phép triển khai các nút phân tán trên toàn thế giới, thử nghiệm blockchain và tạo tiện ích bằng Test-Pi.
+Cuối năm đó, dự án đưa ra tính năng Pi Node để vận hành các nút mạng trên máy tính cá nhân.
+Tháng 12/2021, Pi Network triển khai "mainnet kín", người chơi có thể tự giao dịch đồng Pi nội bộ với nhau.
+Giữa năm ngoái, dự án lên lịch trình "mainnet mở" và dự kiến "mở mạng" ngày 20/2.
+Theo công bố của Pi Core Team (PCT), đội ngũ đứng sau Pi Network, giữa năm ngoái, dự án có 60 triệu người dùng.
+Còn trongthông báo mới nhất, đã có 10, 14 triệu lượt di chuyển mainnet, vượt mục tiêu ban đầu là 10 triệu.
+Dự án cũng có hơn 19 triệu người đã xác minh danh tính (KYC).
+Trên các mạng xã hội, Pi Network thu hút sự quan tâm lớn, với 111.000 người theo dõi trên Reddit, 2, 9 triệu người trên Telegram, 3, 5 triệu người trên Twitter và 1, 65 triệu người trên YouTube.
+Trừ những aivận hành Node, với hầu hết những người chơi tiền ảo Pi, nhiệm vụ duy nhất là đăng nhập điện thoại, "kích tia sét" và đợi sau 24 tiếng để lặp lại.
+Họ gọi hành động này là "khai thác".
+"Chúng tôi định nghĩa 'khai thác' rộng hơn nghĩa truyền thống, vốn là thực hiện thuật toán đồng thuận bằng chứng công việc như trong Bitcoin hoặc Ethereum", sách trắng của Pi Network diễn đạt.
+Tuy nhiên, thuật ngữ này dường như được Pi Network định nghĩa lại để phục vụ mục đích riêng của mình.
+Khi nói đến tiền số, khai thác có nghĩa xác thực giao dịch và bảo mật mạng.
+Đối với Bitcoin, đó là giải các câu đố toán học phức tạp và nhận phần thưởng thông qua hệ thống máy móc tiêu tốn nhiều tài nguyên.
+Pi Network không đạt yêu cầu về mặt này.
+Pi áp dụng cơ chế đồng thuận Federated Byzantine Agreement của Stellar, bằng cách hoán đổi sức mạnh tính toán cho các nhóm dựa trên sự tin cậy, thay vì nỗ lực tính toán.
+Khi đủ số lượng nút đáng tin cậy đồng ý, giao dịch sẽ được xác nhận.
+"Lòng tin" này do tổ chức Stellar Development Foundation kiểm soát.
+Không như Bitcoin và nhiều tiền số khác, nơi động lực kinh tế thúc đẩy thợ đào và người xác thực hành động đúng đắn, Stellar dựa vào thiện chí của người tham gia.
+Pi Network cũng thiếu tính minh bạch khi cho phép người chơi mời những người khác tham gia với sự giám sát tối thiểu.
+"Điều gì sẽ xảy ra nếu nền tảng của sự tin cậy bị lỗi?", CCNđặt câu hỏi.
+"Hãy tưởng tượng kịch bản kẻ xấu xâm nhập vào mạng lưới, bảo lãnh cho nhau và lan truyền không hạn chế.
+Họ chịu hậu quả gì?
+Thực tế là không phải chịu hình phạt nào".
+Thực tế, mạng blockchain của Pi cũng chưa hoàn toàn phi tập trung như nhiều dự án tiền số khác.
+Các nút mainnet đang hoạt động được Pi Network kiểm soát.
+"Tất cả nút mainnet đang hoạt động đều do nhóm cốt lõi Pi quản lý độc quyền, trái với tuyên bố về sự phi tập trung của nhóm", CoinTelegraphdẫn ý kiến một chuyên gia blockchain.
+"Dù dự án hứa hẹn phi tập trung, cấu trúc hiện tại của nó làm dấy lên nghi ngờ về cam kết của Pi Core Team đối với nguyên tắc này".
+Vấn đề chưa có hợp đồng thông minh (smart contract) sau 6 năm, kể cả khi sắp "mở mạng" cũng khiến nhiều người hoài nghi về dự án.
+Chuyên gia blockchain Nguyễn Việt Dinh nhận định trên Facebook rằng Stellar Core đã triển khai smart contract từ phiên bản 20 trở đi, nhưng Pi Network vẫn dùng bản 19.1.
+"Có thể họ sẽ nâng cấp lên bản mới nhất 22.1 thời gian tới", ông dự đoán.
+Theo các chuyên gia, sự tham gia của hàng triệu người vào Pi Network là một trường hợp kỳ lạ, vì câu hỏi đặt ra là: Điều gì thúc đẩy người dùng đầu tư thời gian và nguồn lực của họ vào một mạng lưới chưa hoàn toàn phi tập trung.
+"Tất cả đều quy về ảo tưởng khai thác", Crypto Potatobình luận.
+"Bằng cách khuyến khích chạm vào màn hình một lần mỗi ngày, Pi Network tạo ra sự giả vờ tham gia.
+Tuy nhiên, hành động này không xác thực giao dịch và bảo mật mạng, chỉ như một mánh khóe để duy trì sự quan tâm của người dùng".
+TheoCCN, Pi Network gây chú ý nhờ được giới thiệu giúp người dùng khai thác tiền số mà không cần tiêu thụ nhiều năng lượng, chuyên môn kỹ thuật hoặc thiết bị đắt tiền.
+"Nhưng Pi Network có phải một cơ hội thực sự hay là bánh vẽ được ngụy trang khéo léo?", trang này bình luận.
+Đầu tiên, trang này nghi ngờ con số 60 triệu người dùng được PCT công bố.
+Trình kiểm tra blockchain bên thứ ba như ExplorePi xác định dự án có khoảng 10 triệu ví trên mạng Pi tính đến giữa tháng 2, còn Pi Door thống kê 6, 15 triệu ví vào tháng 10/2024.
+Có nghĩa, số ví người dùng sở hữu chiếm chưa đến 15% tổng số người dùng.
+Ngoài ra, chỉ khoảng 20.000 ví thể hiện hoạt động hàng ngày, cho thấy khoảng cách đáng kể giữa mức độ tương tác được báo cáo và thực tế.
+"Để hoàn tất quy trình KYC, người chơi phải có ví Pi", CCNcho hay.
+"Chúng ta tự hỏi hàng triệu người chơi khác là thật hay ảo.
+Liệu dự án có đang bị thổi phồng?".
+"Trong thế giới tiền điện tử, sự khác biệt trong số liệu thống kê người dùng có thể ảnh hưởng nghiêm trọng đến tính hợp pháp được nhận thức", trangOneSafenêu quan điểm tương tự.
+"Sự thiếu trung thực có thể làm xói mòn lòng tin, khiến người dùng tiềm năng cảnh giác".
+Về vấn đề KYC, theoCoinTelegraph, quy trình KYC bắt buộc của dự án gây lo ngại đáng kể về quyền riêng tư, do người dùng được yêu cầu gửi dữ liệu cá nhân nhạy cảm gồm video selfie và giấy tờ tùy thân do chính phủ cấp.
+Dữ liệu được xử lý bởi các trình xác thực khu vực hoặc chính người chơi tự đăng ký làm nhà xác thực, làm tăng nguy cơ bị sử dụng sai mục đích hoặc đánh cắp danh tính.
+Trước đó, giới chuyên gia khuyến cáo Pi hoàn toàn thiếu tính minh bạch của một dự án blockchain khi khá ít thông tin về đội ngũ đứng sau.
+Riêng ứng dụng trên smartphone yêu cầu nhiều quyền truy cập danh bạ của người dùng.
+Ngoài ra, nếu tiền chỉ được lưu trên điện thoại hoặc máy chủ tập trung, người quản trị có thể thay đổi và tạo ra bao nhiêu tiền tùy theo ý muốn.
+Trong cuốnAtomic Habits, tác giả James Clear giải thích thói quen được hình thành thông qua những hành động nhỏ lặp lại một cách nhất quán theo thời gian.
+Điều này thể hiện qua việc "điểm danh" Pi Network.
+Công việc có vẻ đơn giản: bấm vào nút "tia sét" và nhận được một lượng nhỏ Pi, gần như không tốn sức.
+Nhưng dần dần, hành động này trở thành thói quen hàng ngày.
+Với nhiều người, dừng đăng nhập Pi hàng ngày cũng giống như thừa nhận mọi nỗ lực trước đó đều vô ích.
+"Ứng dụng làm người dùng bị vướng vào trong cái bẫy của chính mình", theoOneSafe.
+"Pi kết hợp yếu tố xã hội bằng cách cho phép người dùng mời bạn bè và xây dựng mạng lưới, qua đó khai thác nhu cầu cơ bản của con người về sự xác nhận xã hội".
+Ngoài ra, điều khiến việc rời bỏ Pi khó khăn là sự hy vọng rằng biết đâu token "một ngày nào đó sẽ có giá trị thực".
+Trong khi đó, mô hình "mời" người chơi của Pi Network được xem là một dạng Ponzi (đa cấp), khi người chơi càng mời được nhiều, số Pi nhận về càng tăng cao, hối thúc họ tìm cách lôi kéo người mới.
+Thực tế, Pi Network tạo nên một cộng đồng theo hướng cuồng tín.
+Ghi nhận trên các nhóm Facebook có hàng trăm nghìn người tham gia hoặc các tài khoản X cho thấy việc đưa ra cảnh báo trái chiều về dự án thường lập tức bị chỉ trích.
+"Pi Network dường như tạo nên một 'giáo phái' mới sau nhiều năm", Lê Bình, một người hoạt động trong thị trường tiền số hơn 6 năm, nhận xét.
+"Họ sẵn sàng đả kích, tấn công người không đồng quan điểm, dù ý kiến đó đúng chăng nữa".
+Trong cộng đồng Pi Network, nhiều người có niềm tin rằng giá tiền ảo này sẽ rất cao.
+Không ít người kêu gọi đặt "giá đồng thuận" cho mỗi Pi từ 500 đến 1.000 USD và yêu cầu "không được phá giá".
+Thậm chí, có cộng đồng hình thành cái gọi là GCV (Global Consensus Value - giá trị đồng thuận toàn cầu) của Pi ở mức 314.159 USD và kịch liệt bảo vệ quan điểm này.
+Thế nhưng, theoOneSafe, đây là một con số "không tưởng".
+PCT thông báo tổng cung tối đa là 100 tỷ Pi.
+Trong khi đó, nguồn cung ban đầu được dự tính khoảng 6 tỷ Pi được đưa ra thị trường sau khi mở mạng.
+Còn theoCoinTelegraph, tính đến tháng 1, nguồn cung lưu hành đạt 5, 56 tỷ token.
+"Nếu Pi có giá như cộng đồng kỳ vọng, vốn hóa của nó sẽ ở mức không tưởng, không có cơ sở thực tế hay dữ liệu thị trường để chứng minh", Nam Nguyên, người có 4 năm tham gia thị trường tiền số, bình luận.
+Cũng theo anh Nguyên, việc cộng đồng Pi Network tự định giá Pi và bảo vệ sự "lạc quan" của mình khiến những người khác cảm thấy phi lý.
+Những cuộc tranh cãi bắt đầu từ đó.
+"Đã có quá nhiều lời cường điệu về Pi Coin và Pi Network kể từ khi ra mắt.
+Dự án này chỉ tồn tại nhờ sự cường điệu của nó bằng cách sử dụng cảm xúc của các nhà đầu tư, giống nhưHamster Kombat", Crypto Timesbình luận.
+"Tuy nhiên, theo thời gian, mọi người sẽ kiểm tra thực tế xem Pi có phải là một con ngựa đua đường dài hay không".

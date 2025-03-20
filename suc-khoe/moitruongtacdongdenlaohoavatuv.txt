@@ -1,0 +1,20 @@
+Nghiên cứu trên tạp chíNature Medicineso sánh ảnh hưởng của yếu tố môi trường và di truyền đến lão hóa và tử vong sớm.
+Theo các chuyên gia, lão hóa ở người là một quá trình phức tạp, liên quan đến những thay đổi sinh học và cận lâm sàng bắt đầu từ giai đoạn trung niên, 40 đến 60 tuổi.
+Nhiều nghiên cứu cho thấy các yếu tố môi trường phi di truyền có thể đẩy nhanh quá trình lão hóa và tăng nguy cơ tử vong sớm gần gấp hai lần.
+"Exposome" là tổng hợp tất cả các yếu tố môi trường tác động đến một cá nhân trong suốt cuộc đời.
+Dù các nghiên cứu trước đây về exposome đã cung cấp kiến thức quan trọng về ảnh hưởng của môi trường đến tốc độ lão hóa, rất ít nghiên cứu quy mô lớn xem xét mối liên hệ độc lập tiềm tàng giữa exposome, tỷ lệ tử vong ở cấp độ dân số và tỷ lệ mắc bệnh liên quan đến tuổi tác.
+Đây là công trình đầu tiên khắc phục được những hạn chế này.
+Nghiên cứu từ UK Biobank so sánh tác động của bộ gene và exposome đối với tỷ lệ tử vong sớm cũng như các bệnh liên quan đến tuổi tác.
+Công trình được thực hiện trên 436.000 người Anh, thêm 55.600 người từ Scotland và Wales.
+Sau thời gian theo dõi trung bình là 12, 5 năm, các chuyên gia ghi nhận 31.716 ca tử vong do mọi nguyên nhân.
+Các nhà khoa học sử dụng dữ liệu dựa trên dân số để xác định các yếu tố môi trường có thể làm tăng nguy cơ tử vong sớm.
+Sau đó, họ thực hiện phân tích kiểu hình, loại bỏ các sai số.
+Họ tìm ra 176 yếu tố môi trường (còn gọi là yếu tố phơi nhiễm) ở cả nam và nữ, góp phần vào lão hóa và tử vong sớm.
+Các yếu tố này bao gồm tình trạng kinh tế xã hội, thói quen hút thuốc, số lượng xe trong gia đình, thời gian hoạt động thể chất, dân tộc, điều kiện sống cùng bạn đời, giấc ngủ, sức khỏe tinh thần và thể chất.
+Những người có mẹ hút thuốc ở thời điểm sinh đứng trước nguy cơ tử vong sớm hơn.
+Chiều cao và kích thước cơ thể ở tuổi lên 10 cũng ảnh hưởng phần nào đến quá trình lão hóa.
+Bên cạnh yếu tố môi trường, bộ gene vẫn đóng vai trò nhất định.
+Ví dụ, một số loại bệnh nhưsa sút trí tuệlà do thoái hóa điểm vàng, Alzheimervà một số bệnhung thưxuất phát từ tình trạng đa gene.
+Trong khi đó, các bệnh như viêm khớp dạng thấp, bệnh timthiếu máu cục bộ và bệnhthậnbị ảnh hưởng đáng kể hơn bởi exposome.
+Nghiên cứu nhấn mạnh tầm quan trọng của các ngân hàng dữ liệu sinh học.
+Chúng có thể cung cấp hiểu biết quan trọng về mối tương quan giữa yếu tố di truyền, môi trường và tình trạng lão hóa, tử vong sớm.

@@ -1,0 +1,20 @@
+Công ty khởi nghiệp Mirror Me ở Hàng Châu giới thiệu một robot 4 chân có thể chạy 100 m trong chưa đầy 10 giây, thúc đẩy giới hạn của robot học.
+Robot chó Black Panther 2.0 là kết quả hợp tác giữa Mirror Me và Viện sáng tạo robot hình người thuộc Đại học Chiết Giang, Interesting Engineeringhôm 16/1 đưa tin.
+Thiết kế của Black Panther 2.0 dựa trên móng vuốt và khớp của chuột nhảy jerboa và báo đen, giúp nâng cao độ linh động ở tốc độ cao của robot bằng cách tập trung vào sức mạnh, sức bền, sự thích nghi, uyển chuyển và chính xác.
+Với mẫu robot mới, nhóm nghiên cứu hy vọng có thể vượt qua động vật thật về mặt tốc độ và độ linh động.
+Năm 2023, một robot 4 chân tên HOUND lập Kỷ lục Thế giới Guinness dành cho robot chạy 100 m nhanh nhất bằng cả 4 chân với thời gian 19, 87 giây.
+Robot Black Panther 2.0 nặng 38 kg và cao 0, 63 m, có thể chạy 100 m trong thời gian dưới 10 giây.
+Nó sử dụng lò xo ở vị trí khớp để hấp thụ chấn động và duy trì tốc độ.
+Theo Xinhua, cẳng chân của robot làm bằng sợi carbon, mô phỏng theo chuột nhảy jerboa, khiến độ cứng tăng 135% nhưng trọng lượng chỉ tăng 16%.
+Phần móng vuốt lấy cảm hứng từ báo săn góp phần giúp độ bám tăng 200%.
+Với sự hỗ trợ của trí tuệ nhân tạo (AI) và học máy, robot điều chỉnh tư thế theo các địa hình khác nhau bằng cách đồng bộ hóa tứ chi cho chuyển động nhịp nhàng, sử dụng ý tưởng về đồng hồ quả lắc của Huygens.
+Độ bền và chính xác vượt trội của robot đến từ những motor mật độ điện cao, mở đường cho ứng dụng công nghiệp trong tương lai.
+Hiện nay, Black Panther 2.0 là một trong những robot 4 chân nhanh và hiệu quả nhất.
+"Thông qua kết hợp phần mềm và các bộ phận, chúng tôi tạo ra một nguyên mẫu trong vòng 3 tháng", Wang Hongtao, giám đốc viện nghiên cứu kiêm giáo sư ở Đại học Chiết Giang, cho biết.
+Dù vẫn chậm hơn những động vật nhanh nhất trên đất liền như báo săn, đà điểu và linh dương đầu bò Black Panther 2.0 hiện nay có thể chạy nhanh hơn hầu hết mọi người khi chạy nước rút.
+Nhóm nghiên cứu muốn tìm hiểu robot và vật thể hữu cơ di chuyển khác nhau như thế nào.
+HOUND, robot nắm giữ kỷ lục trước đây, được phát triển bởi Phòng thí nghiệm thiết kế và điều khiển robot động lực tại Viện khoa học và công nghệ cao cấp Hàn Quốc tại Daejeon, Hàn Quốc.
+Nặng 45 kg, HOUND có bàn chân chuyên dụng siêu nhẹ dành riêng cho chạy nước rút.
+Cơ cấu chấp hành ở hông và đầu gối của nó được sắp xếp song song với một hệ thống ròng rọc thắt lưng truyền động từ đầu gối tới khớp.
+Nhóm nghiên cứu phát triển HOUND nhấn mạnh tầm quan trọng của motor.
+Theo họ, hiệu suất ổn định là yếu tố chủ chốt trong lựa chọn motor cho cỗ máy có chân.

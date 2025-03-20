@@ -1,0 +1,25 @@
+Hồng Hoa (Quảng Trị) cho biết tham gia khai thác Pi từ những ngày đầu, có hơn 4.000 Pi, trong đó khoảng 1.000 Pi đã về ví mainnet.
+Đến 2023, chị từ bỏ thói quen "kích tia sét" đào Pi dù đã KYC (xác thực danh tính).
+"Sau khi một số sàn niêm yết với giá 2 USD ngày 20/2, số Pi của tôi hiện có giá khoảng 2.000 USD.
+Tôi không vào được tài khoản và đang tìm cách lấy lại khóa ví cũ, chấp nhận chịu phí bằng nửa số Pi kể trên nhưng vẫn chưa thành công", chị nói.
+Trên mạng xã hội, nhiều người chơi Pi Network "đời đầu" cũng đăng bài nhờ cộng đồng giúp lấy lại mã khóa.
+Hoàng Anh, quản trị viên nhóm Pi Network trên Facebook với hơn 150.000 thành viên, cho biết khoảng 10 ngày qua, mỗi ngày nhóm nhận hơn 20 bài về chủ đề này, dù chỉ duyệt một số trường hợp điển hình.
+"Trước đó, lác đác mới có bài về tìm khóa ví.
+Có vẻ những người chơi cũ bắt đầu cài lại ứng dụng để lấy Pi, nhất là những ai đã KYC, nhưng lại không nhớ mật khẩu", anh Hoàng Anh nhận xét.
+Tương tự các ví tiền số khác, ví Pi hay Pi Wallet gồm một cặp khóa: khóa công khai dùng để giao dịch và khóa bí mật, hay "cụm hạt giống" gồm 24 từ được tạo ngẫu nhiên, cần bảo mật tuyệt đối.
+Khác với mật khẩu thông thường, khi mất cụm này, người chơi gần như không có cách nào để lấy lại, đồng nghĩa Pi trong ví bị mất vĩnh viễn.
+Lợi dụng nhu cầu lấy lại "cụm hạt giống" của người chơi, nhiều "dịch vụ" xuất hiện trên các mạng xã hội.
+Tuy nhiên, các chuyên gia khuyến cáo hầu hết là lừa đảo.
+Thế Hoàng, người chơi Pi Network từ 2022, cho biết đã cẩn thận ghi cụm mật khẩu vào sổ.
+Tuy nhiên, anh không thể đăng nhập thành công, có thể do ghi sai một ký tự nào đó.
+"Vì có gần 800 Pi trong ví mainnet, tôi tìm đến một dịch vụ trên Facebook.
+Họ báo chi phí 5 triệu đồng, yêu cầu tôi cài thêm phần mềm để 'khôi phục' mật khẩu và quay màn hình máy", anh Hoàng kể lại.
+"Nghi ngờ lừa đảo, tôi không thực hiện theo".
+Theo ông Võ Đỗ Thắng, Giám đốc Trung tâm an ninh mạng Athena, thực tế vẫn có một số phần mềm dạng Seed Phrase Recover (SPR) có khả năng dò để lấy lại cụm mật khẩu ví, nhưng thường chỉ khôi phục được một từ duy nhất trong cụm.
+Do đó, nếu người dùng chỉ quên một từ, khả năng cao có thể lấy lại ví, nhưng từ hai từ trở lên thì không thể.
+Cũng theo ông Thắng, người dùng không nên tin tưởng dịch vụ rao trên mạng vì thực tế với kỹ thuật hiện nay, gần như không thể lấy lại toàn cụm.
+"Người dùng có thể phải trực tiếp liên hệ với nhà phát triển đứng sau, nhưng cách này không dễ dàng", chuyên gia bảo mật của Athena cho hay.
+"Với dịch vụ, có thể tin tưởng những người có tiếng nói trong cộng đồng tiền số, nhưng kể cả trường hợp này, chỉ nên đặt cọc 5-10% số tiền thỏa thuận nhằm hạn chế thiệt hại tiền bạc".
+Pi Network ra đời từ năm 2019, được quảng cáo giúp người tham gia sở hữu tiền ảo Pi miễn phí bằng cách vào ứng dụng trên điện thoại "bấm tia sét" để điểm danh mỗi ngày.
+Việt Nam là một trong những thị trường có nhiều người tham gia "đào Pi".
+Dự án gây tranh cãi khi gần sáu năm mới "mở mạng", tức cho phép người dùng di chuyển Pi sang các nền tảng các để trao đổi, giao dịch từ 20/2.

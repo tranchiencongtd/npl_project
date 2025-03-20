@@ -1,0 +1,20 @@
+Trong ngày 13-14/2, một số hacker mũ trắng đã thử đột nhập vào trangdoge.govcủa Ban Hiệu suất Chính phủ Mỹ và để lại thông điệp, như: "Đây là trò đùa của một website có đuôi .gov" hay "Những chuyên gia của họ để mở cơ sở dữ liệu".
+Những thông điệp này sau đó bị xóa.
+Dẫn ý kiến của hai chuyên gia phát triển webiste, 404Media- trang đầu tiên đưa tin về vụ hack ngày 14/2 - đánh giádoge.govdường như được xây dựng trên nền tảng Cloudflare Pages, hiện không được lưu trữ trên máy chủ của chính phủ.
+Cơ sở dữ liệu website này đang lấy chủ yếu từ các bên thứ ba, sau đó hiển thị trên trang web trực tiếp.
+Một chuyên gia nói ông dễ dàng lấy đầy đủ các bản cập nhật, cơ sở dữ liệu thông tin việc làm của chính phủ cũng như tìm ra điểm cuối API của cơ sở dữ liệu.
+"Cảm giác website này bị chắp vá", người này nói thêm.
+"Hàng tấn lỗi và chi tiết bị rò rỉ trong mã nguồn của trang".
+"Về cơ bản, doge.govlấy mã nguồn mở từ nơi khác, có thể thông qua GitHub hoặc thứ gì đó tương tự", một nhà phát triển khác nhận định.
+"Thay vì có một máy chủ vật lý hoặc thậm chí là thứ gì đó như Amazon Web Services, họ đang triển khai bằng Cloudflare Pages hỗ trợ tùy chỉnh".
+Musk và DOGE chưa đưa ra bình luận.
+TheoBloomberg, doge.govdường như được triển khai vội vã sau khi Musk nói với các phóng viên đầu tuần này rằng Ban Hiệu quả Chính phủ của ông "đang cố gắng minh bạch nhất có thể".
+Ngày 11/2, website ra đời nhưng để trống.
+Vài ngày sau, nội dung chủ yếu trên trang được trỏ đến tài khoản X của DOGE, xen kẽ là hình ảnh số liệu thống kê khác nhau về lực lượng lao động liên bang của chính phủ Mỹ.
+Trên cùng là thông điệp: "Một website chính thức của chính phủ Mỹ".
+Wiredđã phân tích mã nguồn và nhận thấydoge.gov"dường như có sự ưu ái X".
+Không chỉ trỏ trực tiếp đến các bài đăng trên mạng xã hội của Musk, một đoạn code cho thấy nó hướng công cụ tìm kiếm trỏ đếnx.comthay vìdoge.gov, nghĩa là các truy vấn tìm kiếm sẽ yêu cầu các công cụ như Google ưu tiên X hơn trang chủ DOGE.
+"Nó cho thấy tài khoản X của DOGE là nguồn chính thống, còn website chỉ là thứ yếu.
+Cách làm này không phổ biến, cho thấy DOGE đang đặt trọng tâm vào X hơn", Declan Chidlow, một lập trình viên phát triển website, nói vớiWired.
+Trước đó, Muskcho biếtDOGE đang quy tụ một nhóm "kỹ sư phần mềm giỏi nhất thế giới" ở độ tuổi 19-24.
+Khi đó, dẫn nguồn nội bộ kết hợp cơ sở dữ liệu công khai và hồ sơ trực tuyến, Wiredcho biết nhómcó 6 người, hầu như chưa có kinh nghiệm làm trong chính phủ.

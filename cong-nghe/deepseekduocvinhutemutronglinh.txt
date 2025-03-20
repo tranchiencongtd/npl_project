@@ -1,0 +1,35 @@
+"DeepSeek là Temu của AI", chuyên gia Dan Ives của công ty nghiên cứu thị trường Wedbush Securities viết trên X cuối tuần qua.
+"Những gì diễn ra giống cách Temu 'hủy diệt mô hình Amazon' cách đây vài năm.
+Đội ngũ của Amazon khi đó phải điều chỉnh.
+Và giờ hãy xem Temu và Amazon đang ở đâu".
+Cũng theo nhà phân tích công nghệ nổi tiếng này, "phát súng"DeepSeektạo ra có thể truyền cảm hứng cho các công ty công nghệ Trung Quốc khác.
+"Nó cũng sẽ đóng vai trò trong câu chuyện TikTok với lập trường cứng rắn hơn", ông cho hay.
+Nhà phân tích Adam Spatacco của Motley Fool đồng ý với Ives.
+Theo ông, khi lần đầuTemura mắt năm 2022 tại Mỹ, Phố Wall nhận thấy mô hình giá rẻ có thể trở thành "mối đe dọa hiện hữu" đối với Amazon.
+Thực tế, Temu không phá hủy được sự thống trị thương mại điện tử của Amazon.
+Tuy nhiên, công ty do Jeff Bezos sáng lập cũng phải thay đổi hoạt động, như cung cấp một hệ sinh thái mới gắn kết và nhiều lựa chọn hơn thay vì chỉ mua sắm trực tuyến như trước.
+"Công ty triển khai dịch vụ giao hàng tạp hóa, phát trực tuyến, cùng nhiều dịch vụ khác thông qua mô hình đăng ký Prime", Spatacco nói.
+"Amazon đã mở khóa nhiều luồng để tạo doanh thu từ cơ sở khách hàng của mình, giúp họ trung thành tuyệt đối với hệ sinh thái của mình".
+Theo Spatacco, động lực tương tự có thể xảy ra ở lĩnh vực AI khi DeepSeek xuất hiện.
+"Giống như thương mại điện tử, AI là thị trường đang phát triển với vô số ứng dụng trên cả phần cứng và phần mềm", ông nói.
+"Việc giới thiệu DeepSeek chứng minh một điều: Có chỗ cho nhiều hơn một mô hình ngôn ngữ lớn (LLM) trong lĩnh vực AI".
+Ông cho rằng ngay cả khi DeepSeek sở hữu hạ tầng AI mạnh hơn so với hiện tại, công ty Trung Quốc cũng khó vượt qua các công ty hàng đầu hiện nay.
+"Xét cho cùng, tôi không nghĩ DeepSeek là mối đe dọa hiện hữu đối với ChatGPT, Nvidia hay bất kỳ công ty siêu quy mô nào khác đang thúc đẩy câu chuyện về AI", ông nói thêm.
+"Tuy nhiên, nó sẽ là động lực giúp lĩnh vực AI tiến xa hơn, vận hành hiệu quả và tiết kiệm chi phí hơn".
+Temu thuộc PDD Holdings (Trung Quốc), tập đoàn sở hữu nền tảng thương mại điện tử Pinduoduo.
+Với cách thức kinh doanh kết nối trực tiếp người mua hàng với nhà sản xuất, mô hình này được đánh giá là giúp người dùng tiếp cận các sản phẩm với giá rẻ tận xưởng.
+Nền tảng hiện bán trực tiếp đến 82 quốc gia, vùng lãnh thổ, theo thống kê của hãng dịch vụ tư vấn và đầu tư startup Momentum Works (Singapore).
+Tuy vậy, nó cũng bị nhiều quốc giadè chừng.
+Trong khi đó, DeepSeek cũng "nổi đình nổi đám" với các mô hình V3/R1, được cho là chỉ mất khoảng 6 triệu USD cho chi phí đào tạo nhưng một số tính năng không thua kém sản phẩm AI hàng đầu.
+Tuy vậy, mức phí thấp cũng khiến giới chuyên gia hoài nghi.
+Dan Ives cũng đặt dấu hỏi về con số 6 triệu USD dùng để xây dựng các mô hình AI của DeepSeek.
+"Tôi kỳ vọng có nhiều cải tiến về mặt chi phí khi xây dựng AI/LLM", ông viết trên X tuần trước.
+"Tuy nhiên, việc nói DeepSeek được xây dựng với giá 6 triệu USD mà không có phần cứng tiên tiến Nvidia có thể là một câu chuyện hư cấu.
+Trọng tâm của cuộc tranh luận này đã thúc đẩy một đợt bán tháo công nghệ lớn.
+Thị trường đã phản ứng sai".
+Đồng quan điểm, Yann LeCun, Giám đốc AI của Meta, cho rằng phản ứng của thị trường với Deep Seek là thiếu cơ sở do có "hiểu lầm lớn" khi so sánh việc các công ty Mỹ chi hàng tỷ USD vào AI với DeepSeek.
+SemiAnalysis, công ty nổi tiếng về nghiên cứu, tư vấn thị trường bán dẫn và AI, cũng ước tính: "Phân tích của chúng tôi cho thấy tổng chi phí vốn máy chủ của DeepSeek có thể là 1, 6 tỷ USD, trong đó phần đáng kể là 944 triệu USD liên quan đến vận hành các cụm máy này".
+Để có chi phí thấp, công ty Trung Quốc cũng được cho là dùng kỹ thuật "chưng cất".
+Kỹ thuật này được các nhà phát triển sử dụng phổ biến để đạt hiệu suất tốt hơn trên các mô hình nhỏ, bằng cách dùng đầu ra từ các mô hình lớn, cho phép họ có được kết quả tương tự trong những nhiệm vụ cụ thể với chi phí thấp hơn.
+DeepSeek được Liang Wenfeng thành lập tháng 5/2023, đặt trụ sở ở Hàng Châu, Chiết Giang, và do quỹ đầu tư High-Flyer sở hữu.
+Công ty được High-Flyer tài trợ và không có kế hoạch huy động vốn, tập trung vào xây dựng công nghệ nền tảng.

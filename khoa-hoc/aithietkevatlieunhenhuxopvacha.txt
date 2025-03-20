@@ -1,0 +1,16 @@
+Các nhà khoa học sử dụng máy in 3D và công nghệ học máy - một phần của trí tuệ nhân tạo (AI) - để tạo ra vật liệu nano mới nhẹ như xốp nhưng có độ chắc chắn tương đương thép carbon, Live Sciencehôm 31/1 đưa tin.
+Nghiên cứu mới được công bố trên tạp chíAdvanced Materials.
+Ở nhiều vật liệu, độ chắc chắn và độ dẻo dai thường xung đột với nhau.
+Ví dụ, đĩa gốm thường rất chắc chắn và chịu được tải trọng lớn, nhưng lại thiếu độ dẻo dai - không cần nhiều năng lượng để làm chúng vỡ.
+Vấn đề tương tự cũng đúng với các vật liệu nano.
+Để tìm kiếm vật liệu nano tốt hơn, nhóm nghiên cứu đã mô phỏng các hình dạng khả thi cho thiết kế của họ, sau đó đưa chúng cho một thuật toán học máy.
+Bằng cách học hỏi từ các thiết kế này, thuật toán có thể dự đoán những hình dạng tốt nhất giúp phân bổ đều áp lực trong khi chịu tải trọng lớn.
+Với những hình dạng đó, nhóm nghiên cứu sử dụng máy in 3D để tạo ra các cấu trúc mạng nano mới và nhận thấy chúng chịu được áp lực 2, 03 megapascal cho mỗi m3 trên mỗi kg.
+Độ chắc chắn này cao gấp 5 lần titan.
+"Đây là lần đầu tiên học máy được áp dụng để tối ưu hóa vật liệu nano, và chúng tôi rất ngạc nhiên với những cải tiến thu được.
+Nó không chỉ tái tạo hình dạng từ dữ liệu huấn luyện mà còn học hỏi từ những thay đổi hình dạng hiệu quả hoặc không hiệu quả, từ đó dự đoán các cấu trúc mạng nano hoàn toàn mới", Peter Serles, tác giả chính của nghiên cứu, chuyên gia kỹ thuật tại Viện Công nghệ California (Caltech), cho biết.
+Tiếp theo, nhóm nghiên cứu sẽ tập trung vào việc mở rộng quy mô vật liệu cho đến khi chúng có thể tạo ra các bộ phận lớn hơn, đồng thời tìm kiếm những thiết kế tốt hơn nữa thông qua quy trình mới của mình.
+Mục tiêu chính là thiết kế bộ phận nhẹ và bền chắc hơn cho các phương tiện trong tương lai.
+"Ví dụ, nếu thay thế mọi bộ phận làm từ titan trên máy bay bằng vật liệu mới, bạn sẽ tiết kiệm 80 lít nhiên liệu mỗi năm cho mỗi kg vật liệu", Serles nói.
+"Chúng tôi hy vọng thiết kế vật liệu mới này cuối cùng sẽ dẫn đến các bộ phận siêu nhẹ cho ngành hàng không vũ trụ, ví dụ như trong máy bay, trực thăng, tàu vũ trụ, giúp giảm nhu cầu nhiên liệu khi bay mà vẫn duy trì tính an toàn và hiệu suất.
+Điều này có thể giúp giảm lượng phát thải carbon từ hoạt động bay", đồng tác giả nghiên cứu Tobin Filleter, giáo sư kỹ thuật tại Đại học Toronto, chia sẻ.

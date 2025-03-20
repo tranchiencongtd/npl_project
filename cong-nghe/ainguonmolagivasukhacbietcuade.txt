@@ -1,0 +1,43 @@
+"DeepSeek là một trong những đột phá tuyệt vời và ấn tượng nhất tôi từng thấy.
+Và với lựa chọn nguồn mở, đây là món quà sâu sắc dành cho thế giới", nhà đầu tư mạo hiểm công nghệ nổi tiếng Marc Andreessen nói vềDeepSeekđầu tháng này.
+Sức hấp dẫn của mã nguồn mở là miễn phí hoặc có giá thấp hơn phần mềm thương mại.
+Đến nay, nhiều công ty AI phát triển mã nguồn mở, trong đó có cả các ông lớn như Meta và một số mô hình của Google.
+Sự ra đời của OpenAI năm 2015 cũng theo định hướng nguồn mở trước khi theo đuổi định hướng vì lợi nhuận.
+Ngày 10/2, Elon Musk, một trong những nhà đồng sáng lập OpenAI, đangmuốn mua lạimảng phi lợi nhuận của công ty phát triểnChatGPTvới giá 97, 4 tỷ USD.
+"Đã đến lúc OpenAI quay trở lại nguồn mở, tập trung vào an toàn như trước", Musk cho biết trong một tuyên bố do luật sư Marc Toberoff cung cấp choWSJ.
+Trong nhiều năm, mô hình AI mã nguồn mở xuất hiện ngày càng nhiều nhưng không có định nghĩa chung.
+Năm ngoái, tổ chức Sáng kiến Nguồn mở (OSI) mới tập hợp một nhóm 70 người, gồm nhà nghiên cứu, luật sư, nhà hoạch định chính sách, cho đến đại diện từ công ty công nghệ lớn như Meta, Google và Amazon.
+Đến tháng 8/2024, định nghĩa AI nguồn mở ra đời.
+Theo OSI, AI nguồn mở là hệ thống có thể được sử dụng cho bất kỳ mục đích nào mà không cần xin phép.
+Các nhà nghiên cứu có thể kiểm tra các thành phần và tìm hiểu cách thức hoạt động của hệ thống, sửa đổi cho bất kỳ mục đích nào, như thay đổi đầu ra và chia sẻ với những người khác để sử dụng.
+Ngoài ra, nhà phát triển cũng có thể xác định mức độ minh bạch cho dữ liệu đào tạo, mã nguồn và trọng số của một mô hình nhất định.
+Bộ dữ liệu được huấn luyện cũng sẽ được công khai và hợp pháp.
+Theo định nghĩa trên, mô hình AI của DeepSeek được đánh giá là "thuần nguồn mở" khi ai cũng có thể tải xuống, sao chép và xây dựng.
+Mã và các giải thích kỹ thuật toàn diện của nó được chia sẻ miễn phí, cho phép nhà phát triển và tổ chức toàn cầu truy cập, sửa đổi và triển khai theo mục đích riêng.
+Trong khi đó, theoMIT Technology Review, dù Meta và các mô hình của Google "được mở cho bất kỳ ai xem", chúng không được coi là mã nguồn mở thực sự vì cách người dùng áp dụng mô hình bị hạn chế bởi giấy phép và bộ dữ liệu đào tạo không được công khai.
+"Các công ty đã biết sử dụng sai thuật ngữ này khi tiếp thị các mô hình của họ", Avijit Ghosh, nhà nghiên cứu chính sách ứng dụng tại Hugging Face, nền tảng xây dựng và chia sẻ các mô hình AI, nói.
+"Việc mô tả mô hình là mã nguồn mở có thể khiến chúng được coi là đáng tin cậy hơn, ngay cả khi các nhà nghiên cứu không thể tự mình kiểm tra xem chúng có thực sự là nguồn mở hay không".
+Điểm khác biệt quan trọng của mô hình như DeepSeek là chi phí.
+Nếu như các sản phẩm của OpenAI, Meta, Google hay Anthropic tiêu tốn hàng tỷ USD, DeepSeek tuyên bố mô hình của mình cần khoảng 5, 6 triệu USD, tương đương 10% số tiền xây dựng Meta Llama.
+Dùcon số thực tếđược đánh giá có thể cao hơn, đây vẫn là mức chi phí tốt hơn nhiều so với những cái tên hàng đầu.
+"Nếu quá trình thiết lập ngắn hơn và ít tốn năng lượng hơn, đó là tin tốt cho môi trường: mức tiêu thụ điện cao liên quan đến AI đang làm tăng đáng kể lượng khí thải carbon", website của Diễn đàn Kinh tế Thế giới (WEF) bình luận.
+"Cách tiếp cận của DeepSeek có thể mở ra con đường hướng tới việc mở rộng quy mô AI bền vững hơn".
+Đến cuối tháng 1, DeepSeek vượt qua ChatGPT trở thành ứng dụng miễn phí được tải xuống nhiều nhất trên App Store tại Mỹ và một số thị trường trên toàn cầu.
+Theo giới chuyên gia, "phổ cập AI" theo cách DeepSeek đang làm là bước tiến quan trọng trong việc dân chủ hóa AI, đặc biệt ở những khu vực có khả năng tiếp cận hạn chế với công nghệ tiên tiến, cũng như thúc đẩy sự tiến bộ công nghệ nói chung.
+Đối với nhà phát triển, thay vì tập trung vào xây dựng các mô hình chuyên biệt, họ có thể dành nguồn lực để tạo ra ứng dụng riêng, mở khóa sức mạnh của AI để giải quyết vấn đề trong thế giới thực.
+Đây cũng là mục tiêu được nêu trong sáng kiến Chuyển đổi ngành công nghiệp AI tại Diễn đàn Kinh tế thế giới tháng trước.
+Sách trắng mới nhất của sáng kiến này khám phá tiềm năng chuyển đổi của AI trên khắp các ngành công nghiệp, gồm những thách thức và cơ hội trong đổi mới do AI thúc đẩy.
+Về mặt tính năng, DeepSeek cũng có nhiều khía cạnh cạnh tranh tốt so với mô hình AI nguồn đóng.
+Đây là điểm khiến cho mô hình này được nhiều người chú ý vì nó đủ mạnh để giải quyết nhiều vấn đề mà người dùng đưa ra.
+"Tôi nghĩ sự đổi mới thúc đẩy hiệu quả là điều tốt, và đó là những gì bạn thấy trong mô hình đó", CEO Apple Tim Cooknói về DeepSeekhôm 30/1.
+TheoTechCrunch, nhiều người trong cộng đồng công nghệ tin bản chất nguồn mở của DeepSeek sẽ giúp thúc đẩy môi trường cộng tác và đẩy nhanh quá trình đổi mới AI.
+Trên thực tế, việc thiếu minh bạch xung quanh dữ liệu đào tạo được sử dụng cho các mô hình AI hàng đầu đã dẫn đến hàng loạt vụ kiện tụng.
+Năm ngoái, OpenAI đối mặt với hàng loạt đơn kiện từ giới nhà văn, nghệ sĩ, cơ quan báo chí...
+cáo buộc công ty dùng tác phẩm của họtrái phép.
+Nhưng việc các mô hình như DeepSeek được "thả cửa" cũng không phải là điều hoàn toàn tốt.
+Một số chuyên gia lo ngại AI nguồn mở gây ra rủi ro đáng kể và có thể được sử dụng cho mục đích xấu như phát triển vũ khí sinh học, cũng như tạo điều kiện cho phát tán thông tin sai lệch.
+Ngoài ra, việc các mô hình nàythu thập dữ liệu quá mứchaykhông mã hóa dữ liệucũng gây lo ngại.
+"Dù thế nào, DeepSeek đang khiến ngành công nghiệp AI phải suy nghĩ lại về khả năng cạnh tranh.
+Cách tiếp cận mã nguồn mở, tiết kiệm chi phí theo cách rõ ràng của nó phá vỡ các quan niệm truyền thống, cũng như thúc đẩy các quốc gia suy ngẫm về những gì thực sự tạo nên thành công trong kỷ nguyên AI", WEF bình luận.
+"Nguồn mở được thúc đẩy bởi tính bao hàm và minh bạch, nhưng cũng sẽ đặt ra câu hỏi quan trọng về quyền riêng tư dữ liệu, động lực địa chính trị và bảo mật.
+Khi công nghệ tiếp tục phát triển, việc giải quyết những thách thức này là chìa khóa để mở ra toàn bộ tiềm năng của AI nguồn mở, cũng như đảm bảo việc áp dụng có trách nhiệm".

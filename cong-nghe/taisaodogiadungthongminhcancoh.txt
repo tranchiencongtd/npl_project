@@ -1,0 +1,28 @@
+Khi thiết bị gia dụng kết nối Internet như TV, tủ lạnh, máy giặt...
+trở nên lạc hậu và không thể cập nhật bảo mật, chúng có thể trở thành "zombie" (xác sống) tiếp tay cho các cuộc tấn công mạng.
+Nghiên cứu mới công bố của Consumer Reports cho thấy hầu hết người dùng không nhận thức được những rủi ro này.
+Trong ngành công nghệ, thuật ngữ "zombie" chỉ thiết bị kết nối Internet bị hacker chiếm quyền sử dụng thông qua virus hoặc phần mềm độc hại.
+Lượng lớn zombie sẽ tập hợp thành mạng botnet vận hành theo lệnh của hacker, phục vụ những hoạt động như phát tán email rác và tấn công DDoS vào máy chủ web.
+Phần lớn nạn nhân đều không biết thiết bị của mình đã trở thành zombie.
+Các thiết bị IoT có liên quan đến nhiều cuộc tấn công dạng này những năm gần đây.
+Tuổi đời nhà thông minh càng cao, số lượng thiết bị không được cập nhật bảo mật cũng tăng theo.
+Hầu hết thiết bị gia dụng thông minh được thiết kế để có thể thực hiện chức năng chính mà không cần kết nối Internet, vì vậy giải pháp đơn giản khi chúng hết được cập nhật bảo mật là ngắt kết nối wifi và sử dụng như một món đồ gia dụng bình thường.
+Tuy nhiên, router wife và loa thông minh không thể hoạt động nếu thiếu Internet, do đó các chuyên gia khuyến cáo nên ngừng sử dụng nếu chúng không còn nhận được bản cập nhật bảo mật.
+Khảo sát của Consumer Reports cho thấy hơn 40% trong 2.130 người Mỹ được hỏi không biết thiết bị có thể mất hỗ trợ phần mềm.
+Gần 70% tin rằng thiết bị thông minh như tủ lạnh, máy giặt và lò nướng vẫn tiếp tục hoạt động ngay cả khi không còn được hỗ trợ.
+Theo lý thuyết, các công ty cần công khai thời gian hỗ trợ sản phẩm và cảnh báo người dùng khi thiết bị "hết hạn", không còn an toàn.
+Các nhà sản xuất smartphone và PC đã làm tốt nhiệm vụ cảnh báo về vòng đời sản phẩm, nhưng rất ít bên chế tạo thiết bị gia dụng đề cập thông tin này cho người dùng.
+Cũng theo khảo sát, chưa đến 40% người hỏi biết thiết bị của họ đã bị dừng hỗ trợ do được nhà sản xuất thông báo.
+Số còn lại chỉ biết qua truyền thông hoặc tự nhận thấy hệ thống bắt đầu mất ổn định.
+Vẫn có một số công ty đang nỗ lực minh bạch vấn đề này như Amazon, Google và Signify, hãng chế tạo hệ thống chiếu sáng Philips Hue.
+Người tiêu dùng bắt đầu quan tâm đến vòng đời thiết bị gia dụng khi mua hàng là sự thay đổi đáng kể trong tư duy.
+Theo Consumer Reports, 70% người được hỏi tin rằng các nhà sản xuất phải công bố thời gian hỗ trợ phần mềm cho thiết bị.
+Nắm được ngày ngừng cập nhật bảo mật khi mua hàng sẽ giúp họ hiểu rõ hơn về lợi ích và rủi ro khi sở hữu thiết bị IoT.
+Tuy nhiên, không phải doanh nghiệp nào cũng sẵn sàng làm vậy, trong khi các công ty nhỏ cũng sẽ gặp khó khăn trong quá trình lên kế hoạch hỗ trợ sản phẩm kéo dài nhiều năm.
+Một số người cũng lo ngại khả năng khách hàng sẽ không mua thiết bị nếu biết về "ngày hết hạn".
+Ủy ban Thương mại Liên bang Mỹ (FTC) đang chú ý đến vấn đề này.
+Năm 2024, FTC công bố báo cáo cho thấy 90% thiết bị kết nối mà họ khảo sát không cung cấp thông tin về thời gian hỗ trợ phần mềm, cho rằng điều này có thể vi phạm luật liên bang.
+Một giải pháp tiềm năng nằm ở chương trình Cyber Trust Mark do Ủy ban Truyền thông Liên bang Mỹ (FCC) khởi động từ tháng 1.
+Chứng nhận có thể được truy cập thông qua mã QR trên bao bì sản phẩm hoặc đường link, cung cấp thông tin về bảo mật của sản phẩm, trong đó có "ngày kết thúc thời gian hỗ trợ tối thiểu".
+Dữ liệu này sẽ được nhà sản xuất cập nhật dễ dàng, linh hoạt hơn so với in cố định ngày hết hạn trên sản phẩm.
+Tuy nhiên, chương trình vẫn còn mới và mang tính tự nguyện, chưa có chế tài buộc các hãng chế tạo thiết bị tuân thủ.

@@ -1,0 +1,13 @@
+Applebắt đầu cho tải vềiOS18.2.1 với số bản dựng 2A3798 từ hôm nay, chưa đầy một tháng sau khi iOS 18.2 được phát hành.
+Công ty cũng triển khai iPadOS 18.2.1 với các thay đổi tương tự cho máy tính bảng.
+Các thiết bị khác như Apple Watch, Mac, Apple TV, Vision Pro hoặc HomePod chưa có bản nâng cấp.
+iOS 18.2.1 được mô tả đem đến "bản sửa lỗi quan trọng và được khuyến nghị cho tất cả người dùng".
+Không có tính năng mới nào trên bản nâng cấp lần này.
+Trên diễn đàn người dùng iOS với hơn 100.000 thành viên, một số cho biết tình trạng lag khi gõ tiếng Việt đã biến mất.
+"Sau nâng cấp sáng nay, iPhone 15 Pro Max của tôi đã gõ bình thường như trước, không còngiật khi nhắn tintrong Zalo, Messenger", thành viên Hoàng Linh nói.
+Số khác cho biết thay đổi tương tự với máy iPhone 14 Pro Max, iPhone 16, 16 Pro Max đang sử dụng.
+Tuy nhiên, đa số cho biết lỗi vẫn tồn tại khi bật tính năngVăn bản dự đoántrong cài đặt bàn phím của iPhone, cho thấy vấn đề chưa được sửa triệt để.
+Tình trạng này đã kéo dài từ nhiều tháng khi Apple bắt đầu cập nhật lên iOS 18.
+Apple cũng đang tiếp tục thử nghiệm iOS 18.3.
+Công ty đã phát hành bản Beta đầu tiên vào tháng 12/2024 và bản mới 18.3 Beta 2 cũng có trong tuần này.
+TheoMacrumors, bản Public Beta sẽ được triển khai vào cuối tháng.

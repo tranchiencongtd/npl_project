@@ -1,0 +1,15 @@
+TheoReuters, việc nhiều ông lớn trong ngành công nghệ của Trung Quốc, từ nhà sản xuất chip đến công ty cung cấp dịch vụ đám mây, đổ xô hỗ trợ mô hình trí tuệ nhân tạoDeepSeekđang được các nhà phân tích ca ngợi là "khoảnh khắc bước ngoặt" cho ngành công nghiệpAI.
+Đầu tuần này, Moore Threadsvà Hygon Information Technology, hai hãng chip AI cạnh tranh với Nvidia, cho biết các cụm xử lý điện toán và bộ tăng tốc của họ sẽ hỗ trợ mô hình V3 và R1 của DeepSeek.
+"Chúng tôi ngưỡng mộ DeepSeek", tài khoản WeChat chính thức của Moore Threads viết, đồng thời khẳng định việc mô hình này sử dụng chip xử lý đồ họa (GPU) do Trung Quốc sản xuất có thể "châm ngòi" cho ngành công nghiệp AI.
+Cuối tuần trước, Huawei thông báo đang hợp tác với công ty khởi nghiệp về cơ sở hạ tầng AI SiliconFlow để cung cấp mô hình DeepSeek cho khách hàng dùng dịch vụ đám mây Ascend.
+"Hiệu suất của chúng tương đương với các mô hình chạy trên chip cao cấp toàn cầu hiện nay", Huawei nhấn mạnh.
+Nhà phân tích Bernstein đánh giá việc DeepSeek có thể tích hợp với chip nội địa như Ascend của Huawei thực sự đem đến bước tiến lớn cho công ty Trung Quốc.
+"DeepSeek chứng minh rằng các mô hình ngôn ngữ lớn (LLM) cạnh tranh có thể được triển khai trên chip 'đủ tốt' của Trung Quốc, giảm phụ thuộc vào phần cứng tiên tiến của Mỹ", Bernstein nói và lấy ví dụ về Ascend cũng như các chip AI của Cambricon và Hygon.
+Trong khi đó, Alibaba, BaiduvàTencentđồng loạt cho biết đã tích hợp DeepSeek vào các dịch vụ đám mây của mình.
+Người dùng có thể sử dụng chatbot AI này mà không cần truy cập trực tiếp vào ứng dụng, trang web của DeepSeek.
+Được ủng hộ bởi các công ty đồng hương nhưng thành công của DeepSeek cũng dẫn đến cuộc chạy đua giữa các đối thủ trong nước.
+Hai ngày sau khi DeepSeek-R1 ra mắt, ByteDance, công ty mẹ của TikTok, ra bản cập nhật mô hình Doubao-1.5-pro, tuyên bố vượt OpenAI o1 trong AIME, một bài kiểm tra chuẩn đánh giá mức độ hiểu và phản hồi của mô hình AI với các hướng dẫn phức tạp, theoReuters.
+Gần nhất, Alibaba bất ngờ tung ra Qwen 2.5 đúng ngày mùng 1 Tết và tuyên bố vượt trội so với DeepSeek V3.
+Các công ty Trung Quốc khác đã công bố mô hình lý luận chỉ riêng đầu tháng 1, gồm Moonshot AI, Minimax và iFlyTek.
+Trợ lý AI DeepSeek phát hành ngày 10/1 sử dụng mô hình V3 cũng như phiên bản R1 ngày 20/1 đã gây chấn động Thung lũng Silicon, khiến cổ phiếu nhiều hãng công nghệ đồng loạt lao dốc.
+Chi phí thấp và thời gian phát triển ngắn của AI Trung Quốc được coi là những yếu tố chính khiến nó trở thành chủ đề "nóng" nhất của giới công nghệ hai tuần qua.

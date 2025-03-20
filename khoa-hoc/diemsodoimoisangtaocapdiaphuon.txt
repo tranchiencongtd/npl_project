@@ -1,0 +1,14 @@
+Trả lời: Việc xây dựng chỉ số PII tuân theo tiêu chuẩn 10 bước của Viện Nghiên cứu chung châu Âu (JRC) và Tổ chức Hợp tác và Phát triển Kinh tế được đề cập đến trong "Tài liệu hướng dẫn về xây dựng một bộ chỉ số tổng hợp" (JRC/OECD, 2008).
+Điểm số và kết quả PII 2024 được tính toán sử dụng phần mềm R-Studio và gói công cụ COINr do Viện Nghiên cứu chung châu Âu biên soạn (đây cũng là gói công cụ được WIPO áp dụng để tính toán chỉ số GII).
+Dữ liệu phục vụ xây dựng PII được thu thập ở cả hai nguồn trung ương và địa phương với cấu trúc 52 chỉ số thành phần.
+Trong đó dữ liệu từ các báo cáo, thống kê của các cơ quan trung ương: 20 chỉ số (38.5%); dữ liệu từ các bộ chỉ số khác: 11 chỉ số (21%); dữ liệu quản lý của Bộ Khoa học và Công nghệ: 8 chỉ số (15.5%); dữ liệu do địa phương cung cấp: 13 chỉ số (25%).
+Trước khi kết quả được tính toán sẽ được kiểm tra mức độ khả dụng về mặt dữ liệu của các tỉnh/thành phố và đối với từng chỉ số.
+Để có thể được tính toán, một địa phương cần có dữ liệu ở mức tối thiểu là 75% số lượng các chỉ số thành phần (so với GII là 66%).
+Theo đó, các địa phương trong PII 2024 có mức độ khả dụng đều trên mức 75% và đáp ứng được yêu cầu dữ liệu.
+03 địa phương có mức độ khả dụng dữ liệu thấp nhất là Quảng Ninh, Đắk Lắk, và Bình Dương với tỷ lệ là 96.15%.
+Khung chỉ số PII được xây dựng theo nguyên lý của chỉ số GII nhằm đo lường kết quả đổi mới sáng tạo trên thực tế, cung cấp được bức tranh đầy đủ hơn, toàn diện hơn về hệ thống đổi mới sáng tạo, bao gồm các yếu tố đầu vào và đầu ra đổi mới sáng tạo.
+Cách tiếp cận này của GII cũng được áp dụng khi xây dựng PII.
+Các bước xây dựng PII 2024 được thực hiện theo đúng chuẩn mực quốc tế và theo quy trình đã triển khai thành công trong năm 2023.
+Trong đó, khung chỉ số PII 2024 được rà soát, điều chỉnh, hoàn thiện trên cơ sở khuyến nghị của chuyên gia quốc tế độc lập do WIPO giới thiệu đánh giá kết quả PII 2023 và căn cứ trên hiện trạng dữ liệu, bối cảnh thực tiễn, đặc điểm của các địa phương ở Việt Nam.
+Một số điều chỉnh nhỏ về nguồn dữ liệu, cách tính toán chỉ số thành phần đã được thực hiện phù hợp thông lệ quốc tế và theo khuyến nghị của chuyên gia quốc tế độc lập mà không làm ảnh hưởng đến cấu trúc chung của khung chỉ số và phương pháp tính toán chung.
+Thông tin về bảng xếp hạng PII năm 2024tại đây.

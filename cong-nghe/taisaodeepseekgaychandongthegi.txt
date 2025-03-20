@@ -1,0 +1,60 @@
+Công ty khởi nghiệp Trung Quốc DeepSeek đanggây bãotoàn cầu với hai công cụ V3 và R1.
+Thậm chí, Tổng thống Mỹ Donald Trump cũng cho rằng sự trỗi dậy đột ngột của các mô hình DeepSeek là "lời cảnh tỉnh" cho các công ty công nghệ Mỹ.
+TheoBusiness Today, việc DeepSeek công bố V3 và R1 được coi là "khoảnh khắc Sputnik" ở lĩnh vực trí tuệ nhân tạo - ám chỉ vụ phóng vệ tinh đầu tiên của Liên Xô ngày 4/10/1957, gây chấn động thế giới và châm ngòi cho cuộc chạy đua không gian.
+Thành công của Liên Xô từng làm dấy lên nỗi lo sợ rằng Mỹ và phần còn lại của thế giới đang tụt hậu, kéo theo các khoản đầu tư lớn vào khoa học, công nghệ và giáo dục.
+"DeepSeek đang được coi là một bước ngoặt trong cuộc chiến AI toàn cầu.
+Các mô hình của công ty đã chứng minh Trung Quốc có khả năng cạnh tranh, nếu không muốn nói là vượt qua những gã khổng lồ AI đã thành danh ở Mỹ", trang này bình luận.
+Cuối 2022, OpenAI tung ra ChatGPT và lập tức tạo ra một cuộc đua khi hàng loạt công ty toàn cầu vội vã xây dựng chatbot riêng.
+Trong khi nhóm phương Tây với Meta, Google, Microsoft đã tạo được nhiều sản phẩm chất lượng, Trung Quốc gần như không có mô hình nào đủ cạnh tranh hoặc có thể rút ngắn khoảng cách về năng lực AI với các công ty Mỹ.
+Chất lượng và hiệu quả của DeepSeek đang đảo ngược câu chuyện.
+Bước đột phá công nghệ của công ty Trung Quốc nằm ở chi phí phát triển rất thấp, chỉ bằng một phần nhỏ so với các mô hình AI siêu đắt của các gã khổng lồ Mỹ.
+Mô hình cũng không cần sử dụng các cụm chip mạnh nhất nhưng vẫn đạt được hiệu quả vượt trội.
+Theo công bố của DeepSeek, mô hình R1 được đào tạo trên các chip kém tiên tiến H800 của Nvidia, mã nguồn mở 100%, rẻ hơn 96, 4% so với OpenAI o1 trong khi mang lại hiệu suất tương tự.
+Công ty cũng khẳng định họ chỉ mất hai tháng và chi phí dưới 6 triệu USD để xây dựng mô hình AI mới.
+Trong khi đó, GPT của OpenAI cần hàng tỷ USD để huấn luyện, kết hợp hệ thống GPU Nvidia mới nhất.
+Theo DeepSeek, mô hình của công ty được đào tạo trên tập dữ liệu gồm 14, 8 nghìn tỷ token cùng kích thước khổng lồ với 671 tỷ tham số, lớn hơn 1, 6 lần so với Llama 3.1 405B.
+"Nếu OpenAI o1 mất 60 USD cho một triệu token đầu ra, DeepSeek R1 chỉ cần 2, 19 USD", Shubham Saboo, Giám đốc sản phẩm của DeepSeek, cho biết trên X cuối tháng 1.
+Theo giới chuyên gia, R1 có chi phí vận hành thấp hơn từ 20 đến 50 lần so với các GPT của OpenAI.
+"Việc này thách thức cách tiếp cận 'càng lớn càng tốt' về chip vốn thống trị quá trình phát triển AI thời gian qua", Marc Andreessen, nhà đầu tư mạo hiểm nổi tiếng của Thung lũng Silicon, nói vớiBusiness Today.
+"DeepSeek đã chứng minh mô hình AI tiên tiến có thể được phát triển với nguồn tài nguyên tính toán hạn chế", Wei Sun, nhà phân tích AI tại hãng nghiên cứu thị trường Counterpoint Research, nói vớiBBC.
+Giới đầu tư lo ngại các mô hình AI rẻ như DeepSeek sẽ làm giảm nhu cầu về chip đắt tiền cần thiết cho trung tâm dữ liệu, vốn thúc đẩy sự tăng trưởng của các công ty như Nvidia.
+Thực tế, phản ứng "hoảng loạn" của thị trường, đặc biệt khi giá trị của Nvidia sụt gần 600 tỷ USD trong một ngày, phần nào thể hiện điều đó.
+Theo chuyên gia AI Morgan Brown, bức tranh toàn cảnh về trí tuệ nhân tạo hiện nay giống như xây một tòa nhà chọc trời.
+"Bạn cần nguồn lực khổng lồ, hàng tỷ USD tiền tài trợ và nhiều năm làm việc", ông viết trên LinkedIn.
+"DeepSeek vừa cho thấy bạn có thể xây cùng một thứ với chi phí bằng 5% và một phần nhỏ thời gian".
+Cũng theo Brown, những gì DeepSeek đang làm được cho thấy chi phí phát triển mô hình và triển khai AI có thể giảm đáng kể, từ đó các công ty nhỏ có thể cạnh tranh với các hãng công nghệ lớn.
+AI tiên tiến có thể được tạo không cần sức mạnh tính toán lớn, khi các tính năng trước đây được coi "quá đắt" trở nên khả thi, giúp giảm chu kỳ phát triển.
+Bên cạnh đó, những nhà sản xuất phần cứng như Nvidia có thể cần nghĩ lại về mô hình kinh doanh, trong khi nhà cung cấp đám mây có thể cần điều chỉnh giá dịch vụ.
+"Hãy tưởng tượng chạy AI như ChatGPT trên máy tính chơi game thay vì trung tâm dữ liệu.
+Đó không còn là khoa học viễn tưởng, đó là những gì DeepSeek đạt được", Brown đánh giá.
+Còn theoReuters, những gì đang diễn ra làm dấy lên nghi ngờ về quyết định đầu tư hàng tỷ USD vàoAIcủa một số công ty công nghệ, nhất là về độ hiệu quả thực tế.
+Trong khi đó, Nvidia cũng phải lên tiếng trấn an rằng những tiến bộ của công ty DeepSeek càng cho thấy tầm quan trọng của chip AI tại thị trường Trung Quốc, khi họ sẽ cần nhiều chip hơn trong tương lai để đáp ứng nhu cầu của DeepSeek.
+"Với những người nhận thấy hàng loạt tính năng đột phá của DeepSeek và nghĩ: 'Trung Quốc đang vượt qua Mỹ về AI' thì họ đang sai rồi", nhà khoa học AI trưởng của Meta, Yann LeCun, viết trên blog.
+"Câu đúng phải là: Các mô hình nguồn mở đang vượt qua các mô hình độc quyền".
+LeCun cho rằngDeepSeekhưởng lợi từ nghiên cứu mở.
+"Họ đưa ra những ý tưởng mới và xây dựng chúng trên công trình của người khác.
+Vì công trình của họ được công bố và dựa trên mã nguồn mở, mọi người đều có thể hưởng lợi", ông nói.
+TheoCNBC, mã nguồn mở giúp mọi người tiếp cận các mô hình AI thông minh dễ dàng hơn.
+Nhà phát triển có thể ứng dụng để tạo ra phần mềm AI chuyên biệt cho từng lĩnh vực với chi phí thấp nhưng độ hiệu quả tương đương.
+Với người dùng, thay vì chi nhiều tiền cho các sản phẩm tương tự đang thu phí, họ có thể đưa ra lựa chọn kinh tế hơn.
+Hoặc ít nhất các mô hình như của DeepSeek sẽ gây sức ép buộc giảm giá để cạnh tranh, mang lại lợi ích cho người dùng.
+Ông Nguyễn Hồng Phúc, chuyên gia về AI tại TP HCM, đánh giá yếu tố mã nguồn mở vẫn đủ để giúp DeepSeek thu lợi nhuận.
+"Sớm thôi, DeepSeek sẽ bán các dịch vụ xoay quanh mô hình nguồn mở của mình, tạo ra hệ sinh thái có thể hái ra tiền", ông đánh giá.
+"DeepSeek đem lại cho chúng ta một mô hình AI nhỏ vừa đủ và chất lượng rất tốt, có thể vận hành trên thiết bị cỡ nhỏ dạng AI cục bộ.
+Đây sẽ là điểm bùng nổ sản phẩm và dịch vụ chạy AI của DeepSeek, đặc biệt là tác nhân AI (AI Agent) sẽ dễ dàng triển khai hơn khi có năng lực của R1.
+Thời của AI Agent xuất hiện mọi nơi đang tới".
+Theo Uday Kotak, nhà sáng lập Kotak Bank, sự xuất hiện của DeepSeek thời gian ngắn cho thấy Trung Quốc sẵn sàng cho ra những sản phẩm công nghệ chất lượng.
+"Trung Quốc đang tăng cường cuộc đua công nghệ toàn cầu, thách thức sự thống trị của Mỹ trong thế giới AI", Kotak viết trên blog.
+"Đã đến lúc các quốc gia đầy tham vọng khác tham gia cuộc chơi".
+Dù bức tranh toàn cảnh chưa rõ ràng, giới chuyên gia đánh giá cuộc đua AI không còn là trò chơi một chiều nữa.
+Với thành công của DeepSeek, Trung Quốc gửi đi một tín hiệu mạnh mẽ rằng, họ đã sẵn sàng buộc phần còn lại của thế giới suy nghĩ lại về cách tiếp cận AI của mình.
+TheoBusiness Today, giống như vụ phóng tàu Sputnik thúc đẩy Mỹ và các quốc gia khác đầu tư vào công nghệ vũ trụ, DeepSeek có thể truyền cảm hứng cho làn sóng đổi mới trong AI.
+"DeepSeek là món quà sâu sắc dành cho thế giới", nhà đầu tư Marc Andreessen nhận xét.
+"Đối với những người theo dõi cuộc đua AI toàn cầu, đây là lời nhắc nhở rằng sự đổi mới không chỉ đến từ những công ty lớn mà có thể đến từ bất kỳ đâu".
+DeepSeek được thành lập tháng 12/2023 với cổ đông lớn nhất làLiang Wenfeng.
+Thông tin về Wenfeng không nhiều ngoài việc ông tốt nghiệp Đại học Chiết Giang với bằng kỹ sư thông tin điện tử và khoa học máy tính.
+Trong một phỏng vấn với truyền thông Trung Quốc năm ngoái, ông từng nói AI của Trung Quốc "không thể mãi là kẻ đi sau".
+"Chúng ta thường nói rằng, về AI, Trung Quốc đi sau Mỹ 1-2 năm.
+Nhưng theo tôi, khoảng cách thực sự là giữa sự độc đáo và bắt chước.
+Nếu điều này không thay đổi, Trung Quốc luôn mãi đi sau", ông nói.
+Khi được hỏi tại sao mô hình của DeepSeek khiến Thung lũng Silicon chú ý, ông cho biết: "Sự ngạc nhiên của họ bắt nguồn từ việc thấy một công ty Trung Quốc tham gia trò chơi với tư cách là nhà tiên phong, chứ không chỉ là kẻ theo sau, điều mà hầu hết doanh nghiệp Trung Quốc đã quen".

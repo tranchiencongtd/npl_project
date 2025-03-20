@@ -1,0 +1,16 @@
+Sau 14 năm giới thiệuSiritrên toàn cầu vào 2011, tiếng Việt trở thành một trong các lựa chọn ngôn ngữ của trợ lý ảo.
+Tuy nhiên, hiện chỉ người đăng ký sử dụng bản thử nghiệmiOS18.4 beta 1 mới có thể trải nghiệm Siri tiếng việt.
+Phiên bản chính thức dự kiến cho tải về trong tháng 3.
+Trong khi đó, các tính năng liên quan đếnApple Intelligencechưa trang bị tiếng Việt.
+Khi đổi sang tiếng Việt trong phần cài đặt, Siri không thể tương tác Apple Intelligence.
+Trước đó, Apple cho biết sẽ sớm bổ sung ngôn ngữ Việt trong năm nay cùng tiếng Trung, tiếng Anh (Ấn Độ), tiếng Anh (Singapore), Pháp, Đức, Italy, Nhật, Hàn, Bồ Đào Nha, Tây Ban Nha.
+Khi lựa chọn tiếng Việt với bốn lựa chọn giọng nói khác nhau, trợ lý ảo Siri vẫn được "đánh thức" bằng câu lệnh quen thuộc "Hey, Siri".
+Người dùng cũng được hướng dẫn nói 5 câu tiếng Việt ví dụ để máy nhận diện cách phát âm, chất giọng.
+Người dùng có thể ra lệnh gọi điện, gửi tin nhắn, tra cứu thông tin thời tiết, lịch trình bằng tiếng Việt.
+Điều này càng có ý nghĩa khi đang lái xe, họ có thể tương tác với điện thoại không cần chạm vào màn hình.
+"Siri có tiếng Việt là tin không thể vui hơn với cộng đồng người dùng smart home tại Việt Nam", Thái Hưng, quản trị một nhóm smartphone với hàng chục nghìn thành viên cho biết.
+"Bên cạnh Google Home, nền tảng HomeKit của Apple được dùng phổ biến tại Việt Nam nên việc hỗ trợ tiếng Việt sẽ giúp ích cho nhiều người, cũng như thịnh hành hơn nữa trong tương lai".
+Các thiết bị nhà thông minh tương thích HomeKit có thể điều khiển tắt mở, xem trạng thái, ra lệnh từ xa thông qua giọng nói tiếng Việt với Siri trên các thiết bị hỗ trợ của Apple.
+Tuy nhiên, hiện chưa có tiếng Việt cho Siri trên loa HomePod.
+Để sử dụng, người dùng cần đăng ký tài khoản beta dành cho nhà phát triển củaApplebằng cách vàoCài đặt -> Cài đặt chung -> Cập nhật phần mềm -> Bản cập nhật beta.
+Sau đó, tải và cập nhật iOS 18/4 beta 1 mới nhất.

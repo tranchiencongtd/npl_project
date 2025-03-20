@@ -1,0 +1,16 @@
+"Tôi tin trong năm 2025, chúng ta có thể chứng kiến các tác nhân AI (AI Agent), hay nhân viên ảo, lần đầu tham gia lực lượng lao động và thay đổi đáng kể năng suất của các công ty", CEO OpenAISam Altmanviết trên blog ngày 6/1.
+"Việc đưa các công cụ tuyệt vời vào tay mọi người theo từng bước sẽ mang đến kết quả đáng kể, ngày càng được phân bổ rộng rãi".
+Agentic AI là các hệ thống được thiết kế để thực hiện độc lập những nhiệm vụ phức tạp, liên tục học hỏi từ thông tin đầu vào và đưa ra quyết định mà không cần sự giám sát của con người.
+TheoGuardian, OpenAI đang có kế hoạch tung ra một Agentic AI có tên mã Operator trong tháng này.
+CònBloombergđưa tin Operator sẽ thực hiện các hành động thay người dùng, như viết mã, đặt vé du lịch.
+Trong bài viết, Altman cũng cho biết OpenAI đã biết cách tạo ra siêu trí tuệAGI.
+"Chúng tôi hiện tự tin mình biết xây dựng AGI theo cách hiểu biết tốt nhất", ông viết.
+"OpenAI yêu thích các sản phẩm hiện tại của mình, nhưng chúng tôi ở đây vì tương lai tươi sáng.
+Với AGI, chúng tôi có thể làm bất cứ điều gì khác biệt hơn".
+Người đứng đầu OpenAI lấy ví dụ, các công cụ siêu thông minh có thể đẩy nhanh đáng kể quá trình khám phá và đổi mới khoa học, vượt khả năng hiện tại của nhân loại, từ đó "làm tăng đáng kể sự phong phú và thịnh vượng".
+Nói về quãng thời gian bị sa thải hơn một năm trước, ông ví đó là "sương mù trong chiến tranh".
+"Việc bị sa thải chỉ sau một cuộc gọi điện khiến tôi có cảm giác kỳ lạ không thể giải thích, giống như một giấc mơ sai lầm", ông viết.
+"Khi đó, tôi đang ở trong phòng khách sạn ở Las Vegas, không thể giải thích hoặc có câu trả lời thỏa đáng cho câu hỏi: Tại sao chuyện này lại xảy ra?".
+Theo Altman, toàn bộ sự kiện là "thất bại lớn về mặt quản lý của những người có thiện chí", gồm cả ông.
+"Nhìn lại, tôi ước mình đã làm mọi thứ khác đi.
+Tôi muốn là một nhà lãnh đạo tốt hơn, chu đáo hơn so với một năm trước", ông cho biết.

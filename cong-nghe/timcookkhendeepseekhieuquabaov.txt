@@ -1,0 +1,14 @@
+"Tôi nghĩ sự đổi mới thúc đẩy hiệu quả là điều tốt, và đó là những gì bạn thấy trong mô hình đó", CEO Apple trả lời câu hỏi của một nhà phân tích về tác động củaDeepSeekđến hoạt động kinh doanh của Apple trong cuộc họp với các nhà đầu tư, hôm 30/1.
+Theo ông, các thiết bị Apple đang sử dụng một mô hình kết hợp giữa AI chạy cục bộ trên thiết bị với chip của hãng, cùng AI chạy trên đám mây, thông qua quan hệ đối tác với các nhà cung cấp bên thứ ba.
+"Xét ở góc độ chi phí vốn, chúng tôi luôn có cách tiếp cận rất thận trọng và có chủ đích đối với các khoản chi tiêu và sẽ tiếp tục tận dụng mô hình kết hợp mà tôi cho là mang lại hiệu quả tốt", Cook nói thêm.
+TheoTechCrunch, về AI, Apple hiện chỉ có một quan hệ đối tác với OpenAI, trong đó cho phép ChatGPT trả lời câu hỏi phức tạp từ người dùng iPhone.
+Đây không phải quan hệ độc quyền, nên Apple vẫn có thể tích hợp AI khác như Gemini hoặc Claude.
+Tuy nhiên trong cuộc họp, CEO Apple không đề cập vấn đề này.
+Trong quý cuối năm 2024, doanh số iPhone không đạt kỳ vọng của Apple.
+Tuy nhiên, Tim Cook đánh giá điểm sáng đến từ việc iPhone 16 bán chạy hơn ở những thị trường đã hỗ trợ công cụ AI Apple Intelligence‌.
+Công ty kỳ vọng đạt được những kết quả tích cực hơn khi bộ công cụ được mở rộng thêm nhiều ngôn ngữ khác, trong đó có tiếng Trung Quốc trong vài tháng tới.
+DeepSeek là mô hình AI mới nổi, thu hút sự chú ý nhờ chi phí xây dựng thấp và hiệu quả sánh ngang các mô hình phổ biến hiện nay.
+Dự án được thành lập năm 2023 bởiLiang Wenfeng, đồng sáng lập của quỹ đầu tư chuyên về AI High Flyer.
+Công ty bắt đầu phát triển DeepSeek vào tháng 4/2023, hướng đến siêu trí tuệ nhân tạo tổng quát AGI, tương tự mục tiêu OpenAI và nhiều công ty đang theo đuổi.
+DeepSeek tuyên bố họ chỉ sử dụng 2.048 card đồ họa Nvidia H800 và 5, 6 triệu USD để đào tạo mô hình V3 với 671 tỷ tham số, bằng một phần nhỏ so với số tiền OpenAI và Google phải bỏ ra để huấn luyện mô hình có quy mô tương đương.
+Một số chuyên gia cho biết mô hình đưa ra những phản hồi có thể cho thấy nó được đào tạodựa trên kết quảtừ GPT-4.

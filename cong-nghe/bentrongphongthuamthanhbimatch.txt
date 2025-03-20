@@ -1,0 +1,38 @@
+Là người hiếm hoi được Apple mời đến trải nghiệm, Patrick Holland củaCnetcho biết ông cảm thấy "choáng ngợp" trước căn phòng Apple được gọi là Buồng cách âm sóng dài, phục vụ việc kiểm thử iPhone 16 Pro và 16 Pro Max.
+Đây là nơi Apple hiệu chỉnh micro, thử âm thanh, quay video và nhiều thí nghiệm bí mật khác trên thế hệ iPhone mới nhất trước khi thiết bị được sản xuất hàng loạt và bán ra thị trường.
+Điểm dừng chân đầu tiên của Holland là một buồng cách âm gắn đầy bọt xốp cách âm ngang dọc.
+"Các bức tường, trần nhà phủ các miếng xốp hình tam giác lớn, giúp loại bỏ gần như mọi tiếng vang.
+Khi tôi vỗ tay, âm thanh dường như bị 'bóp nghẹt'.
+Thật yên tĩnh.
+Trong căn phòng kỳ lạ này, các giác quan của bạn sẽ bị tước đoạt", Holland mô tả.
+Căn phòng mô phỏng nhiều loại âm thanh, từ thư viện lớn đến ga tàu điện ngầm.
+iPhone 16 Pro sẽ ghi âm và đàm thoại trong các môi trường ồn ào đó và kỹ sư sẽ tinh chỉnh sao cho âm thanh thu được có chất lượng cao.
+"iPhone là thiết bị ghi âm phổ biến, được sử dụng trong nhiều môi trường khác nhau, nên chúng tôi muốn đảm bảo thiết bị có thể ghi lại mọi thứ người dùng muốn lưu giữ một cách chân thực nhất", Ruchir Dave, Giám đốc cấp cao phụ trách kỹ thuật âm thanh tại Apple, nói.
+iPhone 16 Pro có bốn micro.
+So với thiết bị thu âm thông thường, micro trên iPhone rất nhỏ nên Apple phải thực hiện một số kỹ thuật thông minh.
+"Cách tiếp cận chúng tôi áp dụng là theo đuổi cả chất lượng lẫn tiện ích", Dave giải thích.
+"Chúng tôi phát triển một thành phần mới cho micro nhằm tăng hiệu suất thu, kết hợp tính năng Audio Mix cho phép người dùng thu được các âm thanh khác nhau theo chiều hướng linh hoạt".
+Trong phòng thử nghiệm micro, Apple trang bị khoảng 20 loa gắn trên một đường ống hình vòng cung kéo dài từ dưới sàn lưới thép lên đến trần buồng.
+Hệ thống phát ra một loạt tiếng chuông.
+iPhone 16 Pro gắn trên giá đỡ, xoay một vài độ theo chiều kim đồng hồ và tiếng chuông lại phát ra.
+Các kỹ sư đo những gì micro điện thoại thu được.
+Kết quả là một tệp cấu hình âm thanh hình cầu cho mỗi micro được tạo ra dựa trên dữ liệu ghi lại trong buồng không phản xạ đó.
+Apple lấy các tệp này, phân tích và sử dụng làm nền tảng cho âm thanh không gian.
+"Chúng tôi thực hiện quá trình phát triển này trong nhiều năm", Francesca Sweet, Giám đốc tiếp thị sản phẩm iPhone, nói.
+"Rất nhiều khả năng về máy học đang có đã được xây dựng trong thời gian dài".
+Điểm dừng tiếp theo của Holland là căn phòng khác cũng liên quan đến âm thanh.
+Tại đây, Apple tiến hành bài kiểm tra phát lại, sau đó so sánh để giúp điều chỉnh âm thanh của iPhone.
+"Sau một cuộc đi bộ giống như mê cung, tôi đến một hành lang với một vài phòng thu nhỏ.
+Chúng đều cách âm, mỗi phòng có một chiếc ghế, bàn với một chiếc Mac Studio cùng một cặp tai nghe AirPods Max", Holland miêu tả.
+Trong căn phòng này, Apple sử dụng người thật để kiểm tra chất lượng âm thanh của iPhone 16 Pro.
+Họ đều là những người được đánh giá có "đôi tai vàng" và là chuyên gia hàng đầu trong lĩnh vực kiểm thử âm thanh.
+Cách Apple thử nghiệm cũng tương tự bác sĩ nhãn khoa, thường yêu cầu bệnh nhân chọn giữa hai loại tròng kính khác nhau trong bài kiểm tra mắt.
+Kết quả từ thử nghiệm giúp đánh giá chất lượng âm thanh iPhone 16 Pro ở nhiều khía cạnh bằng trải nghiệm thực tế.
+Điểm dừng cuối cùng của Holland là phòng thí nghiệm và kiểm định chất lượng video.
+Căn phòng gồm màn hình cỡ rạp chiếu phim cùng hệ thống trang thiết bị đạt chuẩn Dolby Atmos.
+"Chúng tôi sử dụng rạp chiếu phim để điều chỉnh trải nghiệm video trên iPhone 16 Pro, sao cho khi người dùng phát lại video này trong phòng, ở môi trường văn phòng hoặc thậm chí là ngoài trời, họ vẫn có được trải nghiệm gần giống như khi xem video trong rạp chiếu phim", Sean Yang, Giám đốc kỹ thuật video của Apple, cho biết.
+Khả năng hiển thị video cũng được Apple chú trọng.
+Nếu như công ty hiệu chỉnh mọi màn hình iPhone tại nhà máy để đảm bảo màu sắc chính xác, độ đồng đều về độ sáng tốt, những bộ phận tại trụ sở Apple Park như nhóm của Yang sẽ tập trung vào cách video trông như thế nào khi người dùng trình chiếu bất kể ở đâu.
+"Chúng tôi có những nhóm chuyên gia để xem xét yếu tố này.
+Nếu có ý kiến khác nhau, tất cả sẽ tập hợp và tranh luận cho đến khi tìm ra giải pháp tốt nhất.
+Sau đó, chúng tôi tinh chỉnh để đảm bảo video có chất lượng cao nhất, dù bạn phát chúng ở môi trường nào", Yang giải thích thêm.

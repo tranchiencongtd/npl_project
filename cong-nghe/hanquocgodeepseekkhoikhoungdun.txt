@@ -1,0 +1,16 @@
+Ngày 17/2, ông Choi Jang-hyuk, Phó chủ tịch Ủy ban Bảo vệ thông tin cá nhân của Seoul, nói cơ quan đang "xem xét kỹ lưỡng hoạt động xử lý dữ liệu cá nhân của DeepSeek để đảm bảo tuân thủ luật pháp địa phương".
+Trong lúc chưa có kết luận, ứng dụng bị gỡ trên App Store, Google Play và một số kho ứng dụng khác trong nước.
+DeepSeekra mắt R1 ngày 20/1, tuyên bố năng lực của chatbot không thua kém so với những đối thủ AI hàng đầu tại Mỹ, nhưng chi phí đào tạo bằng một phần nhỏ.
+Tuy nhiên, các quốc gia như Italy, Pháp và Hàn Quốc tỏ ra lo ngại và đã yêu cầu DeepSeek trả lời các câu hỏi như: loại dữ liệu cá nhân nào được thu thập, từ những nguồn nào, với mục đích gì và liệu thông tin có được lưu trữ trên các máy chủ đặt tại Trung Quốc hay không.
+Ngày 28/1, Italy xóa ứng dụng DeepSeek trên App Store và Google Play.
+Trong khi đó, Ủy ban Bảo vệ thông tin cá nhân của Seoul cho biết DeepSeek đã "thừa nhận họ có phần thiếu sót trong việc xem xét các luật liên quan đến quyền riêng tư ở địa phương".
+Cơ quan này đánh giá công ty Trung Quốc sẽ cần thêm thời gian đáng kể để điều chỉnh ứng dụng phù hợp.
+"Để ngăn chặn lo ngại lan rộng, Ủy ban khuyến nghị DeepSeek đình chỉ dịch vụ trong khi thực hiện những cải tiến cần thiết", cơ quan này cho hay và DeepSeek "đã chấp nhận" đề xuất.
+Tuy nhiên, app vẫn hoạt động nếu được tải sẵn về thiết bị.
+Người dùng nước này được khuyến cáo sử dụng thận trọng cho đến khi kết quả kiểm tra được công bố, trong đó tránh nhập thông tin cá nhân vào DeepSeek.
+Trước đó, theoCNBC, Cơ quan Hàng không và Vũ trụ (NASA), Hải quân, Hạ viện Mỹ và bang Texas đã ra lệnh cấm DeepSeek trên thiết bị và kết nối mạng tại văn phòng do chính phủ cấp.
+"Máy chủ của DeepSeek hoạt động bên ngoài nước Mỹ, gây ra những lo ngại về an ninh quốc gia và quyền riêng tư.
+DeepSeek cùng các sản phẩm và dịch vụ từ công ty này không được phép sử dụng với dữ liệu của NASA hoặc trên thiết bị, mạng do chính phủ cấp", thông báo của lãnh đạo NASA gửi đến các nhân viên có đoạn.
+DeepSeek được thành lập năm 2023 bởiLiang Wenfeng, đồng sáng lập của quỹ đầu tư chuyên về AI High-Flyer.
+Thành quả của startup Trung Quốc được nhiều công ty về AI lớn như Microsoft, OpenAI, Nvidia đánh giá cao.
+Tuy nhiên, họ cũng gây nhiều tranh cãi như số tiền phát triển thực tế có thể lên tớitỷ USD, "chưng cất" kiến thức từ các mô hình đi trước, haynguy cơmất an toàn thông tin.

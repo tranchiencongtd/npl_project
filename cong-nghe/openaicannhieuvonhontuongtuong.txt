@@ -1,0 +1,29 @@
+OpenAI hôm 27/12 cho biết đang trong quá trình tiến tới cấu trúc vì lợi nhuận trong năm 2025.
+Họ sẽ thành lập một công ty công ích (PBC) với "cổ phiếu phổ thông".
+PBC sẽ quản lý hoạt động thương mại, gỡ bỏ một số hạn chế của tổ chức phi lợi nhuận và cho phép OpenAI hoạt động giống một startup tăng trưởng cao hơn.
+"Hàng trăm tỷ USD mà các công ty lớn đang đầu tư vào phát triển AI cho thấy những gì cần thiết để OpenAI tiếp tục theo đuổi sứ mệnh.
+Chúng tôi một lần nữa cần huy động nhiều vốn hơn tưởng tượng.
+Các nhà đầu tư muốn hỗ trợ chúng tôi, nhưng ở quy mô vốn này, OpenAI cần cổ phiếu phổ thông và ít sự tùy chỉnh về cấu trúc hơn", ban lãnh đạo công ty cho hay.
+Áp lực của OpenAI gắn liền với mức định giá 157 tỷ USD mà công ty đạt được trong hai năm qua kể từ khi ra mắt ChatGPT, khởi đầu cho làn sóng AI tạo sinh.
+OpenAI hồi tháng 10 kết thúc vòng gọi vốn trị giá 6, 6 tỷ, chuẩn bị cạnh tranh quyết liệt với xAI của Elon Musk, cũng như Microsoft, Google, Amazon và Anthropic, trong thị trường được dự đoán đạt doanh thu hơn 1.000 tỷ USD trong vòng 10 năm tới.
+Phát triển các mô hình ngôn ngữ lớn, cốt lõi của ChatGPT và các sản phẩm AI tạo sinh khác, đòi hỏi đầu tư liên tục vào các bộ xử lý mạnh mẽ, chủ yếu được cung cấp bởi Nvidia, và cơ sở hạ tầng đám mây mà OpenAI nhận phần lớn từ Microsoft, nhà đầu tư hàng đầu của họ.
+OpenAI dự kiến đạt doanh thu 3, 7 tỷ USD và chịu lỗ 5 tỷ USD trong năm nay.
+Bằng cách chuyển đổi cơ cấu, OpenAI có thể phát triển hoạt động thương mại, đồng thời tuyển dụng nhân viên cho chi nhánh phi lợi nhuận để thực hiện chiến dịch từ thiện trong y tế, giáo dục và khoa học.
+"Chi nhánh phi lợi nhuận sẽ có lợi ích đáng kể trong PBC với mức định giá công bằng được xác định bởi các cố vấn tài chính độc lập", OpenAI cho hay.
+Cấu trúc phức tạp hiện nay của OpenAI bắt nguồn từ khi công ty được thành lập như một tổ chức phi lợi nhuận bởi CEO Sam Altman, tỷ phú Elon Musk và những người khác vào năm 2015.
+Mục tiêu là phòng thí nghiệm nghiên cứu tập trung vào trí tuệ nhân tạo tổng hợp (AGI).
+Đến năm 2019, OpenAI muốn vượt ra ngoài vai trò ban đầu để hoạt động giống một startup.
+Vì vậy, họ chuyển sang cơ cấu lợi nhuận giới hạn, trong đó tổ chức phi lợi nhuận vẫn giữ quyền kiểm soát toàn bộ.
+"Hiện tại, cơ cấu của chúng tôi không cho phép hội đồng quản trị cân nhắc trực tiếp đến lợi ích của những người sẽ tài trợ cho sứ mệnh.
+Tổ chức phi lợi nhuận cũng không dễ dàng mở rộng hoạt động ngoài việc kiểm soát chi nhánh vì lợi nhuận", OpenAI cho hay, thêm rằng sự thay đổi sẽ giúp họ "huy động được nguồn vốn cần thiết với các điều khoản phổ thông như các đối thủ cạnh tranh".
+Dù vậy, OpenAI đang đối mặt với nhiều trở ngại lớn trong nỗ lực tái cấu trúc, nổi bật là tỷ phú Elon Musk, người đang có cuộc tranh chấp pháp lý căng thẳng với CEO Sam Altman.
+Musk đang kiện OpenAI và yêu cầu tòa án Mỹ ngăn họ chuyển thành công ty vì lợi nhuận.
+Trên mạng xã hội X, Musk gọi nỗ lực này là "một trò lừa đảo" và tuyên bố "OpenAI là ác quỷ".
+Đầu tháng này, OpenAI phản bác và cáo buộc chính Musk "không chỉ thể hiện mong muốn, mà thực sự tạo ra tổ chức vì lợi nhuận" từ năm 2017.
+OpenAI cũng đối mặt tình trạng mất nhân tài cấp cao, một phần do lo ngại công ty ưu tiên các sản phẩm thương mại hơn là đảm bảo an toàn.
+Các lãnh đạo làm việc lâu năm như CTO Mira Murati hay Bob McGrew, Jan Leike và đồng sáng lập Ilya Sutskever đều đã rời đi, một số trong đó còn gia nhập các đối thủ như Anthropic.
+CEO Sam Altman hồi tháng 9 khẳng định những lãnh đạo rời đi không liên quan đến kế hoạch tái cấu trúc công ty: "Chúng tôi và hội đồng quản trị đã suy nghĩ về điều này gần một năm, độc lập với các sự kiện gần đây, để cân nhắc về những điều cần làm trong giai đoạn tiếp theo", ông nói.
+Leike nói quyết định từ chức của ông một phần do bất đồng với ban lãnh đạo về các ưu tiên của công ty.
+"Trong những năm qua, văn hóa và quy trình an toàn đã bị gạt sang một bên để nhường chỗ cho các sản phẩm hào nhoáng", ông cho hay.
+Một nhân viên từng làm việc dưới quyền Leike cũng rời công ty không lâu sau đó và chỉ trích OpenAI được cấu trúc như tổ chức phi lợi nhuận nhưng lại hành xử như công ty vì lợi nhuận.
+"Không nên tin OpenAI sẽ làm điều đúng đắn trong tương lai", người này cho hay.

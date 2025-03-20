@@ -1,0 +1,33 @@
+Các nhà khoa học Trung Quốc công bố một phương pháp mới nhằm tạo ra chuột nhắt non có thể sống sót đến tuổi trưởng thành từ hai con đực, theoLive Science.
+Đây không phải lần đầu tiên giới khoa học nhân giống chuột nhắt với hai con chuột bố.
+Một nhóm nghiên cứu ở Nhật Bản từng làm vậy vào năm 2023, sử dụng cách tiếp cận khác.
+Trong nghiên cứu công bố hôm 28/1 trên tạp chí Cell Stem Cell, nhóm tác giả không chỉ tạo ra chuột nhắt non sống sót khỏe mạnh mà phương pháp của họ còn hé lộ bộ gene phức tạp với hoạt động phụ thuộc vào cá thể di truyền gene.
+Vấn đề ở những gene này có thể gây ra một loạt hội chứng ở người như hội chứng Angelman.
+Trong nghiên cứu năm 2023, các chuyên gia Nhật Bản thu thập tế bào da từ chuột nhắt đực trưởng thành và biến đổi thành tế bào gốc có thể dùng để phát triển trứng.
+Sử dụng một kỹ thuật thông minh, họ đảm bảo mỗi tế bào trứng mang hai nhiễm sắc thể X, cặp nhiễm sắc thể giới tính thường gặp ở con cái.
+Sau đó, họ thụ tinh cho trứng bằng tinh trùng lấy từ chuột đực, tạo ra số lượng nhỏ con non với các gene đến từ chuột đực.
+Nghiên cứu mới tiến hành ở Trung Quốc sử dụng một phương pháp khác biệt để đạt kết quả tương tự.
+Các nhà nghiên cứu bắt đầu với việc loại bỏ ADN từ trứng chưa trưởng thành lấy từ chuột cái.
+Tiếp đó, họ đưa tinh trùng vào trứng để phát triển tế bào gốc chỉ thấy ở phôi thai.
+Những tế bào gốc phôi thai đó được bơm vào quả trứng thứ hai cùng với tinh trùng từ chuột đực.
+Kết quả cuối cùng là trứng đã thụ tinh có thể phát triển thành chuột non với ADN từ hai con chuột bố.
+Ở một bước chủ chốt, nhóm nghiên cứu tiến hành 20 chỉnh sửa gene đối với ADN của tế bào gốc.
+Các chỉnh sửa này thay đổi hoạt động của gene in dấu.
+Gene in dấu đặc biệt ở chỗ con non kế thừa hai bản sao, một từ cá thể mẹ và một từ cá thể bố, nhưng chúng chỉ cần một bản sao để hoạt động.
+Vì vậy, ở mỗi tế bào, một bản sao của mỗi gene in dấu bị vô hiệu trong khi bản sao còn lại vẫn hữu dụng.
+Quá trình này gọi là "in dấu hệ gene".
+Khi nó bị lỗi, rối loạn in dấu xuất hiện, gây ra vấn đề về phát triển.
+Khi tìm cách tạo ra phôi thai với ADN từ hai con bố, nhà nghiên cứu sẽ phải đối mặt với một loạt vấn đề in dấu do có quá nhiều gene từ con bố hoạt động và không có gene từ con mẹ để bù đắp.
+"Phương pháp của chúng tôi nhắm trực tiếp vào gene in dấu, từ lâu bị nghi đóng vai trò trung tâm trong rào cản sinh sản từ hai con bố", khiến thách thức tạo ra con non từ hai con đực càng thêm phức tạp", Zhi-kun Li, phó giáo sư ở Viện Hàn lâm Khoa học Trung Quốc, đồng tác giả nghiên cứu, cho biết.
+Trong nghiên cứu trước đây, Li và đồng nghiệp chỉnh sửa chỉ 7 "điểm nóng" in dấu ở hệ gene, tạo ra phôi thai chuột tồn tại suốt thai kỳ nhưng chuột non chết sau khi sinh.
+Chúng có một số đặc điểm bất thường như thoát vị rốn, lưỡi lồi ra và nội tạng phình to.
+Các nhà nghiên cứu xác định nguồn gốc di truyền của mỗi vấn đề nêu trên và tiến hành nhiều chỉnh sửa gene hơn ở chuột.
+Với 18 biến đổi, chuột non cần hỗ trợ bú nhưng có thể sống tới tuổi trưởng thành.
+Với 19 biến đổi, chúng gặp vấn đề phát triển nhau thai trong thai kỳ nhưng sống sót tốt hơn sau khi sinh.
+Với tổng cộng 20 chỉnh sửa, vấn đề nhau thai được giải quyết.
+Theo nhóm nghiên cứu, vấn đề in dấu dường như lớn hơn ở con non sinh từ hai cá thể đực so với con non sinh từ hai cá thể cái.
+Trong nghiên cứu trước đây của họ, chuột nhắt non từ hai con mẹ sống sót tới tuổi trưởng thành với ít chỉnh sửa gene hơn hẳn.
+Ngoài ra, ở thí nghiệm mới, chuột non vẫn có khiếm khuyết như tuổi thọ ngắn hơn chuột bình thường và vô sinh.
+Trong khi đó, chuột non tạo bởi các nhà khoa học Nhật Bản vẫn có khả năng sinh sản khi trưởng thành.
+Li chia sẻ bước nghiên cứu tiếp theo là cải thiện phương pháp chỉnh sửa gene để tạo ra con non khỏe mạnh hơn từ hai con bố.
+Trong dài hạn, nghiên cứu loại này có thể giúp nhà khoa học hiểu rõ hơn rối loạn in dấu, mở đường cho phương pháp điều trị bằng chỉnh sửa gene.

@@ -1,0 +1,59 @@
+Một số người cho biết từng có cảm giác rằng điện thoại của mình đang nghe lén.
+Chẳng hạn, khi gia đình nói chuyện về việc mua giày trượt cho con, quảng cáo về sản phẩm có thể xuất hiện vào tối hôm đó hoặc hôm sau.
+Tuần trước, Apple đồng ý chi trả 95 triệu USD để dàn xếp "vụ kiện Siri nghe lén" kéo dài 5 năm.
+Một đơn kiện tập thể được đệ trình lên tòa án tại Mỹ năm 2019, cáo buộc Apple kích hoạt Siri để ghi lại cuộc trò chuyện thông qua iPhone và các thiết bị khác.
+Theo đơn kiện, các bản ghi âm được thực hiện ngay cả khi người dùng không kích hoạt trợ lý ảo bằng câu lệnh "Hey, Siri" hoặc ấn nút.
+Một số cuộc trò chuyện được ghi âm sau đó đã được chia sẻ cho bên thứ ba để cải thiện Siri hoặc chia sẻ dữ liệu với nhà quảng cáo.
+Quan trọng hơn, vấn đề Siri nghe lén mâu thuẫn với cam kết của Apple trong việc bảo vệ quyền riêng tư của khách hàng.
+Apple sau đó đưa ra lời xin lỗi, nhưng không thừa nhận bất kỳ cáo buộc nào.
+Trong khi đó, khảo sát do trang chuyên mua bán thiết bị cũ Compare & Recycle công bố đầu tuần này cho thấy trung bình ba người sẽ có một người tin iPhone hoặc điện thoại Android của họ có thể đang nghe lén.
+"Một trong những cách điện thoại lắng nghe chúng ta là thông qua phần mềm trợ lý giọng nói nhúng vào thiết bị, như Siri, Google Assistant", đại diện Compare & Recycle nói vớiForbes.
+"Để hiểu giọng nói, chúng cần lắng nghe trong thời gian dài để 'hiểu' chúng ta chính xác nhất có thể.
+Nghĩa là, chúng sẽ lắng nghe các cuộc trò chuyện ngay cả khi chúng ta không nhận ra điều đó".
+Cũng theo Compare & Recycle, một số ứng dụng sẽ "cố gắng tạo điều khoản thu thập lén lút, cho phép truy cập vào micro, kích hoạt ghi âm khi sử dụng ứng dụng".
+Thông tin này sau đó có thể được bán cho bên thứ ba.
+TheoReuters, trước hoài nghi cùa người dùng, ngày 8/1, Apple đã phải lên tiếng: "Apple chưa bao giờ sử dụng dữ liệu Siri để xây dựng hồ sơ tiếp thị, chưa bao giờ cung cấp dữ liệu cho mục đích quảng cáo và chưa bao giờ bán dữ liệu cho bất kỳ ai vì bất kỳ mục đích nào".
+Smartphone có nghe lén cho quảng cáo?
+Trong nhiều năm, giáo sư David Choffnes của Đại học Northeastern đã phân tích tần suất hoạt động các ứng dụng điện thoại và trợ lý giọng nói, sau đó tìm hiểu liệu các bản ghi âm từ micro có được sử dụng để điều chỉnh hoặc phân phối quảng cáo hay không.
+"Dù không loại trừ khả năng này, chỉ có tỷ lệ rất nhỏ các quảng cáo kỳ lạ xuất hiện trên màn hình đến từ việc micro điện thoại 'nghe' những gì bạn nói", Choffnes nói vớiWashington Post.
+Cũng theo Choffnes, rất khó chứng minh chính xác điều này, nhưng cho biết các công ty có nhiều cách thu thập thông tin và không cần nghe lén mới có thể biết mọi thứ về một người cụ thể.
+"Họ có nhiều dữ liệu giúp hiểu sâu sắc về mục tiêu, hơn là chỉ lắng nghe bất kỳ cuộc trò chuyện nào từ điện thoại", ông nói.
+Jason Kelley, Giám đốc hoạt động của Electronic Frontier Foundation, một nhóm bảo vệ quyền lợi người tiêu dùng, cho biết hoạt động bất thường trên smartphone là cơ sở để kết luận thiết bị có nghe lén hay không.
+Nếu điện thoại liên tục nghe lén, người dùng sẽ nhận thấy pin nhanh hết.
+Nói vớiPhoneArenanăm ngoái, Jake Moore, cố vấn an ninh mạng toàn cầu của công ty bảo mật ESET với hơn 10 năm kinh nghiệm chống lại các mối đe dọa trực tuyến, cũng có quan điểm tương tự.
+Theo ông, về mặt kỹ thuật, điện thoại hoàn toàn có thể nghe và phản hồi người dùng.
+Tuy nhiên, nhà sản xuất không được phép chủ động nghe những điều người dùng nói.
+Họ không thể ghi lại cuộc trò chuyện để phân phối quảng cáo mục tiêu.
+Chưa kể việc này khiến điện thoại phải liên tục kích hoạt micro và gửi dữ liệu, khiến máy quá tải, nóng và nhanh cạn pin.
+"Sự thật là, giờ đây họ không cần lắng nghe cuộc trò chuyện mới biết thói quen, sở thích và lựa chọn cuộc sống của chúng ta", Moore nói vớiForbesngày 9/1.
+"Các thuật toán của họ có thể xác định rất nhiều điều trước khi chúng ta nói một lời nào.
+Họ thậm chí đưa ra đề xuất sáng suốt về việc bạn sẽ mua gì tiếp theo trước khi bạn kịp suy nghĩ kỹ".
+Một số chuyên gia cũng nhận định, sau mỗi hành vi trên mạng như bấm vào một hình ảnh, tìm kiếm một từ khóa, chat với bạn bè..., người dùng sẽ thấy hàng loạt quảng cáo liên quan ngay sau đó.
+Trong khi đó, trong vô số cuộc trò chuyện diễn ra từ ngày này qua ngày khác, thi thoảng người dùng mới bắt gặp tình huống như câu chuyện giày trượt băng ở trên.
+Như vậy, việc nghe lén để quảng cáo vừa tốn kém vừa không hiệu quả, chưa tính đến những rủi ro về mặt pháp lý và danh tiếng nếu bị phát hiện.
+"Thực tế, các công ty sẽ không lãng phí tiền đầu tư cho việc liên tục nghe lén", Jason Kelley nói.
+Trở lại chuyện mua giày trượt, cây bút công nghệ Shiva Ovide củaWashington Postcho rằng một thành viên trong gia đình có thể đã tìm kiếm thông tin qua mạng wifi dùng chung, hoặc cũng có thể họ đã ghé ngang sân trượt băng và bị ghi lại vị trí.
+Các nhà quảng cáo cũng có thể đã có được thông tin về độ tuổi của các thành viên gia đình.
+Tất cả dữ liệu đó có thể được sử dụng để hiển thị quảng cáo về giày trượt băng dành cho trẻ em.
+Theo các chuyên gia bảo mật, những công ty như Apple, Meta, Google có thể thu thập nhiều thông tin chính xác từ người dùng mà không cần nghe lén.
+Họ nắm rõ tuổi tác, giới tính và tình trạng gia đình của người dùng.
+Họ cũng biết một người sống ở đâu, từng đi tới những nơi nào, kết bạn với ai, quan tâm điều gì.
+Họ biết người dùng đang tìm kiếm điều gì, xem nội dung gì, đã mua sản phẩm của thương hiệu nào và chủ đề được quan tâm.
+Các thông tin này có vẻ vô hại nếu đứng độc lập.
+Nhưng các nền tảng biết cách kết nối, biến dữ liệu rời rạc thành bức tranh tổng thể, phác họa chân dung từng người.
+Sau đó, nhà phân phối quảng cáo sẽ dựa vào thông tin đó để đưa ra gợi ý đến từng cá nhân.
+Công việc của họ là đảm bảo mỗi quảng cáo phát đi, tỷ lệ người dùng cuối sẽ có khả năng click vào cao nhất.
+Tuy nhiên, đây vẫn là suy đoán khi các công ty như Meta, Microsoft, Apple hầu như không công khai về cách thức hoạt động của quảng cáo kỹ thuật số hay cách họ sử dụng thông tin thu thập được từ người dùng để làm gì.
+Vụ kiện Apple vừa đồng ý giải quyết bắt đầu từ một bài viết cách đây hơn 5 năm, rằng các nhân viên bên đối tác của hãng đã nghe các âm thanh được ghi lại bởi Siri mà không được phép.
+Trong một số trường hợp, trợ lý giọng nói của Apple tự động ghi âm mà không cần người dùng gọi.
+Trước đây, Apple và một số công ty công nghệ lớn phát triển phần mềm trợ lý ảo cũng cho biết họ có thể yêu cầu hệ thống xem lại bản ghi âm, văn bản của người dùng khi tương tác với trợ lý ảo.
+Hành động này nhằm kiểm tra độ chính xác của công nghệ đang vận hành.
+Trong nghiên cứu công bố năm 2020, Choffnes và cộng sự cũng phát hiện các trợ lý ảo không tự kích hoạt trong hầu hết thời gian.
+Dù vậy, chúng vẫn có thể tự kích hoạt, chẳng hạn khi vô tình nhắc đến cụm từ như "Hey Siri" hay "Ok Google" trong câu chuyện đang trao đổi.
+Lúc này, các bản ghi âm sẽ được gửi đến các công ty công nghệ, dù chỉ là một vài giây âm thanh.
+"Tất nhiên, thật khó chịu khi nghĩ đến việc bị ghi âm, đặc biệt là khi trợ lý giọng nói smartphone vô tình bật lên.
+Không ai mong đợi âm thanh của mình lại bị nghe bởi một người xa lạ", Ovide củaWashington Postbình luận.
+Các chuyên gia của Compare & Recycle khuyên người dùng nên tắt micro trên các ứng dụng không cần thiết.
+"Hãy vào phần cài đặt và xóa quyền truy cập micro trên bất kỳ ứng dụng nào không yêu cầu giọng nói", Compare & Recycle khuyến cáo.
+"Lo ngại nghe lén cũng là điều nên làm, nhưng những gì bạn nhập vào Google hay chia sẻ lên Facebook, Instagram...
+mới thực sự là những thông tin cần kiểm soát".

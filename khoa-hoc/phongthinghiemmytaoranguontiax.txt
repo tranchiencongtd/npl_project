@@ -1,0 +1,12 @@
+Phòng thí nghiệm Quốc gia Lawrence Livermore (LLNL) sử dụng laser và bọt kim loại bạc nhẹ như không khí để tạo ra nguồn tia X sáng nhất từ trước tới nay, sáng gấp đôi so với bất cứ nguồn nào trước đó, New Atlashôm 18/1 đưa tin.
+Nghiên cứu mới công bố trên tạp chíPhysical Review E.
+Những tia X siêu sáng có ứng dụng quan trọng trong nghiên cứu tiên tiến, bao gồm nghiên cứu cấu trúc vật liệu ở cấp độ nguyên tử, quan sát phản ứng hóa học theo thời gian thực, chụp ảnh mẫu sinh học với độ chi tiết cao và phân tích những phân tử phức tạp.
+Chúng đặc biệt quan trọng với các địa điểm như LLNL, nơi nghiên cứu nhiệt hạch không chỉ cho khoa học thuần túy mà còn nhằm phát triển các lò phản ứng nhiệt hạch thực tiễn.
+Độ phân giải cực cao của tia X siêu sáng rất lý tưởng để nghiên cứu vật chất siêu đặc, bao gồm cả plasma sinh ra từ nhiệt hạch giam giữ quán tính (ICF) - quá trình các viên deuterium và tritium bị loạt tia laser năng lượng cao bắn phá.
+Những tia laser tương tự, vốn dùng trong nghiên cứu nhiệt hạch tại Cơ sở Đánh lửa Quốc gia Mỹ (NIF), cũng được sử dụng để tạo ra tia X siêu sáng mới.
+Tia X tại những nơi như phòng khám nha khoa thường được tạo ra bằng cách bắn chùm electron vào một mục tiêu kim loại.
+Nhưng trong nghiên cứu mới, nhóm chuyên gia thay thế chùm electron bằng laser và mục tiêu kim loại thông thường bằng bọt bạc.
+Điểm mấu chốt là bạc xốp có thể tích lớn hơn nhiều so với bạc rắn cùng trọng lượng.
+Điều này đồng nghĩa, nhiệt có thể truyền qua đó nhanh hơn nhiều và toàn bộ ống bọt có thể nóng đồng đều chỉ trong 1, 5 phần tỷ giây.
+Kết quả thu được là một nguồn tia X với năng lượng hơn 20.000 electron volt, một mức khổng lồ xét theo thang đo hiển vi của vật lý hạt nhân.
+Theo LLNL, sự ra đời của tia X mới không chỉ giúp tăng cường hiểu biết về các quá trình nhiệt hạch, mà plasma sinh ra trong quá trình tạo tia X cũng sẽ mang lại những thông tin mới về plasma kim loại sáng, nóng, cách xa trạng thái cân bằng nhiệt.

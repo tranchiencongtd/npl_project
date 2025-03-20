@@ -1,0 +1,47 @@
+"DeepSeek thực sự ấn tượng.
+Họ đã biết cách thực hiện một mô hình nguồn mở có khả năng suy luận, đạt hiệu quả tính toán siêu việt", CEO Microsoft Satya Nadella phát biểu tại Diễn đàn Kinh tế Thế giới ở Davos ngày 22/1.
+Sản phẩm ra mắt ngày 20/1 đánh dấu bước ngoặt lớn với một dự án AI Trung Quốc.
+Được thành lập giữa năm 2023 bởiLiang Wenfengcùng đội ngũ kỹ sư trong nước, DeepSeek từng nhận được một số đánh giá cao từ giới chuyên môn khi ra mắt phiên bản V2 và V3, nhưng khi đó phần lớn sự chú ý vẫn đổ dồn vào những sản phẩm từ Mỹ như ChatGPT, Gemini, Claude.
+Theo nền tảng phân tích trực tuyến Semrush, DeepSeeknhận 2.300 lượt truy cập từ Mỹ ngày 1/10/2024, tăng lên 71.200 vào ngày 19/1, rất nhỏ so với mức hàng triệu từ ChatGPT.
+Bước ngoặt đến vào ngày gần cuối năm Âm lịch khi người Trung Quốc rục rịch nghỉ Tết, công ty của Wenfeng tung ra DeepSeek R1, mô hình có khả năng lý luận với mã nguồn công khai trên GitHub.
+AI này có kết quả vượt trội so với OpenAI o1 trong nhiều bài kiểm tra.
+Đặc biệt hơn, nó được khẳng định có chi phí "siêu rẻ", tốn chưa tới 6 triệu USD để đào tạo.
+R1 mã nguồn mở 100%, và trong khi o1 mất 60 USD cho một triệu token đầu ra, R1 chỉ cần 2, 19 USD.
+Trong vòng một tuần, sức mạnh của DeepSeek dần lan tỏa.
+Ngày 24/1, ứng dụng di động này có một triệu lượt tải xuống trên cả App Store và Google Play, nhưng tăng gấp đôi lên 2, 6 triệu lượt vào 27/1.
+"Tôi nghĩ đây là ứng dụng AI miễn phí tốt nhất từng biết.
+Nó thông minh, phản hồi nhanh, chất lượng có thể đạt 9/10 so với ChatGPT Pro mà không phải trả phí", một người dùng nhận xét trên App Store tại Việt Nam khi ứng dụng vươn lên vị tríđầu bảngngày 28/1.
+Theo Appfigures, DeepSeek vào top 10 ứng dụng miễn phí tại 111 quốc gia trên App Store và 18 quốc gia trên Google Play.
+15% lượt tải về trong giai đoạn này đến từ Mỹ, 23% từ Trung Quốc.
+Trong thời gian đó, DeepSeek chứng kiến lượt tải xuống nhiều hơn gần 300% so với Perplexity, một ứng dụng AI hàng đầu khác dành cho người tiêu dùng.
+Thành công đến với DeepSeek được đánh giá đến từ nhiều yếu tố, từ chất lượng câu trả lời, khả năng suy luận, mã nguồn mở, đến chi phí phát triển "siêu rẻ" và đặc biệt phát hành miễn phí, thay vì hàng chục hay hàng trăm USD mỗi tháng như các dịch vụ hiện có.
+Trong khi các ông lớn AI như OpenAI, Microsoft, Nvidia đang dồn tâm huyết vàoStargate, dự án đầu tư hạ tầng trị giá 500 tỷ USD của Mỹ, được Tổng thống Trump công bố ngày 21/1, sự xuất hiện của DeepSeek như "dội gáo nước lạnh".
+Các nhà đầu tư đặt câu hỏi liệu có cần rót số tiền lớn choAIkhông vì một startup như DeepSeek có thể thành công dù bị hạn chế nguồn lực và chip.
+Cổ phiếu của Nvidia nhanh chóng giảm 17% ngày 27/1, đồng thời khiến phần còn lại của ngành công nghệ Mỹ "bật chế độ cảnh giác".
+"Việc phát hành DeepSeek AI nên là lời cảnh tỉnh cho ngành công nghiệp của chúng ta, rằng chúng ta cần tập trung cao độ vào việc cạnh tranh", ông Trump nói trong chuyến đi công tác ở Florida cùng ngày.
+TheoReuters, ông sau đó có buổi gặp riêng với CEO NvidiaJensen Huangvào 31/1, được cho làbàn vềDeepSeek cũng như các biện pháp nhằm ngăn chặn dự án từ Trung Quốc có thể tiếp cận nguồn chip hiệu năng cao của hãng.
+Nvidia sau đó đưa DeepSeek vào Nvidia NIM - giải pháp tập hợp các dịch vụ nhỏ để đẩy nhanh việc triển khai AI tạo sinh cho khách hàng doanh nghiệp, cùng lời giới thiệu: "R1 mang lại độ chính xác hàng đầu cho tác vụ đòi hỏi suy luận logic, lý luận, toán học, mã hóa và hiểu ngôn ngữ, đồng thời mang lại hiệu quả suy luận cao".
+Theo hãng, DeepSeek R1 là mô hình mở với khả năng suy luận tiên tiến.
+Thay vì đưa ra phản hồi trực tiếp, mô hình thực hiện nhiều lần suy luận qua một truy vấn, tiến hành chuỗi suy nghĩ, đồng thuận và phương pháp tìm kiếm để tạo ra câu trả lời tốt nhất.
+Bên trong R1 là một mô hình chứa nhiều "chuyên gia" (MoE) lớn.
+Nó kết hợp 671 tỷ tham số, gấp hàng chục lần mô hình ngôn ngữ lớn nguồn mở phổ biến khác, hỗ trợ độ dài ngữ cảnh đầu vào 128.000 token.
+Mỗi lớp của mô hình có 256 chuyên gia.
+Mỗi token được tạo ra sẽ được gửi đến tám "chuyên gia" riêng biệt song song để đánh giá.
+Việc thực hiện chuỗi suy luận này được gọi là test-time scaling.
+"DeepSeek-R1 là một ví dụ hoàn hảo về quy luật này", Nvidia đánh giá.
+Sự bùng nổ trong thời gian ngắn của DeepSeek, cùng tuyên bố về chi phí dưới 6 triệu USD, khiến công ty Trung Quốc nhanh chóng bị hoài nghi.
+Theo phân tích của SemiAnalysis, chi tiêu tính riêng cho phần cứng của DeepSeek "cao hơn 500 triệu USD".
+Bên cạnh đó, việc tạo dữ liệu tổng hợp để mô hình đào tạo đòi hỏi lượng tính toán đáng kể.
+Con số 5, 6 triệu USD có thể chỉ bao gồm chi phí đào tạo, chưa tính đến nghiên cứu, phát triển, chuẩn bị dữ liệu, bảo trì phần cứng và các vấn đề liên quan khác.
+DeepSeek cũng được cho là sử dụng 50.000 chip Nvidia H100 để phát triển thay vì chip H800 hiệu năng thấp, nhưng không thể công khai vì vi phạm biện pháp kiểm soát xuất khẩu của Mỹ.
+Tương tự nhiều ứng dụng từ Trung Quốc, DeepSeek cũng gây lo ngại về an toàn thông tin.
+Italy cấm DeepSeek trên hai kho ứng dụng của Apple và Google.
+Tại Mỹ, CNBCcho biết NASA, Hải quân, Hạ viện và bang Texascấmtoàn bộ nhân viên sử dụng với lý do an ninh quốc gia và quyền riêng tư.
+Bất chấp tranh cãi, sự xuất hiện của DeepSeek vẫn được đánh giá đã thay đổi cuộc chơi công nghệ và khiến các ông lớn AI không thể đứng yên.
+Cùng Nvidia NIM, Microsoft cũng đưa DeepSeek R1 vào danh sách mô hình hoạt động trên Azure AI Foundry và GitHub.
+"DeepSeek chắc chắn là một mô hình ấn tượng", Sam Altman, nhà đồng sáng lập OpenAI, nhận xét hôm 3/2 tại một sự kiện về AI tại Nhật Bản.
+Dù ngầm cho rằng DeepSeek và các công ty AI Trung Quốc sao chép mô hình thông qua kỹ thuật "chưng cất", Altman thừa nhận "rất vui khi có thêm đối thủ cạnh tranh".
+Trong hai ngày đầu tháng 2, công ty liên tiếp ra o3-mini, mô hình AI có khả năng lý luận với chi phí phải chăng, và tính năng Deep Research hỗ trợ tổng hợp và nghiên cứu thông tin trong ít phút.
+Trong khi đó, theoThe Information, Mark Zuckerberg, CEO Meta, đã đưa ra tình trạng báo động cao và tập hợp kỹ sư của công ty vào bốn "phòng chiến tranh" để xác định cách DeekSeek thay đổi cuộc chơi AI.
+Yann LeCun, Giám đốc khoa học AI của Meta, đánh giáthành công của DeepSeek cho thấy mô hình AI nguồn mở đang vượt mặt sản phẩm độc quyền.
+"Trung Quốc đã bắt kịp Mỹ trong AI tạo sinh", Andrew Ng, chuyên gia về AI hàng đầu thế giới, nhận định.

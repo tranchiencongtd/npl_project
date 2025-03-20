@@ -1,0 +1,40 @@
+Hiện có hơn một triệu mô hìnhAItrên toàn cầu từ các công ty lớn trong ngành trí tuệ nhân tạo như Google, OpenAI đến những startup như Anthropic, xAI.
+Trang công nghệTechCrunchlập danh sách mô hình AI tiên tiến nhất ra mắt từ 2024 đến nay.
+OpenAI gọi Orion là mô hình lớn nhất của họ tính đến nay, được quảng bá với khả năng "hiểu biết thế giới" và "trí tuệ cảm xúc" mạnh mẽ.
+Tuy nhiên, mô hình hoạt động kém hơn nếu so với một số mô hình có khả năng lý luận mới.
+Orion hiện có sẵn cho người đăng ký gói thuê bao 200 USD mỗi tháng.
+Theo nhà phát triển Anthropic, Claude Sonnet 3.7 là mô hình lý luận "lai" đầu tiên trong ngành vì vừa có khả năng đưa ra câu trả lời nhanh chóng vừa có thể suy nghĩ kỹ lưỡng khi cần.
+Người dùng có thể kiểm soát thời gian "nghĩ" của mô hình này.
+Sonnet 3.7 cung cấp miễn phí cho người dùng Claude, nhưng nếu muốn tính năng chuyên sâu, họ phải mua gói Pro với giá 20 USD mỗi tháng.
+Grok 3 là mô hình mới nhất từ công ty xAI do Elon Musk sáng lập.
+Mô hình được đánh giá vượt trội so với một số mô hình hàng đầu trong lĩnh vực toán học, khoa học và lập trình.
+AI này trang bị khả năng lý luận cho phép suy nghĩ sâu hơn khi xử lý truy vấn.
+Trải nghiệm thực tế cho thấy nó có tốc độ phản hồi nhanh, ngôn ngữ tự nhiên cũng như hỗ trợ tiếng Việt.
+"Grok 3 hiện mở miễn phí cho đến khi máy chủ của chúng tôi bị sập", Musk nói nhưng không đưa ra thời hạn cụ thể.
+Mistral gọi Le Chat là trợ lý cá nhân đa phương tiện, đồng thời tuyên bố nó phản hồi nhanh hơn bất kỳ chatbot AI nào khác.
+Nó có cả bản miễn phí và trả phí.
+Các thử nghiệm từLe Mondecho thấy hiệu suất của Le Chat ấn tượng nhưng còn mắc nhiều lỗi so với ChatGPT.
+Operator của OpenAI được thiết kế như một trợ lý cá nhân, có thể tự thực hiện các công việc như mua sắm cho người dùng.
+Mô hình này mới được triển khai thông qua gói ChatGPT Pro giá 200 USD mỗi tháng.
+Dù nhiều tiềm năng, biên tập viênWashington Postcho biết việc sử dụng hiện vẫn có rủi ro khi Operator tự quyết định đặt mua một tá trứng với giá 31 USD từ thẻ tín dụng của người này.
+Mô hình hàng đầu được Google tuyên bố nổi bật trong việc lập trình và hiểu biết kiến thức chung.
+Nó cũng cung cấp cửa sổ ngữ cảnh dài lên đến 2 triệu token, giúp người dùng xử lý nhanh chóng khối lượng lớn văn bản.
+Dù vậy, dịch vụ yêu cầu đăng ký gói One AI Premium tối thiểu 20 USD mỗi tháng.
+Mô hình AI Trung Quốc gây bão toàn cầu từ cuối tháng 1.
+DeepSeek R1 hoạt động tốt trong lĩnh vực lập trình và toán học, đồng thời việc sử dụng mã nguồn mở cho phép bất kỳ ai cũng có thể chạy cục bộ mô hình.
+Nó hoạt động miễn phí, nhưng gây lo ngại khi không công bố về cách xử lý dữ liệu người dùng.
+Đây là bản mới và tiên tiến nhất trong số các mô hình Llama của Meta.
+Công ty khẳng định nó mang lại hiệu quả cao nhất khi xét đến sự miễn phí và mã nguồn mở, nhất là về toán học, kiến thức chung.
+Sora là mô hình tạo video dựa trên văn bản với những hình ảnh sinh động và chân thật.
+Tuy nhiên, OpenAI thừa nhận nó vẫn mắc lỗi khi tạo những chuyển động phi thực tế.
+Hiện mô hình chỉ có sẵn trên bản trả phí của ChatGPT, bắt đầu từ Plus với giá 20 USD mỗi tháng.
+Qwen QwQ-32B-Preview nằm trong số ít các mô hình cạnh tranh với OpenAI o1 dựa trên một số tiêu chuẩn ngành cụ thể, như toán học và lập trình.
+Nó hoạt động miễn phí và mã nguồn mở.
+Mô hình của Claude cho phép AI kiểm soát máy tính để hoàn thành các nhiệm vụ được giao như lập trình hoặc đặt vé máy bay.
+Tuy nhiên, nó vẫn trong giai đoạn thử nghiệm.
+Sử dụng API của Computer Use cần 0, 80 USD cho mỗi triệu token đầu vào và 4 USD cho mỗi triệu token đầu ra.
+Mô hình o1 cung cấp câu trả lời tốt hơn bằng cách suy nghĩ thông qua tính năng lý luận bí mật.
+Mô hình xuất sắc trong lập trình, toán học và an toàn theo OpenAI tuyên bố nhưng cũng gặp vấn đề khi đánh lừa con người.
+Để sử dụng, người dùng phải đăng ký ChatGPT Plus giá 20 USD mỗi tháng.
+OpenAI quảng bá GPT 4o-mini là mô hình rẻ nhất và nhanh nhất nhờ kích thước nhỏ gọn.
+GPT 4o-mini được thiết kế để hỗ trợ nhiều tác vụ như cung cấp khả năng xử lý cho chatbot dịch vụ khách hàng, được tích hợp miễn phí trên ChatGPT.

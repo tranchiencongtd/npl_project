@@ -1,0 +1,23 @@
+TheoLianhe Zaobao, hiện tượng "sáu con rồng nhỏ của Hàng Châu" (Six Little Dragons) đang trở thành chủ đề nóng tại Trung Quốc, phản ánh cách tiếp cận cởi mở và toàn diện của thủ phủ tỉnh Chiết Giang.
+Những con rồng này gồm Game Science, DeepSeek, Unitree Robotics, Deep Robotics, BrainCo và Manycore Tech, là những công ty công nghệ đã tạo ra sức ảnh hưởng đáng kể trong lĩnh vực họ tham gia trong khoảng hai năm qua.
+Thành phố Hàng Châu cũng là nơi khai sinh của một số ông lớn công nghệ Trung Quốc như Alibaba, NetEase, Geely.
+Game Science là công ty đứng sauBlack Myth: Wukong, trò chơi gây bão trong thế giới game từ năm ngoái.
+Trong nhiều năm, một câu hỏi được giới làm game đặt ra là khi nào Trung Quốc có thể sản xuất trò chơi AAA (game có kinh phí sản xuất lớn, nhiều thời gian thiết kế và đội ngũ phát triển đa dạng) đạt chất lượng thế giới.
+Câu hỏi đã có lời giải vào ngày 20/8/2024, khiBlack Myth: Wukongtrình làng, gây chấn động với hơn 2, 2 triệu người chơi đồng thời chỉ riêng trên Steam và giúp nền tảng của Valve đạtkỷ lụcvề số lượng người chơi cùng lúc.
+Game cũng bán được10 triệu bảntrên mọi nền tảng sau ba ngày và giành hai giải thưởng lớn là Game hành động hay nhất và Players' Voice (giải do người chơi bình chọn) tại The Game Awards 2024, vốn được ví như Oscar của ngành game.
+Thành lập năm 2023, DeepSeekra mắt mô hình R1 vào ngày 20/1 và lập tức gây chấn động toàn cầu khi khiến giá cổ phiếu nhiều doanh nghiệp Mỹ liên quan tới AI sụt giảm mạnh, trong đó Nvidia mất 600 tỷ USD giá trị.
+"DeepSeek là bằng chứng cho thấy AI đi vào nhận thức của công chúng ra sao, điều không thể hình dung được cách đây hai năm.
+Đây là lúc cho thấy những mô hình này đang trở nên mạnh mẽ thế nào và mọi người thực sự quan tâm đến mức nào", Giám đốc vận hành Brad Lightcap của OpenAI đánh giá trênCNBC.
+Unitree RoboticsđượcWang Xingxing(Vương Hưng Hưng) thành lập năm 2016 nhưng chủ yếu nghiên cứu nội bộ.
+Năm 2021, công ty phát hành Go1, robot bốn chân tương tự Spot của Boston Dynamics và được đánh giá là "là thành tựu lớn của công nghệ Trung Quốc".
+Đến 2023, công ty giới thiệu robot hình người H1 và đến 2024 mới gây tiếng vang toàn cầu nhờ bản nâng cấp G1 năm 2024.
+Trong chương trình truyền hình trực tiếp chào Tết Nguyên đán ở Trung Quốc, 16 robot hình người của Unitree gây sốt khi tham gia múa dân gian, đánh dấu "màn biểu diễn robot hình người đầu tiên trên thế giới bằng AI, được tự động hóa hoàn toàn với quy mô lớn".
+Tương tự Unitree, Deep Robotics, thành lập năm 2017, cũng tạo dấu ấn lớn khi là một trong những nhà phát triển robot bốn chân đầu tiên cho mục đích điều tra.
+Công ty có nhiều sản phẩm độc quyền được triển khai trong việc thăm dò, cứu hộ...
+Deep Robotics cho biết các đối tác như Alibaba, Tencent hay các trường đại học hàng đầu như Đại học Thanh Hoa, Bắc Kinh và Edinburgh, trường College London đều đang sử dụng chó robot của mình.
+BrainCo nổi tiếng là công ty giao diện não - máy tính của Trung Quốc, đối đầu vớiNeuralinkcủa Elon Musk.
+Giao diện máy não - máy tính (BCI) là sự kết hợp giữa não người và AI, chuyển hoạt động của não thành thông điệp hoặc lệnh cho các ứng dụng tương tác.
+BrainCo, do kỹ sư Han Bicheng thành lập, đã phát triển công nghệ phân tích tín hiệu não thông qua cảm biến và thuật toán học máy phức tạp, không chỉ cải thiện kỹ năng nhận thức của con người mà còn cho phép họ có thể điều khiển từ xa các chuyển động của robot bằng suy nghĩ.
+Manycore Tech, ra đời năm 2011, là công ty trí tuệ không gian với hai nền tảng Kujiale tại Trung Quốc và bản quốc tế Coohom, đạt 77, 8 triệu người dùng hoạt động hàng tháng.
+Theo Frost & Sullivan năm 2023, đây là nền tảng thiết kế không gian lớn nhất thế giới về số người dùng cũng như là nhà cung cấp phần mềm lớn nhất trong ngành thiết kế không gian của Trung Quốc theo doanh thu.
+Ngày 14/2, Manycore thu hút sự chú ý khi IPO trên Sàn giao dịch chứng khoán Hong Kong.

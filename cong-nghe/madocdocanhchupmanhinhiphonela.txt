@@ -1,0 +1,18 @@
+Theo các nhà nghiên cứu bảo mật tại Kaspersky, phần mềm độc hại SparkCat tồn tại trong các ứng dụng vốn đã vượt qua trình kiểm tra an ninh của Apple để xuất hiện trên cửa hàng App Store.
+Các ứng dụng bị nhiễm SparkCat được phát hiện có ComeCome, WeTink và AnyGPT.
+Đây cũng là lần đầu tiên mối đe dọa như vậy được tìm thấy trong các ứng dụng App Store.
+Phân tích của Kaspersky cho thấy loạt ứng dụng nhiễm SparkCat sử dụng trình Nhận dạng ký tự quang học (OCR) để quét ảnh chụp màn hình với mục đích tìm thông tin nhạy cảm.
+Bên trong chúng chứa module độc hại, tận dụng trình cắm thêm ML Kit OCR của Google để phân tích hình ảnh và lấy nội dung trên đó.
+SparkCat đặc biệt tập trung vào cụm từ "hạt giống" dùng để khôi phục ví tiền số, qua đó cho phép kẻ tấn công đánh cắp Bitcoin và tài sản kỹ thuật số khác.
+Các chuyên gia cho biết, nếu phát hiện ảnh chụp màn hình liên quan đến ví tiền số, mã độc sẽ lập tức truyền dữ liệu thu được đến máy chủ của kẻ tấn công.
+SparkCat được cho là đã hoạt động từ tháng 3/2024, nhưng chủ yếu trên thiết bị Android trước khi xuất hiện trên thiết bị chạy iOS gần đây.
+Bên cạnh thu thập nội dung từ ảnh chụp màn hình, khi cài đặt, ứng dụng nhiễm SparkCat sẽ yêu cầu quyền truy cập ảnh và quét để lấy nội dung quan trọng khác.
+Kaspersky cho biết một số ứng dụng nhiễm SparkCat vẫn tồn tại trên App Store.
+Họ chưa thể xác định đây là hành động có chủ đích từ các nhà phát triển hay do chúng bị tấn công.
+Applechưa đưa ra bình luận.
+Kaspersky khuyến cáo người dùng không nên lưu ảnh chụp màn hình chứa nội dung quan trọng, như cụm từ khôi phục ví điện tử, mật khẩu ngân hàng...
+trong Thư viện ảnh.
+Thay vào đó, họ nên sử dụng trình quản lý mật khẩu hoặc lưu trữ ở nơi an toàn hơn.
+TheoGizChina, về mặt lịch sử, iOS hiện là một trong những hệ điều hành an toàn nhất trên thiết bị di động.
+Hacker cũng có xu hướng tấn công thiết bị chạy Android nhiều hơn.
+Tuy nhiên, gần đây mọi thứ đang dần thay đổi khi kẻ tấn công đang sử dụng các cách thức tiên tiến hơn để xâm nhập vào nền tảng Apple.

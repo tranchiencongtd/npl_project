@@ -1,0 +1,20 @@
+Báo cáo tình hình phát triển mô hình ngôn ngữ lớn (LLM) tiếng Việt vừa được công bố cho thấy có ít nhất 45 mô hình ngôn ngữ lớn tiếng Việt được xây dựng tính đến cuối 2024, đến từ các doanh nghiệp, tổ chức trong và ngoài nước.
+Để đánh giá năng lực của các LLM này, các nhà phân tích sử dụng bộ tiêu chuẩn VMLU (Vietnamese Multitask Language Understanding Benchmark Suite for Large Language Models) do Viện Khoa học và Công nghệ Tiên tiến Nhật Bản (JAIST) cùng Zalo AI xây dựng từ tháng 11/2023.
+Bộ tiêu chuẩn này gồm 10.880 câu hỏi, thuộc 58 chủ đề và 4 lĩnh vực: tổng quát, STEM, Khoa học xã hội, Khoa học nhân văn và mở rộng.
+Theo đó, ở bảng xếp hạng dành cho các From-scratch models, tức các mô hình được huấn luyện từ đầu, Llama-3-70B của Meta dẫn đầu về năng lực tiếng Việt tổng quát với 66, 44 điểm, GPT-4 của OpenAI xếp thứ ba với 65, 53 điểm.
+Trong khi đó, sản phẩm của Việt Nam là KiLM-13b-v24.7.1 do Zalo AI phát triển xếp thứ hai, ViGPT-1.6B-v1 của VinBigData xếp thứ tám.
+Các vị trí còn lại trong top 10 thuộc về LLM như GPT-4o-mini, Gemma, Phi-3-128k của OpenAI, Google, Microsoft.
+Dẫn đầu ở năng lực Khoa học Xã hội tiếng Việt là Llama-3 của Meta, năng lực STEM là GPT-4.
+Trong khi đó, đại diện Zalo AI dẫn đầu ở hạng mục Khoa học Nhân văn.
+Ở bảng xếp hạng LLM fine-tuned models, tức các mô hình được tinh chỉnh từ LLM có sẵn và các dữ liệu chuyên ngành, có 9 LLM do các nhà phát triển trong nước huấn luyện lọt vào Top 10.
+Trong đó, ba vị trí dẫn đầu là VNPTAI-IO-Large-v2, v3 và CakebyVPBank-Large.
+Các mô hình ngôn ngữ lớn là nền tảng quan trọng để xây dựng ứng dụng AI về ngôn ngữ.
+Ví dụ để có ChatGPT, OpenAI phải tạo mô hình ngôn ngữ lớn GPT.
+Trong 45 LLM tiếng Việt được đánh giá trong bảng xếp hạng, nhiều mô hình từ các trường đại học như ML4U của Trường Đại học Bách khoa (ĐHQG TP HCM), Trường Đại học FPT TP HCM.
+Ngoài ra, nhiều đơn vị nước ngoài cũng tối ưu LLM cho tiếng Việt như UONLP x Ontocord (Trường Đại học Oregon), DAMO Academy (Alibaba), SDSRV teams (Samsung).
+Các chuyên gia đánh giá con số này còn thấp khi so với các nước khác trên thế giới, nhưng trong bối cảnh việc phát triển LLM tiếng Việt gặp nhiều thách thức như thiếu dữ liệu, hạ tầng và nguồn lực, kết quả này "phản ánh nỗ lực tiếp cận công nghệ tiên tiến toàn cầu của các đơn vị, cũng như triển vọng của lĩnh vực này tại Việt Nam".
+Ngoài ra, nhiều mô hình do người Việt huấn luyện đạt vị trí cao trong bảng xếp hạng và trực tiếp cạnh tranh với mô hình của "ông lớn" như Llama-3, GPT-4, Gemini.
+"Số lượng mô hình ngôn ngữ lớn tại Việt Nam gia tăng cho thấy sự quan tâm của các tổ chức, cá nhân đối với việc thúc đẩy tính ứng dụng của GenAI.
+Trong tương lai, xu hướng phát triển LLM tại Việt Nam sẽ thiên về tận dụng những mô hình LLM mở như Llama, từ đó chuyển đổi phù hợp với các bài toán và dữ liệu chuyên ngành", giáo sư Nguyễn Lê Minh, Giám đốc Trung tâm nghiên cứu Interpretable AI - Viện Khoa học và Công nghệ Tiên tiến Nhật Bản (JAIST) nói.
+Thời gian tới, JAIST và Zalo AI cho biết sẽ tiếp tục tối ưu bộ tiêu chuẩn đánh giá năng lực tiếng Việt VMLU để củng cố năng lực huấn luyện LLM cho cộng đồng AI tại Việt Nam, tạo tiền đề cho ứng dụng AI hữu ích cho người Việt.
+"Phải có những bộ benchmark tốt, chúng ta mới có căn cứ huấn luyện mô hình chất lượng cao", tiến sĩ Đặng Trần Thái, Trưởng phòng xử lý ngôn ngữ tự nhiên, Khối công nghệ trợ lý ảo VinBigData, đánh giá.

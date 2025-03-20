@@ -1,0 +1,28 @@
+"Việc ra mắt hôm nay đánh dấu bước tiến quan trọng trong mục tiêu hướng đến khả năng mở rộng việc tiếp cận AI tiên tiến đến tất cả mọi người", phát ngôn viên OpenAI nói vớiTechCrunchvề o3-mini - mô hình mới nhất trong họ mô hình lý luận "o" được công ty tung ra ngày 31/1.
+Không giống hầu hết mô hình ngôn ngữ lớn (LLM) đang có trên thị trường, o3-mini tự kiểm tra thực tế kỹ lưỡng trước khi đưa ra kết quả.
+Điều này giúp chúng tránh được một số cạm bẫy thường thấy, gồm cả hiện tượng "ảo giác".
+Mô hình sẽ mất nhiều thời gian hơn một chút để đưa ra phản hồi.
+Đổi lại, chúng có xu hướng phản hồi đáng tin cậy hơn trong các lĩnh vực có tính chính xác cao như vật lý, dù chưa hoàn hảo 100%.
+o3-mini cũng được tinh chỉnh cho các vấn đề STEM (khoa học, công nghệ, kỹ thuật, toán học).
+Đại diện OpenAI tuyên bố mô hình có sức mạnh "phần lớn ngang bằng" với các "đàn anh" o1 và o1-mini trước đó, nhưng chạy nhanh hơn và ít tốn kém hơn.
+"Những người chúng tôi chọn để thử nghiệm o3-mini đều thích câu trả lời của AI này hơn của o1-mini", đại diện OpenAI cho biết.
+"o3-mini cũng mắc các 'lỗi lớn' ít hơn 39% khi gặp "những câu hỏi thực tế khó" so với o1-mini, đồng thời đưa ra phản hồi rõ ràng, nhanh hơn khoảng 24%".
+o3-mini bắt đầu được cung cấp thông qua ChatGPT từ 31/1.
+Trong đó, người dùng miễn phí có thể nhấp vào nút "Reason" để khởi tạo câu hỏi, nhưng bị giới hạn truy vấn.
+Người dùng gói Plus và Team của OpenAI nhận 150 truy vấn mỗi ngày, còn gói Pro được quyền truy cập không giới hạn.
+Riêng người dùng ChatGPT Enterprise và ChatGPT Edu dự kiến được bổ sung AI mới trong những ngày tới.
+Trong ChatGPT, OpenAI cho biết o3-mini được thiết lập ở mức "nỗ lực suy luận trung bình" nhằm tạo sự cân bằng giữa tốc độ và độ chính xác.
+Người dùng trả phí sẽ có tùy chọn "o3-mini-high" với "trí thông minh cao hơn" nhưng phản hồi chậm hơn.
+o3-mini cũng sẽ có sẵn cho nhà phát triển thông qua API của OpenAI, nhưng ban đầu không hỗ trợ phân tích hình ảnh.
+Họ thể chọn mức độ "nỗ lực lý luận" ở ba mức thấp, trung bình hoặc cao để o3-mini "suy nghĩ kỹ hơn" dựa trên nhu cầu sử dụng.
+Việc OpenAI ra mắt o3-mini diễn ra trong bối cảnh loạt mô hình từ DeepSeek V3/R1 đang làm mưa làm gió do cung cấp tính năng tương đương trong khi giá thành rẻ hơn hàng chục lần.
+Theo OpenAI, o3-mini có giá 0, 55 USD cho một triệu token đầu vào lưu trong bộ nhớ đệm và 4, 4 USD cho một triệu token đầu ra (một triệu token tương đương khoảng 750.000 từ).
+Con số này rẻ hơn 63% so với o1-mini và cạnh tranh với giá của mô hình lý luận R1 của DeepSeek.
+DeepSeek tính phí 0, 14 USD cho một triệu token đầu vào lưu trong bộ nhớ đệm và 2, 19 USD cho một triệu token đầu ra để truy cập R1 thông qua API.
+Dù vậy, theoTechCrunch, o3-mini không phải là mô hình mạnh nhất của OpenAI và cũng không vượt quaDeepSeekR1 trong hầu hết trình kiểm tra điểm chuẩn.
+Chẳng hạn, o3-mini chỉ vượt R1 trên AIME 2024 - bài kiểm tra đo lường mức độ hiểu và phản hồi của các AI đối với hướng dẫn phức tạp - với nỗ lực suy luận cao.
+Sản phẩm của OpenAI cũng đánh bại R1 trong bài kiểm tra tập trung vào lập trình SWE-bench Verified nhưng chỉ với 0.1 điểm và cũng chỉ với nỗ lực suy luận cao.
+Với các trường hợp còn lại, o3-mini chậm hơn R1, gồm trên GPQA Diamond - bài kiểm tra các mô hình với các câu hỏi về vật lý, sinh học và hóa học ở cấp độ tiến sĩ.
+OpenAI từng cho biết đã thử nghiệm nội bộ o3-mini từ cuối năm ngoái.
+Theo đánh giá củaReuterskhi đó, việcOpenAIthử nghiệm AI mạnh hơn o1 chỉ sau vài tháng cho thấy công ty đang đẩy nhanh quá trình tiến đến siêu trí tuệAGI- cột mốc đột phá trong lĩnh vực trí tuệ nhân tạo, với viễn cảnh AI thông minh hơn con người.
+Trước đó, o1 được một số chuyên gia nhận định có thểtiệm cậnAGI.

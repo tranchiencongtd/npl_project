@@ -1,0 +1,11 @@
+Theo thông tin do Bộ Tài chính Mỹ gửi các nhà lập pháp ngày 31/12/2024, hacker đã xâm nhập thông qua BeyondTrust, nhà cung cấp dịch vụ an ninh mạng của bên thứ ba cho Bộ.
+Kẻ gian đã đánh cắp thành công một khóa bảo mật dịch vụ đám mây dùng để cung cấp hỗ trợ kỹ thuật từ xa cho nhân viên Văn phòng Bộ Tài chính Mỹ (DO).
+Từ đó, hacker vượt qua lớp bảo mật của dịch vụ, truy cập từ xa một số máy trạm DO, ghi đè và đánh cắp tài liệu do những nhân viên này lưu giữ.
+"Dựa trên các chỉ số thu thập được, cuộc tấn công được cho là do một nhóm hacker APT do nhà nước Trung Quốc bảo trợ gây ra", Bộ cho hay.
+APT (Advanced Persistent Threat) là hình thức tấn công mạng có chủ đích, trong đó hacker sử dụng các công nghệ tiên tiến và kỹ thuật lừa đảo để đột nhập mạng mục tiêu trong thời gian dài.
+Bộ Tài chính Mỹ cho biết đã được BeyondTrust cảnh báo về vụ xâm nhập vào ngày 8/12/2024 và đang trong quá trình làm việc với Cơ quan An ninh mạng và Cơ sở hạ tầng Mỹ (CISA) và Cục Điều tra Liên bang Mỹ (FBI) để đánh giá tác động của vụ tấn công.
+Trong khi đó, Trung Quốc phủ nhận cáo buộc.
+"Trung Quốc luôn phản đối mọi hình thức tấn công của hacker", người phát ngôn của Bộ Ngoại giao Trung Quốc Mao Ninh nói ngày 31/12/2024, đồng thời nhấn mạnh Bắc Kinh "kiên quyết phản đối các cuộc tấn công bôi nhọ Trung Quốc của Mỹ mà không có bất kỳ cơ sở thực tế nào" và ""phản đối việc phát tán thông tin sai lệch chống lại Trung Quốc vì mục đích chính trị".
+Hồi tháng 9, Bộ Tư pháp Mỹ cũng cho biết đã vô hiệu hóa một mạng lưới tấn công mạng ảnh hưởng đến 200.000 thiết bị trên toàn thế giới "được điều hành bởi hacker Trung Quốc".
+Vào tháng 2, Mỹ tuyên bố triệt phá mạng lưới hacker Volt Typhoon nhắm đến các cơ sở hạ tầng quan trọng "theo lệnh của Trung Quốc".
+Bắc Kinh đều lên tiếng phủ nhận những cáo buộc này.

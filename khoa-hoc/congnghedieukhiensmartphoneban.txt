@@ -1,0 +1,17 @@
+Nhóm chuyên gia từ Đại học Waterloo, Canada, phát triển công nghệ cho phép con người thực hiện những tác vụ phổ biến trên smartphone chỉ bằng động tác chân đơn giản trong lúc đi bộ, New Atlashôm 16/1 đưa tin.
+Nghiên cứu mới công bố trong kỷ yếu Hội nghị chuyên đề về Công nghệ và Phần mềm Giao diện Người dùng (UIST) của Hiệp hội Máy tính (ACM) năm 2024.
+Trong nghiên cứu, nhóm chuyên gia đã đặt cà phê, điều khiển ứng dụng âm nhạc và trả lời cuộc gọi trên kính thực tế tăng cường (AR) chỉ bằng các động tác chân khi đang đi lại.
+"Việc dùng chân để điều khiển máy móc đã tồn tại từ lâu.
+Ví dụ, bàn đạp trên xe ôtô, nhưng rất ít nghiên cứu được thực hiện để sử dụng cách đi bộ làm dữ liệu đầu vào", Ching-Yi Tsai, tác giả chính của nghiên cứu, học giả tại Trường Khoa học Máy tính David R.
+Cheriton thuộc Đại học Waterloo, cho biết.
+Xem xét những nghiên cứu trước đó, giáo sư khoa học máy tính Daniel Vogel tại Đại học Waterloo cùng đồng nghiệp đã xác định được 22 động tác chân tiềm năng, làm thay đổi cách đi bộ thông thường của một người nhưng vẫn cho phép người này tiếp tục tiến về phía trước mà không bị gián đoạn nhiều.
+Trong nghiên cứu với 25 người tham gia, nhóm chuyên gia đã kiểm tra các động tác này về khả năng tương thích với việc đi bộ, sự dễ dàng trong di chuyển và cả sự chấp nhận của xã hội.
+"Những chuyển động mạnh như nhảy múa hoặc nhảy lên giúp hệ thống dễ dàng nhận diện, nhưng chúng có thể khó thực hiện và lệch quá xa so với việc đi bộ bình thường, khiến người dùng cảm thấy không thoải mái khi thực hiện ở nơi công cộng", Vogel giải thích.
+Từ 22 thao tác chân đã xem xét, nhóm nghiên cứu xác định 7 thao tác tối ưu và đưa vào một giao diện thiết kế tương tác cho kính AR.
+Tiếp theo, nhóm kiểm tra khả năng của 7 thao tác này trong việc kích hoạt tương tác AR.
+Từng người tham gia nghiên cứu được thông báo về 7 thao tác.
+Khi đeo kính AR và đi bộ, họ sẽ thực hiện những tác vụ cụ thể như bật một bài hát, điều chỉnh âm lượng, đặt cà phê latte, từ chối hoặc nhận cuộc gọi đến.
+Tổng thể, độ chính xác của hệ thống trong việc nhận diện thao tác chân đạt tới 92%.
+Nhìn chung, người tham gia phản ứng tích cực với công nghệ, cho rằng dễ sử dụng và sẽ sử dụng lại.
+"Giờ vẫn chưa đến thời điểm kính AR được sử dụng rộng rãi.
+Nhưng nghiên cứu này cho thấy rằng đến lúc đó, phương pháp mới có thể sẽ thành công", Tsai nhận định.

@@ -1,0 +1,37 @@
+Sau khi chatbotDeepSeekđược tung ra với năng lực cạnh tranh không thua kém ChatGPT, nhiều chuyên gia công nghệ đã đào sâu nghiên cứu và nghi ngờ công ty từ Trung Quốc đã sao chép tiến bộ kỹ thuật của các công ty Mỹ đi trước, từ đó phát triển với chi phí thấp và phát hành miễn phí.
+Kỹ thuật mà DeekSeek bị cáo buộc sử dụng là "chưng cất".
+Ví dụ trong việc tạo các mô hình AI, nhà phát triển đi sau sẽ sử dụng các mô hình đã có sẵn để đánh giá câu trả lời của mô hình mới, đồng thời đào tạo, chuyển giao các bài học cho mô hình mới.
+Khi đó, họ có thể tận dụng được kết quả từ mô hình cũ, giảm thiểu thời gian và các chi phí đầu tư, trong khi kết quả mang lại gần giống.
+"Chưng cất" là kỹ thuật phổ biến được sử dụng trong lĩnh vực AI.
+Tuy nhiên, nó có thể vi phạm điều khoản của một số dịch vụ.
+Trong đó, điều khoản của OpenAI nêu rõ người dùng không thể "sao chép" bất kỳ dịch vụ nào hoặc "sử dụng đầu ra để phát triển mô hình cạnh tranh với chính OpenAI".
+Nhà phát triển ChatGPT khẳng định có các nhóm tại Trung Quốc sử dụng phương pháp này để sao chép mô hình AI của Mỹ và họ cũng đang xem xét liệu DeepSeek có vi phạm hay không.
+"Là đơn vị phát triển AI hàng đầu, chúng tôi thực hiện biện pháp để bảo vệ sở hữu trí tuệ của mình, bao gồm một quy trình cẩn thận để đưa các tính năng tiên tiến vào các mô hình đã phát hành", OpenAItuyên bố.
+Tuy nhiên, công ty cũng chưa nêu chi tiết cách thức thực hiện.
+"Có vẻ DeepSeek đã chiếm dụng trái phép công nghệ AI của Mỹ.
+Tôi không tin DeepSeek thực hiện một cách minh bạch.
+Điều đó thật vô lý", Howard Lutnick, người được ông Trump đề cử làm Bộ trưởng Thương mại, nói và khẳng định sẽ thực thi các quy định hạn chế để giữ vị thế dẫn đầu về AI.
+DeepSeek chưa đưa ra bình luận về các cáo buộc.
+Tuy nhiên theo các chuyên gia, việc ngăn chặn các công ty "chưng cất" khó khả thi.
+"Nó giống như các nhà sản xuất ôtô mua xe của nhau để kiểm tra động cơ", Naveen Rao, Phó chủ tịch AI tại Databricks so sánh, cho rằng việc học hỏi từ các đối thủ là "điều bình thường" trong ngành AI.
+"Công bằng mà nói, điều này có thể xảy ra trong mọi lĩnh vực.
+Nếu thông tin có thể trích xuất, bạn sẽ trích xuất nó và cố gắng giành chiến thắng".
+TheoReuters, một trong những tiến bộ của DeepSeek là khả năng sử dụng một lượng dữ liệu tương đối nhỏ, có thể ít hơn một triệu mẫu, từ một mô hình lớn để cải thiện chất lượng câu trả lời cho mô hình nhỏ.
+Trong khi đó, những dịch vụ như ChatGPT có hàng trăm triệu người dùng, vì vậy họ khó có thể phát hiện ra những đợt truy cập với quy mô như vậy.
+DeepSeek cũng được cho là học hỏi từ Meta.
+Tuy nhiên cả hai cùng phát triển theo hướng nguồn mở, dẫn đến khó khăn trong việc phát hiện liệu DeepSeek có vi phạm hay không.
+"Không thể dừng việc chưng cất mô hình khi dùng các mô hình nguồn mở như Llama.
+Chúng có sẵn cho tất cả mọi người", Umesh Padval, Giám đốc điều hành tại Thomvest Ventures, nói.
+Đại diện Meta cho biết giấy phép cho mô hình Llama yêu cầu những người sử dụng phải tiết lộ thông tin về việc sử dụng đó.
+Thực tế, trong một số tài liệu kỹ thuật, DeepSeek xác nhận sử dụng Llama cho một số phiên bản tùy biến của các mô hình mà công ty đã phát hành trong tháng, nhưng không đề cập đến việc có sử dụng mô hình của Meta trong đào tạo AI trước đó hay chưa.
+Meta từ chối trả lời liệu DeepSeek có vi phạm điều khoản dịch vụ hay không.
+Để ngăn chặn nguy cơ bị "chưng cất" trái phép các mô hình AI, chuyên gia của một phòng thí nghiệm AI lớn cho biết cách duy nhất là áp dụng các yêu cầu nghiêm ngặt về xác minh khách hàng, tương tự cách các công ty tài chính đang làm.
+Tuy nhiên, điều này còn phụ thuộc vào quy định từ các chính quyền.
+Ngoài ra, một số công ty về AI tại Mỹ được cho là đã thực hiện biện pháp chặn mọi truy cập từ các địa chỉ IP Trung Quốc, tuy nhiên cũng không chắc chắn có thể giải quyết triệt để vấn đề.
+"Nó chỉ như trò mèo vờn chuột bởi mọi người có thể dễ dàng tìm cách vượt qua", Jonathan Ross, Giám đốc điều hành công ty AI có tên Groq từng áp dụng biện pháp chặn IP Trung Quốc, nói.
+"Tôi không biết giải pháp khác.
+Nếu ai đó nghĩ ra, hãy cho chúng tôi biết và chúng tôi sẽ thực hiện".
+DeepSeek được thành lập năm 2023 bởiLiang Wenfeng, đồng sáng lập của quỹ đầu tư chuyên về AI High Flyer.
+Công ty bắt đầu phát triển DeepSeek vào tháng 4/2023, hướng đến siêu trí tuệ nhân tạo tổng quát AGI, tương tự mục tiêu OpenAI và nhiều công ty đang theo đuổi.
+DeepSeek tuyên bố họ chỉ sử dụng 2.048 card đồ họa Nvidia H800 và 5, 6 triệu USD để đào tạo mô hình V3 với 671 tỷ tham số, bằng một phần nhỏ so với số tiền OpenAI và Google phải bỏ ra để huấn luyện mô hình có quy mô tương đương.
+Một số chuyên gia cho biết mô hình đưa ra những phản hồi có thể cho thấy nó được đào tạodựa trên kết quảtừ GPT-4.

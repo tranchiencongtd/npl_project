@@ -1,0 +1,26 @@
+Chủ nhân các giải thưởng SIU Prize lĩnh vực khoa học máy tính mùa đầu tiên được công bố tối 11/1.
+Đây là giải thưởng do trường Đại học Quốc tế Sài Gòn (SIU) chủ trì, vinh danh nhân tài người Việttrên thế giới có luận án tiến sĩ xuất sắc, được bảo vệ thành công trong 5 năm qua.
+Anh Trần Hoàng Dũng, sinh năm 1984, hiện là Assistant professor (bậc 1 trong ba bậc giáo sư ở Mỹ) tại Đại học Nebraska-Lincoln.
+Luận án tiến sĩ Kiểm tra hệ thống thực - ảo tự học được anh bảo vệ tại Đại học Vanderbilt, năm 2020.
+GS.
+TS Nguyễn Thanh Thủy, Chủ tịch Hội đồng giáo sư ngành Công nghệ thông tin, đại diện hội đồng chuyên môn giải thưởng, đánh giá nghiên cứu của anh Dũng xây dựng một nền tảng toán học vững chắc cùng với các giải thuật mới để kiểm tra tính an toàn của hệ thống mạng thần kinh và các hệ thống tự động.
+Ứng dụng thực tiễn của công trình này rất rộng lớn, đảm bảo tính an toàn và bền vững cho các công nghệ tiên tiến như xe tự lái, máy bay không người lái và mạng thần kinh sâu, trở thành nền tảng quan trọng trong lĩnh vực điện toán hiện đại.
+Nghiên cứu này đã nhận được giải thưởng luận văn tiến sĩ xuất sắc của Hiệp hội Điện - Điện tử (IEEE) trong lĩnh vực hệ thống thực-ảo, năm 2021.
+Tính đến nay, anh Dũng đã công bố hơn 40 bài báo, trong đó nhiều bài đăng trên các tạp chí, hội nghị hàng đầu trong các lĩnh vực ngôn ngữ lập trình và logic, phương pháp hình thức, hệ thống thực ảo, mạng nơ-ron và hệ thống học máy.
+Ngoài ra, anh dẫn dắt và tham gia nhiều dự án của Quỹ Khoa học Quốc gia Mỹ (NSF), Quân đội Mỹ.
+"Giải thưởng này là sự công nhận, khích lệ đáng quý đối với tôi trên hành trình nghiên cứu khoa học nhiều thử thách.
+Hy vọng trong 10-20 năm tới, tôi sẽ có nhiều đóng góp cho xã hội trong lĩnh vực khoa học máy tính", anh Dũng chia sẻ khi nhận giải.
+Anh Dũng cho rằng dù nhiều người đoạt giải SIU Prize Computer Science đang học tập, làm việc tại nước ngoài, nhưng tất cả đều mong muốn kết nối và hợp tác nghiên cứu trong nước.
+Anh mong các cơ quan quản lý nhà nước, đặc biệt là Bộ Khoa học và Công nghệ, Bộ Giáo dục và Đào tạo, các trường đại học xây dựng nhiều chương trình, chính sách thúc đẩy hợp tác nghiên cứu giữa các nhà khoa học trẻ trong và ngoài nước.
+"Tôi tin rằng việc lập một quỹ nghiên cứu trọng điểm này sẽ huy động được nguồn nhân lực chất lượng cao, góp phần phát triển nền khoa học công nghệ nước nhà", anh nói.
+Tại lễ trao giải, ban tổ chức vinh danh 5 luận án tiến sĩ khác, tổng giá trị giải thưởng 4 tỷ đồng.
+Giải nhì thuộc về nghiên cứu Giao diện thần kinh điện sinh học với độ chính xác cao hướng tới sự cộng sinh giữa con người và máy móc của TS Nguyễn Anh Tuấn, được bảo vệ tại Đại học Minnesota, Mỹ, năm 2021.
+Hiện, TS Tuấn là Phó chủ tịch Nghiên cứu và Phát triển, Công ty Fasikl, Mỹ.
+Chủ nhân của hai giải ba là TS Trịnh Hoàng Triều, nhà nghiên cứu cấp cao của Google DeepMind và GS Phạm Hữu Đăng Nhật, Đại học Cardiff, Anh.
+TS Triều nhận giải với luận ánGiải toán hình học Olympiad không sử dụng dữ liệu từ người, bảo vệ tại Đại học New York, Mỹ, năm 2024.
+Còn luận án của GS Nhật là Phát triển phương pháp đo tín hiệu sinh học từ cơ thể người bằng hệ thống đeo được bằng đầu thông minh, bảo vệ tại Đại học Oxford, Anh, năm 2023.
+Theo ông Lê Quang Huy, Chủ nhiệm Ủy ban Khoa học Công nghệ và Môi trường của Quốc hội, các chủ nhân giải thưởng là minh chứng sống động cho sự sáng tạo, đổi mới của trí tuệ Việt trên trường quốc tế.
+"Tôi hy vọng giải thưởng sẽ truyền cảm hứng, động lực để những tài năng trẻ của Việt Nam dấn thân, cống hiến cho xã hội, đất nước", ông Huy nói.
+Trong mùa đầu tiên 2023-2024, SIU Prize Computer Science thu hút hơn 100 đề cử từ 19 quốc gia, vùng lãnh thổ.
+Các giám khảo là các nhà khoa học, chuyên gia đầu ngành trong các lĩnh vực liên quan, đến từ các đại học, viện nghiên cứu, doanh nghiệp danh tiếng của Mỹ, Canada, Australia, Pháp.
+SIU Prize dự kiến trao định kỳ hai năm một lần, thay phiên trong lĩnh vực khoa học sức khỏe và khoa học máy tính.

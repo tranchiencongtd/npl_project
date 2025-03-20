@@ -1,0 +1,24 @@
+EngineAI SE01 ra đời tháng 10 năm ngoái, được trình diễn tại CES 2025 đầu tháng 1 và nhận nhiều đánh giá tích cực.
+Tuần trước, EngineAI công bố video trên YouTube cho thấy khả năng di chuyển của robot trên đường phố và lập tức nhận sự chú ý lớn.
+Cụ thể, SE01 có kích thước tương tự người bình thường với dáng đi tự nhiên, thẳng đứng, không "giật cục" hay mất thăng bằng như hầu hết robot hiện có tại Trung Quốc.
+Dù vẫn được điều khiển từ xa, khả năng đi bộ của cỗ máy khiến người đi đường kinh ngạc.
+Trên mạng xã hội, các đoạn cắt từ video của EngineAI nhanh chóng lan truyền.
+Một số người thậm chí nhầm robot là một tác phẩm của công nghệ tạo kỹ xảo từ máy tính CGI.
+"Dáng đi bộ thật ngầu và chúng ta cần những robot như thế này càng sớm càng tốt", Jim Fan, nhà khoa học AI của Nvidia, viết trên X.
+"Tiềm năng của robot này sẽ vượt xa khả năng trình diễn công nghệ đơn thuần".
+EngineAI được thành lập tháng 10/2023, là công ty robot có trụ sở tại Thâm Quyến.
+Tháng 10 năm ngoái, startup này thiết lập chuẩn mực mới trong ngành robot hình người với khả năng đặc biệt bắt chước dáng đi của con người.
+Nguyên mẫu đầu tiên của SE01 có thể đi bộ và thực hiện chuyển động phức tạp như ngồi xổm, chống đẩy và các nhiệm vụ chính xác với độ mượt mà sánh ngang với chuyển động tự nhiên của con người.
+Với chiều cao 170 cm, khả năng của SE01 không chỉ giới hạn ở khả năng di chuyển tiên tiến.
+Nó được chế tạo để thực hiện các nhiệm vụ đòi hỏi cao, từ nâng vật nặng đến lắp ráp chi tiết trong môi trường nhà máy phức tạp.
+Hệ thống module khớp điều khiển lực được thiết kế tinh vi, kết hợp AI và sử dụng thuật toán học sâu tăng cường để bắt chước các hành động.
+EngineAI hiện sở hữu đội ngũ bao gồm những người tiên phong, nhà khoa học, chuyên gia từ các trường đại học về robot ở Trung Quốc.
+Công ty đã tung ra một loạt robot hình người, như SA01 cho mục đích nghiên cứu khoa học và giáo dục, giá 5.250 USD, hay PM01 hướng đến ứng dụng chuyên biệt và có giá 12.030 USD.
+Tuy nhiên, giá của SE01 chưa được công bố.
+Cùng với EngineAI, công ty sản xuất robot nổi tiếng Trung Quốc Unitree cũng vừa bổ sung khả năng đi bộ giống con người cho mẫu G1.
+Thay vì giới hạn ở địa hình bằng phẳng như SE01, G1 hoạt động tốt trên địa hình gồ ghề, thể hiện sự ổn định và khả năng kiểm soát vượt trội so với thiết kế trước đây.
+Nâng cấp mới trên G1 là hệ thống camera 3D LiDAR tiên tiến và camera đo độ sâu RealSense kết hợp micro khử ồn công nghệ cao nhằm nghe lệnh thoại tốt nhất.
+Trong video đăng trên YouTube, robot hình người của Unitree có thể nhảy lò cò, bật nhảy, leo cầu thang, đi bộ với dáng khá giống với con người.
+Được giới thiệu từ năm ngoái, Unitree G1 là bản nâng cấp củaUnitree H1.
+Cỗ máy cao 1, 3 mét, nặng 35 kg, hướng đến thực hiện nhiệm vụ linh hoạt ở những khu vực con người khó tiếp cận.
+Bên trong, robot trang bị CPU 8 nhân hiệu suất cao, vận hành thông qua hệ thống AI riêng có tên UnifoLM và dự tính bán ra với giá 16.000 USD - mức màThe Vergenhận định hợp lý, dù người dùng phổ thông không dễ tiếp cận.

@@ -1,0 +1,23 @@
+"Mục tiêu của nút bấm là giảm khả năng tính toán khả dụng của AI trên toàn thế giới xuống 90-99% từ một đến hai năm để nhân loại có thời gian chuẩn bị", Vitalik Buterin viết trên blog ngày 7/1.
+"Giá trị của một, hai năm không phải cường điệu hóa.
+Đó sẽ là một năm cho 'làm việc trong điều kiện tự mãn' và năm còn lại ở trạng thái 'thời chiến'".
+Theo hình dung của người đồng sáng lập Ethereum, nút tạm dừng AI toàn cầu được phát triển dựa trên các giao thức cụ thể, yêu cầu đăng ký và xác minh vị trí của phần cứng.
+Những hệ thống này được trang bị một "chip đáng tin cậy", chỉ có thể tiếp tục chạy nếu xác thực bằng ba chữ ký mỗi tuần từ các tổ chức quốc tế lớn, trong đó có một bên phi quân sự.
+Một thủ thuật mật mã thông minh sẽ đóng vai trò tiếp cận công nghệ tiên tiến nhất để giải quyết các rủi ro AI.
+Đối với các chữ ký, chúng đóng vai trò như chìa khóa hệ thống.
+"Hoặc tất cả, hoặc không gì cả", Buterin cho biết.
+"Sẽ không có cách nào để cấp phép cho cỗ máy AI này chạy, trong khi AI khác tạm dừng".
+Trước đó, CEO OpenAISam Altmannói AI sẽ "đủ thông minh để giải quyết bước tiến nhanh chóng của bản thân chúng", gồm cả nguy cơ hủy diệt loài người.
+Tuy nhiên, ông cũng cho rằng AI nên được một cơ quan quốc tế quản lý như một chiếc máy bay nhằm đảm bảo việc thử nghiệm an toàn với nhân loại.
+Buterin ca ngợi cách tiếp cận này của Altman.
+Theo ông, việc kiểm soát bằng cách làm chậm hoặc tạm dừng AI nên được thực hiện nếu có những dấu hiệu về nguy cơ gây thiệt hại thảm khốc.
+Ý tưởng "công tắc AI" từng được nhiều chuyên gia đề cập.
+Năm 2023, Elon Muskcho rằng cần "công tắc ngắt phần cứng AI".
+Tháng 5/2024, 16 công ty AI lớn, trong đó có Anthropic, Microsoft, OpenAI, đại diện từ hơn 10 quốc gia và Liên minh châu Âu (EU), đồng thuậnvới chính sách ngừng phát triển mô hình AI tiên tiến nhất của mình nếu chúng vượt qua ngưỡng rủi ro nhất định.
+Nhiều quốc gia thời gian qua cũng bắt đầu đưa ra quy định kiểm soát rủi ro AI.
+Dù vậy, nỗ lực xây dựng khuôn khổ pháp lý toàn cầu về quản lý AI được đánh giá vẫn rời rạc.
+Khung chính sách của Liên Hợp Quốc yêu cầu các quốc gia bảo vệ và ngăn rủi ro AI đối với nhân quyền, giám sát việc sử dụng dữ liệu cá nhân, nhưng lại không có hiệu lực về mặt pháp lý.
+Vitalik Buterin là lập trình viên người Nga, sinh năm 1994.
+Ông lần đầu đề xuất thiết kế nền tảng Ethereum năm 2013 khi 19 tuổi cùng với Gavin Wood, Mihai Alisie, Anthony Di Iorio, Charles Hoskinson và một số nhà phát triển khác nhằm tạo ra một ngôn ngữ chung để phát triển các ứng dụng dựa trên blockchain.
+Sau khi huy động được 18 triệu USD trong đợt ICO năm 2014, phiên bản Ethereum chính thức đầu tiên được phát hành hai năm sau đó.
+Hiện token Ethereum (ETH) đứng thứ hai thị trường về giá trị vốn hóa, với 404 tỷ USD.

@@ -1,0 +1,12 @@
+Davis Lu, 55 tuổi, sống tại Houston, từng là nhà phát triển phần mềm cho công ty Eaton Corp ở Ohio từ tháng 11/2007 đến 10/2019.
+Công ty hoạt động trong lĩnh vực quản lý năng lượng toàn cầu, chuyên cung cấp giải pháp điện, thủy lực và cơ khí cho nhiều ngành công nghiệp.
+Năm 2018, Eaton tái cấu trúc và Lu nằm trong danh sách bị cho thôi việc.
+Người này không chấp nhận và âm thầm sử dụng thời gian rảnh rỗi trước khi nghỉ để xây dựng một "công tắc" độc hại.
+Theo cáo trạng của Bộ Tư pháp Mỹ cuối tuần qua, Lu viết các đoạn mã hoạt động như "vòng lặp vô tận", liên tục tạo ra luồng xử lý Java không bao giờ kết thúc, làm cạn kiệt tài nguyên máy chủ, xóa tệp hồ sơ của đồng nghiệp và gây sập hệ thống.
+Công tắc ẩn có tên IsDLEnabledinAD, có nghĩa "Is Davis Lu enabled in Active Directory" (Davis Lu có được kích hoạt trong Active Directory không).
+Ngày 9/9/2019, sau khi Lu chính thức bị sa thải, công tắc ẩn đã được kích hoạt khiến hàng nghìn người dùng trên toàn cầu của Eaton không thể truy cập tài khoản.
+Khi phải trả máy tính cho công ty, kỹ sư này cũng xóa dấu vết để tránh bị truy lùng.
+Bộ Tư pháp đã điều tra hoạt động tìm kiếm của Lu trên Internet và nhận thấy người này đã tìm cách tăng quyền hạn truy cập cho tài khoản của mình, ẩn các tác vụ và các phương thức xóa dữ liệu nhanh chóng.
+Eaton tuyên bố Lu gây thiệt hại "hàng trăm nghìn USD" cho công ty, trong khi luật sư bào chữa của người này nói con số chỉ khoảng 5.000 USD.
+Davis Lu có thể phải đối diện mức án 10 năm tù.
+Ngày tuyên án chưa được ấn định.

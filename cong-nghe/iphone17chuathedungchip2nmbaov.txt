@@ -1,0 +1,15 @@
+Trang công nghệGSMArenadẫn nguồn tin từ chuỗi cung ứng cho biết TSMC đang đối mặt với những thách thức về sản lượng wafer.
+Wafer, hay tấm bán dẫn silicon, đóng vai trò làm vật chứa để khắc họa các phần tử cấu thành chip thành phẩm.
+Theo báo cáo, TSMC hiện đạt công suất 10.000 tấm wafer mỗi tháng và dự kiến mở rộng lên 80.000 vào năm 2026, giúp đảm bảo việc sản xuất hàng loạt chip 2 nm thuận lợi.
+Trong khi đó, theoEconomic Daily, năng lực sản xuất, số liệu quan trọng để xác định có bao nhiêu chip được tạo ra từ một tấm wafer, của TSMC với wafer 2 nm mới đạt 60%.
+Với giá mỗi wafer khoảng 30.000 USD, hãng phải chịu khoản lỗ hàng tháng 120 triệu USD do tiến trình mới chưa đạt hiệu quả.
+Do đó, Apple sẽ phải tiếp tục sử dụng chip A-Series theo công nghệ 3 nm thêm một năm nữa để TSMC có thời gian cải thiện năng suất và điều chỉnh giá.
+Nguồn tin cũng cho biết Apple có thể vẫn công bố chip A-Series 2 nm năm nay, nhưng chủ yếu để phô diễn công nghệ, còn iPhone 17 trình làng vào tháng 9 với chip 3 nm thế hệ ba (N3P).
+iPhone 16 hiện trang bị Apple A18 theo tiến trình 3 nm thế hệ hai (N3E).
+Apple và TSMC chưa đưa ra bình luận.
+Tháng 9 năm ngoái, GSMArenadẫn báo cáotừ chuỗi cung ứng Đài Loan rằngApplesẽ công bố chip xử lý theo công nghệ 2 nm trong năm 2025.
+Tuy nhiên, do vấn đề về sản lượng, chip 2 nm sẽ chỉ được trang bị cho hai phiên bảniPhone 17dòng Pro.
+Hồi tháng 9, truyền thông đưa tin TSMC đã lên kế hoạch vận hành hai nhà máy P1 và P2 chuyên cho sản xuất chip 2 nm ở Công viên Khoa học Nanzi miền nam Đài Loan vào quý đầu tiên năm 2025 và mở rộng nhà máy P4 và P5 cho chip 1, 4 nm vào năm 2027.
+Bên cạnh Apple, nhiều khách hàng lớn khác cũng đã ký hợp đồng sản xuất chip sử dụng tiến trình 2 nm vào năm 2026, gồm cả các công ty chip di động, máy tính và chip AI như AMD, Nvidia, MediaTek và Qualcomm.
+Chip 2 nm được đánh giá làcuộc đua mớitrong năm nay và năm sau.
+Ngoài TSMC, Samsung Foundry và Intel cũng lên kế hoạch sản xuất loại chip dựa trên công nghệ này.

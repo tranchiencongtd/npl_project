@@ -1,0 +1,29 @@
+"Có sự hiểu lầm lớn về đầu tư cơ sở hạ tầng AI.
+Phần lớn trong số hàng tỷ USD đó được đầu tư vào cơ sở hạ tầng để 'suy luận', không phải để đào tạo", LeCun viết trên mạng xã hội Threads giữa tuần này.
+TheoBusiness Insider, suy luận là quá trình các mô hìnhAIáp dụng kiến thức đào tạo của chúng vào dữ liệu mới.
+Đó là cách các chatbot AI tạo sinh phổ biến như ChatGPT phản hồi yêu cầu của người dùng.
+Càng nhiều yêu cầu, càng cần nhiều suy luận hơn và từ đó chi phí sẽ tăng lên.
+Trước đó, mô hình R1 củaDeepSeekgây chấn động khi có chi phí vận hành thấp hơn nhiều nhưng được đánh giá "cho hiệu quả tương đương" với các sản phẩm AI mạnh nhất hiện nay.
+Theo phân tích độc lập của Bernstein Research, mô hình lý luận DeepSeek R1 có chi phí 0, 55 USD cho một triệu token được nhập vào, trong khi OpenAI o1 là 15 USD.
+Token là đơn vị dữ liệu nhỏ nhất mà mô hình AI xử lý.
+Trước đó, theo công bố của DeepSeek, R1 được đào tạo trên các chip kém tiên tiến H800 của Nvidia, mã nguồn mở 100%, rẻ hơn 96, 4% so với OpenAI o1 trong khi mang lại hiệu suất tương tự.
+Mô hình của công ty được đào tạo trên tập dữ liệu gồm 14, 8 nghìn tỷ token cùng kích thước khổng lồ với 671 tỷ tham số, lớn hơn 1, 6 lần so với Llama 3.1 405B.
+"Nếu OpenAI o1 mất 60 USD cho một triệu token đầu ra, DeepSeek R1 chỉ cần 2, 19 USD", Shubham Saboo, Giám đốc sản phẩm của DeepSeek, cho biết trên X cuối tháng 1.
+Thông tin này gây ra một đợt bán tháo, khiến cổ phiếu của Nvidia giảm 17% và xóa sổ gần 600 tỷ giá trị công ty trong ngày 27/1 vì các nhà đầu tư đặt dấu hỏi về các khoản tiền khổng lồ cho chip AI của hàng loạt công ty Mỹ.
+LeCun đánh giá đã có "sự hiểu lầm" khi so sánh chi phí giữa các mô hình như của OpenAI với DeepSeeek.
+"Việc chạy các dịch vụ trợ lý AI cho hàng tỷ người đòi hỏi rất nhiều tính toán.
+Khi bạn đưa khả năng hiểu video, lý luận, bộ nhớ quy mô lớn và các khả năng khác vào hệ thống AI, chi phí suy luận sẽ tăng lên", nhà khoa học AI trưởng của Meta giải thích.
+"Vì thế, phản ứng của thị trường đối với DeepSeek là thiếu cơ sở".
+Thomas Sohmers, nhà sáng lập Positron - công ty khởi nghiệp về phần cứng AI, đồng ý với LeCun rằng suy luận sẽ chiếm tỷ trọng lớn hơn trong chi phí cơ sở hạ tầng AI.
+"Nhu cầu suy luận và chi tiêu cho cơ sở hạ tầng sẽ tăng nhanh chóng", ông nói vớiBusiness Insider.
+Cũng theo Sohmers, trong tương lai, khi mức độ phổ biến cao hơn, DeepSeek sẽ phải xử lý nhiều yêu cầu hơn, qua đó buộc chi nhiều tiền hơn cho suy luận.
+Với môi trường ngày một cạnh tranh, một số chuyên gia trong lĩnh vực AI kỳ vọng chi phí suy luận về lâu dài sẽ giảm.
+Tuy nhiên, giáo sư Ethan Mollick của Trường Wharton cho rằng điều này chỉ áp dụng cho các hệ thống xử lý suy luận ở quy mô nhỏ.
+Theo ông, đối với mô hình như DeepSeek V3, khi cung cấp câu trả lời miễn phí cho lượng người dùng lớn, chi phí suy luận có thể cao hơn nhiều.
+Trước đó, trong báo cáo tài chính ngày 29/1, Mark Zuckerberg, CEO Meta, nói sự xuất hiện của DeepSeekkhông khiếnông nghĩ lại về mục tiêu chi hàng trăm tỷ USD vào hạ tầng AI.
+Ông coi startup Trung Quốc là đối thủ cạnh tranh mới và đang học hỏi từ họ, nhưng "còn quá sớm" để xác định liệu nhu cầu về chip có ngừng tăng hay không vì chúng rất quan trọng trong đào tạo AI.
+Zuckerberg cũng lưu ý rằng Meta đang có hàng tỷ người dùng.
+Yann Lecun cùng vớiGeoffrey HintonvàYoshua Bengio, là ba người được mệnh danh là Godfather of AI (bố già AI).
+Là người đặt nền móng cho AI hiện đại, Lecun cũng nổi tiếng với quan điểm phủ nhận AI thống trị thế giới, trái ngượcvới những doanh nhân nhưElon Musk.
+DeepSeek đượcLiang Wenfengthành lập tháng 5/2023, đặt trụ sở ở Hàng Châu, Chiết Giang, và do quỹ đầu tư High-Flyer sở hữu.
+Công ty được High-Flyer tài trợ và không có kế hoạch huy động vốn, tập trung vào xây dựng công nghệ nền tảng.

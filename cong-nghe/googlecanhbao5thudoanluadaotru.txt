@@ -1,0 +1,33 @@
+Theo công bố của Google ngày 11/2, người dùng Internet trong nước đã phải đối phó hàng loạt nguy cơ lừa đảo ngay từ tháng đầu năm.
+Thông qua tính năng bảo vệ, chống lừa đảo nâng cao với Google Play Protect hợp tác cùng Cục An toàn thông tin Việt Nam (AIS) cuối năm ngoái, Google phát hiện và bảo vệ hơn 360.000 thiết bị khỏi hơn 1, 5 triệu cài đặt rủi ro trên 8.000 ứng dụng độc hại tại Việt Nam trong tháng 1.
+Bên cạnh đó, hãng cũng chỉ ra 5 thủ đoạn lừa đảo trực tuyến phổ biến gần đây tại Việt Nam, với nhiều trong đó lợi dụng AI cho mục đích xấu.
+Kẻ lừa đảo sử dụng AI tạo video, âm thanh và hình ảnh giả mạo người nổi tiếng để thực hiện chiêu trò lừa đảo.
+Video deepfake kết hợp với bài báo và bài đăng bịa đặt trên mạng xã hội thường được sử dụng để giới thiệu các khoản đầu tư bất hợp pháp, đặc biệt trong lĩnh vực tiền số.
+"Sự kết hợp giữa gương mặt có sức ảnh hưởng, nội dung trông chuyên nghiệp và lời hứa hẹn về lợi nhuận cao khiến các vụ lừa đảo này trở nên đặc biệt thuyết phục", theo Google.
+Công ty cũng cho biết đã phát triển một số công cụ để xác định và nhận diện nội dung tạo bởi AI, chẳng hạn SynthID.
+Theo Google, người dùng cần luôn cảnh giác với lời khuyên đầu tư từ người nổi tiếng, đặc biệt trên mạng xã hội.
+Khi xem video, cần quan sát kỹ các điểm yếu mà AI để lộ, như biểu cảm khuôn mặt không tự nhiên, một số chi tiết bị thiếu...
+Kẻ lừa đảo lợi dụng các sự kiện lớn, tận dụng AI để nâng cấp độ tinh vi của các thủ đoạn hiện có.
+Kẻ xấu sẽ nhanh chóng nắm bắt các sự kiện nổi bật, sau đó bán vé giả hoặc mạo danh tổ chức từ thiện.
+"Từ những buổi hòa nhạc, sự kiện thể thao, lễ hội văn hóa cho đến thảm họa thiên nhiên, mọi dịp đều có thể trở thành mục tiêu của những kẻ lừa đảo", Google cho biết.
+"Khi sự kiện diễn ra, mọi người thường cảm thấy áp lực phải hành động nhanh chóng, vô tình tạo cơ hội cho lừa đảo".
+Kẻ lừa đảo dạng này thường nhắm đến những người đang tìm kiếm công việc từ xa.
+Chúng đăng tin giả trên các trang web tuyển dụng uy tín và mạng xã hội, sau đó tiến hành các buổi phỏng vấn video chuyên nghiệp và thực hiện quy trình giới thiệu chi tiết, thường là giả mạo công ty quốc tế trong lĩnh vực giao dịch tiền số hoặc tiếp thị kỹ thuật số.
+Để tăng độ tin cậy, kẻ gian còn giả mạo hợp đồng và tài liệu liên quan.
+Ngoài việc yêu cầu các khoản phí trả trước và đánh cắp dữ liệu, cách thức này còn lôi kéo nạn nhân tham gia vào các hoạt động rửa tiền hoặc các hành vi phạm khác.
+Nạn nhân có thể vô tình bị cuốn vào các giao dịch tài chính hoặc chuyển tiền số, dẫn đến các hậu quả pháp lý nghiêm trọng do dính líu đến hoạt động bất hợp pháp.
+Theo Google, người dùng cẩn trọng với các đề xuất công việc "quá hấp dẫn để thành sự thật", đặc biệt là lời mời liên quan đến chuyển tiền.
+Nhà tuyển dụng hợp pháp thường không bao giờ yêu cầu thanh toán chi phí trong quá trình tuyển dụng hoặc dùng tài khoản cá nhân cho công việc kinh doanh, do đó cần xác minh lại cơ hội việc làm thông qua kênh chính thức của công ty.
+Kẻ lừa đảo thường tạo ra các website "nhái" trang mua sắm, du lịch và bán lẻ hợp pháp, dụ dỗ nạn nhân bằng mức giá hấp dẫn cho mặt hàng phổ biến, hàng hóa xa xỉ, vé hòa nhạc hoặc ưu đãi du lịch.
+Thông thường, những website này được sao chép một cách tinh vi, từ giao diện đến các dịch vụ khách hàng, khiến gần như không thể phân biệt được với các trang chính thức.
+Để tránh bị phát hiện, kẻ lừa đảo sử dụng kỹ thuật như "cloaking" (che đậy) và tạo cảm giác cấp bách bằng cách đưa ra "ưu đãi có thời hạn" nhằm buộc người dùng quyết định nhanh chóng.
+Hậu quả là nạn nhân thường không nhận được gì, nhận phải hàng giả, hoặc đối mặt với các khoản phí bất hợp pháp và dữ liệu cá nhân bị xâm phạm.
+Theo Google, người dùng cần xác minh trang web trước khi mua hàng, đặc biệt trong các đợt giảm giá.
+Kiểm tra liên kết, các tính năng bảo mật, cảnh giác với mức giá thấp và lời hối thúc mua nhanh chóng.
+Kẻ lừa đảo thường mạo danh nhân viên hỗ trợ kỹ thuật của các công ty, ngân hàng và cơ quan nhà nước, sau đó tạo ra những tình huống khẩn cấp, chẳng hạn thông báo thiết bị, tài khoản hoặc bảo mật của các nạn nhân đang gặp vấn đề.
+Khi tiếp cận mục tiêu thành công, chúng sẽ sử dụng ngôn ngữ kỹ thuật một cách thuyết phục kèm các trang hỗ trợ giả.
+Để tăng độ tin cậy, kẻ lừa đảo còn sử dụng thủ đoạn tinh vi như giả mạo ID người gọi và chuẩn bị sẵn kịch bản đối thoại.
+Phương thức tiếp cận của chúng cũng linh hoạt: nhắm vào người cao tuổi bằng cách giả danh các công ty công nghệ quen thuộc, hoặc tiếp cận giới trẻ thông qua nền tảng trò chơi.
+Mục đích của chúng là dụ dỗ nạn nhân cài đặt phần mềm truy cập từ xa, từ đó có thể kiểm soát thiết bị, truy cập vào dữ liệu cá nhân, thông tin tài khoản ngân hàng, thực hiện giao dịch trái phép.
+Google cảnh báo người dùng không cấp quyền truy cập từ xa cho tài khoản lạ.
+Các công ty hợp pháp sẽ không chủ động thực hiện cuộc gọi hỗ trợ kỹ thuật, hoặc người dùng nên liên hệ trực tiếp với công ty thông qua kênh chính thức, đồng thời tăng cường bảo mật với tính năng xác minh hai bước, khóa truy cập hoặc trình quản lý mật khẩu.

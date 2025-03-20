@@ -1,0 +1,27 @@
+"Có lẽ ngay trong 2025, Meta cũng như các công ty khác đang nghiên cứu vấn đề này", Zuckerberg nói trong podcastThe Joe Rogan Experiencengày 10/1, đề cập đến mục tiêu tự động hóa lập trình.
+"Sẽ có một mô hình AI hoạt động như một kỹ sư cấp trung, với trình độ của một người có thể viết mã thành thạo".
+Cũng theoZuckerberg, quá trình áp dụng ban đầu có thể gây tốn kém, nhưng công ty sẽ sớm đạt đến "điểm" mà AI vận hành trơn tru, thậm chí chúng có thể tự kiểm soát và lên kế hoạch.
+Lúc này, chi phí sẽ giảm đáng kể.
+Theo dữ liệu được tổng hợp bởiLevels.fyi, công ty chuyên tổng hợp dữ liệu lương thưởng của người làm công nghệ, công bố đầu năm ngoái, Meta hiện trả lương cho kỹ sư phần mềm cấp trung "khoảng 6 con số".
+Với kỹ sư cao cấp, thu nhập có thể tới 1, 2 triệu USD mỗi năm.
+Meta chưa đưa ra bình luận.
+Tháng trước, Salesforce, công ty dữ liệu đám mây của Mỹ, cũng tuyên bố không tuyển thêm bất kỳ kỹ sư phần mềm nào trong năm 2025 do năng suất công việc đang tăng đáng kể nhờ AI.
+Công ty hiện phát triển Agentforce - mộtAI Agent(Tác nhân AI) tự động có thể tùy chỉnh hoàn toàn, kết nối với dữ liệu doanh nghiệp và thực hiện các tác vụ trong lĩnh vực bán hàng, dịch vụ khách hàng, tiếp thị và thương mại.
+"Với công cụ AI đang áp dụng tại các bộ phận và nhóm kỹ thuật, gồm Agentforce, năng suất của chúng tôi đã tăng hơn 30% năm 2024 - mức đáng kinh ngạc.
+Tôi không thể tin những gì chúng tôi đang đạt được", Marc Benioff, nhà đồng sáng lập kiêm CEO Salesforce viết trên blog công ty ngày 17/12/2024.
+Benioff cho biết trong năm nay, Salesforce sẽ tập trung chủ yếu vào nhân lực bán hàng vì "thực sự cần giải thích cho mọi người chính xác giá trị mà công ty đang có và có thể đạt tới".
+Ông dự kiến tuyển từ 1.000 đến 2.000 nhân viên bán hàng "trong thời gian ngắn" cho mục tiêu này.
+"Mọi thứ tại Salesforce hiện đều hướng đến Agentforce.
+Đây là điều duy nhất thực sự quan trọng lúc này", Benioff nhấn mạnh.
+Từng được xem là nghề "hot" trong nhiều năm, lập trình viên đang bị một số công ty thay bằng công cụ AI và tự động hóa.
+Năm ngoái, Klarna, công ty tài chính trực tuyến tại Thụy Điển, cho biết gần như không còn tuyển dụng hơn một năm qua vì tin "AI làm được mọi thứ".
+TheoBusiness Insider, AI ngày càng tác động đến việc làm, khiến nhiều người lo ngại bị "cướp" việc.
+Trước đó, giới chuyên gia cũng cho rằng đợt đại sa thải công nghệ lớn năm nay một phần liên quan đến "bóng ma AI".
+Báo cáo năm 2023 của McKinsey & Company ước tính 12 triệu người Mỹ sẽ phải đổi nghề hoặc thất nghiệp vào năm 2030 khi AI phát triển.
+Quỹ Tiền tệ quốc tế (IMF) dự báo tại Diễn đàn kinh tế thế giới đầu 2024 rằng hơn 40% lao động toàn cầu sẽ bị ảnh hưởng bởi AI vào năm 2030.
+Tuy nhiên, theo giới chuyên gia, AI thể hiện sự tiến bộ xuất sắc trong nhiều lĩnh vực, nhưng chưa hoàn toàn thay con người, đặc biệt ở những công đoạn đòi hỏi tư duy chiến lược, nghiên cứu.
+Có nghĩa, AI chưa mạnh ở lĩnh vực vật lý và tương tác xã hội.
+"Những lĩnh vực ứng dụng phức tạp, có yếu tố xã hội và ảnh hưởng đến con người sẽ vẫn là nơi con người đảm nhận chủ yếu.
+AI hỗ trợ trong việc thiết kế công nghệ, nhưng điều đó khác hoàn toàn so với việc hiểu và xử lý bối cảnh xã hội mà công nghệ được áp dụng", giáo sư Yoshua Bengio chia sẻ tại một sự kiện về AI tháng trước ở Việt Nam.
+Trong khi đó, ôngTrương Gia Bình, Chủ tịch FPT, cho rằng AI cần được coi là "đồng minh" chứ không giành việc của con người.
+Nhưng thay vì đứng yên, mỗi người cần học hỏi và thích nghi để duy trì tính cạnh tranh trên thị trường lao động, cần có hiểu biết cơ bản về AI, học máy, khoa học dữ liệu, cũng như kỹ năng giải quyết vấn đề và phân tích để làm việc hiệu quả với các hệ thốngAI.

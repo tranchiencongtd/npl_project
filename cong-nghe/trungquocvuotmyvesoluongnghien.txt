@@ -1,0 +1,11 @@
+Nature dẫn nghiên cứu của tổ chức Emerging Technology Observatory (ETO) cho thấy có 475.000 bài nghiên cứu về thiết kế và sản xuất chip được công bố trên toàn cầu từ năm 2018 đến 2023.
+Trong đó, 34% được thực hiện bởi các đơn vị Trung Quốc, vượt xa mức 15% của Mỹ và 18% của châu Âu.
+Dù không phải các chủ đề "nóng" như AI và mô hình ngôn ngữ lớn (LLM), Trung Quốc đang dồn sức thúc đẩy tương lai của ngành sản xuất chip nội địa.
+Về chất lượng, trong 10% bài báo nghiên cứu có lượng trích dẫn cao nhất, 50% đến từ Trung Quốc, trong khi Mỹ và châu Âu lần lượt chiếm 22% và 17%.
+Ấn Độ, Nhật Bản và Hàn Quốc cũng đóng góp vào cả hai chỉ số này, nhưng chưa đạt được thành tựu đáng kể như Trung Quốc.
+Tỷ lệ trên không đồng nghĩa công nghệ Trung Quốc vượt trội Mỹ, nhưng chuyên gia phân tích Zachary Arnold của ETO cho biết: "Tôi không chắc chúng ta từng thấy lĩnh vực nào có sự chênh lệch lớn đến vậy.
+Khi bạn chứng kiến nhiều hoạt động như thế, khó tưởng tượng điều đó lại không ảnh hưởng đến khả năng công nghệ và khả năng sản xuất của Trung Quốc những năm tới".
+Về mặt nghiên cứu, Trung Quốc tập trung vào tính toán thần kinh (dựa trên bộ xử lý cấu trúc nơ ron) và tính toán quang điện (sử dụng ánh sáng truyền dữ liệu trong chip).
+Đây là những công nghệ ngoài khuôn khổ truyền thống củađịnh luật Moore, vì vậy không bị ảnh hưởng bởi các quy định hạn chế.
+Lệnh cấm từ năm 2022 của Mỹ đối với ngành chip Trung Quốc chủ yếu là hạn chế khả năng tiếp cận công nghệ tiên tiến, cấm nhập khẩu thiết bị sản xuất chip hiện đại (quy trình sản xuất nhỏ hơn 14 nm).
+Tuy nhiên, Trung Quốc được cho là đã phát minh ra công nghệ sản xuất chip mới vượt sự kiểm soát của phương Tây.

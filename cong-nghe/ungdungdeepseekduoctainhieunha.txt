@@ -1,0 +1,19 @@
+Trưa 28/1, "DeepSeek - Trợ lý AI" vươn lên vị trí số một trong bảng xếp hạng ứng dụng miễn phí được tải về nhiều nhất trên kho ứng dụng App Store và nằm trong top 5 ở hạng mục Hiệu suất trên CH Play.
+Trên kho ứng dụng, nhiều người dùng từ Việt Nam cũng để lại bình luận khen ngợi DeepSeek, so sánh với sản phẩm từ OpenAI, Google.
+"Tôi nghĩ đây là ứng dụng AI miễn phí tốt nhất từng biết.
+Nó thông minh, phản hồi nhanh, chất lượng có thể đạt 9/10 so với ChatGPT Pro, trong khi miễn phí", người dùng tên Thánh nhận xét.
+Một số đề nghị ứng dụng bổ sung tính năng đăng nhập bằng tài khoản và mật khẩu thay cho mã gửi đến điện thoại, đồng thời nâng cấp các công cụ tối ưu hóa cho thị trường Việt.
+DeepSeeknhanh chóng gây sốt toàn cầu sau khi được đưa lên các kho ứng dụng khoảng hai tuần.
+Tại nhiều thị trường, trong đó có Mỹ - quê hương của hàng loạt chatbot AI như ChatGPT, Gemini và Meta AI, DeepSeek cũng giành được vị trí đầu tiên.
+Sáng 28/1, website của DeepSeek hiển thị thông báo "bị tấn công trên quy mô lớn", khiến việc tạo tài khoản có thể gặp khó khăn.
+Theo công ty phân tích ứng dụng di động Appfigures, DeepSeek hiện là ứng dụng miễn phí số một trên App Store ở ít nhất 52 quốc gia và vùng lãnh thổ, tính đến sáng 28/1.
+Ứng dụng nằm trong Top 10 miễn phí tại 111 quốc gia trên App Store và 18 quốc gia trên Google Play.
+Cuối tuần trước, ứng dụng DeepSeek được ghi nhận khoảng một triệu lượt tải xuống trên hai nền tảng, nhưng con số tăng lên 2, 6 triệu vào ngày 27/1.
+Công ty phân tích Sensor Tower cho biết hơn 80% tổng số lượt tải xuống ứng dụng di động của DeepSeek diễn ra trong 7 ngày qua, nhiều hơn 300% so vớiPerplexity, một ứng dụng AI được ưa chuộng khác.
+23% lượt tải từ thị trường Trung Quốc, 15% từ Mỹ.
+"Trong khi đã hàng trăm triệu người sử dụng ChatGPT và Gemini mỗi tháng, DeepSeek chứng minh không gian AI dành cho người tiêu dùng vẫn còn và không nên loại trừ các đối thủ cạnh tranh mới", trang công nghệTechCrunchđánh giá.
+DeepSeek được thành lập vào năm 2023 bởiLiang Wenfeng, đồng sáng lập của quỹ đầu tư chuyên về AI High-Flyer.
+Công ty bắt đầu phát triển DeepSeek vào tháng 4/2023 nhằm đạt được siêu trí tuệ nhân tạo tổng quát AGI, tương tự mục tiêu mà OpenAI và nhiều công ty đang theo đuổi.
+DeepSeek bắt đầu thu hút sự chú ý tuần trước khi phát hành R1, mô hình với khả năng lý luận, cạnh tranh với o1 của OpenAI.
+Điều đặc biệt của sản phẩm từ Trung Quốc là sử dụng mã nguồn mở, tức cho phép các nhà phát triểnAIkhác có thể cùng sử dụng và đóng góp, tương tự mô hình Llama của Meta.
+Ngoài ra, chúng được xây dựng với nguồn lực khiêm tốn do hạn chế nhập khẩu chip vào Trung Quốc, được ước tính đào tạo với chi phí 5, 6 triệu USD, bằng phần nhỏ so với các mô hình của OpenAI, Anthropic, Google, Meta.

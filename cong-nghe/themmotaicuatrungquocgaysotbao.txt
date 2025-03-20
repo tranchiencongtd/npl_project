@@ -1,0 +1,20 @@
+Ra mắt ngày 6/3, Manus được nhiều phương tiện truyền thông gọi là "khoảnh khắcDeepSeekthứ hai", ám chỉ việc tác nhân AI này có thể tạo đột phá mới giống như công ty đồng hương đã làm được hồi đầu năm.
+Trong video đăng trên X thu hút hơn 200.000 lượt xem sau khi ra mắt, Manus được giới thiệu là "tác nhân AI đa năng kết nối tâm trí và hành động, không chỉ suy nghĩ, mà còn mang lại kết quả".
+TrangForbesgọi đây là "tác nhân AI hoàn toàn tự động đầu tiên trên thế giới", với khả năng suy nghĩ, lập kế hoạch và thực hiện các nhiệm vụ một cách độc lập như con người.
+Trong khi các ứng dụng như ChatGPT, Gemini cần dựa vào lời nhắc của con người để thực hiện tuần tự công việc, Manus không cần chờ hướng dẫn, mà được thiết kế để tự khởi tạo các nhiệm vụ, đánh giá thông tin mới và điều chỉnh cách tiếp cận một cách năng động.
+Ví dụ khi nhận một tệp tin nén chứa các bộ sơ yếu lý lịch, AI này không chỉ xếp hạng các ứng viên mà còn đọc thông tin của từng người, trích xuất các kỹ năng liên quan và tự đối chiếu với các xu hướng tuyển dụng của thị trường, sau đó đưa quyết định tuyển dụng tối ưu được thể hiện trên một bảng tính Excel do chúng tự tạo.
+Hay khi người dùng đưa ra yêu cầu chung chung như "tìm cho tôi một căn hộ ở San Francisco", Manus sẽ liệt kê các kết quả tìm kiếm, cùng số liệu thống kê về xu hướng cho thuê, thông tin thời tiết, hoặc số liệu thống kê về tội phạm quanh khu vực, sau đó tạo một danh sách rút gọn các căn hộ nó cho là phù hợp với người dùng.
+Chìa khóa cho sức mạnh của Manus đến từ kiến trúc đa tác nhân.
+Thay vì dựa vào một mạng nơ-ron duy nhất, nó hoạt động như một "giám đốc điều hành", quản lý một nhóm tác nhân phụ chuyên biệt.
+Khi được giao một nhiệm vụ nào đó, nó sẽ chia vấn đề thành các phần có thể quản lý được, giao cho tác nhân phù hợp và theo dõi tiến trình.
+TheoSCMP, Manus được phát triển bởi Butterfly Effect, một công ty được cho là có vài chục nhân viên tại Bắc Kinh và Vũ Hán.
+Đội ngũ sáng lập Butterfly Effect gồm một số doanh nhân và nhà quản lý sản phẩm có sức ảnh hưởng trong cộng đồng công nghệ Trung Quốc.
+Đây được cho là một trong những lý do giúp sản phẩm này trở nên nổi tiếng chỉ sau một đêm.
+Người đại diện giới thiệu về Manus là Yichao "Peak" Ji, đồng sáng lập kiêm nhà khoa học trưởng của dự án.
+Ji Yichao là một doanh nhân 33 tuổi người Trung Quốc, từng tạo ra một trình duyệt di động Mammoth và thành lập Peak Labs tại Mỹ.
+Trong nhóm sáng lập còn có Xiao Hong, 33 tuổi, là một doanh nhân nổi tiếng, đã tạo ra nhiều ứng dụng plug-in phổ biến trên nền tảng WeChat.
+Năm 2022, anh đã ra mắt Monica.ai, một trợ lý AI phổ biến có sẵn dưới dạng tiện ích mở rộng trình duyệt và ứng dụng trên nền tảng di động và máy tính để bàn.
+Tuy nhiên hoạt động của Manus cũng gây tranh cãi khi chỉ cho số ít người được mời sử dụng, dấy lên nghi vấn nhóm phát triển cố tình tạo sự khan hiếm cho sản phẩm của mình.
+Tài khoản X của Manus cũng bị khóa không lâu sau khi ra mắt.
+Theo Zhang Tao, một đối tác sản phẩm của Manus, cho biết nhóm đã không lường trước được phản ứng quá nhiệt tình từ thị trường, trong khi năng lực của máy chủ còn hạn chế.
+"Phiên bản hiện tại của Manus vẫn còn trong giai đoạn đầu, còn rất lâu mới đạt đến mục tiêu chúng tôi mong muốn về sản phẩm cuối cùng", Tao nói.

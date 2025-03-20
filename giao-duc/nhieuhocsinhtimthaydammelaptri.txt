@@ -1,0 +1,40 @@
+Bé Tạ Kim Yến, Bình thuận bắt đầu nhập học FUNiX từ tháng 8/2024.
+Mỗi tuần ba buổi, em học cùng mentor qua nền tảng Zoom.
+Cô bé 9 tuổi dần quen với các câu lệnh phát triển game trên nền tảng Scratch và hoàn thiện nhiều game như: Pac-man, Flappy bird, Space defender resource...
+Chị Huỳnh Thị Liệu, mẹ của Kim Yến là người đưa em đến với khóa lập trình.
+Chị nhận thấy công nghệ thông tin là một trong những lĩnh vực quan trọng, cần tiếp xúc, trải nghiệm sớm.
+Gia đình không có ai làm trong lĩnh vực công nghệ thông tin, người mẹ tìm hiểu về chương trình học lập trình cho trẻ em nhưng không rõ phương pháp nào phù hợp với con mình.
+Chị đăng ký lớp học thử tại FUNiX, lựa chọn khóa họcLập trình Scratchdành cho học sinh tiểu học.
+Trong giờ học trực tuyến, Kim Yến được tiếp cận với các thầy cô - mentor, những người làm trong lĩnh vực IT.
+Các mentor hướng dẫn em học, làm quen với các câu lệnh đơn giản và tư vấn đánh giá năng lực cho gia đình trước khi quyết định theo học.
+Sau thời gian ngắn, chị Liệu luôn thấy con hào hứng, tự giác học lập trình Scratch tại FUNiX.
+Đến nay, Yến đã tự vào chương trình học online và chủ động sắp xếp thời gian để học tập một cách hợp lý hơn.
+Sau khi con gái hoàn thành khóa học, chị Liệu quyết định cho con học thêm các khóa học bổ ích khác của FUNiX.
+Cũng yêu thích lập trình nhưng chưa có cơ hội được tiếp xúc, Hồ Minh Lâm (14 tuổi, Tân Phú, TP HCM) tự tìm hiểu và xin bố mẹ đăng ký học thử tại FUNiX.
+Theo chị Đặng Thị Dung - mẹ của em, gia đình hoàn toàn ủng hộ khi con thích học lập trình và chủ động tìm hiểu địa chỉ uy tín.
+Sau lớp học thử, Minh Lâm thấy rất thích học lập trình, một phần cũng vì tò mò về cách tạo ra được những trò chơi, trang web theo ý mình.
+Em thuyết phục bố mẹ cho theo học khóaKhoa học máy tính với Pythonđể học cách lập trình game trên nền tảng Code Combat và được gia đình đồng ý.
+Mỗi tuần, Lâm dành một buổi để học trực tuyến cùng mentor Mạnh Đức.
+Cậu học trò lớp 9 thích thú khi được tìm hiểu những kiến thức căn bản về máy tính, lập trình qua hình thức vừa học vừa chơi.
+Sau vài buổi, Lâm dễ dàng vượt qua cách học và kiến thức mới, ngày càng yêu thích, tò mò về ngôn ngữ lập trình Python, cách sử dụng câu lệnh để tạo ra những game của riêng mình.
+Chị Đặng Dung chia sẻ, con luôn chủ động tự giác khi học.
+Sau một năm học tại FUNiX, bố mẹ rất vui khi thấy con có nhiều tiến bộ trong môn Tin học.
+"Tôi thấy con được học và làm những sản phẩm mang cá tính riêng, chương trình học bài bản, lộ trình rõ ràng.
+Thời gian tới, khi con sắp xếp được thời gian, tôi sẽ đăng ký cho con học tiếp khoá nâng cao", chị Dung nói thêm.
+Chị Dung và chị Liệu là hai trong nhiều phụ huynh đã cho con trải nghiệm các lớp học thử lập trình miễn phí tại FUNiX trước khi lựa chọn định hướng học lập trình lâu dài tại đây.
+Đại diện FUNiX cho biết, lớp học thử cho các em trải nghiệm cách học FUNiX - học trực tuyến với sự đồng hành của mentor.
+Đồng thời, học viên được đánh giá năng lực, nhận tư vấn về lộ trình học tập công nghệ phù hợp.
+Hiện, đơn vị có nhiều lớp học thử dành cho học sinh từ lớp 3 đến lớp 9 trên toàn quốc, áp dụng cho hai khóa học là Lập trình Scratch và Khoa học máy tính với Python.
+"Qua chương trình, nhiều học viên thử sức, đánh giá niềm yêu thích cũng như năng khiếu lập trình của mình.
+Nhiều bạn chưa có nền tảng về công nghệ nhưng có thiên hướng nên đã tự tin theo học và ngày càng đam mê, trong đó có những bạn đã học liên tiếp nhiều khóa trong nhiều năm", vị đại diện chia sẻ.
+Phạm Minh Trí (lớp 9, trường THCS Thanh Xuân Trung, Hà Nội) là một trong số đó.
+Yêu thích công nghệ từ nhỏ, em hay tìm hiểu và tò mò về cách tạo ra các tựa game.
+Chị Bùi Thị Hương, mẹ Minh Trí, đã cho con thử trải nghiệm phương pháp và kiến thức IT tại FUNiX, sau đó quyết định đăng ký học lâu dài tại đây.
+Tới nay, Trí đã có hơn bốn năm theo học FUNiX và tin tưởng theo định hướng ngành IT trong tương lai.
+Khóa học đầu tiên của Trí là Lập trình website khi đang học lớp 4.
+Dần dần, em theo các khóa học nâng cao như lập trình C cơ bản và Khoa học máy tính với Python (CS) - lập trình game trên nền tảng CodeCombat, lập trình Roblox.
+Hiện, nam sinh là học viên khóa Software Engineering.
+Chị Hương cho hay, hai mẹ con đặt mục tiêu Trí có thể trở thành lập trình viên, đi làm ngay sau khi học xong cấp ba và tự kiếm tiền, tiếp tục chinh phục bằng cử nhân công nghệ thông tin.
+"Tôi hài lòng về phương pháp học của FUNiX.
+Từ khi theo phương pháp này, con chủ động, biết tự tìm hiểu kiến thức, cách hỏi và có cộng đồng bạn bè trong lĩnh vực IT.
+Mong rằng con có thể tiến xa hơn trong lĩnh vực này, bắt đầu từ những khóa học mình đã lựa chọn cho con", chị Hương nói.

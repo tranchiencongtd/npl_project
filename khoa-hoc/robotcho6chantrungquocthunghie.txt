@@ -1,0 +1,17 @@
+Tại khu vực chỏm băng gần trạm Zhongshan của Trung Quốc ở châu Nam Cực, robot chó 6 chân do Trung Quốc tự phát triển vừa hoàn thành loạt thử nghiệm nghiên cứu khoa học, đánh dấu bước tiến mới về thiết bị nghiên cứu vùng cực của nước này, Global Timeshôm 27/1 đưa tin.
+Video cho thấy robot chó di chuyển qua tuyết và băng, mang theo một chiếc hộp trên lưng mà không bị trượt hay ngã.
+Các nhà phát triển đã thiết kế một loại giày đặc biệt cho robot chó để duy trì sự ổn định, thích nghi với môi trường khắc nghiệt của châu Nam Cực.
+"Vật liệu giày có thể chịu được nhiệt độ thấp tới -40 độ C.
+Hơn nữa, khi tiếp xúc với băng, áp lực mà nó tạo ra rất nhỏ, cung cấp khả năng chống trượt mà không gây hại đáng kể cho bề mặt băng.
+Điều này đảm bảo robot chó có thể đi trên băng như trên mặt đất bằng phẳng", Mao Shijie, trưởng nhóm phát triển robot chó 6 chân châu Nam Cực, giám đốc chi nhánh Thượng Hải của Viện Nghiên cứu Lenovo, cho biết.
+Robot chó không chỉ trang bị giày đặc biệt mà còn có pin cách nhiệt trong bụng, cho phép hoạt động trong hai giờ ở nhiệt độ khắc nghiệt của châu Nam Cực từ -30 độ C đến -40 độ C.
+Tuy nhiên, mức này vẫn chưa đáp ứng kỳ vọng, khiến nhóm phát triển phải tìm kiếm giải pháp tiên tiến hơn để kéo dài thời lượng pin."Với nghiên cứu khoa học, chúng tôi thường cần robot hoạt động hơn 4 giờ, chẳng hạn trong các cuộc thăm dò bề mặt băng.
+Trong những trường hợp như vậy, chúng tôi thêm hai pin phụ bên trên, đảm bảo nó có thể hoạt động 4 - 6 giờ", Mao bổ sung.
+Robot chó 6 chân hiện đã hoàn thành các thử nghiệm liên quan đến đi bộ và chở hàng trên mặt băng trơn trượt, lạnh giá của châu Nam Cực, có khả năng chở hàng nặng 70 - 100 kg.
+Nhóm nghiên cứu cho biết, nhiệm vụ của robot chó sẽ không giới hạn ở vận chuyển hàng hóa.
+Trong tương lai, nó sẽ được cải tiến và nâng cấp dựa trên nhu cầu của các nhóm nghiên cứu khoa học để hỗ trợ những nhiệm vụ như thăm dò độ an toàn và hoạt động thực địa.
+Mao nhấn mạnh rằng an toàn là một vấn đề lớn, vì các khe nứt trong băng không thể nhìn thấy khi đi bộ trên bề mặt.
+Do đó, một trong những nhiệm vụ quan trọng của robot chó là mang theo thiết bị phát hiện khe nứt băng và đi trước toàn đội.
+Dữ liệu thu thập trong những thử nghiệm tại chỗ sẽ hỗ trợ cho việc nâng cấp và sửa đổi robot chó trong tương lai.
+Ngoài ra, nhóm phát triển còn dự định tích hợp robot chó với robot dưới nước và drone để thực hiện các hoạt động kết hợp, giải quyết tình huống phức tạp như lấy mẫu tại nhiều địa điểm dưới nước.
+Ngoài nghiên cứu khoa học, robot chó 6 chân dự kiến tham gia nhiều lĩnh vực khác như giám sát thiết bị điện, trợ giúp người già sống một mình hoặc di chuyển khó khăn thông qua tích hợp công nghệ AI.

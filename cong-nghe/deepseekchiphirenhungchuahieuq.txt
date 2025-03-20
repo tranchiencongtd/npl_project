@@ -1,0 +1,31 @@
+Từ cuối tháng 1, DeepSeekthu hút sự chú ý lớn nhờ vào khả năng được đánh giá là không thua kém các mô hình AI hàng đầu, trong khi chi phí rẻ hơn.
+Tuy nhiên, Business Insiderđã khảo sát những người thường xuyên dùng AI tạo sinh và nhận thấy mô hình của Trung Quốc chưa thực sự hiệu quả cho công việc của họ.
+Sainag Nethala, quản lý tài khoản kỹ thuật 33 tuổi sống tại Illinois, cho biết rất háo hức sử dụng DeepSeek R1 khi AI này được giới thiệu ngày 20/1.
+Trước đó, anh thường dùng Claude của Anthropic hay ChatGPT của OpenAI để phân tích mã và soạn thảo email nhằm tiết kiệm thời gian làm việc.
+Tuy vậy, Nethala cho biết R1 không hữu ích cho những truy vấn ít mang tính kỹ thuật.
+Theo anh, ChatGPT vẫn là công cụ tốt nhất cho "các câu hỏi ngẫu nhiên và động não", trong khi Claude là lựa chọn hàng dầu khi muốn "phân tích sâu sắc" một vấn đề.
+"DeepSeek giống một người bạn tốt, giỏi toán nhưng không giỏi câu hỏi chung chung", Nethala nhận xét.
+Một số người khác thường xuyên dùng AI cho công việc như soạn email, tóm tắt tài liệu, cải thiện code và viết nội dung nhận xét AI của Trung Quốc "nhìn chung hoạt động tốt, trong đó miễn phí là một lợi thế lớn".
+Dù vậy, nó dường như "tụt hậu so với các đối thủ AI của mình ở một số lĩnh vực".
+Robert Benson-May, 30 tuổi, kế toán viên tại Anh, thường viết bản tin về doanh nhân và đăng lên trang cá nhân.
+Với công việc chính, anh sử dụng ChatGPT và Claude bản trả phí để soạn thảo email và tóm tắt tài liệu.
+Còn khi viết bản tin, anh kết hợp cả AI trả phí lẫn miễn phí.
+Với DeepSeek R1, Benson-May cho biết nó hoạt động khá giống với ChatGPT, nhưng có điểm khác biệt.
+Chẳng hạn, R1 rất giỏi viết bài, có tính sáng tạo hơn một chút và ít cứng nhắc hơn so với một số mô hình khác".
+"Tuy nhiên, Claude vẫn là công cụ viết lách tôi thường dùng vì có khả năng cung cấp những phản hồi theo phong cách viết cá nhân tốt hơn", anh nói.
+Ankit Anchlia, 37 tuổi, kỹ sư phần mềm tại Austin (Mỹ) cho biết ngoài miễn phí, lợi ích lớn nhất của R1 là mã nguồn mở.
+Nghĩa là, bất kỳ ai cũng có thể tùy chỉnh mã của công cụ để phản hồi của nó phù hợp hơn với nhu cầu của người dùng.
+Anh hiện dùng công cụ cho việc tinh chỉnh code khi lập trình, giúp tiết kiệm được từ vài phút đến một giờ tùy vào nhiệm vụ.
+James Crisp, 41 tuổi, nhà môi giới bất động sản tại New Jersey, cho biết đang dùng phiên bản trả phí của ChatGPT để viết nội dung tiếp thị, bất động sản và quảng cáo mạng xã hội.
+Anh cũng đã dùng thử R1 để so sánh và nhận thấy mô hình từ Trung Quốc chưa thể so với công cụ của OpenAI, nhưng vẫn thích vì miễn phí và nguồn mở.
+"Tôi gặp khó khăn khi thực hiện bài giới thiệu về bất động sản của mình, vì R1 không sử dụng thuật ngữ phương Tây phù hợp", Crisp nói.
+"Nó cũng không mô tả chi tiết như ChatGPT".
+Cũng theo Crisp, mô hình của DeepSeek "là lựa chọn tốt cho những người không muốn tốn tiền hàng tháng và không ngại đọc lại mọi thứ".
+Đối với những người chuyên nghiệp vốn đã có thể tự tinh chỉnh AI theo cách riêng, DeepSeek "không mang lại bất kỳ giá trị thực sự nào".
+Kaneeshvar Ramachandran, nhà đồng sáng lập Học viện Vimix Technologies & Codepurple, cho biết đã trải nghiệm DeepSeek hơn một tuần và nhận thấy AI này không như mong đợi.
+"Những gì tôi đã trải qua pha trộn giữa sự phấn khích ban đầu, các câu trả lời được xử lý tốt nhưng sau đó là một số sự chậm trễ gây khó chịu", Ramachandran viết trênLinkedIn.
+Trên các mạng xã hội như Reddit, X, một số người sau khi sử dụng DeepSeek một thời gian cũng cho rằng các mô hình từ OpenAI, Google hay Anthropic đưa ra phản hồi nhanh, chính xác hơn so với công cụ từ Trung Quốc.
+Dù vậy, họ đánh giá cao tính năng miễn phí, kỳ vọng một phiên bản mới, có thể là trả phí, mang lại trải nghiệm tốt hơn.
+Tina Willis, luật sư 50 tuổi chuyên về các vụ tai nạn xe hơi và thương tích ở Orlando, cho biết đã sử dụng ChatGPT và Claude trả phí để tiến hành nghiên cứu cho các vụ án cũng như soạn thảo tài liệu cơ bản.
+Khi dùng R1, Willis nhận thấy sản phẩm của OpenAI và Anthropic chính xác và chi tiết hơn.
+"Có lẽ tôi sẽ không quay lại DeepSeek sớm đâu", Willis nói vớiBusiness Insider.

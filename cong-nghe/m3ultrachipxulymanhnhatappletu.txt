@@ -1,0 +1,17 @@
+Thay vì bổ sung cho dòng M4 mới nhất, Applehôm nay giới thiệu mảnh ghép cuối cùng trong loạt vi xử lý M3 là M3 Ultra.
+Đây là chip có hiệu năng cao nhất trong dải sản phẩm của Apple, tăng gấp đôi số lõi Neural Engine so với thế hệ trước và hỗ trợ bộ nhớ RAM lớn nhất trên máy tính cá nhân là 512 GB.
+Đây sẽ là vi xử lý được tích hợp vào dòng máy cao cấpMac Studiocũng như giúp Apple tiếp tục khẳng định thế mạnh trong việc tự thiết kế chip cho hiệu năng mạnh và tiết kiệm năng lượng.
+M3 Ultra được chế tạo bằng cách sử dụng cấu trúc đóng gói UltraFusion, liên kết hai khối M3 Max thông qua 10.000 kết nối tốc độ cao cho độ trễ thấp và băng thông lớn.
+Điều này cho phép hệ thống coi các khối kết hợp như một chip duy nhất, mang đến hiệu năng mạnh trong khi vẫn giữ khả năng tiết kiệm điện.
+UltraFusion giúp tập hợp tổng cộng 184 tỷ bóng bán dẫn trên một con chip.
+Vi xử lý mới của Apple bao gồm CPU 32 lõi với 24 lõi hiệu năng và 8 lõi tiết kiệm điện, cho hiệu năng nhanh hơn 1, 5 lần so với M2 Ultra và 1, 8 lần so với M1 Ultra.
+M3 Ultra cũng sở hữu GPU lớn nhất trong mọi chip của Apple là 80 lõi đồ họa, cho hiệu năng nhanh gấp đôi M2 Ultra và nhanh hơn 2, 6 lần so với M1 Ultra.
+Cấu trúc đồ họa bên trong M3 Ultra trang bị tính năng Dynamic Caching, kết hợp công nghệ dò tia và đổ bóng dạng lưới tốc độ cao bằng phần cứng, giúp chip có thể xử lý nhanh các trò chơi cũng như luồng công việc sáng tạo nội dung.
+Neural Engine có 32 lõi, tối ưu cho các tác vụ AI, học máy (ML) cũng như hỗ trợ Apple Intelligence.
+M3 Ultra được thiết kế cho AI, bao gồm bộ tăng tốc học máy trong CPU, GPU mạnh nhất của Apple, Neural Engine và băng thông bộ nhớ hơn 800 GB/giây.
+Chuyên gia AI có thể sử dụng Mac Studio với M3 Ultra để chạy các mô hình ngôn ngữ lớn (LLM) với hơn 600 tỷ tham số trực tiếp trên thiết bị.
+Máy Mac Studio sử dụng chip M3 Ultra mới sẽ hỗ trợ cổng Thunderbolt 5, cho tốc độ truyền tải dữ liệu tối đa 120 Gb/giây, cao gấp đôi so với Thunderbolt 4.
+Mỗi cổng Thunderbolt 5 được hỗ trợ bởi bộ điều khiển thiết kế tùy chỉnh riêng trực tiếp trên chip.
+Công nghệ này giúp cung cấp băng thông chuyên dụng cho mỗi cổng trên Mac Studio.
+Nhờ hiệu năng mạnh mẽ, M3 Ultra giúp máy tính Mac có thể hỗ trợ kết nối tối đa 8 màn hình Pro Display XDR hay phát cùng lúc 22 luồng video độ phân giải 8K ProRes 422.
+Máy tính Mac sử dụng chip M3 Ultra sẽ có RAM tối thiểu 96 GB và tối đa là 512 GB.

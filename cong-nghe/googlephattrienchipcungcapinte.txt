@@ -1,0 +1,18 @@
+Hãy tưởng tượng một tương lai nơi truy cập Internet tốc độ cao được truyền qua các chùm ánh sáng.
+Đó là mục tiêu của phòng thí nghiệm bí mật Google X với dự án có tên mã Taara.
+Trong bài đăng trên blog, Mahesh Krishnaswamy, Giám đốc Taara, cho biết chip đã được thử nghiệm trong 7 năm và hiện có thể truyền Internet với tốc độ tương đương cáp quang, nhưng tham vọng của họ là mẫu chip truyền dữ liệu với tốc độ ánh sáng.
+Chip Taara giúp cung cấp truy cập Internet tới những khu vực quá tốn kém hoặc khó khăn về mặt địa lý nếu triển khai kết nối truyền thống.
+Google cho biết Taara thế hệ đầu di chuyển ánhsáng thông qua hệ thống gương, cảm biến và phần cứng, trong khi thế hệ mới nhất sử dụng phần mềm điều khiển, theo dõi và hiệu chỉnh chùm sáng, không cần các bộ phận chuyển động cồng kềnh.
+Do đó, chip giảm bớt độ phức tạp và chi phí sản xuất.
+Ngoài ra, chức năng chính Taara Lightbridge được thu nhỏ từ kích cỡ như đèn giao thông xuống bằng móng tay - bước đột phá quan trọng giúp đưa sản phẩm từ ý tưởng vào thực tế.
+Mỗi chip có hàng trăm nguồn phát ánh sáng và phần mềm được sử dụng để kiểm soát hướng ánh sáng để đảm bảo chúng đến đúng nơi cần thiết và hoạt động chính xác.
+Khi hai chùm ánh sáng khóa vào nhau, chúng tạo ra liên kết bảo mật cho việc truyền dữ liệu.
+"Trong các thử nghiệm tại phòng thí nghiệm Moonshot Factory, chúng tôi đã thành công truyền dữ liệu ở tốc độ 10 Gbps với khoảng cách một km ngoài trời bằng hai chip Taara.
+Chúng tôi tin đây là lần đầu các chip quang tử silicon truyền dữ liệu có dung lượng cao như vậy ngoài trời ở khoảng cách này.
+Và đây mới là khởi đầu.
+Chúng tôi dự định mở rộng cả phạm vi và dung lượng của chip bằng cách tạo ra phiên bản có hàng nghìn nguồn phát", ông Krishnaswamy cho biết.
+TheoPhoneArena, một trong những lý do Taara được chờ đợi là nó chỉ mất vài giờ để cài đặt hệ thống, thay vì nhiều ngày, tháng hoặc thậm chí nhiều năm để lắp đặt cáp quang.
+Google cũng tin rằng sử dụng ánh sáng truyền dữ liệu sẽ tiết kiệm chi phí kết nối Internet tới những vùng xa xôi, địa hình hiểm trở.
+Công nghệ này còn có thể được ứng dụng trên xe tự lái để giao tiếp nhanh hơn.
+"Khả năng của Taara vô hạn như chính ánh sáng", ông Krishnaswamy nói.
+Googlecho biết chip Taara sẽ ra mắt trong năm 2026 và công ty đang mời gọi các nhà nghiên cứu tham gia khám phá những ứng dụng mới cho công nghệ truyền dẫn bằng ánh sáng này.

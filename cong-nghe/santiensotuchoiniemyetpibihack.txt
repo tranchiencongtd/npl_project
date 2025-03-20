@@ -1,0 +1,27 @@
+Các dấu hiệu bất thường được một số công cụ theo dõi trên blockchain ghi nhận từ 22h ngày 21/2.
+Địa chỉ ví thuộc Bybit đã chuyển đi hơn 400.000 tiền số ETH đến một địa chỉ ví không xác định.
+Ngoài ra, nó cũng được phát hiện hoán đổi một số đồng sang ETH để đưa lên các sàn giao dịch.
+Sự việc sau đó được ghi nhận là sự cố bảo mật, trong đó hacker lấy đi lượng tiền số tương đương 1, 46 tỷ USD và tiến hành tẩu tán một phần ngay sau khi lấy được.
+Ben Zhou, nhà đồng sáng lập kiêm CEO Bybit, giải thích họ lưu trữ tiền số trong ví lạnh đa chữ ký, tức loại ví được ngắt kết nối với Internet, đồng thời khi sử dụng phải có xác nhận từ nhiều người khác nhau.
+Trước khi sự việc xảy ra, họ thực hiện một giao dịch chuyển tiền từ ví lạnh sang ví nóng và đã kiểm tra đúng địa chỉ.
+Tuy nhiên, CEO Bybit cho biết hacker đã can thiệp để thay đổi logic trong hợp đồng thông minh, khiến việc họ xác nhận lại trở thành cấp quyền cho tin tặc.
+"Kết quả là hacker kiểm soát ví lạnh ETH mà chúng tôi đã ký và chuyển tất cả ETH trong đó đến địa chỉ không xác định này", Zhou viết.
+Sự cố lập tức gây ra làn sóng rút tiền ồ ạt khỏi Bybit vì người dùng lo ngại về khả năng mất khả năng thanh toán.
+Zhou sau đó cho biết dòng tiền đã ổn định trở lại.
+Ông cũng livestream chia sẻ thông tin và hướng khắc phục.
+"Tất cả tài sản của khách hàng đều được bảo lãnh theo tỷ lệ 1:1, chúng tôi có thể bù đắp tổn thất", Zhou nói, khẳng định sàn có khả năng thanh toán cho người dùng cả khi không lấy lại được tiền từ hacker.
+Ông cũng cho biết sự cố chỉ xảy ra với duy nhất ví lạnh nói trên và việc nạp, rút tiền của người dùng "diễn ra bình thường".
+Giá ETH, BTC và nhiều tiền số khác giảm 2-4% ngay sau khi thông tin được xác nhận.
+Nhiều người liên tưởng đến năm 2022, khi cú sập của các dự án như FTX, Luna khiến thị trường rơi vào "mùa đông".
+Nhà sáng lập BinanceCZđánh giá đây "không phải tình huống dễ giải quyết".
+Ông đề xuất Bybit dừng hoạt động rút tiền trong một thời gian như một biện pháp phòng ngừa an ninh tiêu chuẩn, đồng thời khẳng định sẽ hỗ trợ nếu cần.
+Justin Sun của TRON và sàn HTX cũng cho biết sẽ hỗ trợ hết sức trong việc theo dõi các khoản tiền có liên quan đến vụ tấn công.
+CNBCdẫn lời công ty phân tích blockchain Elliptic cho rằng vụ hack có liên quan tới nhóm tin tặc khét tiếngLazarus.
+Với số tiền bị lấy đi, đây trở thành vụ tấn công tiền số lớn nhất lịch sử nếu quy đổi ra USD.
+Một số sự cố lớn trước đó là 470 triệu USD trong vụ hack Mt Gox, 530 triệu USD liên quan đến CoinCheck năm 2018 và 650 triệu USD với dự án Ronin Bridge của Sky Mavis năm 2022.
+Theo công cụ phân tích Arkham, tài sản của Bybit có khoảng 20 tỷ USD.
+Đây là sàn tiền số lớn thứ hai thế giới về khối lượng giao dịch, sau Binance.
+Tuần qua, CEO Ben Zhou gây tranh cãi khitừ chốiniêm yết đồng Pi.
+Rạng sáng 21/2, cùng ngày vụ hack xảy ra, ông cũng đăng cảnh báo ám chỉ dự án Pi Networklừa đảo.
+"Tội phạm dùng chiêu trò 'miễn phí' và 'quà tặng' để thu hút người ham lợi nhuận tải xuống phần mềm, tạo niềm tin bằng cách nói người chơi không đầu tư vốn, tặng họ một lượng nhỏ 'tiền Pi'.
+Sau đó, chúng khuyến khích mở rộng bằng cách thưởng cho những ai lôi kéo thêm người tham gia, bán lại thông tin cá nhân của người dùng và lừa đảo tiền của nạn nhân", ông Zhou dẫn lời Sở Cảnh sát Vô Tích năm 2023.

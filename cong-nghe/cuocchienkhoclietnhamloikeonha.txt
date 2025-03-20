@@ -1,0 +1,35 @@
+Tranh giành nhân tài là truyền thống của Thung lũng Silicon mỗi khi xuất hiện làn sóng công nghệ mới.
+Sự bùng nổ AI thời gian qua đang thúc đẩy cuộc đua mới để lôi kéo những chuyên gia có kỹ năng và kiến thức hàng đầu.
+TheoFortune, trận chiến khốc liệt nhất xoay quanh một nhóm nhỏ với số lượng ước tính chưa đến 1.000 nhà nghiên cứuAItrên toàn cầu - những người đủ trình độ để xây dựng các mô hình ngôn ngữ lớn tiên tiến nhất hiện nay.
+Lãnh đạo của các tập đoàn công nghệ lớn, như CEO Meta Mark Zuckerberg hay CEO Sundar Pichai, phải trực tiếp ra mặt để thuyết phục chuyên gia AI.
+Trong khi đó, các công ty cũng phải tìm cách giữ chân nhân viên bằng lợi ích kinh tế.
+Sự mất cân bằng giữa nguồn cung nhân tài AI và nhu cầu cấp thiết từ các công ty công nghệ đặt ra tình thế khó khăn.
+Khi doanh nghiệp đổ hàng tỷ USD vào chip bán dẫn và trung tâm dữ liệu, họ cũng cần những người giỏi để vận hành và tạo các mô hình mạnh mẽ hơn.
+Lần gần nhất Thung lũng Silicon trải qua cuộc chiến giành nhân tài là thập niên 2010, khi Google và Facebook đua nhau về phúc lợi tại nơi làm việc với những bữa ăn miễn phí, văn phòng sang chảnh, phiếu quà tặng...
+15 năm sau, các ngôi sao AI được săn đón là nhóm có số lượng rất nhỏ, chuyên môn hóa cao nên các công ty phải thu hút họ bằng cách khác.
+Rob Biederman, lãnh đạo tại quỹ đầu tư mạo hiểm Asymmetric, cho rằng người tài luôn muốn làm việc về các vấn đề lớn và tạo ra sức ảnh hưởng.
+Điều này đôi khi có lợi cho các startup và bất lợi cho tập đoàn công nghệ lâu đời.
+Ví dụ, startup Anthropic được thành lập bởi những người rời đi từ OpenAI do không đồng tình với cách tiếp cận của công ty ChatGPT về an toàn và thương mại hóa công nghệ.
+Apple được cho là đã đạt được một số thành công trong thu hút nhân tài.
+Tính từ năm 2018, hãng tuyển được ít nhất 36 chuyên gia AI từ Google, trong đó có Ian Goodfellow, người đã quay lại Google vào năm 2022 với vai trò nhà nghiên cứu tại DeepMind.
+Google cũng nỗ lực giữ chân các kỹ sư AI giữa bối cảnh cạnh tranh khốc liệt.
+Năm 2024, công ty tái tuyển dụng Noam Shazeer, kỹ sư phần mềm từng rời đi năm 2021 để thành lập Character AI, cùng một số thành viên trong nhóm của ông, thông qua thương vụ trị giá 2 tỷ USD.
+Để cạnh tranh với những tập đoàn lớn, các startup tạo cơ hội cho nhân viên kiếm lời từ cổ phần họ nắm giữ.
+OpenAI đặc biệt tích cực trong vấn đề này, khi đã tổ chức nhiều đợt chào bán cổ phiếu nội bộ.
+Các công ty khác cũng áp dụng chiến thuật tương tự để duy trì thế cạnh tranh.
+Khoản thưởng cổ phiếu dành cho nhà khoa học AI hàng đầu có thể dao động khoảng 2-4 triệu USD tại một startup đang ở vòng gọi vốn.
+Tiền lương cũng tăng mạnh, ngay cả cho các nhân sự AI cấp cơ sở và trung cấp.
+"Mức lương cơ bản tại startup về robot và siêu trí tuệ AGI trước đây khoảng 250.000 USD mỗi năm, nhưng giờ lời mời làm việc đã cạnh tranh hơn nhiều.
+Tôi đã thấy những lời đề nghị với lương cơ bản từ 350.000 USD, tương đương một người có bằng tiến sĩ và 5 năm kinh nghiệm ở FAANG", Garrett Gentry, chuyên viên tuyển dụng nhân tài AI từng làm việc tại Meta, Palantir, Google và Amazon, cho hay.
+FAANG là từ viết tắt của các công ty Meta (Facebook), Amazon, Apple, Netflix và Alphabet (Google).
+Trước đây, mức lương "khủng" trong ngành công nghệ thường dành cho kỹ sư phần mềm, những người trực tiếp phát triển và vận hành sản phẩm.
+Còn hiện nay, các nhà nghiên cứu khoa học trở thành tâm điểm.
+Con đường từ nhà trường đến ngành công nghệ được mở ra khi doanh nghiệp tài trợ cho hoạt động nghiên cứu AI tại trường đại học, sẵn sàng chi trả hậu hĩnh để đưa các tiến sĩ và đội ngũ của họ về làm việc cho mình.
+Nhiều giáo sư tại những trường đại học lớn của Mỹ đã mang theo học trò chuyển đến làm việc tại Thung lũng Silicon.
+Công ty công nghệ đôi khi phải mất vài năm để chiêu mộ được nhân tài phù hợp.
+CEO RunwayCristobal Valenzuelanói ông dành phần lớn thời gian của mình để tuyển dụng.
+Các quỹ đầu tư mạo hiểm cũng tham gia quá trình này, tổ chức nhóm nhân sự chuyên trách xây dựng mạng lưới và tổ chức phỏng vấn.
+Chưa có dấu hiệu cho thấy cuộc chiến giành nhân tài AI sẽ sớm hạ nhiệt, và cũng không có công ty nào có lợi thế áp đảo.
+Sự cạnh tranh diễn ra ngày càng gay gắt khi nhiều startup tách ra từ các công ty AI lớn và tốc độ đổi mới trong lĩnh vực tiếp tục tăng nhanh.
+"Càng làm lâu trong ngành công nghệ, bạn sẽ nhận ra nhân tài là yếu tố duy nhất quan trọng.
+Những công ty hàng đầu luôn tìm cách độc chiếm nhân tài", Biederman nhấn mạnh.

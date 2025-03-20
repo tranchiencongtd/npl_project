@@ -1,0 +1,25 @@
+Được công bố trênarXiv.orgngày 3/3, kết quả do Copyleaks - công ty chuyên so sánh các mô hình AI - thực hiện cho thấy DeepSeek có thể đã được đào tạo trên đầu ra ChatGPT.
+Forbesđánh giá nghiên cứu này có ý nghĩa quan trọng đối với quyền sở hữu trí tuệ, quy định về AI cũng như sự phát triển của trí tuệ nhân tạo trong tương lai.
+Cụ thể, Copyleaks sử dụng công nghệ sàng lọc và bộ phân loại thuật toán nhằm phát hiện "dấu vân tay" về phong cách văn bản viết của nhiều mô hình ngôn ngữ gồm OpenAI, Claude, Google Gemini, Meta Llama và DeepSeek.
+Kết quả, văn bản viết do hầu hết mô hình tạo ra đều dễ dàng được phân biệt, trong khi phần lớn đầu ra của DeepSeek lại được thuật toán phân loại là "do các mô hình của OpenAI tạo ra".
+Theo Shai Nisan, Giám đốc khoa học dữ liệu tại Copyleaks, các làm này của họ tương tự chuyên gia về chữ viết tay cố gắng xác định tác giả một bản thảo bằng cách so sánh văn bản viết tay với các mẫu từ nhiều tác giả khác nhau.
+"Trong trường hợp này, kết quả thật đáng ngạc nhiên và cũng mang nhiều ý nghĩa", Nisan nói vớiForbes.
+"Có điểm tương đồng lớn về phong cách giữa DeepSeek và OpenAI, điều không tìm thấy trong các mô hình được kiểm tra khác".
+Nisan nói kết quả nghiên cứu đặt ra câu hỏi quan trọng về cách DeepSeek được đào tạo và liệu nó có tận dụng kết quả của OpenAI không.
+"Dù các điểm tương đồng cũng chưa thể chứng minh hay khẳng định chắc chắn DeepSeek là một sản phẩm phái sinh, nó đặt ra câu hỏi về quá trình phát triển giải pháp", ông cho biết.
+"Xét đến vị thế dẫn đầu của các mô hình OpenAI, những phát hiện của chúng tôi cho thấy cần điều tra thêm về kiến trúc, dữ liệu đào tạo và quy trình phát triển của DeepSeek".
+Nhà nghiên cứu của Copyleaks cũng cho rằng nếu dữ liệu đào tạo của DeepSeek sử dụng văn bản do OpenAI tạo ra mà không có sự cho phép, tác động đối với quyền sở hữu trí tuệ "sẽ rất sâu sắc".
+Việc thiếu minh bạch chung trong dữ liệu đào tạo AI sẽ tác động "rất sâu rộng" ở lĩnh vực này trong tương lai.
+Các cơ quan quản lý có thể cân nhắc yêu cầu các công ty AI công khai thông tin về các tập dữ liệu và đầu ra mô hình được sử dụng để đào tạo mô hình của họ.
+Các mô hình AI vẫn có thể hội tụ về mặt phong cách theo thời gian, đặc biệt nếu được đào tạo trên các tập dữ liệu chồng chéo.
+Tuy nhiên, theo Nisan, phương pháp tổng hợp của Copyleaks được thiết kế riêng để phát hiện những khác biệt về phong cách tinh tế giữa các mô hình.
+Do đó, sự tương đồng giữa DeepSeek và OpenAI không chỉ là sự chồng chéo dữ liệu, mà còn có khả năng liên quan đến cấu trúc hoặc đào tạo.
+DeepSeek và OpenAI chưa đưa ra bình luận.
+Cuối năm ngoái, mô hình V3 của DeepSeek bị phát hiệntự nhận là ChatGPTtrong các truy vấn.
+Trong thử nghiệm củaTechCrunchvà một số chia sẻ của người dùng trên mạng xã hội khi đó, DeepSeek V3 nói mình là ChatGPT.
+Khi được yêu cầu giải thích, V3 khẳng định mình là phiên bản GPT-4, được OpenAI phát hành năm 2023.
+Theo một số giải thích, DeepSeek dường như đã sử dụng kỹ thuật "chưng cất" kiến thức từ các mô hình đi trước.
+Ngày 29/1, nói vớiFT, OpenAIphát hiện dấu hiệu "chưng cất" mà họ nghi ngờ từ DeepSeek.
+Kỹ thuật này được các nhà phát triển sử dụng để đạt hiệu suất tốt hơn trên các mô hình nhỏ, bằng cách sử dụng đầu ra từ những mô hình lớn, cho phép họ có kết quả tương tự trong các nhiệm vụ cụ thể với chi phí thấp.
+Đây là hoạt động phổ biến trong lĩnh vực AI nhưng có thểDeepSeekđã vi phạm điều khoản dịch vụ của OpenAI.
+Công ty Trung Quốc không đưa ra phản hồi nào sau đó.

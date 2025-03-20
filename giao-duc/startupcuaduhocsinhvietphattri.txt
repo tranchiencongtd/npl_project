@@ -1,0 +1,44 @@
+Nền tảng công nghệ tài chính (fintech) cải thiện trải nghiệm mua sắm cho người dùng của Quỳnh và Vỹ mang tên Hello Clever.
+Khi khách hàng thanh toán hóa đơn bằng thẻ tín dụng, cửa hàng lập tức nhận được tiền, thay vì phải đợi thêm 2-3 ngày đối soát.
+Về phía khách hàng, họ nhận được "phần thưởng" như mã giảm giá, hoàn tiền.
+Đây là điểm mới trong thanh toán bằng thẻ tín dụng tại Australia.
+Tháng trước, Australia Financial Review, tờ báo tài chính hàng đầu Australia, vinh danh công ty của Quỳnh và Vỹ là startup có tốc độ tăng trưởng nhanh thứ hai tại thị trường này.
+"Mình cảm thấy tự hào vì một startup Việt có thể vững chân tại đất Australia", Quỳnh nói.
+Trần Thị Thúy Quỳnh và Nguyễn Hiếu Triệu Vỹ là bạn học chung lớp chuyên Toán tại THPT chuyên Nguyễn Bỉnh Khiêm, Vĩnh Long.
+Cô gái sinh năm 1992 kể chơi cùng Vỹ như "đôi đũa lệch" vì bản thân mải chơi, trong khi Vỹ là "ngôi sao" ở trường vì giành giải quốc gia môn tiếng Anh dù học chuyên Toán.
+Sau khi tốt nghiệp năm 2010, Quỳnh du học ngành Tài chính - Kế toán tại Đại học Công nghệ Sydney, còn Vỹ học ngành Công nghệ thông tin tại Đại học FPT với học bổng toàn phần.
+Hết đại học, Thúy Quỳnh làm Kế toán ở nhiều công ty tại Australia, còn Vỹ làm kỹ sư phần mềm tại Việt Nam.
+Năm 2020, dịch Covid-19 bùng phát, Thúy Quỳnh quanh quẩn trong nhà, nên cần mua online nhiều thứ, từ thực phẩm đến đồ gia dụng.
+Các khoản giao dịch ngày một tăng, cô gái 28 tuổi dần thấy cần phải quản lý tiền để tránh sự cố.
+Tìm đến các ứng dụng giúp kiểm soát tiền ra-vào, Quỳnh không hài lòng vì thấy thiếu nhiều tính năng.
+"Nhiều ứng dụng bắt mình phải nhập thủ công tiền lương, chi cho ăn, uống bao nhiêu, hoặc giao diện cực kỳ xấu, gây khó chịu", Quỳnh nhớ lại.
+Từ kinh nghiệm làm việc, cô nhìn nhận gen Z tại Australia quan tâm đến tiết kiệm hiệu quả thông qua cắt giảm chi tiêu và các chương trình hoàn tiền (cashback), ưu đãi mua sắm, và đầu tư nhỏ lẻ.
+"Họ mong đợi các dịch vụ tài chính hiểu rõ nhu cầu và hành vi chi tiêu của mình, từ đó đưa ra các đề xuất phù hợp như kế hoạch tiết kiệm, gợi ý giảm chi phí, hoặc các mục tiêu tài chính cá nhân", Quỳnh chia sẻ.
+Do đó, Quỳnh ấp ủ ý tưởng phát triển ứng dụng có thể tự động hóa việc chi tiêu, phân loại tiền hàng và tiết kiệm.
+Sau một năm tự mày mò, Quỳnh gọi điện cho Vỹ trình bày ý tưởng.
+Qua nhiều cuộc trao đổi online và nghiên cứu thị trường, cả hai nhận thấy tiềm năng của ứng dụng khi chuyển hướng sang nhánh hỗ trợ thanh toán.
+Quỳnh chia sẻ việc thanh toán bằng thẻ tín dụng ở Australia thường bị chậm 2-3 ngày do phải đối soát với ngân hàng, ảnh hưởng đến dòng tiền của người bán.
+"Khi tiền được chuyển ngay lập tức sau mỗi giao dịch, cửa hàng giảm thiểu rủi ro thiếu tiền mặt vì chờ đối soát như cách thanh toán truyền thống", Quỳnh nói.
+"Tiền về sớm cũng giúp quản lý doanh thu hàng ngày chính xác hơn, không cần chờ đợi báo cáo tài chính từ bên thứ ba".
+Trong khi đó, người mua có thể nhận hoàn tiền ngay lập tức khi thanh toán, giống như một phần thưởng.
+"Người mua nên được thưởng vì đã bỏ tiền ra mua một món đồ gì đó, chứ không phải chỉ trả lãi tín dụng", Vỹ đánh giá, nhìn nhận đây là cách làm ngược so với thông thường.
+Thời gian đầu, Quỳnh và Vỹ dùng tiền tiết kiệm để tìm thêm nhân sự, đầu tư phát triển phần mềm và tìm kiếm khách hàng.
+"Văn hóa công ty" là tiêu chí cả hai cố gắng định hình từ những ngày đầu khởi nghiệp.
+"Bọn mình thường làm rõ ý nghĩa của từng đầu việc, tác vụ cho đội ngũ.
+Khi cùng hiểu được ý nghĩa, giá trị, mọi người mới có thể dành hết cái tâm cho những thứ đang làm", Vỹ nói.
+Biết khởi nghiệp cần phải kêu gọi vốn, đôi bạn lập ra danh sách khoảng 200 nhà đầu tư, rồi đến từng công ty xin thuyết trình về dự án, trực tiếp hoặc trực tuyến.
+"50 nhà đầu tư đầu tiên đã từ chối.
+Họ chẳng biết mình là ai, có nền tảng gì, tại sao làm ra ứng dụng như vậy", Quỳnh kể.
+Trong đó, cô gái nhớ nhất lần cùng ba đồng nghiệp đến gặp một doanh nghiệp nhưng vì không chia rõ phần việc, bài thuyết trình trở thành thảm họa.
+"Mình không có kinh nghiệm.
+Mình nhận thư từ chối dài một trang giấy khuyên không được đem nhiều người đi gọi vốn".
+Những lần sau, khi có kinh nghiệm hơn, Quỳnh và Vỹ dần hiểu được rằng khi thuyết trình cần tập trung vào các điểm thu hút nhà đầu tư.
+"Cần đi thẳng vào trọng tâm, xác định startup giải quyết một vấn đề thực tế, phổ biến và quan trọng đối với thị trường và lợi thế cạnh tranh là gì", Quỳnh nói.
+Tháng 8/2022, Quỳnh và Vỹ thành công gọi vốn 4, 5 triệu AUD (khoảng 80 tỷ đồng) từ những quỹ đầu tư mạo hiểm lớn như Vectr Fintech Partners và Yolo Investments.
+Nhờ cú huých này, trong hai năm, sản phẩm của Hello Clever đã phục vụ hơn 500 doanh nghiệp vừa và nhỏ với doanh thu 5, 5 triệu AUD (97 tỷ đồng).
+Anh Nguyễn Phúc Bình, nguyên Chủ tịch Hội sinh viên Việt Nam tại Australia, nói đã theo sát đôi bạn từ những ngày đầu khởi nghiệp, hỗ trợ kết nối với các doanh nghiệp Việt Nam đang hoạt động tại Australia.
+Anh đánh giá Quỳnh có tư duy chiến lược và khả năng lãnh đạo sắc bén, còn Vỹ am hiểu về công nghệ, xây dựng và tối ưu hóa hệ thống.
+"Thành công không chỉ minh chứng cho năng lực và quyết tâm của Quỳnh và Vỹ mà còn thể hiện tiềm năng to lớn của các bạn trẻ Việt Nam trên thị trường quốc tế", anh Bình đánh giá.
+Nhìn lại hành trình khởi nghiệp, Quỳnh nhận định điều quan trọng nhất có được một đội ngũ cùng tầm nhìn và giá trị bằng cách xây dựng văn hóa làm việc tích cực, hỗ trợ lẫn nhau và tuyển dụng dựa trên năng lực.
+Ngoài ra, khả năng thích nghi và đổi mới là cần thiết để duy trì lợi thế cạnh tranh, giống như cách đôi bạn chuyển từ ứng dụng quản lý chi tiêu sang làm về thanh toán.
+Cô cho biết sẽ phát triển dự án sang Nhật, Mỹ, Singapore, vốn có sự tương đồng về cách thanh toán với Australia.

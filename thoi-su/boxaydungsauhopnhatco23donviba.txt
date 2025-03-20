@@ -1,0 +1,18 @@
+19 đơn vị giúp Bộ trưởng thực hiện chức năng quản lý nhà nước, bao gồm: Văn phòng; Thanh tra; Vụ Hợp tác quốc tế; Vụ Pháp chế; Vụ Tổ chức cán bộ; Vụ Kế hoạch - Tài chính; Vụ Quy hoạch Kiến trúc; Vụ Vận tải và An toàn giao thông, Vụ Khoa học công nghệ, môi trường và Vật liệu xây dựng; Cục Kinh tế Quản lý đầu tư xây dựng; Cục Giám định nhà nước về chất lượng công trình xây dựng; Cục Phát triển đô thị; Cục Kết cấu hạ tầng xây dựng; Cục Quản lý nhà và thị trường bất động sản; Cục Đường bộ Việt Nam; Cục Hàng hải và Đường thủy Việt Nam; Cục Hàng không Việt Nam; Cục Đường sắt Việt Nam; và Cục Đăng kiểm Việt Nam.
+Bốn đơn vị sự nghiệp công lập gồm: Trung tâm Công nghệ thông tin, Báo Xây dựng, Tạp chí Xây dựng và Học viện Chiến lược, bồi dưỡng cán bộ xây dựng.
+Sau hợp nhất, Bộ Xây dựng đảm nhận một phạm vi quản lý nhà nước rộng lớn, bao gồm cả lĩnh vực xây dựng, đô thị và giao thông vận tải.
+Trong lĩnh vực xây dựng và đô thị, Bộ tập trung vào quy hoạch, kiến trúc, hoạt động đầu tư xây dựng, quản lý chất lượng công trình, phát triển đô thị, nhà ở, thị trường bất động sản, vật liệu xây dựng và hạ tầng kỹ thuật.
+Đối với giao thông vận tải, Bộ quản lý toàn diện từ đường bộ, đường sắt, đường thủy nội địa, hàng hải đến hàng không dân dụng, bao gồm cả phương tiện, an toàn giao thông và đăng kiểm.
+Ngoài ra, Bộ còn đảm nhận các nhiệm vụ quan trọng khác như thúc đẩy khoa học công nghệ, quản lý dịch vụ công, hợp tác công tư và phát triển sản phẩm cơ khí.
+Với vai trò là cơ quan của Chính phủ, Bộ có trách nhiệm trình các dự án luật, nghị định, ban hành thông tư, quy chuẩn, tiêu chuẩn, cũng như chỉ đạo công tác thông tin, tuyên truyền pháp luật.
+Trước đó, Bộ Xây dựng và Bộ Giao thông Vận tải có tổng cộng 42 đơn vị, bao gồm 19 đơn vị thuộc Bộ Xây dựng và 23 đơn vị thuộc Bộ Giao thông Vận tải.
+Sau khi hợp nhất, Bộ Xây dựng mới có 23 đơn vị (giảm 19, tương đương 45%).
+Cơ cấu tổ chức của Bộ mới bao gồm khối tham mưu tổng hợp (6 đơn vị), khối chuyên ngành (13 đơn vị) và khối đơn vị sự nghiệp công lập (4 đơn vị).
+Bộ đã hợp nhất 2 Văn phòng, 2 Thanh tra, 2 Vụ Hợp tác quốc tế, 2 Vụ Pháp chế và 2 Vụ Tổ chức cán bộ.
+Vụ Kế hoạch Tài chính được hợp nhất từ 3 đơn vị: Vụ Kế hoạch Đầu tư, Vụ Tài chính (Bộ Giao thông Vận tải) và Vụ Kế hoạch Tài chính (Bộ Xây dựng).
+Tương tự, Vụ Khoa học Công nghệ, Môi trường và Vật liệu xây dựng cũng được hợp nhất từ 3 đơn vị: Vụ Khoa học Công nghệ và Môi trường (của cả hai Bộ) và Vụ Vật liệu Xây dựng (Bộ Xây dựng).
+Cục Kinh tế Quản lý Đầu tư Xây dựng được hợp nhất từ 3 đơn vị: Cục Kinh tế Xây dựng, Cục Quản lý Hoạt động Xây dựng (Bộ Xây dựng) và Cục Quản lý Đầu tư Xây dựng (Bộ Giao thông Vận tải).
+Cục Kết cấu Hạ tầng Xây dựng được hợp nhất từ Cục Hạ tầng Kỹ thuật (Bộ Xây dựng) và Vụ Kết cấu Hạ tầng Giao thông (Bộ Giao thông Vận tải).
+Cục Đường bộ Việt Nam được hợp nhất từ Cục Đường bộ Việt Nam và Cục Đường cao tốc Việt Nam, Cục Hàng hải và Đường thủy Việt Nam được hợp nhất từ Cục Hàng hải Việt Nam và Cục Đường thủy nội địa Việt Nam.
+Trụ sở chính của Bộ Xây dựng tại số 80 Trần Hưng Đạo, quận Hoàn Kiếm, TP Hà Nội.
+Trụ sở tiếp công dân của Bộ Xây dựng tại số 37 Lê Đại Hành, quận Hai Bà Trưng, TP Hà Nội.

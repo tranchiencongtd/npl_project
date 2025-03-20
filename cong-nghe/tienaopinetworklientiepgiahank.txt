@@ -1,0 +1,30 @@
+"Là một phần trong cam kết nhằm đảm bảo tính toàn diện và công bằng trên toàn hệ thống Pi Network, chúng tôi tiếp tục gia hạn từ ngày 31/1 sang 28/2.
+Thay đổi này cung cấp thêm thời gian cho Pioneers hoàn tất xác minh KYC và di chuyển Mainnet", đội ngũ phát triển Pi Core Team thông báo trên blog.
+Đây là lần thứ ba đội ngũ điều chỉnh thời gian KYC.
+Cuối năm ngoái, trên ứng dụng Pi Network xuất hiện đồng hồ đếm ngược yêu cầu người dùng xác thực danh tính trước ngày 31/12/2024, nếu không sẽ "có nguy cơ mất hầu hết số Pi đã có", trừ lượng Pi được khai thác trong 6 tháng trước ngày thông báo.
+Tuy nhiên, sau đó nhóm dời sang 31/1 trước khi có thông báo kể trên.
+KYC là công đoạn quan trọng của một dự án blockchain trong việc mở mạng (Open Mainnet), tức cho phép người dùng có thể giao dịch tiền số trên các sàn tập trung.
+Hiện Pi Network chỉ thực hiện "mainnet kín", tức người chơi tự giao dịch với nhau.
+"Với nhiều người tham gia được xác minh hơn trên Mainnet, chúng tôi đảm bảo một hệ sinh thái lành mạnh, an toàn hơn và được chuẩn bị tốt hơn cho việc mở mạng", Pi Core Team viết trên blog.
+Tuy nhiên, trên một số hội nhóm về Pi, nhiều người cho rằng đây tiếp tục là chiêu trò "câu thêm giờ" của đội ngũ đứng sau.
+"Hết lần này đến lần khác, Pi Core Team đưa ra deadline này đến deadline khác, dường như họ là cậu bé Pinochio với chiếc mũi ngày càng dài", tài khoảnImpermanent Piviết trên một nhóm Pi Network có hơn 50.000 thành viên.
+Hoàng Phương, quản trị viên nhóm Pi Network 70.000 thành viên và chơi tiền ảo này từ năm 2021, cho biết nhiều người đang nhầm lẫn thời gian gia hạn KYC với Open Mainnet.
+"Có thể họ nóng lòng được mở mạng để giao dịch ra bên ngoài", người này nói, nhưng cũng cho rằng việc đội ngũ liên tục dời thời gian có thể đang cho thấy "có vấn đề nào đó ở đằng sau".
+Theo thống kê củaExplorePi, Pi Network hiện có hơn 9, 57 triệu tài khoản đã được xác thực.
+Những người này sẽ chuyển sang hệ thống "mainnet kín", được chuyển một phần tiền ảo Pi về ví mainnet để có thể trao đổi Pi cho nhau, nhưng chưa giao dịch được với các tiền số khác.
+Số Pi đã di chuyển là hơn 5, 7 tỷ Pi, nhưng chỉ có gần 680 triệu Pi đã mở khóa để giao dịch nếu Open Mainnet, và trong đó gần 300 triệu Pi "có thể đã bị mất" do người dùng quên tài khoản hoặc mã khóa ví.
+Con số này thấp hơncông bốnăm ngoái.
+Nhân ngày Pi2Day (28/6/2024), đội ngũ phát triểnPi Networkthông báo đã có 12 triệu người thực hiện xác thực danh tính thành công.
+Ngoài ra, đãcó 60 triệu ngườitham gia mạng lưới, tăng gần 10 triệu so với trước đó ba tháng.
+Hoka Newsđánh giá, động thái của Pi Network cho thấy đội ngũ có thể đang hối thúc người dùng sớm KYC để đạt 10 triệu tài khoản xác thực.
+Dù vậy, theo ghi nhận của trang này, người dùng hiện khó KYC, liên tục bị từ chối mà không rõ lý do.
+"Hệ thống có thể chưa sẵn sàng, dù dự án đãphát triển được 6 năm", trang này bình luận.
+Trong khi đó, Pi Core Team khẳng định thời gian gia hạn KYC không phụ thuộc vào việc khởi chạy Open Network, dự kiến trong quý I/2025.
+"Việc mở mạng có thể khởi chạy trước hoặc sau khi thời gian gia hạn kết thúc", theo thông báo.
+Năm ngoái, Pi Core Team từng đề cập những yêu cầu để có thể "Mainnet mở", gồm: hoàn thành mạng mở về công nghệ, sản phẩm, kinh doanh và pháp lý cho Pi; đạt mục tiêu KYC; cần "môi trường thuận lợi, không cản trở sự thành công của mainnet mở".
+Tuy nhiên, một số chuyên gia tiền số đánh giá những điều kiện này "rất lâu mới thực hiện được".
+Hiện ứng dụng Pi Network trên smartphone vẫn hiển thị quảng cáo và đây được xem là doanh thu chính của dự án.
+Pi Network là dự án ra đời từ năm 2019, được quảng cáo là giúp người dùng sở hữu tiền ảo Pi miễn phí bằng cách vào ứng dụng trên điện thoại điểm danh mỗi ngày.
+Tuy nhiên, dự án gây tranh cãi khi chưa cho phép người dùng giao dịch trên các sàn tiền số sau nhiều lần hứa hẹn.
+Cuối tháng 6/2023, Bộ Công an cho biết đã phối hợp với công an địa phương đểđiều trahoạt động liên quan đến tiền ảo Pi.
+Theo đại diện Bộ, các hoạt động liên quan đến Pi tại Việt Nam có dấu hiệu của việc lôi kéo, tiền người trước trả cho người sau trong mô hình kinh doanh dạng nhị phân, đa cấp, do đó người dân cần thận trọng trước hành vi lôi kéo tham gia mô hình tiền ảo có lợi nhuận cao bất thường.

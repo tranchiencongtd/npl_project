@@ -1,0 +1,21 @@
+Do Phòng thí nghiệm quốc gia Lawrence Livermore (LLNL) của Mỹ nghiên cứu, công nghệ laser Big Aperture Thulium (BAT) tăng hiệu suất nguồn EUV lên 10 lần so với laser CO2 tiêu chuẩn công nghiệp đang được sử dụng trên máy quang khắc siêu cực tím (EUV) mạnh bậc nhất hiện nay của hãng ASML (Hà Lan).
+Bước tiến mới được đánh giá sẽ mở đường cho một thế hệ máy quang khắc "vượt EUV", có thể sản xuất chip nhanh hơn và ít tốn năng lượng hơn.
+Một trong những đặc điểm của quang khắc cực tím là mức tiêu thụ điện năng cực lớn.
+Chẳng hạn, hệ thống EUV Low-NA và EUV High-NA hiện tại tiêu thụ năng lượng lần lượt 1.170 và 1.400 kilowatt.
+Điện năng chủ yếu phục vụ cho việc phát xung laser hiệu suất cao, làm bay hơi các giọt thiếc nhỏ ở mức tới 500.000 độ C tạo thành tia plasma phát ra ánh sáng 13, 5 nanomet, cho phép chế tạo chip ở độ phân giải tốt hơn 10.000 lần so với tóc người.
+Quá trình tạo ra các xung này đạt tốc độ hàng chục nghìn xung mỗi giây, đòi hỏi hệ thống phát tia laser và làm mát khổng lồ, bên cạnh việc nung nóng thiếc cũng tốn rất nhiều năng lượng.
+Ngoài ra, các gương đặt bên trong EUV thường chỉ phản xạ một phần nhỏ ánh sáng, nên tia laser cần ngày càng mạnh để tăng năng suất sản xuất.
+Laser BAT được chế tạo chủ yếu là chất Thulium-doped Yttrium Lithium Fluoride - hay Yttrium Lithium Fluoride pha tạp Thulium (Tm:YLF), là vật liệu tinh thể bao gồm Yttrium Lithium Fluoride (YLF) pha tạp với các nguyên tử Thulium, được sử dụng trong quang học và thanh laser đơn tinh thể trạng thái rắn.
+Vật liệu này có khả năng tạo ra laser công suất cấp petawatt giúp nâng cao hiệu suất năng lượng của công cụ EUV hiện tại.
+Không như laser CO2 hoạt động ở bước sóng khoảng 10 micron, BAT có thể hoạt động ở khoảng 2 micron, theo LLNL.
+Về mặt lý thuyết, ưu thế này cho hiệu suất chuyển đổi từ plasma sang EUV cao hơn khi tương tác với các giọt thiếc.
+Ngoài ra, công nghệ trạng thái rắn bơm diode được sử dụng trong các hệ thống BAT có thể mang lại hiệu suất điện tổng thể và quản lý nhiệt tốt hơn laser CO2.
+Ban đầu, LLNL đặt mục tiêu ghép nối tia laser BAT nhỏ gọn, có tốc độ lặp lại cao trên các loại xung khác nhau với các hệ thống tạo ra ánh sáng EUV nhằm kiểm tra cách tia laser phát ra xung ở bước sóng 2 micron trong quá trình tương tác với các giọt thiếc.
+Tuy nhiên, kết quả thu được cao hơn dự tính.
+"Chúng tôi đã chạy mô phỏng plasma lý thuyết và các cuộc trình diễn về laser mới trong 5 năm qua trước khi đặt nền móng cho dự án này", nhà vật lý laser Brendan Reagan của LLNL cho biết.
+"Công trình có thể có tác động khá lớn đến cộng đồng quang khắc EUV".
+Reagan không đề cập các mốc thời gian ứng dụng BAT vào thực tế.
+TheoTom's Hardware, trong bối cảnh các cỗ máy EUV có thể tiêu thụ tới 54.000 gigawatt điện mỗi năm cho đến năm 2030, nhiều hơn mức tiêu thụ của Singapore và Hy Lạp, những công nghệ như BAT có thể là giải pháp cho khủng hoảng năng lượng trong tương lai.
+ASML của Hà Lan hiện gần như là đơn vị duy nhất sản xuất các cỗ máy EUV hiệu suất cao.
+Cuối năm ngoái, Mỹ cũngxây dựngtrung tâm R&D trị giá gần tỷ USD tạo EUV để đối đầu.
+Cơ sở có tên EUV Accelerator, đặt tại khu phức hợp Albany NanoTech Complex ở New York, là cơ sở R&D đầu tiên của chương trình CHIPS for America, một phần trong đạo luật CHIPS và Khoa học, được chính quyền Tổng thống Joe Biden ban hành năm 2022, với mục tiêu khuyến khích đưa sản xuất bán dẫn trở lại Mỹ.

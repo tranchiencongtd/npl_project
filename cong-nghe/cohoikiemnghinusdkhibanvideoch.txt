@@ -1,0 +1,31 @@
+TheoBloomberg, các công ty như OpenAI, Google, Meta hiện chi nhiều tiền nhằm thu hút nhà sáng tạo nội dung bán video cho họ.
+Những video này chưa đăng công khai lên bất cứ nền tảng trực tuyến nào, được coi là có giá trị lớn trong việc đào tạo hệ thống trí tuệ nhân tạo giữa bối cảnh "nguyên liệu" cho chúngngày một thiếu hụt.
+Nguồn tin cho biết, các công ty AI hiện trả 1-4 USD (25.000-100.000 đồng) cho mỗi phút quay.
+Mức giá sẽ tăng tùy thuộc chất lượng hoặc định dạng video.
+Chẳng hạn, video 4K, 3D, cảnh quay từ trên không hoặc các góc khó sẽ được trả cao hơn.
+OpenAI, Meta, Adobe và một số công ty khác đã công bố công cụ tạo video AI từ năm ngoái.
+Tuy nhiên, để cho ra được những hình ảnh ngày càng chân thực, họ cần lượng dữ liệu khổng lồ để đào tạo, trong đó có hàng triệu giờ nội dung video.
+"Họ đang chạy đua để có nhiều cảnh quay hơn", Dan Levitt, Phó chủ tịch cấp cao phụ trách sáng tạo tại Wasserman và đại diện một nhóm YouTuber, cho biết.
+"Tôi nhận thấy cơ hội trong vài năm tới, khi việc bán cảnh quay sẽ mang lại nhiều tiền hơn so với đăng lên YouTube, TikTok hay Instagram".
+Theo Levitt, với nhà sáng tạo nội dung, không phải tất cả cảnh quay được đều đăng lên kênh do cần thời gian chỉnh sửa.
+Thậm chí, rất nhiều trong đó bị "bỏ xó".
+Bằng cách bán nội dung thô cho công tyAI, người sáng tạo sẽ đa dạng hóa và tăng thêm hàng nghìn USD thu nhập, bên cạnh video đã đăng online và hợp đồng quảng cáo với thương hiệu.
+OpenAI, Meta, Adobe từ chối bình luận.
+Thời gian qua, các công ty trí tuệ nhân tạo bị chỉ trích dữ dội vì sử dụng văn bản, video và ảnh trên Internet mà không xin phép hay trả tiền cho người tạo nội dung.
+Năm ngoái, hàng loạt nhà xuất bản tin tức, nhà văn, nhà sáng tạo trực tuyến...
+đã kiện OpenAI, Meta, Nvidia với cáo buộc dùng dữ liệu trái phép.
+TheoBusiness Insider, trước tình trạng này, một số công ty AI đã tăng cường mua video cũng như bổ sung kho nội dung bản quyền.
+Chẳng hạn, vào năm ngoái, song song với việc mua trực tiếp cảnh quay, Google giới thiệu giải pháp cho phép người sáng tạo trên YouTube kiểm soát dữ liệu, rằng liệu các công ty AI có thể sử dụng video công khai của họ để đào tạo hay không.
+Danh sách cấp phép tiềm năng hiện có 17 công ty, như OpenAI, Meta và Microsoft.
+Một số chuyên gia thậm chí nhận thấy tiềm năng lớn hơn, khi các tập dữ liệu video khổng lồ có thể giúp tạo ra trình mô phỏng thế giớiWorld Model- bước tiến lớn tiếp theo để AI có thể "nhận thức" và tái hiện thế giới vật lý.
+Giả thuyết này dù gây tranh cãi về mặt khoa học, nhưng việc tiếp xúc với lượng lớn video có thể giúp các hệ thống AI phát triển khả năng nhận biết sâu sắc về thực tế vật lý và cải thiện khả năng khái quát hóa.
+"Điều này mang đến khoản lợi nhuận bất ngờ cho người làm trong lĩnh vực sáng tạo nội dung.
+Nhiều nhà làm phim đã sản xuất hàng trăm giờ quay mỗi năm nhưng không bao giờ đưa lên mạng và cũng không kiếm được tiền.
+Giờ đây, họ có thể bán nội dung để kiếm tiền", The Decoderbình luận.
+Nhận thấy xu hướng mới, nhiều công ty bên thứ ba bắt đầu hỗ trợ nhà sáng tạo lên kế hoạch cấp phép nội dung của mình, chẳng hạn Troveo AI và Calliope Networks.
+Cả hai đại diện về quản lý bản quyền với hàng nghìn giờ video, sau đó cấp phép cho các công ty AI và thu tiền về cho nhà sáng tạo.
+Marty Pesis, nhà đồng sáng lập kiêm CEO của Troveo AI, cho biết đã trả hơn 5 triệu USD cho nhà sáng tạo.
+Một số công ty AI khác chọn cách làm việc trực tiếp với nhà sáng tạo nội dung.
+Andrew Graham, Giám đốc tư vấn và quan hệ đối tác của Creative Artists Agency (CAA), cho biết khi làm với công ty AI, hầu hết thỏa thuận là ngăn tạo bản sao nội dung, bắt chước chính xác cảnh quay hoặc sử dụng theo cách có thể ảnh hưởng tiêu cực đến danh tiếng của người sáng tạo.
+CAA hiện đại diện cho hơn 20 nhà sáng tạo nội dung, trong đó có các ngôi sao như Amelia Dimoldenberg với hơn 73 triệu người theo dõi trên YouTube.
+"Với tư cách đại lý, mối quan tâm của chúng tôi là đảm bảo khách hàng của mình được chi trả thỏa đáng, đồng thời cam kết hình tượng của họ không bị hoen ố hoặc rơi vào bất cứ tình huống xấu nào", Graham nói vớiBloomberg.

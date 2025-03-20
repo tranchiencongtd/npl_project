@@ -1,0 +1,34 @@
+"Nếu trước đây cần cả ngày để hoàn thành một tài liệu vài trang có hình và chữ, nay chỉ cần thời gian dưới một phút", Trần Vũ Anh, nhà sáng lập Doctranslate, chia sẻ về ứng dụng do nhóm phát triển.
+Trần Vũ Anh là một trong 10 lãnh đạo công nghệ trẻ được vinh danh tại sự kiệnCTO Summit 2022doVnExpresstổ chức.
+Sau khi thành công với một số dự án, anh bắt đầu xây dựng sản phẩm mới từ chính nhu cầu của mình: ứng dụng dịch thuật sử dụng AI.
+Sau hai năm ra thị trường, ứng dụng hiện có gần 50.000 lượt truy cập hàng tháng, được sử dụng bởi nhiều doanh nghiệp đa quốc gia tại Việt Nam.
+Ý tưởng xuất phát từ quá trình sống và làm việc nhiều năm ở nước ngoài khi anh thường xuyên sử dụng Google Dịch để hỗ trợ giao tiếp.
+Tuy nhiên, anh nhận thấy công cụ còn một số điểm có thể cải thiện, đặc biệt là độ chính xác và khả năng xử lý ngữ cảnh phức tạp.
+"AI chắc chắn mang đến một giải pháp tốt hơn", tiến sĩ AI được đào tại Nhật Bản tin tưởng.
+Năm 2023 cũng là giai đoạn các mô hình ngôn ngữ lớn phát triển mạnh, trong đó mô hình ngôn ngữ lớn tiếng Việt ngày càng hoàn thiện.
+Anh cùng cộng sự quyết định thành lập Thinkprompt và cho ra sản phẩm đầu tiên là Doctranslate.
+Điểm đặc biệt của Doctranslate là khả năng hỗ trợ đa ngôn ngữ và hầu hết định dạng tài liệu đặc biệt.
+Ví dụ, để dịch một tài liệu như file trình chiếu có cả văn bản và đồ họa, người dùng trước đây có thể phải dịch riêng phần văn bản, sau đó sử dụng công cụ thiết kế để xóa văn bản gốc, chèn vào nội dung đã dịch.
+Trong khi với Doctranslate, họ chỉ cần nhập tài liệu, chọn ngôn ngữ đích và bấm nút.
+Ứng dụng sẽ trả về tài liệu đã hoàn thiện với ngôn ngữ mới, đồng thời cung cấp thêm tệp tin văn bản, đồ họa, Powerpoint để người dùng tùy chỉnh hoặc sử dụng cho mục đích khác nhau.
+Hay với tệp tin PDF được nhập vào qua scan, ứng dụng sau khi dịch vẫn giữ nguyên bố cục và định dạng ban đầu, như cách trình bày, font chữ.
+Tài liệu dịch được chuyển đổi từ file PDF sang định dạng file Word để chỉnh sửa.
+"Doctranslate giống như trợ lý đa năng tất cả trong một, vừa có khả năng dịch, vừa làm đồ họa, video cơ bản", nhà sáng lập so sánh.
+Thử nghiệm dịch một bìa sách tiếng Anh sang tiếng Việt.
+Thử nghiệm với một ảnh bìa cuốn sách với nhiều chi tiết, hình và chữ đan xen, máy hoàn thành trong 20 giây và người dùng cần trả 2 credit, tương đương 5.000 đồng.
+Theo nhà phát triển, tùy vào loại dữ liệu đầu vào là file PDF, ảnh, video, chi phí có thể thay đổi và hạ xuống khoảng 1.000 đồng mỗi trang.
+Giá này được đánh giá là mức chi phí thấp nếu so với giá dịch thuật của những dịch vụ sử dụng sức người, vốn yêu cầu hàng chục nghìn đồng mỗi trang tài liệu.
+Bên cạnh khả năng hỗ trợ đa định dạng, chất lượng dịch thuật là điều quan trọng với một công cụ dịch, nhằm đảm bảo nội dung chính xác và phù hợp bối cảnh.
+Đây cũng là điểm Trần Vũ Anh tự hào về sản phẩm.
+Để tăng hiệu quả, nhóm phát triển mô hình ngôn ngữ lớn ALMA Gemma-7B-IT, phát triển dựa trên mô hình Gemma-7B-IT của Google và cải tiến bằng phương pháp ALMA (Advanced Language Model-based Translator).
+Theo công bố trên trang của tổ chức kỹ thuật IEEE, mô hình này giúp sản phẩm đạt điểm BLEU về khả năng dịch thuật Anh - Việt, Việt - Anh khoảng 56, cao hơn mức 39, 40 điểm của các mô hình như Gemini của Google hay GPT của OpenAI.
+Công cụ cho phép người dùng chọn nhiều giọng điệu dịch, như nghiêm túc, thân thiện, hài hước, trang trọng, lãng mạn.
+Ngoài ra, người dùng cũng có thể chọn cách tối ưu hóa theo các chuyên ngành như văn bản hành chính, tài liệu kinh tế - tài chính, khoa học - công nghệ, văn hóa - nghệ thuật, hoặc để AI quyết định.
+Người dùng cũng có thể cá nhân hóa theo nhu cầu, như thiết lập từ điển riêng, dịch song ngữ.
+Với ưu điểm trên, Doctranslate.io cùng nhóm phát triển Thinkprompt thuyết phục được các giám khảo, đưa nhóm vào top 5 cuộc thi Tìm kiếm tài năng khởi nghiệp sáng tạo Quốc gia, trong khuôn khổ Techfest Việt Nam 2024.
+Họ cũng là một trong gần 20 dự án startup tiềm năng được chọn tham gia chương trình Google for Startups Accelerator Southeast Asia năm ngoái.
+Sau hai năm phát triển, website Doctranslate ghi nhận hơn 1, 4 triệu tài liệu được dịch, trong đó có gần 330.000 hình ảnh.
+Giải pháp hỗ trợ hơn 30 ngôn ngữ phổ biến, có thể xử lý nhiều định dạng tài liệu, bao gồm Word, Excel, PowerPoint, PDF, hình ảnh, âm thanh, video và mới đây là giọng nói trực tiếp.
+Ứng dụng cũng được cập nhật khả năng xử lý, hiện có thể xử lý tệp lớn đến 1.000 trang, đáp ứng nhu cầu dịch thuật trong doanh nghiệp lớn.
+Với tính năng mới nhất vừa ra mắt là dịch trực tiếp, người dùng có thể lưu trữ và dịch ngay trong một buổi họp.
+Startup AI của Việt Nam dự định tiếp tục hoàn thiện sản phẩm, mở mã nguồn để nhiều người có thể cùng phát triển, đồng thời mở rộng thị trường ra các nước trong khu vực Đông Nam Á, sau đó là toàn cầu, nhằm tăng vị thế của ứng dụng AI Việt.

@@ -1,0 +1,13 @@
+Công ty khởi nghiệp Trung Quốc cho biết mô hình mới ra mắt có tên mã Janus-Pro-1B và Janus-Pro-7B.
+Thông báo cũng cho biết Janus-Pro-7B đứng trên Dall-E 3 củaOpenAIvà Stable Diffusion củaStability AIvề khả năng tạo hình ảnh bằng văn bản.
+Janus Pro là bản nâng cấp của Janus cuối năm ngoái, được giới thiệu ngay sau khi mô hình ngôn ngữ lớn (LLM) DeepSeek V3 ra mắt tháng 12/2024 và đang gây sốt toàn cầu.
+Ứng dụng miễn phí cùng tên hiện đứng đầu bảng xếp hạng trên App Store ở ít nhất 52 quốc gia và vùng lãnh thổ, trong đó có Việt Nam, tính đến 28/1.
+Theo báo cáo của DeepSeek, mô hình mới cải tiến bằng cách nâng cấp quy trình đào tạo, chất lượng dữ liệu và kích thước, mang lại độ ổn định hình ảnh tốt hơn và chi tiết phong phú hơn.
+Janus Pro cũng tạo ảnh hấp dẫn hơn nhờ thêm 72 triệu hình ảnh tổng hợp chất lượng cao và cân bằng chúng với dữ liệu thực tế.
+Ngoài ra, AI mới của DeepSeek có thể xử lý 7 tỷ tham số, cải thiện tốc độ đào tạo và độ chính xác trong việc tạo văn bản thành hình ảnh và hiểu yêu cầu.
+OpenAI và Stability AI chưa phản hồi về thông báo của DeepSeek.
+DeepSeek được thành lập vào năm 2023 bởiLiang Wenfeng, đồng sáng lập của quỹ đầu tư chuyên về AI High-Flyer.
+Công ty bắt đầu phát triển DeepSeek vào tháng 4/2023 nhằm đạt được siêu trí tuệ nhân tạo tổng quát AGI, tương tự mục tiêu mà OpenAI và nhiều công ty đang theo đuổi.
+DeepSeek bắt đầu thu hút sự chú ý tuần trước khi phát hành R1, mô hình với khả năng lý luận, cạnh tranh với o1 của OpenAI.
+Điều đặc biệt của sản phẩm từ Trung Quốc là sử dụng mã nguồn mở, tức cho phép các nhà phát triểnAIkhác có thể cùng sử dụng và đóng góp, tương tự mô hình Llama của Meta.
+Ngoài ra, chúng được xây dựng với nguồn lực khiêm tốn do hạn chế nhập khẩu chip vào Trung Quốc, chi phí bằng phần nhỏ so với các mô hình của OpenAI, Anthropic, Google, Meta.

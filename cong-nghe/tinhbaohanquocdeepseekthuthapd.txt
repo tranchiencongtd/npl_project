@@ -1,0 +1,20 @@
+"Không giống những dịch vụ AI tạo sinh khác, chúng tôi xác nhận các bản ghi trò chuyện của DeepSeek có thể chuyển tiếp, vì nó bao gồm chức năng thu thập các mẫu nhập liệu bằng bàn phím, thứ có thể xác định cá nhân và giao tiếp với máy chủ của các công ty Trung Quốc", Cơ quan Tình báo Quốc gia (NIS) của Hàn Quốc cho biết cuối ngày 9/2.
+NIS đã gửi thông báo chính thức tới các cơ quan chính phủ nước này tuần trước, kêu gọi thực hiện biện pháp phòng ngừa an ninh đối với ứng dụng AI này.
+Một số bộ phận thuộc chính phủ cũng bị chặn truy cập vào nền tảng của Trung Quốc sau khi xuất hiện những lo ngại về bảo mật.
+Cũng theo NIS, DeepSeek cấp cho các nhà quảng cáo quyền truy cập không giới hạn vào dữ liệu người dùng và lưu trữ dữ liệu của người dùng Hàn Quốc trên các máy chủ Trung Quốc.
+Theo luật pháp Trung Quốc, chính phủ nước này "có thể truy cập thông tin đó khi được yêu cầu".
+Ngoài ra, DeepSeek cũng bị đánh giá đưa ra thông tin không chính xác cho cùng một câu hỏi ở các ngôn ngữ khác nhau.
+Chẳng hạn, khi hỏi AI này về kimchi bằng tiếng Hàn, nó sẽ trả lời là món của Hàn Quốc.
+Nhưng khi hỏi bằng tiếng Trung, nó cho rằng kimchi có nguồn gốc từ Trung Quốc.
+Reutersđã thực hiện lại tình huống này và xác nhận thông tin của NIS chính xác.
+DeepSeek chưa đưa ra bình luận.
+Trước đó, ngày 6/2, Bộ Quốc phòng Hàn Quốc tuyên bố: "Các biện pháp chặn DeepSeek đã được thực hiện trên máy tính quân sự có kết nối Internet".
+Động thái trên diễn ra sau khi Ủy ban Bảo vệ Thông tin cá nhân Hàn Quốc (PIPC) yêu cầu startup Trung Quốc làm rõ cách họ quản lý thông tin người dùng.
+DeepSeek được thành lập năm 2023 bởiLiang Wenfeng, đồng sáng lập của quỹ đầu tư chuyên về AI High-Flyer.
+Công ty bắt đầu phát triển DeepSeek vào tháng 4/2023, trước khi ra mắt mô hình suy luận R1 hôm 20/1.
+Các mô hình của công ty được đánh giá là có chi phí thấp nhưng vẫn đạt hiệu năng không thua kém sản phẩm hàng đầu.
+Dù vậy, DeepSeek cũng bị cho là lưu dữ liệu người dùng không mã hóa.
+Tuần trước, công ty bảo mật NowSecure (Mỹ) cảnh báo ứng dụng này thu thập nhiều dữ liệukhông mã hóavà gửi tới các máy chủ thuộc sở hữu của Trung Quốc.
+Cuối tháng 1, trong bài đăng trên blog, công ty an ninh mạng Wiz (Mỹ) cũng cho biếtDeepSeekđể hơn một triệu dòng dữ liệu không có biện pháp bảo mật, bao gồm các khóa phần mềm kỹ thuật số và nhật ký trò chuyện ghi lại các yêu cầu được gửi từ người dùng đến trợ lýAImiễn phí của công ty.
+Sau khi Wiz cảnh báo, DeepSeek "đã hạ dữ liệu xuống trong vòng chưa đầy một giờ".
+Trong cả hai cảnh báo của Wiz và NowSecure, DeepSeek cũng không phản hồi.

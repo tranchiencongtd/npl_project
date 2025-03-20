@@ -1,0 +1,28 @@
+Kết quả phân tích mẫu vật do robot tự hành Perseverance của NASA thu thập có thể hé lộ nhiều dữ liệu về sao Hỏa và lịch sử của hành tinh, bao gồm liệu nơi đây có từng tồn tại sự sống hay không.
+Do đó, NASA rất quan tâm tới việc vận chuyển vật chất sao Hỏa, bao gồm khoảng 20 ống kín lớn cỡ điếu thuốc lá chứa lõi đá và trầm tích, về Trái Đất, sau đó gửi tới các phòng thí nghiệm trên khắp thế giới.
+Nhưng quá trình thực hiện nhiệm vụ đó khó khăn và tốn kém hơn nhiều so với dự tính ban đầu.
+Ví dụ, hồi tháng 7/2020, tổng chi phí tối đa của chiến dịch đưa mẫu vật sao Hỏa trở về (MSR), dự án hợp tác giữa NASA và Cơ quan Vũ trụ châu Âu (ESA) được dự đoán vào khoảng 3 tỷ USD.
+Chỉ 3 năm sau, mức chi phí dự kiến đã tăng lên 8 - 11 tỷ USD.
+Ngay cả với chi phí đó, mẫu vật nhiều khả năng không thể tới Trái Đất trước năm 2040.
+Gần đây, NASA nhận định tình huống này rất khó chấp nhận.
+Tháng 4/2024, giám đốc NASA Bill Nelson thông báo họ đang làm việc để nâng cấp MSR, tìm kiếm những ý tưởng sáng tạo từ các trung tâm nghiên cứu, công ty tư nhân và giới học giả.
+Vài tháng sau, NASA lựa chọn 11 đề xuất MSR từ tổ chức học thuật và tập đoàn công nghiệp để phát triển thêm.
+8 trong số những tổ chức tư nhân nhận được 1, 5 triệu USD để phát triển ý tưởng của họ trong 90 ngày tiếp theo.
+Cuối cùng, hôm 7/1, NASA thông báo họ đang tập trung vào hai đề xuất MSR tiềm năng và khác nhau trong cách đưa thiết bị lên sao Hỏa.
+Lựa chọn đầu tiên là triển khai "sky crane", hệ thống hoạt động bằng tên lửa từng đưa robot tự hành Curiosity và Perseverance của NASA hạ cánh thành công trên sao Hỏa lần lượt vào tháng 8/2012 và tháng 2/2021.
+Sử dụng sky crane, chi phí của MSR sẽ ở mức 6, 6 - 7, 7 tỷ USD.
+Lựa chọn thứ hai không được NASA nêu chi tiết do công nghệ và thiết kế bản quyền, sẽ rẻ hơn một chút (5, 8 - 7, 1 tỷ USD).
+Theo Nelson, cả hai lựa chọn đều tạo ra phiên bản đơn giản, nhanh chóng và bớt tốn kém hơn hẳn kế hoạch ban đầu.
+Với kế hoạch mới, mẫu vật có thể hạ cánh trên Trái Đất sớm nhất năm 2035, nếu Quốc hội phân bổ đủ kinh phí.
+Khoảng 300 triệu USD cần được chi cho việc phát nghiên cứu và phát triển MSR trong năm tài khóa này.
+Hai lựa chọn đều đưa cùng loại thiết bị lên bề mặt sao Hỏa, một tàu đổ bộ trang bị tên lửa nhỏ mang tên Mars Ascent Vehicle (MAV).
+Tàu đổ bộ sẽ tiếp đất gần Perseverance, sau đó thu thập ống chứa mẫu vật bằng cánh tay robot từng được phát triển cho nhiệm vụ Perseverance, đặt chúng vào hộp chứa trên MAV.
+Tên lửa sẽ phóng mẫu vật lên quỹ đạo sao Hỏa và chuyển sang tàu vũ trụ do ESA cung cấp để mang về Trái Đất.
+Trong cả hai trường hợp, MAV và tàu đổ bộ đều nhỏ hơn kế hoạch ban đầu, cho phép sử dụng sky crane.
+Tàu đổ bộ cũng sẽ sử dụng nguồn năng lượng hạt nhân từ máy phát nhiệt điện đồng vị phóng xạ (RTG) tương tự robot Curiosity và Perseverance thay cho pin quang điện.
+RTG cung cấp hai lợi thế lớn là khả năng hoạt động trong bão bụi và giữ ấm cho motor tên lửa trên MAV.
+NASA đang nghiên cứu cả hai lựa chọn hạ cánh và sẽ đưa ra quyết định cuối cùng vào giữa năm 2026.
+Với khung thời gian đó, tàu quay quanh quỹ đạo nhằm đưa mẫu vật về Trái Đất của châu Âu có thể phóng sớm nhất vào năm 2030 và tàu đổ bộ/MAV sẽ không phóng sớm hơn năm 2031, theo Nicky Fox, người đứng đầu Ban chỉ đạo nhiệm vụ khoa học của NASA.
+Do đó, mẫu vật của Perseverance có thể sẽ không phải vật chất sao Hỏa đầu tiên đưa về Trái Đất.
+Trung Quốc hướng tới phóng nhiệm vụ tương tự năm 2028 và đưa mẫu vật về Trái Đất sớm nhất năm 2031.
+Nhưng nhiệm vụ đó chỉ thu thập vật chất từ một địa điểm thay vì ở môi trường đa dạng như Perseverance.

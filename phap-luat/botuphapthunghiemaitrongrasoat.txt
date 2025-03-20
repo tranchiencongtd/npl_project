@@ -1,0 +1,11 @@
+Bộ trưởng Tư pháp Nguyễn Hải Ninh đề nghị các đơn vị cần có kế hoạch cụ thể và xác định rõ mục tiêu để phát triển trí tuệ nhân tạo (AI) phục vụ xây dựng và kiểm tra văn bản quy phạm pháp luật.
+Ông yêu cầu tiếp tục thử nghiệm các giải pháp do CMC cung cấp từ nay đến cuối tháng 3 để đánh giá tính hiệu quả.
+Bộ Tư pháp đang thử nghiệm AI vào rà soát văn bản quy phạm pháp luật tại các đơn vị xây dựng, kiểm tra văn bản.
+Việc rà soát văn bản pháp luật tập trung vào ba nhóm chính: hỗ trợ rà soát, phát hiện các mâu thuẫn thẩm quyền về hình thức của văn bản quy phạm pháp luật.
+Một công việc nữa là kiểm tra về hiệu lực của các văn bản căn cứ và văn bản tham chiếu trong quá trình rà soát.
+AI cũng được sử dụng để tập trung vào tìm kiếm, xác định các điều, khoản, điểm, văn bản quy phạm pháp luật liên quan đến quy định, văn bản quy phạm pháp luật cần rà soát.
+Sau một thời gian thử nghiệm, Bộ Tư pháp đánh giá AI đã hỗ trợ đã rà soát và phát hiện các mâu thuẫn của văn bản pháp luật, trong đó bao gồm cả mẫu sai và đúng về thẩm quyền, hình thức.
+Tuy nhiên, việc triển khai thử nghiệm AI vẫn tồn tại nhiều hạn chế về dữ liệu, chức năng, kỹ thuật.
+Nhiều cán bộ tư pháp cho rằng các nội dung, thuật ngữ của hệ thống văn bản quy phạm pháp luật cần được chuẩn hóa, thống nhất để việc ứng dụng AI được chính xác hơn.
+Trong thời gian tới, Bộ Tư pháp sẽ làm tính khả thi với AI như hỗ trợ thẩm định văn bản, xác định tính hợp hiến, hợp pháp, tính thống nhất của hệ thống pháp luật, phát hiện mâu thuẫn, chồng chéo.
+Bộ Tư pháp cũng đặt ra mục tiêu dùng AI để kiểm tra văn bản, đánh giá thẩm quyền ban hành, hiệu lực pháp lý, sự phù hợp với điều ước quốc tế và quy định quốc tế.

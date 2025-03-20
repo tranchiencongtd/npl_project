@@ -1,0 +1,14 @@
+Tại Việt Nam, báo cáo của Hiệp hội An ninh mạng Quốc gia cho thấy đã có hơn 659.000 vụ tấn công mạng trong năm qua.
+Trong đó, 46, 15% cơ quan và doanh nghiệp bị ảnh hưởng và 14, 59% bị tấn công bằng mã độc tống tiền.
+Đáng chú ý là 26, 14% các vụ tấn công có chủ đích sử dụng mã độc gián điệp nằm vùng và 20, 6% doanh nghiệp không có đội ngũ chuyên trách bảo mật.
+Thống kê từ VSEC cũng cho thấy, các sự cố bảo mật có thể gây thiệt hại lên đến 1, 8 tỷ USD mỗi năm.
+Với sự gia tăng của các cuộc tấn công, việc Xử lý sự cố và Điều tra số (DFIR) trở thành một trong những dịch vụ thiết yếu, giúp doanh nghiệp đối phó nhanh chóng và hiệu quả với rủi ro.
+Xử lý sự cố và điều tra số(DFIR) là quy trình toàn diện, phát hiện và ngừng các cuộc tấn công, đồng thời cung cấp bằng chứng để điều tra nguyên nhân và mức độ thiệt hại.
+Theo chuyên gia an ninh mạng của VSEC, quy trình DFIR được triển khai dựa trên tiêu chuẩn nghiêm ngặt như NIST, đảm bảo các sự cố được xử lý đúng cách.
+Các chuyên gia sẽ sử dụng công cụ, phương pháp luận tiên tiến để phát hiện dấu vết kỹ thuật số, cung cấp báo cáo chi tiết về sự cố, khôi phục hệ thống và ngăn ngừa vụ việc tương tự.
+"Triển khai dịch vụ DFIR giúp chuẩn bị cho tình huống khẩn cấp, là chiến lược phòng ngừa, bảo vệ tài sản số quý giá.
+Bối cảnh số hóa mạnh mẽ và trí tuệ nhân tạo làm cho các cuộc tấn công ngày càng tinh vi, yêu cầu doanh nghiệp có quy trình DFIR bài bản để bảo vệ và duy trì tin tưởng của khách hàng và đối tác", đại diện VSEC nói.
+VSEClà doanh nghiệp có hơn 21 năm kinh nghiệm trong lĩnh vực an ninh mạng, một trong những đơn vị hàng đầu tại Việt Nam cung cấp dịch vụ DFIR.
+Doanh nghiệp này cho biết, đội ngũ chuyên gia của VSEC đạt chứng chỉ quốc tế, sở hữu các công nghệ tiên tiến, giúp xử lý sự cố nhanh chóng.
+Đồng thời, DFIR của VSEC có thể khôi phục hệ thống, cải thiện khả năng phòng ngự trong tương lai.
+"Giải pháp của VSEC giúp doanh nghiệp khôi phục hệ thống trong thời gian ngắn, cung cấp những phân tích sâu sắc về sự cố, giúp nhận diện và loại bỏ các điểm yếu trong hệ thống bảo mật", anh Nguyễn Hải Anh, Trưởng nhóm DFIR VSEC chia sẻ.

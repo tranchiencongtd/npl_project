@@ -1,0 +1,18 @@
+Reutersdẫn nguồn tin nội bộ cho biết, ông Donald Trump và Jensen Huang đã gặp nhau trong ngày 31/1 tại Nhà Trắng để thảo luận về DeepSeek - startup đang có các mô hình AI làm rung chuyển thế giới công nghệ.
+Cả hai cũng bàn về việc thắt chặt xuất khẩu chip AI.
+Trong đó, ông Trump hỏi sự xuất hiện của DeepSeek có đồng nghĩa với việc "các công ty Mỹ không phải tốn nhiều tiền để xây dựng một giải pháp AI chi phí thấp".
+Phản hồi với báo chí sau đó, Tổng thống Mỹ không đề cập đến nội dung cuộc họp, nhưng gọi CEO Nvidia là "một quý ông".
+"Tôi không thể nói trước điều gì sẽ xảy ra.
+Chúng tôi đã có một cuộc họp.
+Một cuộc họp diễn ra tốt đẹp", ông Trump nói.
+"Chúng tôi đánh giá cao cơ hội gặp Tổng thống Trump, được thảo luận về chính sách bán dẫn và AI", phát ngôn viên của Nvidia cho biết.
+"Jensen và Tổng thống đã thảo luận về tầm quan trọng của việc tăng cường công nghệ và vị thế lãnh đạo AI của Mỹ".
+Cuộc họp diễn ra trong bối cảnh ngày càng nhiều lo ngại về việc Trung Quốc đang bắt kịp Mỹ trong tiến trình phát triển AI, đặc biệt khi có sự xuất hiện của DeepSeek.
+Trước đó, ông Trump cũng cho rằng sự trỗi dậy đột ngột của công ty Trung Quốc "nên là lời cảnh tỉnh" đối với các công ty công nghệ của Mỹ.
+Nước này cũng đang tiến hànhđánh giátác động của DeepSeek với an ninh quốc gia.
+Trước đó, ba nguồn tin khác cũng nói vớiReutersrằng chính quyền Trump đang cân nhắc thắt chặt các hạn chế đối với việc bán chip H20 - mẫu chip AI được Nvidia thiết kế cho thị trường Trung Quốc để tránh các lệnh cấm.
+Cuộc thảo luận hiện ở giai đoạn đầu, nhưng ý tưởng đã có từ thời ông Joe Biden còn là tổng thống Mỹ.
+Theo John Moolenaar và Raja Krishnamoorthi, hai lãnh đạo Ủy ban Chọn lọc về Trung Quốc của Hạ viện Mỹ, động thái này như một phần trong cuộc đánh giá do Bộ Thương mại và Bộ Ngoại giao Mỹ chỉ đạo theo lệnh của ông Trump nhằm "xem xét kỹ lưỡng hệ thống kiểm soát xuất khẩu của Mỹ dựa trên những diễn biến liên quan đến các đối thủ chiến lược".
+Ngày 20/1, công ty khởi nghiệp Trung QuốcDeepSeekcông bố mô hình V3 miễn phí và đặc biệt R1 "được đào tạo trên các chip cũ của Nvidia, mã nguồn mở 100%, rẻ hơn 96, 4% so với OpenAI o1 trong khi vẫn mang lại hiệu suất tương tự".
+Công ty cho biết họ chỉ mất hai tháng và chi phí dưới 6 triệu USD để xây dựng mô hình AI sử dụng chip H800 kém tiên tiến của Nvidia.
+Phiên bản V3 thậm chí vượt ChatGPT trở thành ứng dụng được tải nhiều nhất trên App Store tại Mỹ ngày 27/1, trong khi giá trị củaNvidiabị thổi bay gần 600 tỷ USD, theoCNBC.

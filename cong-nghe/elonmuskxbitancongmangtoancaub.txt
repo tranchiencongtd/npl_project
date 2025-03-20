@@ -1,0 +1,14 @@
+TheoDowndetector, trang chuyên theo dõi hoạt động của các dịch vụ Internet, nền tảng X bắt đầu bị gián đoạn dịch vụ vào tối 10/3 kéo dài đến 3h ngày 11/3 (giờ Hà Nội).
+Trên toàn cầu, có hơn 41.000 lượt báo cáo không thể truy cập vào mạng xã hội của Elon Musk.
+Hiện dịch vụ đã được khôi phục.
+"Chúng tôi vẫn bị tấn công mỗi ngày, nhưng lần này có thể được thực hiện với rất nhiều nguồn lực", Elon Muskviết trên X sáng 11/3.
+"Có thể là một nhóm lớn, có sự phối hợp giữa các nhóm, và/hoặc một quốc gia tham gia".
+Tỷ phú Mỹ không giải thích rõ khi nói đến "nhiều nguồn lực".
+Tuy nhiên, bình luận của ông khiến các chuyên gia an ninh mạng tỏ ra hoài nghi.
+Họ cho rằng các cuộc tấn công nhằm vào X chủ yếu là DDoS (tấn công từ chối dịch vụ), có thể dễ dàng thực hiện bởi nhóm nhỏ hoặc cá nhân.
+Một nguồn tin về hạ tầng Internet nói vớiReutersrằng X bị DDoS, nhưng không xác định bên đứng sau.
+Trong phỏng vấn sau đó vớiFox Business Network, Musk nói cuộc tấn công "xuất phát từ các địa chỉ IP có nguồn gốc từ khu vực Ukraine".
+Dù vậy, một số chuyên gia phản bác, nói phân tích lưu lượng tấn công cho thấy các địa chỉ IP bắt nguồn từ Mỹ, Brazil và một số quốc gia châu Á, còn lượng lưu lượng trái phép đến trực tiếp từ Ukraine "không đáng kể".
+DDoS là một trong những cách thức tấn công mạng "cổ điển", có từ lâu nhưng vẫn được hacker sử dụng nhiều vì tính đơn giản nhưng hiệu quả cao.
+Hacker gửi một lượng yêu cầu lớn đến hệ thống mục tiêu, gây tình trạng quá tải và có thể bị tê liệt.
+TheoBleeping Computers, đây là cách thức tấn công lâu đời nhưng chưa có giải pháp khắc phục triệt để.

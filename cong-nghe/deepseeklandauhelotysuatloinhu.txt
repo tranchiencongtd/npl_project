@@ -1,0 +1,6 @@
+Đây là lần đầu startup có trụ sở ở Hàng Châu công bố thông tin tỷ suất lợi nhuận từ nhiệm vụ suy luận của AI trong việc hỗ trợ chatbot trả lời truy vấn của người dùng.
+Không như giai đoạn đào tạo tiêu tốn nhiều tài nguyên, việc suy luận đòi hỏi tính toán ít hơn.
+TheoReuters, dù DeepSeek nói lợi nhuận thực tế thấp hơn do chiến lược giá, tiết lộ trên có thể tiếp tục làm rung chuyển cổ phiếu của các công ty liên quan đến AI ngoài Trung Quốc.
+Các "ông lớn" Mỹ đầu tư hàng tỷ USD vào GPU thế hệ mới để duy trì vị thế dẫn đầu trong cuộc đua trí tuệ nhân tạo.
+Trong khi đó, DeepSeeknói họ chỉ sử dụng chip Nvidia H800 hiệu năng thấp và chi phí đào tạo mô hình dưới 6 triệu USD.
+Do đó, các nhà đầu tư đã đặt câu hỏi liệu có cần thiết đổ những khoản tiền khổng lồ vào AI như hiện nay, khiến cổ phiếu của hàng loạt công ty công nghệ lao dốc cuối tháng 1, trong đó vốn hóa của Nvidia bị "thổi bay" 600 tỷ USD vào ngày 27/1.

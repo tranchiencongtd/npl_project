@@ -1,0 +1,32 @@
+Tại cuộc thi đổi mới sáng tạo iKhiến do FPT tổ chức tuần trước, phần mềm FPT Camera Agent (FCA) vượt qua hơn 3.300 sáng kiến của các kỹ sư trong tập đoàn để giành giải xuất sắc.
+Sản phẩm được triển khai từ tháng 5/2024, được đánh giá mở ra khả năng tự chủ trong phát triển camera tại Việt Nam.
+FCA giúp biến camera cơ bản thành thông minh, với 20 module, đóng vai trò "bộ não" kết nối phần cứng ngoại vi như ống kính, cảm biến, mô-tơ, micro, loa, các bộ phận đến xử lý và lưu trữ.
+Từ đó, camera có thể thu nhận thông tin dữ liệu video và âm thanh, xử lý phân tích AI, mã hóa, nén và truyền lên đám mây hoặc trực tiếp tới thiết bị quản trị.
+Người dùng có thể thực hiện các tác vụ như quản lý camera đa nền tảng, xem trực tuyến, đàm thoại hai chiều, lưu trữ cloud.
+Đây vốn là tính năng cơ bản với camera giám sát hiện nay.
+Tuy nhiên, theo ông Đinh Cao Sơn, Giám đốc Trung tâm Sản phẩm Công nghệ FPT Life, phần "lõi" quan trọng của chúng gồm phần cứng và phần mềm hệ thống (firmware), phần lớn nằm trong tay các nhà sản xuất thiết bị OEM.
+Điều này khiến các công ty camera thường phải phụ thuộc vào nhà sản xuất, dẫn tới hạn chế về tự chủ phát triển tính năng cũng như đối mặt rủi ro về bảo mật.
+Tháng 11/2023, trong quá trình phát triển camera AI chạy trên đám mây, nhóm kỹ sư FPT Camera quyết định tự xây firmware riêng.
+"Chúng tôi muốn camera của Việt Nam có thể tự chủ về firmware, từ đó tăng mức độ an toàn bảo mật, chủ động ra mắt tính năng mới và giảm đáng kể giá thành sản xuất", ông Sơn cho hay.
+Tuy nhiên, điều này được đánh giá là thách thức lớn bởi firmware là phần mềm có độ phức tạp cao, khó thực hiện.
+Trên thế giới, mảng này vốn là sân chơi riêng của những công ty có nền tảng công nghệ mạnh mẽ và hiện chỉ khoảng 10 hãng làm được, phần lớn từ Mỹ và Trung Quốc.
+"Ngoài ra, một chiếc camera thường chỉ được trang bị chip xử lý đơn giản với tài nguyên hạn chế, trong khi chúng tôi tham vọng đảm bảo nhiều tính năng của camera như stream ngang hàng, mã hóa đầu cuối, xử lý AI tại biên", ông Sơn nói.
+Sau 6 tháng với 30 kỹ sư làm việc liên tục, 21 phiên bản FPT Camera Agent được đưa ra, trước khi bản chính thức được triển khai thương mại hóa giữa năm 2024.
+Đây cũng là giai đoạn đánh dấu bước ngoặt của công ty Việt Nam khi những chiếc cloud camera vốn có giá cả triệu đồng hiện được bán với giá chưa tới một nửa.
+"Kiến trúc FCA được thiết kế có thể cài lên bất cứ phần cứng nào.
+Khi đó, các nhà cung ứng sẽ phải 'đấu nhau' về giá thành và chúng tôi chỉ cần chọn đơn vị có chất lượng tốt, chi phí sản xuất phù hợp nhất và có nhà máy ở Việt Nam ", ông Sơn lý giải.
+Theo ông Nguyễn Viết Hiếu, Phó giám đốc Trung tâm Sản phẩm Công nghệ FPT Life, việc tự chủ firmware mang đến khả năng phát triển các tính năng một cách chủ động.
+Đơn vị này có thể triển khai bảo mật bằng mã hóa đầu cuối hay tối ưu hóa dung lượng lưu trữ, điều mà nhiều hãng nước ngoài chưa có, nhằm phù hợp với nhu cầu của người dùng trong nước.
+"Có khách hàng cần truyền dữ liệu camera qua mạng 4G.
+Trước đây, camera của một hãng nước ngoài tạo ra khoảng 16 GB dữ liệu mỗi ngày, trong khi camera của FPT chưa tới 10 GB, giúp tiết kiệm đáng kể chi phí vận hành", ông Hiếu cho biết.
+Ngoài ra, nhờ chủ động firmware, hãng có thể phát triển sản phẩm mới trong thời gian 2-3 tháng thay vì một năm như trước.
+Trong bối cảnh nhu cầu sử dụng camera gia tăng tại Việt Nam, đội ngũ cho biết dự định tiếp tục tối ưu hiệu quả, giúp người dùng dễ tiếp cận camera "made in Vietnam" với giá tốt cùng công nghệ tiên tiến.
+Tại vòng chung kết iKhiến, sản phẩm nhận được sự đánh giá cao.
+Ông Vũ Anh Tú, Giám đốc công nghệ tập đoàn FPT, nhận định nhóm kỹ sư đã làm được việc khó là viết lại firmware và có thể chạy trên nhiều loại phần cứng khác nhau.
+"Đó là sự sáng tạo và tính mới của sản phẩm.
+Nó có thể bắt nguồn từ sản phẩm đã có, nhưng bằng cách làm sáng tạo, chuyên gia công nghệ Việt sẽ xây dựng thành sản phẩm mới hoàn toàn.
+Chúng tôi mong muốn có nhiều sản phẩm như vậy", ông Tú nói.
+CTO FPT cũng cho biết cuộc thi iKhiến được tổ chức từ 2017 đã thu hút gần 9.400 sáng kiến của các đơn vị trong tập đoàn, trong đó có nhiều ý tưởng được triển khai diện rộng và được người dùng đánh giá cao như akaBot, MaaZ BSW & MaaZ Studio, FPT.
+IDCheck.
+Các sáng kiến được công nhận từ cuộc thi ước tính giúp FPT tăng 30% năng suất lao động mỗi năm.
+Trong năm ngoái, những sáng kiến này mang lại hơn 865 tỷ đồng, theo ông Tú.

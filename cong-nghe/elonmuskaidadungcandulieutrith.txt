@@ -1,0 +1,12 @@
+"Toàn bộ dữ liệu và tri thức do con người tạo ra đã được khai thác hết trong quá trình đào tạo AI.
+Điều này diễn ra từ năm ngoái", tỷ phúElon Muskcho biết trong cuộc phỏng vấn công bố hôm 9/1.
+Ông cho rằng cách duy nhất ngăn tình trạng thiếu hụt dữ liệu nguồn để dùng trong đào tạo mô hình mới là chuyển sang dữ liệu tổng hợp do chính AI tạo ra.
+"Quá trình này giống như viết một bài luận hoặc luận án, sau đó tự chấm điểm và đánh giá, từ đó xây dựng kiến thức mới", ông nói.
+Các tập đoàn công nghệ hàng đầu như Meta, Microsoft, Google và OpenAI đều đã sử dụng dữ liệu tổng hợp để tinh chỉnh mô hình của mình.
+Tuy nhiên, tỷ phú Mỹ cũng cảnh báo các mô hình AI vẫn có khả năng tạo ra "ảo giác" - thuật ngữ chỉ những kết quả đầu ra không chính xác hoặc vô nghĩa, dẫn đến nguy cơ sai lệch thông tin do AI tự tổng hợp.
+"Ảo giác đặt ra nhiều thách thức cho quá trình dùng dữ liệu tổng hợp, vì không thể biết những gì AI đưa ra là ảo giác hay câu trả lời thật sự cho vấn đề đặt ra", ông nói.
+Andrew Duncan, Giám đốc AI tại Viện Alan Turing (Anh), cho biết nhận xét của Musk có điểm tương đồng với một bài báo học thuật gần đây, trong đó ước tính dữ liệu công khai cho mô hình AI có thể cạn kiệt vào năm 2026.
+Theo ông, phụ thuộc quá nhiều vào dữ liệu tổng hợp có thể gây nguy cơ "mô hình sụp đổ", tức chất lượng đầu ra của AI sẽ suy giảm, tính thiên kiến tăng cao và mất đi sự sáng tạo.
+Dữ liệu chất lượng cao, cũng như quyền kiểm soát chúng, đã trở thành một trong những mặt trận căng thẳng về pháp lý trong cơn sốt AI.
+OpenAI hồi năm ngoái cũng thừa nhận không thể tạo ra các công cụ như ChatGPT nếu thiếu quyền truy cập vào các dữ liệu có bản quyền.
+Trong khi đó, ngành công nghiệp sáng tạo và các nhà xuất bản đang yêu cầu trả tiền cho các tài liệu của họ bị khai thác trong quá trình đào tạoAI.

@@ -1,0 +1,15 @@
+Công ty an ninh mạng Tarlogic (Tây Ban Nha) cho biết đã phát hiện một lệnh ẩn được mã hóa trong chip ESP32, có nguy cơ bị hacker khai thác bằng cách mạo danh một thiết bị đáng tin cậy và truy cập thông tin được lưu trữ trên đó.
+Từ đây, kẻ xấu có thể do thám người dùng hoặc thực hiện các hành động mờ ám khác.
+"Lệnh ẩn này có thể bị khai thác, giúp kẻ xấu thực hiện cuộc tấn công mạo danh vào các thiết bị nhạy cảm như điện thoại, máy tính, khóa thông minh hoặc thiết bị y tế bằng cách bỏ qua các biện pháp kiểm tra mã", đại diện Tarlogic cho biết.
+Cũng theo nhóm nghiên cứu, rủi ro phát sinh từ các lệnh này gồm việc triển khai phần mềm độc hại ở cấp OEM (nhà sản xuất thiết bị gốc) và các cuộc tấn công vào chuỗi cung ứng.
+Riêng việc khai thác lệnh từ xa có thể thực hiện được thông qua phần mềm độc hại hoặc kết nối Bluetooth giả mạo.
+Tarlogic đã phát triển công cụ điều khiển Bluetooth cho phép phát hiện lỗ hổng.
+Theo công ty bảo mật này, tổng cộng 29 "chức năng ẩn" trên chip ESP32 có thể bị khai thác để mạo danh các thiết bị đã biết và truy cập thông tin bí mật được lưu trữ trên thiết bị.
+ESP32 là bộ vi điều khiển giá rẻ, năng lượng thấp hỗ trợ wifi và Bluetooth chế độ kép.
+Dòng chip này sử dụng bộ vi xử lý Tensilica Xtensa LX6 ở cả hai biến thể lõi kép và lõi đơn, có ăng-ten tích hợp, bộ khuếch đại công suất, bộ khuếch đại thu nhiễu thấp, bộ lọc và module quản lý năng lượng.
+Năm 2023, Espressif cho biết hơn một tỷ chip ESP32 được bán trên toàn cầu.
+Hàng triệu thiết bị IoT hiện sử dụng chip này.
+Espressif, có trụ sở tại Thượng Hải, bán chip Bluetooth với giá 2 USD do TSMC sản xuất.
+"Mức giá này giải thích tại sao rất nhiều thiết bị sử dụng ESP32 thay vì các lựa chọn cao cấp hơn", trangBleeping Computerbình luận.
+Phản hồi về thông tin của Tarlogic ngày 10/3, Espressif cho biết các lệnh ẩn được phát hiện "là lệnh gỡ lỗi được đưa vào cho mục đích thử nghiệm nội bộ".
+Tuy nhiên, công ty không bình luận thêm.

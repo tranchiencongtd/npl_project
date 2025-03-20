@@ -1,0 +1,21 @@
+"Starlink với tính năng kết nối Internet trực tiếp từ vệ tinh đến điện thoại di động sẽ bắt đầu giai đoạn beta trong ba ngày nữa", Elon Musk viết trên X ngày 24/1.
+Direct-to-Cell là tính năng cho phép kết nối thiết bị di động với hệ thống vệ tinh Starlink, không cần thông qua các trạm mặt đất.
+Thay vào đó, hệ thống sử dụng vệ tinh ở quỹ đạo Trái Đất thấp với vai trò như "tháp di động trong không gian".
+Theo thông tin Musk cung cấp, SpaceX có thể sẽ bắt đầu thử nghiệm tính năng này từ ngày 27/1.
+Trên website của Starlink, Direct-to-Cell được giới thiệu với khả năng cung cấp kết nối ở bất kỳ đâu, cho phép người dùng nhắn tin, gọi điện và lướt web không cần dựa vào tháp di động trên mặt đất và cũng không cần phần cứng bổ sung.
+Dịch vụ cũng kết nối các thiết bị IoT với tiêu chuẩn LTE phổ biến.
+"Direct-to-Cell hoạt động với các điện thoại hỗ trợ LTE ở bất kỳ nơi nào người dùng nhìn thấy bầu trời", theo đoạn giới thiệu trên website.
+"Không cần thay đổi phần cứng, chương trình cơ sở hoặc ứng dụng đặc biệt, tính năng mới cung cấp quyền truy cập liền mạch cho nhắn tin văn bản, giọng nói và kết nối dữ liệu".
+Cũng theo SpaceX, tính năng đã được thử nghiệm nội bộ trong nhiều tháng và giai đoạn beta công khai là bước tiếp theo.
+Công ty sẽ sớm công bố thông tin chi tiết về các thiết bị được hỗ trợ và cách tham gia chương trình, đầu tiên tập trung vào nhắn tin văn bản cơ bản trước khi triển khai cuộc gọi thoại và dịch vụ dữ liệu sau đó.
+TheoGizChina, Direct-to-Cell là bước tiến lớn trong việc thu hẹp khoảng cách trong giao tiếp toàn cầu.
+"Hàng triệu người ở vùng nông thôn và vùng xa xôi đang thiếu các dịch vụ di động.
+Direct-to-Cell có tiềm năng thay đổi điều đó.
+Bằng cách bỏ qua nhu cầu về cơ sở hạ tầng truyền thống, nó có thể kết nối mọi người ngay cả ở những nơi khó tiếp cận nhất", trang công nghệ này bình luận.
+Tính năng Internet vệ tinh cho smartphone được Muskhé lộlần đầu vào tháng 9/2024.
+Khi đó, ông cho biết dịch vụ có tên Starlink Cellular, cho phép kết nối điện thoại di động ở mọi nơi trên Trái Đất.
+"Dịch vụ Internet kết nối trực tiếp giữa smartphone với Starlink sẽ vận hành độc quyền với T-Mobile ở Mỹ trong năm đầu, sau đó mở rộng sang các nhà mạng khác.
+Chúng tôi sẽ khởi đầu bằng cách làm việc với một nhà mạng nhất định ở mỗi nước, nhưng hy vọng hợp tác được với toàn bộ nhà mạng", Musk nói trên X khi đó.
+Musk tuyên bố mục tiêu của Starlink đến năm 2027 là có 42.000 vệ tinh tham gia vào mạng lưới Internet không gian.
+SpaceX đã sản xuất hơn một triệu thiết bị đầu cuối dành cho người dùng.
+Internet vệ tinh của hãng hiện đạt tốc độ 50-150 Mb/giây, thậm chí lên mức 175 Mb/giây ở một số khu vực.

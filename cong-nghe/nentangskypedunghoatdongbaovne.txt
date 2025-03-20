@@ -1,0 +1,11 @@
+"Hồi kết của một kỷ nguyên", The Vergenhận xét sau khi Microsoft tuyên bố đóng cửa Skype vào ngày 5/5 và thay bằng phiên bản miễn phí Teams dành cho người dùng cá nhân.
+Jeff Teper, Chủ tịch nền tảng và ứng dụng cộng tác Microsoft 365, nói: "Người dùng Skype có quyền lựa chọn.
+Họ có thể chuyển lịch sử trò chuyện và danh bạ của mình ra ngoài nếu muốn, hoặc có thể đăng nhập ứng dụng Teams để xem lịch sử tin nhắn, trò chuyện...
+mà không cần tạo tài khoản khác".
+Microsoft cũng đang dần loại bỏ việc hỗ trợ gọi điện đến số cố định và di động.
+"Chúng tôi đã xem xét mức độ sử dụng và xu hướng.
+Chức năng này rất tuyệt ở giai đoạn thoại qua IP (VoIP) chưa khả dụng và các gói dữ liệu di động rất đắt".
+Microsoft thâu tóm Skype năm 2011 với giá 8, 5 tỷ USD - mức đắt đỏ cách đây 14 năm với tham vọng trở thành nền tảng giao tiếp hàng đầu.
+Tuy nhiên, trong khi các dịch vụ như FaceTime, Messenger và WhatsApp ngày càng được ưa chuộng trong việc giúp kết nối qua tin nhắn và cuộc gọi, Skype phải vật lộn để cạnh tranh.
+Điều này càng thể hiện rõ trong thời kỳ Covid-19, khi người dùng đổ xô tải Zoom thay vì Skype.
+Microsoft cho biết quyết định dừng Skype không dẫn đến việc sa thải do Teams và Skype đã phát triển thành một bộ phận chung và họ sẽ cùng nhau đưa ra những tính năng tích hợp AI cho người dùng thời gian tới.

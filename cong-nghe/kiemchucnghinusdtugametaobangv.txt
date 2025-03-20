@@ -1,0 +1,46 @@
+Cuối tháng trước, cộng đồng game bắt đầu chia sẻ một trò chơi với đồ họa đơn giản có tênFly.pieter.com.
+Khi truy cập, người chơi chỉ cần nhập tên của mình, sau đó điều khiển máy bay và tấn công máy bay khác.
+"Một trò MMO mô phỏng bay miễn phí đầy thú vị, được tạo 100% bằng AI, không cần tải bộ cài hay cập nhật hàng GB mỗi khi bạn muốn chơi", theo giới thiệu trên website.
+Trên mạng xã hội, nhiều người đánh giá game không có đồ họa hay cốt truyện hấp dẫn, nhưng cách chơi tạo cảm giác kích thích.
+Số khác thấy thú vị, bởi đây là game tạo hoàn toàn bằng AI.
+Theo404Media, game thuộc về nhà phát triển Pieter Levels, người khá nổi tiếng trên cộng đồng AI, chuyên tạo sản phẩm bằng cách tận dụng trí tuệ nhân tạo.
+Người này cũng chỉ thực hiện công việc một mình với phong cách "vibe coding", tức viết mã theo cảm tính, không chú trọng cấu trúc hay chi tiết, không bận tâm đến sự toàn vẹn hay gọn gàng của mã nguồn, miễn sản phẩm hoạt động được.
+Nhà phát triển "vibe coding" thường dùng ngôn ngữ lập trình đơn giản, tối ưu hóa sử dụng các công cụ bên ngoài như AI.
+"Tất cả website, ứng dụng đều do một mình tôi xây dựng, dùng HTML, java script với jQuery, PHP và SQLite", Levels viết trong phần tiểu sử trên tài khoản X.
+Ngày 22/2, Levels viết trên X: "Tôi nghĩ sẽ ra sao nếu yêu cầu Cursor xây dựng một trình mô phỏng bay.
+Vì thế, tôi yêu cầu nó 'tạo trò chơi 3D trong trình duyệt với các tòa nhà chọc trời'.
+Sau một số gợi ý, truy vấn và yêu cầu đầu vào, khoảng 30 phút, tôi cóFly PietertứcFlight Simulator, lập trình bằng HTML và java script nguyên bản".
+Khoảng hai tuần sau, Levels cho biết trên X rằng game đã nhận được hơn 17.000 người đăng ký.
+Trong 11 ngày kể từ khi game ra đời, anh kiếm được 52.360 USD.
+Dù miễn phí, game có vật phẩm nâng cấp mua bằng tiền thật.
+Gói quảng cáo cũng được bán trên web với các mức giá khác nhau, cao nhất 5.000 USD mỗi tháng.
+Theo Levels, số tiền 52.360 USD bao gồm 52.000 USD từ 22 quảng cáo; và 360 USD bán vật phẩm, cụ thể là 12 chiếc máy bay phản lực với giá 29, 99 USD mỗi chiếc.
+Nhiều người đánh giá game tạo sức hút nhờ Levels có lượng người theo dõi lớn trên mạng xã hội, riêng X là 623.000 người.
+Nhiều trong số đó làm trong ngành AI hoặc quan tâm đến AI, có khả năng quảng bá dự án thông qua các chia sẻ, trải nghiệm game trên tài khoản của mình.
+Elon Musk với tài khoản X gần 220 triệu người theo dõi cũng đã trải nghiệm game và đánh giá tích cực, giúp lan tỏa sản phẩm.
+"Wow, thật tuyệt vời.
+Trò chơi AI sẽ trở nên phổ biến", ông viết cuối tháng trước.
+Tuy nhiên, việc tạo game chỉ bằng câu lệnh AI cùng mã nguồn đơn giản cũng khiến nó đối mặt với nhiều thách thức về bảo mật.
+Levels cho biết đã dành vài ngày để sửa một lỗ hổng khiến game tự quảng bá một trang web khiêu dâm.
+Đồ họa, tính năng mới hay các lỗi nhỏ cũng được tinh chỉnh và sửa liên tục.
+Fly Pieterkhông phải sản phẩm AI duy nhất giúp Levels thu được tiền.
+Anh còn có một số dự án khác, gồm PhotoAI giúp mang về 132.000 USD mỗi tháng.
+Phần mềm này được giới thiệu có thể "sa thải nhiếp ảnh gia" và "tạo nội dung ảnh, video cho phương tiện truyền thông xã hội bằng AI".
+Vibe coding có thay được lập trình viên?
+Đến nay, với nhiều lập trình viên, viết code phải luôn ưu tiên độ chính xác, tỉ mỉ và tối ưu.
+Nhưng với sự ra đời của các mô hình ngôn ngữ lớn, ngày càng nhiều công cụ cho phép người dùng tạo phần mềm mà không cần lập trình, gồm các công cụ vibe coding như Cursor Composer, GitHub Copilot hay Replit Agent.
+Theo số liệu của Cursor Composer tháng 8/2024, có 40.000 người dùng trả phí cho dịch vụ của công ty.
+Trong khi đó, GitHub Copilot có 1, 3 triệu người dùng.
+Replit Agent chưa công bố nhưng tổng lượng truy cập website đạt hơn 30 triệu tính đến hiện tại.
+Thực tế, các công cụ AI đã giúp việc viết game trở nên đơn giản.
+Nhà phát triển Peter Yang, hiện làm việc cho Microsoft, gần đây chứng minh bằng cách dùng Cursor và Claude 3.7 Sonnet để tạo một trò chơi 3D về zombie bắn súng góc nhìn thứ nhất đơn giản.
+Ông thậm chí sử dụng một ứng dụng chuyển giọng nói thành văn bản để "ra lệnh nhanh" thay vì viết câu lệnh, sau đó tinh chỉnh game hoàn thiện theo thời gian.
+"Cách tiếp cận này dành cho những lập trình viên lười biếng", nhà phát triển Andrej Karpathy viết trên X.
+"Tôi yêu cầu những điều ngớ ngẩn nhất vì quá lười để tự mình tìm ra.
+Tôi luôn 'Chấp nhận tất cả', vì không đọc sự khác biệt trong code nữa".
+Theo Simon Willison, nhà phát triển phần mềm và nhà nghiên cứu AI độc lập, vibe coding là "cách thú vị để thử nghiệm một ý tưởng và chứng minh xem nó có khả thi không".
+Tuy nhiên, có những giới hạn về cách làm này, buộc người dùng cần hiểu code ở một mức độ nhất định.
+"Đến lúc nào đó, việc hiểu ít nhất một số đoạn code là điều quan trọng vì mã do AI tạo ra có thể bị lỗi, hiểu lầm và bịa đặt", Willison nói vớiArs Technica.
+"Lập trình vibe coding sẽ rất thú vị và vui nhộn cho đến khi bạn phải gỡ lỗi cho nó", nhà phát triển Ben South viết trên X, đồng tình về lỗi của AI khi viết mã.
+Theo Willison, vibe coding thực tế phù hợp đối với cá nhân đơn lẻ, những người có thể "chấp nhận đánh đổi" cho các dự án cá nhân.
+Với môi trường doanh nghiệp, các công cụ này gần như không thể áp dụng.

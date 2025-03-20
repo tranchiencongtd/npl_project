@@ -1,0 +1,19 @@
+Thông tin được Vconnex công bố tại buổi ký kết với đối tác từ Na Uy hôm 5/2.
+Doanh nghiệp Việt sẽ cung cấp giải pháp giám sát thông minh gồm nền tảng VMS, nền tảng IoT và camera sang thị trường Na Uy sau đó mở rộng sang nhiều nước châu Âu.
+Ông Bùi Tiến Dũng, Giám đốc khối Khách hàng doanh nghiệp cho biết so với những dòng camera thông thường, sản phẩm của Vconnex có lợi thế nhờ làm chủ công nghệ cả phần cứng, phần mềm hệ thống (firmware) cùng nền tảng VMS.
+Đây vốn là hạn chế với nhiều doanh nghiệp camera trong nước khi phải phụ thuộc vào nhà sản xuất, không thể tự chủ phát triển tính năng.
+Vconnex hiện làm chủ cả 4 trụ cột công nghệ lõi gồm Nền tảng Vconnex IoT Platform theo tiêu chuẩn toàn cầu OneM2M, phần mềm hệ thống (Firmware), quy trình và dây chuyền sản xuất tại Việt Nam, ứng dụng quản lý từ xa.
+Do đó, lãnh đạo doanh nghiệp khẳng định có thể đáp ứng đa dạng nhu cầu về phát triển giải pháp công nghệ của khách hàng toàn cầu lẫn đặc thù mang tính địa phương.
+Để có thể bước chân vào thị trường châu Âu, hệ thống camera của Vconnex đã vượt qua nhiều đánh giá về tiêu chuẩn từ công nghệ đến quy trình sản xuất.
+Ngoài hệ thống camera, doanh nghiệp còn xuất khẩu nền tảng IoT cho phép kết nối tới hàng tỷ thiết bị và nền tảng VMS - một trong những giải pháp quản lý video tiên tiến hiện nay.
+Vconnex VMS hỗ trợ đa dạng giao thức kết nối camera, bao gồm API, RTSP, Onvif, CamBox và P2P.
+Hệ thống được thiết kế với kiến trúc phân tán, có thể triển khai trên hạ tầng đám mây hoặc tại các trung tâm dữ liệu độc lập theo yêu cầu của khách hàng.
+VMS tích hợp các công nghệ tối ưu hóa truyền tải dữ liệu video, bao gồm giao thức P2P để giảm độ trễ, tăng tốc độ truy cập từ xa và cải thiện hiệu suất khi kết nối qua mạng không ổn định.
+Theo doanh nghiệp, công nghệ này có thể đáp ứng yêu cầu từ giám sát an ninh quy mô nhỏ đến các hệ thống quản lý video phức tạp.
+Nhằm đáp ứng các yêu cầu về bảo vệ dữ liệu của chính phủ Na Uy và EU, VMS có thể triển khai trên các cụm máy chủ AWS đặt tại các khu vực được chính phủ và khách hàng chấp thuận.
+Điều này giúp đảm bảo quyền kiểm soát dữ liệu, tuân thủ các tiêu chuẩn bảo mật như GDPR, tận dụng hạ tầng đám mây AWS để tối ưu hiệu suất và khả năng mở rộng của hệ thống.
+Với việc tự làm chủ công nghệ, đơn vị cho biết chỉ mất 4 tháng để bàn giao nền tảng IoT, VMS được tùy chỉnh theo yêu cầu, tích hợp các thiết bị và hệ thống của đối tác vào nền tảng của doanh nghiệp.
+Ông Nguyễn Đức Quý, CEO Vconnex cho rằng người tiêu dùng EU kỹ tính nhưng có xu hướng gắn bó với sản phẩm có thương hiệu.
+Họ thường tìm hiểu kỹ thông tin sản phẩm, dây chuyền sản xuất, bao bì, cách đóng gói và đề cao yếu tố môi trường.
+Việc được đối tác từ Na Uy lựa chọn cho thấy năng lực về công nghệ, sản xuất của doanh nghiệp trong nước.
+"Dù yêu cầu khắt khe, chúng tôi vẫn tự tin đưa các sản phẩm Việt ra biển lớn, cạnh tranh sòng phẳng tại thị trường nước ngoài", ông Quý nói.

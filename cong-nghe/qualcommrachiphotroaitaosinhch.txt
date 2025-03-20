@@ -1,0 +1,10 @@
+Mẫu chip ra mắt ngày 13/2 được Qualcomm giới thiệu là "sản phẩm đầu tiên thuộc dòng này có hỗ trợ AI tạo sinh cho người dùng toàn cầu".
+Theo các phép đo được công bố, Snapdragon 6 Gen 4 nâng cấp hiệu suất trên nhiều phương diện, trong đó tốc độ CPU cải thiện 11% nhờ tích hợp bộ xử lý trung tâm CPU Kryo mới.
+Bộ xử lý đồ họa Adreno giúp tốc độ của GPU có thể nhanh hơn 29%, đồng thời giảm 12% năng lượng tiêu thụ.
+"Snapdragon 6 Gen 4 sẽ tạo đà cho bước nhảy vọt tiếp theo của điện thoại thuộc phân khúc tầm trung nhờ cải tiến đáng kể trong khả năng xử lýAI, trải nghiệm chơi game và chụp ảnh, tối ưu năng lượng", Deepu John, Giám đốc cấp cao bộ phận quản lý sản phẩm củaQualcommTechnologies, cho biết.
+Mẫu chip mới dự kiến được trang bị cho những mẫu điện thoại ra mắt trong vài tháng tới, từ một số nhà sản xuất như Realme, Oppo và Honor.
+Hỗ trợ AI tạo sinh là một trong những cuộc đua của các hãng chip thời gian qua.
+Thông thường khi xử lý tác vụ cần đến AI tạo sinh như tạo văn bản, hình ảnh, ứng dụng sẽ truyền dữ liệu qua mạng để xử lý trên đám mây.
+Việc hỗ trợ ngay trên chip giúp quá trình có thể diễn ra nhanh hơn, đồng thời tăng khả năng bảo mật do diễn ra ngay trên thiết bị.
+Tuy nhiên do yêu cầu về hiệu năng cũng như tiêu hao năng lượng pin, AI tạo sinhvốn chỉ được hỗ trợ trên chip cao cấp của các hãng thời gian qua.
+Tháng 12/2024, MediaTek cũng giới thiệu chip hỗ trợ AI là Dimensity 8400, hướng tới smartphone cận cao cấp.

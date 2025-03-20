@@ -1,0 +1,19 @@
+"Trước hết, tôi nghĩ đây là một đội ngũ tuyệt vời.
+Họ đã làm việc rất, rất tốt", Pichai nói về DeepSeek khi nhận câu hỏi từ báo giới sau báo cáo tài chính quý IV/2024 ngày 4/2.
+Tuy nhiên sau đó, ông nhấn mạnh tại Alphabet - công ty mẹ củaGoogle, những gì DeepSeek làm được "luôn là điều hiển nhiên" vì công ty cũng đang phát triển các mô hình tiên tiến, có xu hướng hiệu quả hơn về mặt chi phí theo thời gian.
+Ví dụ, Gemini đang "tỏa sáng" trên ranh giới Pareto - một loạt mục tiêu tối ưu khi nói đến chi phí, hiệu suất và độ trễ.
+"Nếu xem xét cả ba thuộc tính, tôi nghĩ chúng tôi đang dẫn đầu biên giới Pareto", Pichai nói và nhắc đến mô hình tư duy Flash 2.0 mới nhất của Google.
+"Flash 2.0 nằm trong số ít mô hình hiệu quả nhất hiện có, kể cả khi so sánh với V3 và R1 củaDeepSeek.
+Tôi nghĩ, chúng tôi có toàn bộ thế mạnh về phát triển, tối ưu hóa đầu cuối lẫn chi phí cho mỗi truy vấn".
+Năm ngoái, hàng loạt công ty lớn như Google, Microsoft, Meta, OpenAI đã chi hàng tỷ USD để tăng cường sức mạnh AI.
+Tuy nhiên, sự xuất hiện của DeepSeek với chi phí đào tạo "siêu rẻ" đặt ra câu hỏi rằng việc đầu tư nhiều tiền có phải là hướng đi đúng đắn.
+Pichai cho rằng các mô hình AI lý luận đang thúc đẩy xu hướng từ chi tiêu nhiều hơn sang chi tiêu hiệu quả hơn.
+"Đó là lý do khiến chúng tôi hào hứng về cơ hội AI", CEO Google nói.
+"Nó lớn đến mức không tưởng".
+Trong báo cáo tài chính quý IV/2024, Google cho biết doanh thu hợp nhất tăng 12% lên 96, 5 tỷ USD.
+Tuy nhiên, công ty cũng có kế hoạch chi 75 tỷ USD trong năm 2025, chủ yếu liên quan đếnAI.
+Thông tin này khiến cổ phiếu của Alphabet giảm 8%.
+Nói vớiBusiness Insider, Jesse Cohen, nhà phân tích cấp cao của Investing, cho rằng các nhà đầu tư đang "yêu cầu mốc thời gian rõ ràng", tức khi nào Alphabet có thể biến số tiền chi cho AI thành tăng trưởng doanh thu và lợi nhuận, không chỉ là lời hứa.
+"Cổ phiếu Alphabet giảm sau báo cáo tài chính cho thấy mối lo ngại rằng các đối thủ như Microsoft, với quan hệ đối tác với OpenAI, sẽ có vị thế tốt hơn trong việc chuyển đổi sự cường điệu về AI thành doanh thu", Cohen nhận định.
+Trước đó, CEO Meta Mark Zuckerberg cũng đánh giá DeepSeek có một số cải tiến đột phá, nhưngkhông khiến ông nghĩ lạivề mục tiêu chi hàng trăm tỷ USD vào hạ tầng AI.
+Trong báo cáo tài chính ngày 29/1, ông khẳng định kế hoạch đầu tư hơn 60 tỷ USD riêng trong năm 2025 vào trí tuệ nhân tạo, chủ yếu cho xây dựng trung tâm dữ liệu.

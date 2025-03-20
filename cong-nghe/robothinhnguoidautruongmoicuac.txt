@@ -1,0 +1,30 @@
+Reutersdẫn thông báo nội bộ từ Andrew Bosworth, Giám đốc công nghệ Meta, cho biết bộ phận mới sẽ tập trung vào nghiên cứu và phát triển "robot hình người để tối đa hóa khả năng nền tảng của Llama".
+Llama là mô hình ngôn ngữ lớn (LLM) hiện cung cấp sức mạnh cho các sản phẩm AI đang được triển khai trên các nền tảng của Meta như Facebook, Instagram.
+"AI và các công nghệ cốt lõi mà chúng ta đã đầu tư trên Reality Labs sẽ bổ sung cho việc thúc đẩy những tiến bộ cần thiết cho robot", Bosworth viết.
+"Việc mở rộng danh mục đầu tư vào lĩnh vực này mang lại giá trị cho Meta AI và chương trình VR/AR của chúng ta".
+Nhóm này dự kiến do Marc Whitten, cựu CEO công ty xe tự lái Cruise và được Meta mời về làm phó chủ tịch phụ trách robot, đứng đầu.
+Tuy nhiên, thông tin chi tiết chưa được tiết lộ.
+Metachưa đưa ra bình luận.
+Meta là một trong những tên tuổi mới nhất tham gia cuộc đua robot hình người, sau Nvidia, Tesla, Figure AI và hàng loạt công ty Trung Quốc.
+Tuần trước, nhà báo công nghệ Mark Gurman củaBloombergcũng cho biết Apple "đang khám phá một cỗ máy có thể là người, thể hiện AI của Apple và công nghệ được tích hợp chặt chẽ".
+"Sự cạnh tranh giữa Apple và Meta, đều là những công ty hàng đầu trong lĩnh vực của mình, có thể thúc đẩy quá trình phát triển và ứng dụng công nghệ mới, đưa con người đến gần hơn với tương lai mà robot hình người trở nên phổ biến", trangBenzinganhận xét.
+Trước Apple và Meta, một số hãng công nghệ lớn và công ty khởi nghiệp đã đổ hàng tỷ USD vào phát triển thiết bị AI hỗ trợ sản xuất, hậu cần và công việc gia đình liên quan đến robot hình người.
+Tuy nhiên, tiến độ phát triển hiện còn chậm vì các nhà nghiên cứu nhận ra những đột phá về AI liên quan đến ngôn ngữ, vốn thúc đẩy sự phát triển của chatbot, không đồng nghĩa sẽ giúp robot hiểu được thế giới vật lý.
+Trong nhiều năm, Meta đã tài trợ cho các nghiên cứu với hy vọng phát triển trợ lý AI có thể nhìn, lắng nghe và điều hướng thế giới vật lý 3D xung quanh chúng.
+Năm ngoái, Bloombergcũng đưa tin Apple từ bỏ dự án xe điện để chuyển hướng sang các cỗ máy tiên tiến phục vụ gia đình.
+Google cũng được cho là có mục tiêu thúc đẩy robot tương tự.
+Tesla là một trong những công ty đi đầu xu hướng khi công bố Optimus từ cách đây bốn năm và chuẩn bị thương mại hóa trong năm 2026.
+Theo CEO Tesla Elon Musk, Optimus có thể thực hiện nhiều nhiệm vụ trong nhà máy và ông đặt mục tiêu sản xuất 10.000 robot Optimus năm nay, song thừa nhận khó đạt được con số này.
+Đầu năm ngoái, công ty khởi nghiệpFigure AIcũng cho biết đã nhận được sự tin tưởng từ các tên tuổi lớn trong lĩnh vực trí tuệ nhân tạo như Jeff Bezos, Nvidia, Amazon, Microsoft và OpenAI với khoản tiền đầu tư 675 triệu USD.
+Mới thành lập năm 2022 tại Mỹ, Figure AI đã phát triển mẫu robot đa năng có hình dáng và chuyển động giống con người, dự kiến được giao nhiệm vụ trong sản xuất, vận chuyển, hậu cần, kho bãi và bán lẻ - những lĩnh vực đang thiếu hụt lao động.
+Ngoài Figure AI, OpenAI cũng đầu tư 400 triệu USD vàoPhysical Intelligencehồi tháng 11/2024.
+TheoCNBC, startup này mới ra mắt hồi tháng 3/2024 với một số thành viên là cựu nhân viên của Tesla, Google DeepMind và X, tập trung vào việc "đưa AI đa năng vào thế giới vật lý".
+Họ đặt mục tiêu thực hiện bằng cách phát triển các mô hình, thuật toán trí tuệ nhân tạo quy mô lớn nhằm cung cấp năng lượng cho robot.
+"Thời khắc ChatGPT dành cho robot đã đến", CEO Nvidia Jensen Huang phát biểu tại sự kiện CES 2025 ở Las Vegas đầu tháng trước, dự đoán AI không còn chỉ là công cụ xử lý dữ liệu mà đang dần bước vào thế giới thực.
+Trong khi đó, Trung Quốc đang vươn lên dẫn đầu thị trường robot hình người nhờ vào lợi thế sản xuất.
+Lễ hội chào năm mới của nước này đãgây ấn tượngvới màn trình diễn đột phá của 16 robot hình người đến từ Unitree.
+Unitreelà nhà sản xuất robot nổi tiếng của Trung Quốc.
+Tháng trước, công ty bổ sung khả năng đi bộ giống con người, hoạt động tốt trên địa hình gồ ghề cho mẫu G1.
+Unitree G1 là bản nâng cấp củaUnitree H1, cao 1, 3 mét, nặng 35 kg, hướng đến thực hiện nhiệm vụ linh hoạt ở khu vực con người khó tiếp cận.
+Công ty dự tính bán robot với giá 16.000 USD - mức mà trang công nghệThe Vergenhận định hợp lý, dù người dùng phổ thông không dễ tiếp cận.
+Công ty phân tích Goldman Sachs Research ước tính quy mô thị trường robot hình người toàn cầu có thể đạt 38 tỷ USD vào năm 2035 nhờ những đột phá về AI.

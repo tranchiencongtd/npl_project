@@ -1,0 +1,14 @@
+Đây là một trong các đề xuất hợp tác được đại diện Google Việt Nam đề cập tại Hội nghị phát triển khoa học công nghệ, đổi mới sáng tạo, chiều 11/2 ở Hà Nội.
+Theo Tổng giám đốc Google Việt Nam Marc Woo, lĩnh vực trí tuệ nhân tạo trong nước thời gian qua có nhiều bước tiến.
+"Tuy nhiên, để có sự phát triển vượt bậc, một lực lượng tri thức, lao động cũng như doanh nghiệp lành nghề, thành thạo công nghệ AI vô cùng quan trọng", ông nói.
+Đề xuất hợp tác đầu tiên là về mô hìnhAI.
+Theo ông Woo, dữ liệu và mô hình có thể quyết định sức mạnh của công nghệ này.
+Ông cho biết những năm qua, hãng đã dành nhiều nguồn lực xây dựng các mô hình ngôn ngữ lớn, đồng thời nhận định các mô hình này "chỉ phát huy được hết tác dụng khi chúng được đào tạo bằng nguồn dữ liệu, đặc biệt là tiếng Việt đa dạng và chất lượng cao".
+"Do đó, chúng tôi rất mong hợp tác với Chính phủ, các tổ chức, trường đại học để cùng phát triển mô hình ngôn ngữ lớn, hiện đại và mang đậm tinh hoa tiếng Việt", ông Woo nói.
+Nhắc đến việc xây dựng bộ dữ liệu quốc gia mở và cho phép khai thác để xây dựng ứng dụng AI, Googleđánh giá đây là điểm tích cực của Việt Nam, sẵn sàng trao đổi và chia sẻ bài học kinh nghiệm để phát triển.
+Về nguồn nhân lực, Tổng giám đốc Google Việt Nam cho biết sẽ tiếp tục cung cấp học bổng và chương trình đào tạo nâng cao kỹ năng AI cho những người đủ điều kiện.
+Ngoài ra, với học sinh, sinh viên và giáo viên, hãng cho biết sẽ cung cấp công cụ hỗ trợ học tập và giảng dạy bằng trí tuệ nhân tạo để họ tiếp xúc với AI từ sớm.
+"Google sẵn sàng cung cấp cho học sinh, giáo viên tại Việt Nam tài khoản truy cập miễn phí gói giải pháp Google WorkSpace, Classroom", ông nói.
+Phần lớn chatbot AI phổ biến đều hỗ trợ tiếng Viêt, tuy nhiên khả năng xử lý của các mô hình ngôn ngữ lớn đứng sau có nhiều khác biệt.
+Báo cáo tình hình phát triển mô hình ngôn ngữ lớn (LLM) tiếng Việt thông qua bộ tiêu chuẩn VMLU đượccông bốtháng 1 cho thấy có ít nhất 45 mô hình ngôn ngữ lớn tiếng Việt được xây dựng tính đến cuối 2024 từ các doanh nghiệp, tổ chức trong và ngoài nước.
+Trong đó, Llama-3-70B của Meta, KiLM-13b-v24.7.1 của Zalo AI, GPT-4 của OpenAI là những mô hình dẫn đầu năng lực tiếng Việt tổng quát, cao hơn Gemma hay Gemini của Google.

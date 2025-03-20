@@ -1,0 +1,24 @@
+Đây là sản phẩm của đề tài"Nghiên cứu xây dựng và chuẩn hóa cơ sở dữ liệu thông tin quy hoạch và hệ thống tra cứu trực tuyến"do TS Nguyễn Hữu Hà, Giám đốc Sở Khoa học và Công nghệ Bình Định, và ThS Lưu Đình Hiệp, Giám đốc Trung tâm Công nghệ Thông tin Địa Lý - Đại học Bách Khoa TP HCM, đồng chủ nhiệm.
+Ông Lưu Đình Hiệp cho biết, mục tiêu của nghiên cứu là chuẩn hóa dữ liệu quy hoạch, đồng thời phát triển ứng dụng, phần mềm để quản lý và truy xuất thông tin dễ dàng.
+Phần mềm được xây dựng trên nền tảng WebGIS, kết hợp với công nghệ bản đồ tương tác hiện đại giúp đáp ứng mục tiêu trên, hỗ trợ người dùng tra cứu chi tiết thông tin như mục đích sử dụng đất, mật độ xây dựng, số tầng cao tối đa, cùng các yếu tố hạ tầng kỹ thuật.
+Trước đây, thông tin quy hoạch chủ yếu được quản lý qua phần mềm AutoCAD, vốn chỉ dành cho các phòng ban chuyên môn và kỹ thuật viên.
+Phần mềm này có nhiều hạn chế, như không hỗ trợ định dạng loại đất, không tự động khoanh vùng hay hiển thị điểm chính xác khi nhập số thửa đất.
+Ứng dụng "Quy hoạch xây dựng" ra đời đã khắc phục hạn chế này.
+Người dân và cán bộ đều có thể tra cứu trực tuyến trên điện thoại hoặc máy tính, không cần cài đặt phần mềm chuyên dụng.
+Hệ thống hiển thị trực quan, tự khoanh vùng khu vực cần tìm, cung cấp thông tin về loại đất, giúp quá trình tra cứu nhanh chóng.
+Để xây dựng hệ thống, nhóm nghiên cứu đã thu thập và chuẩn hóa dữ liệu nền tại thị xã Hoài Nhơn.
+Dữ liệu bao gồm 249.332 thửa đất, 13.208 cây xanh, cùng các thông tin về giao thông, cấp thoát nước và chiếu sáng.
+Nhóm cũng xây bộ cơ sở dữ liệu GIS đồng bộ, đảm bảo độ chính xác cao theo hệ quy chiếu VN2000.
+Hai nền tảng riêng biệt đã được phát triển là nền tảng dành cho người dân, doanh nghiệp, cho phép tra cứu thông tin quy hoạch công khai; và dành cho cán bộ quản lý, bổ sung các tính năng nâng cao như cập nhật, quản lý dữ liệu và hỗ trợ kiểm tra hiện trường.
+Tại huyện Phù Cát, hệ thống được nâng cấp với giao diện tối ưu hóa trải nghiệm người dùng trên thiết bị di động.
+Tính năng định vị và chỉ đường thông minh giúp người dùng dễ dàng tìm kiếm thông tin và đến các địa điểm mong muốn.
+Cho đến nay, hệ thống đã số hóa 46 đồ án quy hoạch với 95.035 đối tượng, bao gồm quy hoạch sử dụng đất, giao thông, cấp thoát nước, cây xanh, và hệ thống điện chiếu sáng.
+Theo các tác giả, ứng dụng mang lại lợi ích cho ba nhóm người dùng là cán bộ quản lý, nhà đầu tư và người dân.
+Với cán bộ quản lý, app hỗ trợ lãnh đạo điều hành, xử lý vi phạm trật tự xây dựng ngay tại hiện trường và giảm tải công việc hành chính.
+Với nhà đầu tư, ứng dụng giúp họ dễ dàng tra cứu thông tin quy hoạch từ xa, tiết kiệm thời gian khảo sát thực địa và chi phí đi lại.
+Người dân có thể tra cứu thông tin mọi lúc, mọi nơi qua điện thoại hoặc máy tính, chủ động nắm bắt các dự án phát triển trong khu vực.
+Theo TS Nguyễn Hữu Hà, mô hình đang nhận được sự quan tâm từ nhiều địa phương.
+Các huyện Phù Mỹ và Tuy Phước dự kiến triển khai trong năm 2025.
+Về lâu dài, Bình Định hướng tới tích hợp toàn bộ cơ sở dữ liệu quy hoạch vào Trung tâm dữ liệu tỉnh, tạo nền tảng quản lý tập trung và thống nhất.
+WebGIS (Web-based Geographic Information System) là một hệ thống thông tin địa lý hoạt động trên nền tảng web, cho phép người dùng truy cập, thao tác và phân tích dữ liệu địa lý thông qua trình duyệt mà không cần cài đặt phần mềm chuyên dụng.
+Hiện một số địa phương đã áp dụng hệ thống này trong quản lý đất đai.

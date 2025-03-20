@@ -1,0 +1,16 @@
+Kết quả thống kê tính đến ngày 31/1, vừa đượcAicpb, trang web Trung Quốc chuyên theo dõi mức độ phổ biến của các dịch vụ AI toàn cầu, công bố.
+Theo đó, DeepSeek đạt 22, 15 triệu người dùng hàng ngày vào cuối tháng 1, vượt qua con số 16, 95 triệu của Doubao từ ByteDance.
+Trong khi đó, số người dùng vào ngày 31/1 của ChatGPT là 53, 23 triệu, theo Aicpb.
+Dù chưa bằng một nửa số người dùng hàng ngày (DAU) so với sản phẩm của OpenAI, DeepSeeksoán ngôi ứng dụng AI có tốc độ phát triển nhanh nhất.
+Các phiên bản ứng dụng cho Android và iOS của sản phẩm này ra mắt lần lượt ngày 8 và 10/1, từ con số 0 đã đạt mức trên 20 triệu người dùng sau gần 20 ngày.
+Vào năm 2022, ChatGPT ra mắt thu hút khoảng 1, 46 triệu người dùng trong cùng khoảng thời gian.
+TheoSCMP, dù phát triển từ năm 2023, các sản phẩm của DeepSeek chỉ bắt đầu trở nên phổ biến sau khi công ty giới thiệu mô hình lý luận R1 vào ngày 20/1, đồng thời cung cấp các phương thức tiếp cận cho người dùng cuối qua website.
+Mô hình này được đánh giá ngang bằng hoặc thậm chí vượt qua mô hình o1 của OpenAI trong một số bài kiểm tra, trong khi được cung cấp miễn phí, so với mức giá 20 USD/tháng của sản phẩm đến từ Mỹ.
+Theo thống kê từ một hãng nghiên cứu thị trường khác là Appfigures, trong những ngày cuối tháng 1, DeepSeek đã trở thành ứng dụng được tải xuống nhiều nhất trong App Store tại Mỹ và 140 thị trường trên toàn cầu.
+Hoạt động chưa đầy một tháng, DeepSeek cũng lọt vào top 5 ứng dụng AI có người dùng hàng tháng (MAU) nhiều nhất, theo thống kê Aicpb.
+Ứng dụng đạt 33, 7 triệu MAU, đứng sau Nova AI, một chatbot tổng hợp GPT và Gemini với 56, 6 triệu người dùng, Doubao với 78, 61 triệu người dùng, trong khi ChatGPT đạt hơn 349 triệu người dùng hàng tháng.
+Trung Quốc là thị trường sử dụng DeepSeek nhiều nhất, chiếm 30, 71%, trong khi Ấn Độ là 13, 59%, Indonesia 6, 94%, Mỹ 4, 34%.
+DeepSeek được thành lập năm 2023 bởiLiang Wenfeng, đồng sáng lập của quỹ đầu tư chuyên về AI High Flyer.
+Công ty bắt đầu phát triển DeepSeek vào tháng 4/2023, trước khi ra mắt mô hình suy luận R1 hôm 20/1.
+Cách làm của công ty Trung Quốc được các công ty về AI lớn như Microsoft, OpenAI, Nvidia đánh giá cao.
+Tuy nhiên nó cũng đứng trước nhiều tranh cãi như nghi vấn về số tiền phát triển có thể lên tớitỷ USD, "chưng cất" kiến thức từ các mô hình đi trước, nguy cơmất an toàn thông tin.

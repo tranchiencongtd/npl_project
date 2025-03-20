@@ -1,0 +1,14 @@
+Thông tin do Giáo sư Po Shen Loh ở đại học này chia sẻ trên trang cá nhân cuối tuần trước.
+Cựu huấn luyện đội tuyển Olympic Toán quốc tế của Mỹ trong 10 năm qua bày tỏ ấn tượng trước khả năng của AI này.
+Po đã yêu cầu ChatGPT o1 giải 5 câu hỏi trong đề thi Toán cao cấp của mình dành cho sinh viên đại học.
+Phiên bản này được OpenAI ra mắt tháng 9 năm ngoái, được đánh giá có khả năng thực hiện các suy luận phức tạp, tạo ra một chuỗi suy nghĩ nội bộ dài trước khi phản hồi tới người dùng.
+Một tiến sĩ Toán học người Belarus tại Đại học Carnegie Mellon, từng giành huy chương vàng Olympic Toán học quốc tế, đánh giá đề thi của giáo sư Po "không tầm thường".
+Tuy vậy, mô hình AI này giải đúng toàn bộ, mỗi câu mất chưa đến một phút.
+"Tôi cực kỳ ấn tượng với những sinh viên có thể đạt điểm tuyệt đối.
+Kỳ thi này không dễ đối với họ", Giáo sư Po viết.
+Theo ông, khoảng 10 người đạt điểm tối đa (50/50), còn lại dao động trong khoảng 25-45 điểm.
+Trước đó từng có nhiều mô hình AI có thể giải các bài toán phức tạp.
+Hồi tháng 2, AlphaGeometry2, làm được 42/50 bài hình học IMO trong 25 năm qua, trong khi mức trung bình của những thí sinh giành huy chương vàng là 40, 9.
+Đây là phiên bản nâng cấp của AlphaGeometry - vốn giải được 53% số bài khi mới trình làng hồi đầu năm ngoái.
+Ngoài công cụ này, DeepMind giữa năm ngoái cho ra mắt AlphaProof để giải các câu hỏi ngoài hình học.
+AlphaProof sau đó đã chinh phục 4 trên 6 bài của đề thi IMO 2024, đạt 28/42 điểm - ngang với thí sinh giành huy chương bạc.

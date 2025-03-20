@@ -1,0 +1,33 @@
+Trong thế giới AI, khái niệm "chưng cất" đề cập việc "chuyển giao kiến thức" từ mô hình này sang mô hình khác theo dạng giáo viên - học sinh.
+"Chưng cất là kỹ thuật được thiết kế để chuyển kiến thức của một mô hình lớn được đào tạo trước (giáo viên) thành một mô hình nhỏ hơn (học sinh), cho phép mô hình học sinh đạt được hiệu suất tương đương mô hình giáo viên", hai nhà khoa học Vishal Yadav và Nikhil Pandey nói vớiForbes.
+"Kỹ thuật này giúp người dùng tận dụng chất lượng của các mô hình ngôn ngữ lớn (LLM), đồng thời giảm chi phí suy luận".
+"Điều này giống như khi bạn có vài giờ phỏng vấn Einstein và bước ra với kiến thức gần bằng ông ấy về một lĩnh vực vật lý", Ali Ghodsi, CEO công ty quản lý dữ liệu Databricks, nói vớiWSJ.
+Các mô hình AI hàng đầu từ OpenAI, Google, Meta hay Anthropic về cơ bản tự học từ đầu với lượng dữ liệu thô khổng lồ - quá trình thường mất nhiều tháng và tiêu tốn hàng chục triệu USD trở lên.
+Tuy nhiên, khi một công ty khác ra đời sau và sử dụng kết quả đã có từ các AI đi đầu này, quá trình chưng cất có thể giúp tạo ra một mô hình tốt trong vài tuần, thậm chí vài ngày, với chi phí ít hơn đáng kể.
+"Điều dễ sao chép nhất là quy trình chưng cất", nhà khoa học nghiên cứu cấp cao Lewis Tunstall viết trên blog cuối tuần trước.
+Ngày 29/1, nói vớiFT, OpenAIphát hiện dấu hiệu "chưng cất" mà họ nghi ngờ từ DeepSeek.
+Kỹ thuật này được các nhà phát triển sử dụng để đạt hiệu suất tốt hơn trên các mô hình nhỏ, bằng cách sử dụng đầu ra từ những mô hình lớn, cho phép họ có được kết quả tương tự trong các nhiệm vụ cụ thể với chi phí thấp hơn.
+Đây là hoạt động phổ biến trong lĩnh vực AI nhưng có thể DeepSeek đã vi phạm điều khoản dịch vụ của OpenAI.
+Trong khi đó, Bloombergđưa tin OpenAI và đối tác Microsoft đang điều tra các tài khoản được cho là củaDeepSeektừng sử dụng giao diện lập trình ứng dụng (API) của OpenAI vào năm ngoái và chặn quyền truy cập vì nghi ngờ có hành vi vi phạm điều khoản.
+"Họ có thể chắt lọc để tạo ra một LLM thực sự tốt và sử dụng quy trình 'chưng cất' để làm điều đó", Chetan Puttagunta, chuyên gia của Benchmark, nói vớiCNBCkhi mô hình DeepSeek R1 được giới thiệu.
+"Về cơ bản, họ sử dụng một mô hình rất lớn để giúp mô hình nhỏ của mình trở nên thông minh và cách này rất tiết kiệm chi phí".
+Chưng cất không phải ý tưởng mới trong giới công nghệ.
+CNNdẫn các báo cáo khoa học cho thấy lĩnh vực được ứng dụng nhiều trước đó là xe tự lái.
+"Kiểu học tập này cho thấy tiềm năng to lớn trong nhiều lĩnh vực, như xe tự lái, điều khiển robot và chăm sóc sức khỏe", trang này cho hay.
+"Trong lái xe tự động, chưng cất cho phép đào tạo hiệu quả và tinh chỉnh mô hình AI cho các nhiệm vụ như hợp nhất cảm biến, phát hiện vật thể và ra quyết định, đồng thời giảm mức tiêu thụ năng lượng và đảm bảo khả năng phản hồi theo thời gian thực".
+Tuy nhiên, thành công của DeepSeek đang gây chú ý, làm dấy lên những câu hỏi rằng việc chi hàng tỷ USD để tiên phong của các doanh nghiệp Mỹ liệu có mang lại lợi thế vô song, hay chỉ đóng vai trò là bàn đạp cho đối thủ rẻ hơn.
+TheoWSJ, các lãnh đạo AI tại Thung lũng Silicon đang xem xét lại mô hình kinh doanh của họ, đồng thời đặt câu hỏi liệu việc trở thành người dẫn đầu lĩnh vực có còn đáng giá hay không.
+"Liệu có hiệu quả kinh tế khi đi đầu trong lĩnh vực với chi phí cao gấp 8 lần so với những công ty đang theo sau một cách nhanh chóng?", Mike Volpi, một giám đốc công nghệ kỳ cựu, nhà đầu tư mạo hiểm và là nhà phân tích của Hanabi Capital, nhận xét.
+Sau sự xuất hiện của DeepSeek, trên X, CEOOpenAISam Altman đánh giá các mô hình mới nhất của DeepSeek "ấn tượng, đặc biệt là về những gì có thể cung cấp với mức giá đó", nhưng khẳng định "tiếp tục thực hiện lộ trình nghiên cứu của mình".
+Trong khi đó, Yann LeCun, Giám đốc AI của Meta, cũng cho rằng có "hiểu lầm lớn" khi so sánh việc công ty Mỹ chi hàng tỷ USD vào AI với DeepSeek.
+"Phần lớn trong số hàng tỷ USD đó được đầu tư vào cơ sở hạ tầng để 'suy luận', không phải để đào tạo", LeCun viết trên mạng xã hội Threads giữa tuần này.
+Trên blog, CEO Anthropic Dario Amodei cũng cho rằng hai mô hình chủ lực của DeepSeek "không phải một bước đột phá độc đáo hay thứ gì đó thay đổi nền kinh tế" của các hệ thống AI tiên tiến, mà là "một điểm dự kiến trên đường cong giảm chi phí AI đang diễn ra".
+Bên cạnh những lo ngại, giới công nghệ cũng mong đợi việc "chưng cất" sẽ sớm tạo ra các ứng dụngAIchất lượng cao.
+Chẳng hạn, nhóm các nhà nghiên cứu trên nền tảng Hugging Face đã bắt đầu xây dựng một mô hình tương tự DeepSeek vào tuần trước.
+Thực tế, các mô hình từ OpenAI hay Google vẫn được đánh giá cao hơn nhiều so với DeepSeek.
+Những gã khổng lồ công nghệ này có khả năng duy trì lợi thế trong các hệ thống tiên tiến nhất vì họ thường xuyên tạo ra cái mới.
+Nói vớiFox News, David Sacks, quan chức phụ trách chính sách trí tuệ nhân tạo và tiền điện tử Nhà Trắng, hy vọng các công ty Mỹ sẽ có cách để khiến "việc chưng cất các mô hình AI trở nên khó khăn hơn".
+Tuy nhiên, doanh nghiệp và người dùng cuối lại thích các công nghệ có chi phí rẻ.
+Cạnh tranh trong lĩnh vực AI thời gian qua vốn đã khốc liệt.
+Sự gia nhập của DeepSeek và các công ty sử dụng phương pháp chưng cất có thể thúc đẩy giá giảm hơn nữa.
+"Ngoài giá, kỹ thuật chưng cất cũng hiệu quả trong việc bổ sung các khả năng mới cho mô hình AI hiện có", Ion Stoica, giáo sư khoa học máy tính của UC Berkeley, nói vớiWSJ.

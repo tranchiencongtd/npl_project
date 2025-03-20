@@ -1,0 +1,14 @@
+TheoCNBC, Cơ quan Hàng không và vũ trụ NASA trở thành cơ quan liên bang mới nhất cấm nhân viên truy cậpDeepSeek.
+Thông báo từ Giám đốc AI của NASA gửi tới tất cả nhân viên ngày 1/2 nói máy chủ của DeepSeek "hoạt động bên ngoài nước Mỹ, gây ra những lo ngại về an ninh quốc gia và quyền riêng tư".
+NASA chưa đưa ra bình luận.
+Trong khi đó, theoAP, Greg Abbott, Thống đốc bang Texas, đã ban hành lệnh cấm DeepSeek trên thiết bị do chính phủ cấp.
+Lệnh cấm cũng được áp dụng với một số mạng xã hội có nguồn gốc Trung Quốc như Xiaohongshu (RedNote) và Lemon8.
+Cuối tháng trước, Hải quân Mỹ gửi cảnh báo qua email rằngAIDeepSeek không được sử dụng "ở bất kỳ mức độ nào" do "lo ngại tiềm ẩn về an ninh và đạo đức liên quan đến nguồn gốc và cách sử dụng mô hình này".
+Axiosngày 31/1 cũng đưa tin DeepSeek nằm trong diện đánh giá và hiện bị cấm sử dụng trong công việc tại Hạ viện Mỹ.
+Văn phòng Giám đốc Hành chính Hạ viện Mỹ (CAO) cho rằng DeepSeek có thể bị kẻ xấu lợi dụng để phát tán mã độc và lây nhiễm các thiết bị.
+"Nhằm hạn chế những mối nguy hiểm như vậy, Hạ viện Mỹ đã áp dụng những biện pháp an ninh như hạn chế DeepSeek trên toàn bộ thiết bị cấp phát.
+Các nhân viên bị cấm cài đặt ứng dụng DeepSeek trên điện thoại, máy tính và tablet tại văn phòng", theo thông báoAxiosthu thập được.
+Trong khi đó, Tổng thống Donald Trump ngày 27/1 nói với truyền thông: "Việc phát hành DeepSeek AI từ một công ty Trung Quốc nên là lời cảnh tỉnh cho ngành công nghiệp của chúng ta, rằng chúng ta cần tập trung cao độ vào việc cạnh tranh".
+Ngày 20/1, công ty khởi nghiệp Trung Quốc DeepSeek công bố mô hình V3 miễn phí và đặc biệt là mô hình R1 "được đào tạo trên các chip cũ của Nvidia, mã nguồn mở 100%, rẻ hơn 96, 4% so với OpenAI o1 trong khi vẫn mang lại hiệu suất tương tự".
+Công ty cho biết họ chỉ mất hai tháng và chi phí 5, 6 triệu USD để tạo mô hình AI sử dụng chip H800 kém tiên tiến của Nvidia.
+Phiên bản V3 thậm chí vượt ChatGPT trở thành ứng dụng được tải nhiều nhất trên App Store, trong khi giá trị củaNvidiabị thổi bay gần 600 tỷ USD.

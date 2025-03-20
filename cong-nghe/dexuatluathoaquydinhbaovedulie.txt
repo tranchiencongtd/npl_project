@@ -1,0 +1,14 @@
+Theo dự thảo luật được Bộ Công an xây dựng, dữ liệu vị trí được xác định qua dịch vụ định vị thuộc danh mục dữ liệu cá nhân nhạy cảm.
+Đây là loại thông tin khi bị xâm phạm sẽ gây ảnh hưởng trực tiếp tới quyền và lợi ích hợp pháp của tổ chức, cá nhân, gắn liền với quyền riêng tư.
+Cơ quan soạn thảo đề xuất nền tảng ứng dụng di động phải thông báo cho người sử dụng về việc sử dụng dữ liệu vị trí và có biện pháp ngăn chặn việc thu thập dữ liệu vị trí của tổ chức, cá nhân không liên quan.
+Ngoài ra, dự luật cũng quy định không được dõi định vị qua thẻ nhận dạng tần số vô tuyến (RFID) và các công nghệ khác, trừ khi có sự đồng ý rõ ràng của chủ thể hoặc khi có yêu cầu pháp luật.
+Hoạt động quảng cáo dựa trên hành vi và vị trí của người dùng phải áp dụng đầy đủ quy định bảo vệ dữ liệu cá nhân.
+Đây là lần đầu tiên một văn bản luật quy định về việc bảo vệ và sử dụng dữ liệu vị trí của tổ chức, cá nhân.
+Bộ Công an nhận định nhiều người chưa có ý thức bảo vệ, dẫn đến tình trạng thông tin bị lộ trong quá trình chuyển giao, lưu trữ hoặc trao đổi.
+Nhiều tổ chức, doanh nghiệp thu thập thừa dữ liệu cá nhân so với ngành nghề, sản phẩm, dịch vụ kinh doanh; thiếu cơ sở pháp lý khi thu thập dữ liệu cá nhân.
+Các tổ chức này cũng không xác định được luồng xử lý như dữ liệu cá nhân được sử dụng như thế nào, vào mục đích gì, chuyển giao cho ai, tác động thế nào.
+Nhiều hoạt động chưa có sự đồng ý của chủ thể dữ liệu.
+Ngược lại khi liên hệ, chủ thể cũng từ chối vì không biết tại sao các công ty này lại có dữ liệu của mình.
+Điều đó cho thấy các quyền cơ bản của công dân đối với dữ liệu cá nhân chưa được bảo đảm, công dân chưa biết cách tự bảo vệ, khiếu kiện, phản đối, yêu cầu bồi thường thiệt hại khi có hành vi vi phạm pháp luật, xâm hại tới quyền và lợi ích hợp pháp của mình.
+Bộ Công an nhấn mạnh việc bảo vệ dữ liệu cá nhân nhạy cảm cần được quy định cụ thể trong dự luật Bảo vệ dữ liệu cá nhân, nhằm đảm bảo hoạt động kinh doanh và thu thập dữ liệu của các tổ chức, cá nhân được thực hiện đúng pháp luật.
+Dự Luật Bảo vệ dữ liệu cá nhân sẽ được trình Quốc hội cho ý kiến vào tháng 5 và dự kiến thông qua tại kỳ họp cuối năm.

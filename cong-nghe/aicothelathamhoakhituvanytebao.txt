@@ -1,0 +1,30 @@
+Trong bối cảnh hệ thống y tế quá tải, người dân phải tự tìm kiếm giải pháp chăm sóc sức khỏe, AIđược cho là xu hướng mới giúp chẩn đoán bệnh tật, thể chất, hỗ trợ bác sĩ làm việc hiệu quả hơn, giảm chi phí thăm khám.
+Khả năng thông dịch trực tiếp cũng giúp tăng cơ hội tiếp cận y tế đối với người không nói được tiếng Anh.
+Các công ty công nghệ cũng có thể thu lời từ cơ hội phục vụ ngành y tế.
+Tuy nhiên, việc thay thế bác sĩ bằng trí tuệ nhân tạo có vẻ xa vời, theoWashington Post.
+Hàng loạt khảo sát với chuyên gia, bác sĩ đều cho thấy những thử nghiệm ban đầu của AI trong lĩnh vực y tế không khả quan.
+Giáo sư lâm sàng Christopher Sharp tại Stanford Medical cho biết ông đã thử sử dụng AI để soạn khuyến cáo cho bệnh nhân.
+Ông chọn một yêu cầu ngẫu nhiên với nội dung: "Môi của tôi bị ngứa sau khi ăn một quả cà chua.
+Tôi phải làm gì?".
+Phiên bản GPT-4o của OpenAI đưa ra câu trả lời: "Có vẻ bạn đang trải qua phản ứng dị ứng nhẹ với cà chua".
+Hệ thống khuyến cáo tránh ăn cà chua, sử dụng thuốc uống kháng histamine và bôi kem steroid.
+"Tôi có thể đồng ý với khuyến cáo không ăn cà chua nhưng không khuyến khích bôi thuốc dạng như hydrocortisone lên môi.
+Môi là bộ phận có mô rất mỏng nên cần rất cẩn thận khi sử dụng kem steroid", Sharp nói.
+Một thử nghiệm khác của giáo sư khoa học dữ liệu và y khoa Roxana Daneshjou tại Stanford cũng mang đến sự thất vọng.
+Với câu hỏi "Tôi đang cho con bú và nghi ngờ bị áp xe.
+Tôi thấy ngực đỏ và đau", ChatGPT khuyên sử dụng túi chườm nóng, thực hiện mát-xa và cho bú nhiều hơn.
+Daneshjou nói nội dung này hoàn toàn sai lầm.
+Năm 2022, Viện Y học Nuôi con bằng sữa mẹ đưa ra khuyến cáo ngược lại: chườm lạnh, không mát-xa và tránh kích thích quá độ.
+TheoGizmodo, một lỗi nhỏ trong bài thuyết trình không phải vấn đề to tát, nhưng lỗi trong chăm sóc sức khỏe có thể dẫn đến hậu quả nghiêm trọng.
+Daneshjou đã lập nhóm với 80 người khác để phản đối ChatGPT.
+Họ đặt các câu hỏi y khoa cho ChatGPT và nhận thấy AI đưa ra phản hồi nguy hiểm cho khoảng 20% trong số đó.
+Một số người ủng hộ AI cho rằng chúng có thể hỗ trợ và bác sĩ vẫn là người kiểm tra kết quả.
+Washington Postđã phỏng vấn một bác sĩ tại Stanford và người này cho biết hai phần ba số bác sĩ ở đó sử dụng AI cho việc ghi chép, giúp họ có thêm thời gian để quan tâm đến người bệnh trong quá trình thăm khám.
+Tuy nhiên, điều nguy hiểm là công nghệ Whisper của OpenAI có thể chèn thông tin bịa đặt vào một số bản ghi.
+Sharp cho biết Whisper từng chèn thông tin không đúng rằng bệnh nhân nghĩ họ bị ho do lây từ con.
+Một ví dụ khác về sự phiến diện của AI mà Daneshjou trải nghiệm là một công cụ ghi biên bản AI tự bịa ra nghề nghiệp cho một bệnh nhân là lập trình viên máy tính.
+Dù AI có tiềm năng giúp ích cho lĩnh vực chăm sóc sức khỏe, đầu ra của nó phải được kiểm tra kỹ, dẫn đến yêu cầu mới cho hệ thống bệnh viện là phải đưa ra biện pháp hậu kiểm AI.
+Về cơ bản, AI tạo sinh chỉ là cỗ máy dự đoán từ ngữ, tìm kiếm lượng lớn dữ liệu, không thực sự hiểu các khái niệm mà nó trả về.
+Nó không "thông minh" theo cách thông minh của con người, và đặc biệt không thể hiểu được hoàn cảnh cụ thể của từng cá nhân.
+"Tôi nghĩ đây là một trong những công nghệ đầy hứa hẹn, nhưng chưa thể áp dụng", Adam Rodman, bác sĩ nội khoa và nhà nghiên cứu AI tại Trung tâm Y tế Beth Israel Deaconess, cho biết.
+"Tôi sợ rằng chúng ta đang làm xấu đi những gì chúng ta làm bằng cách đưa nội dung sai lệch vào quá trình chăm sóc người bệnh".

@@ -1,0 +1,18 @@
+Thống kê của hệ thống đo đếm quốc tế Similarweb cho thấy trong tháng 12, vnexpress.netthu hút 151, 3 triệu visit, tăng 6% so với tháng trước đó.
+Kết quả này đưa website của báo tăng sáu bậc trên bảng xếp hạng toàn cầu, đạt vị trí 275.
+Visit, hay lượng truy cập, được tính từ lúc một người dùng vào trang web đến khi đóng, trong khi pageview là số lượt xem trang.
+Trong một visit, người dùng có thể vào nhiều trang khác nhau và tạo ra nhiều pageview.
+Tính riêng trong hạng mục nhà xuất bản tin tức và phương tiện truyền thông, VnExpressđứng thứ 37 toàn cầu, tăng bốn bậc.
+Xếp ngay trên là các trang báo nhưForbes, USAToday, News18...
+Đứng đầu danh sách là những tên tuổi lớn nhưYahoo(3, 4 tỷ visit), Naver(1, 6 tỷ), hayNYTimes(633, 5 triệu).
+Tại Việt Nam, VnExpressnhiều năm liên tục giữ vị trí số một ở hạng mục này, cách biệt với các trang khác trong cùng lĩnh vực và duy trì trong top 5 website được truy cập nhiều nhất Việt Nam, bên cạnh Facebook, Google, ChatGPT...
+Ngoài website, người dùng cũng có thể truy cậpVnExpressthông qua ứng dụng trên thiết bị di động.
+Similarweb cho biết appVnExpressđạt 147.000 lượt tải về trên Play Store, tăng 58% so với tháng trước đó.
+Trung bình mỗi tháng, ứng dụng có thêm 76.800 lượt tải.
+Similarweb, ra đời năm 2007, là một trong những công cụ uy tín trong việc cung cấp thông tin về lượng truy cập và hiệu suất của website, ứng dụng.
+Tại Hội nghị Báo chí toàn quốc tháng 12/2024, VnExpresscũng được vinh danh và nằm trong số 10 báo Trung ương xuất sắc về mức độ trưởng thành chuyển đổi số báo chí.
+Năm qua, báo đã đẩy mạnh, tối ưu hóa thuật toán và ứng dụng công nghệ, AI ở phần lớn khâu nội dung từ tác nghiệp của phóng viên, biên tập, sản xuất nội dung đến các sản phẩm độc quyền, đa phương tiện.
+Trong đó, một số tính năng nổi bật là thuật toán sắp xếp nội dung trang chủ theo nguyên tắc cá nhân hóa một phần, đảm bảo độc giả dễ tiếp cận tin chưa đọc ở vị trí thuận tiện.
+Công cụ Podcast Generation hỗ trợ sản xuất chương trình Điểm tin Podcast, thay thế 70% sức người bằng công nghệ, sản xuất ba điểm tin mỗi ngày.
+Ứng dụng Robot Journalism tham gia viết bài tổng hợp thị trường chứng khoán, bản tin tổng hợp thể thao, trắc nghiệm.
+Translation AI giúp chuyển ngữ bài tiếng Việt sang tiếng Anh.

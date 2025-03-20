@@ -1,0 +1,23 @@
+"Tương lai của công việc sẽ không phải là sự lựa chọn đơn giản giữa con người và máy móc.
+Thay vào đó, cả hai sẽ cùng tồn tại để hoàn thành công việc", ông Nguyễn Như Dũng, Giám đốc điều hành Cisco Việt Nam, Lào và Campuchia, đề cập một trong sáu xu hướng AI năm 2025.
+Theo ông Dũng, AI sẽ phát triển từ việc chỉ hỗ trợ một số nhiệm vụ đến trở thành "một phần không thể thiếu trong lực lượng lao động".
+Điều này đến từ thách thức của nhiều quốc gia hiện nay, bao gồm một số quốc gia châu Á, do già hóa dân số và thiếu hụt lao động và kỹ năng.
+Ngoài ra, chuyên gia của Cisco cho rằng những người có khả năng tận dụng AI trong công việc sẽ đạt hiệu suất cao hơn người không dùng, vì vậy con người cần nâng cao kỹ năng với công nghệ mới này.
+"Việc sử dụng kỹ năng phù hợp để tận dụng AI sẽ trở thành yếu tố quyết định đối với mọi vai trò, từ kỹ thuật đến phi kỹ thuật", ông nói.
+Đây cũng là quan điểm được nhiều chuyên gia AI đưa ra trong năm 2025.
+Trong bài đăng ngày 6/1, CEO OpenAI Sam Altman nhận định các công cụ AI sẽ dần phổ cập và có thể mang lại nhiều kết quả đáng kể hơn trước.
+"Tôi tin trong năm 2025, chúng ta có thể chứng kiến các tác nhân AI (AI Agent), hay nhân viên ảo, lần đầutham gialực lượng lao động và thay đổi đáng kể năng suất của các công ty", ông viết.
+AI agent, hoặc Agentic AI, chỉ các hệ thống được thiết kế để thực hiện độc lập những nhiệm vụ phức tạp, liên tục học hỏi từ thông tin đầu vào và đưa ra quyết định, không cần sự giám sát của con người.
+Một số nguồn tin cho biết OpenAI sẽ tung ra một Agentic AI có tên Operator vào tháng này, có thể thực hiện các hành động thay người dùng, như viết mã, đặt vé du lịch.
+Trong dự báo sáu xu hướng trí tuệ nhân tạo bùng nổ năm 2025, Microsoft Việt Nam cũng dẫn lời chuyên gia của hãng rằng các tác nhân AI sẽ "định hình lại công việc".
+"Với tiến bộ vượt bậc về trí nhớ, suy luận và khả năng đa phương thức, AI agent có thể xử lý nhiệm vụ phức tạp với kỹ năng và cách tương tác tinh vi hơn", công ty dự báo.
+Ví dụ, trong việc vận hành nội bộ, AI agent có thể hỗ trợ giải quyết sự cố máy tính, trả lời câu hỏi phúc lợi hoặc tự tạo báo cáo, thậm chí đưa ra đề xuất, giúp nhân viên tập trung vào nhiệm vụ mang lại giá trị cao hơn.
+Ngoài ra, AI agent cũng sẽ dễ tiếp cận với mọi nhóm người dùng, dẫn đến việc các tổ chức sẽ sở hữu một hệ sinh thái AI agent, trong đó những tác nhân này có thể làm việc độc lập hoặc kết hợp với nhau để phục vụ cá nhân, nhóm hoặc tổ chức.
+Trong bối cảnh đó, con người vẫn giữ vị trí trung tâm trong việc giám sát và kiểm soát AI.
+Theo bà Ece Kamar, Giám đốc Phòng thí nghiệm AI tại Microsoft, ranh giới trách nhiệm của AI agent và đảm bảo luôn có sự giám sát từ con người là vấn đề quan trọng sẽ được bàn luận nhiều trong năm nay.
+Còn theo ông Nguyễn Như Dũng, khi AI phổ biến và dễ tiếp cận, việc thiết lập quy tắc bảo vệ và quản trị dữ liệu sẽ trở thành lĩnh vực trọng tâm.
+Các nhà lãnh đạo sẽ đối mặt với việc vừa tăng khả năng sáng tạo của hệ thống AI, nhưng đồng thời cũng phải giải quyết vấn đề về thông tin sai lệch.
+"Các công ty cần áp dụng khuôn khổ AI có trách nhiệm, tiến hành đánh giá quyền riêng tư định kỳ và xây dựng cũng như triển khai một kế hoạch quản trị sự cố đủ mạnh để đảm bảo việc sử dụng AI thận trọng và đúng đắn", ông nói.
+Ngoài ra, chuyên gia đánh giá các công ty phải xem xét cách thức nhân viên của họ tương tác với hệ thống AI để đưa ra chiến lược giảm thiểu rủi ro và tuân thủ pháp luật.
+Ngoài yếu tố an toàn và khả năng tham gia lực lượng lao động của AI, Cisco nhận định trong 2025, việc triển khai AI tại Việt Nam có thể gặp một số thách thức như mức độ sẵn sàng về hạ tầng chưa cao khi chỉ 38% doanh nghiệp lớn trong khảo sát cho biết đang sở hữu đủ GPU cần thiết, bên cạnh bài toán về văn hóa ứng dụng AI, tính bền vững về mặt năng lượng khi sử dụng công nghệ này.
+Trong khi đó, chuyên gia từ Microsoft đánh giá các mô hìnhAIngày càng thông minh và hữu ích hơn, từ đó mang lại nhiều lợi ích khi một số mô hình quy mô lớn có thể thực hiện nhiều nhiệm vụ từ soạn thảo đến lập trình, thúc đẩy các đột phá khoa học công nghệ.

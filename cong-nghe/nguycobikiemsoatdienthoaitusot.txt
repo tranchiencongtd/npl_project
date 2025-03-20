@@ -1,0 +1,20 @@
+Cảnh báo về phương thức này rộ trên mạng xã hội tại Việt Nam gần đây.
+Theo đó, sau khi có được số tài khoản của nạn nhân mục tiêu, kẻ gian có thể thử đăng nhập trên website của ngân hàng.
+Theo cơ chế bảo vệ, khi nhập sai nhiều lần, tài khoản sẽ bị khóa.
+"Khi đó, chúng sẽ giả danh người của ngân hàng gọi điện đến, dụ người dùng vào đường link tải ứng dụng giả mạo", ông Ngô Minh Hiếu, sáng lập dự án Chống lừa đảo, nói và cho biết cách làm này tương tự việc dụ cài những ứng dụng lừa đảo khác thời gian qua.
+Tuy nhiên theo chuyên gia Chống lừa đảo, chiêu này nguy hiểm ở việc số tài khoản và số điện thoại thường được nhiều người công khai, có thể dùng chung hai số hoặc email để đăng nhập.
+Ngoài ra, thông tin này cũng được rao bán trên chợ đen dữ liệu và có nhiều cách để thu thập.
+Khi bị khóa tài khoản, người dùng ít kinh nghiệm sẽ dễ hoảng loạn và tin theo lời kẻ gian.
+Họ có thể cung cấp cho nhóm lừa đảo một số thông tin cá nhân, thông tin đăng nhập, hoặc bị dụ cài phần mềm độc hại.
+Những mã độc này sau khi thâm nhập vào máy có thể yêu cầu cấp quyền truy cập sâu vào thiết bị, từ đó kẻ gianchiếm quyền điều khiểnthiết bị và thực hiện nhiều hành động, như đánh cắp dữ liệu, theo dõi thiết bị và người dùng từ xa, chiếm thông tin nhạy cảm như mật khẩu, mã OTP, thậm chí có thể chuyển tiền bằng khuôn mặt sinh trắc học trên điện thoại của nạn nhân.
+"Kịch bản có thể khác nhau, nhưng nhìn chung mục tiêu là chiếm quyền kiểm soát điện thoại và rút tiền từ tài khoản", ông Hiếu nói.
+Một chuyên gia bảo mật tại một ngân hàng xác nhận kịch bản này có thể xảy ra.
+Tuy nhiên, kẻ gian cần người dùng cài phần mềm hoặc cung cấp mã OTP.
+"Nếu không làm theo, người dùng vẫn an toàn", ông nói.
+Ngoài ra, để khôi phục tài khoản bị khóa, một số ngân hàng yêu cầu phải ra điểm giao dịch, sử dụng giấy tờ tùy thân để làm thủ tục mở lại, nên sẽ hạn chế nguy cơ bị chiếm tài khoản.
+Một số ngân hàng cũng có tính năng bảo vệ nếu thấy đăng nhập từ một thiết bị lạ.
+Thử nghiệm với một số ứng dụng và website ngân hàng tại Việt Nam, nhiều hệ thống cho đăng nhập bằng số tài khoản hoặc số điện thoại và cho nhập sai mật khẩu tối đa 5 lần trước khi khóa.
+Số khác yêu cầu sử dụng tên đăng nhập riêng hoặc phải thông qua một điện thoại đã được xác minh.
+Theo các chuyên gia, tương tự những chiêu lừa đảo khác, người dùng vẫn có thể tránh được nếu thực hiện đúng các lưu ý, như khi gặp vấn đề về tài khoản ngân hàng, nên ra quầy thực hiện trực tiếp hoặc chủ động liên hệ qua kênh chăm sóc khách hàng chính thức của ngân hàng.
+Người dùng cũng được khuyến nghị không bấm vào đường link lạ hoặc cài đặt file không rõ nguồn gốc lên thiết bị, không chia sẻ OTP cho bất cứ ai qua điện thoại.
+Ngoài ra, chuyên gia cũng khuyến nghị các thông tin như số điện thoại, số tài khoản thường gắn với nhiều hoạt động trên mạng, nên hạn chế công khai nếu không cần thiết.

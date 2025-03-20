@@ -1,0 +1,14 @@
+"OmniHuman vượt trội so với các phương pháp biến ảnh thành video hiện có, cung cấp các video về con người cực kỳ chân thực kèm âm thanh", ByteDance, công ty mẹ củaTikTok, mô tả trên kho lưu trữ mở trực tuyến arXiv và Github.
+"Công cụ hỗ trợ đầu vào là ảnh ở bất kỳ tỷ lệ khung hình nào, như ảnh chân dung, ảnh bán thân hay toàn thân, mang lại kết quả giống thật với chất lượng cao hơn trong nhiều tình huống khác nhau".
+Bước đột phá của OmniHuman liên quan đến việc đào tạo hơn 18.700 giờ video.
+AI hiện có thể bắt chước cách con người di chuyển, nói và tương tác để cho kết quả là một video thực tế.
+Trên trang dự án OmniHuman-1, nhiều video cho thấy chuyển động tay và cơ thể được thể hiện từ nhiều góc độ, giúp nhân vật hoạt hình, động vật và nhân vật lịch sử được tái hiện sống động.
+Chẳng hạn, trong video đen trắng sắc nét, nhà vật lý học Albert Einstein phát biểu trước bảng đen, với cử chỉ tay và biểu cảm khuôn mặt tinh tế.
+"Giống như chúng ta quay ngược thời gian để xem nhà vật lý nổi tiếng đang thuyết trình tại trường học", Forbesbình luận.
+Giới chuyên gia cũng đánh giá cao công cụ mới của ByteDance.
+"Trông thật ấn tượng", phó giáo sư Freddy Tran Nager của Trường Báo chí và Truyền thông Annenberg thuộc Đại học Nam California, nhận xét.
+"Nếu bạn nghĩ đến việc hồi sinh Humphrey Bogart trong phim, tôi không rõ sẽ thế nào trên màn ảnh rộng.
+Nhưng trên màn hình nhỏ như smartphone, các video này thực sự rất ấn tượng".
+OmniHuman-1 hiện vẫn là một dự án nghiên cứu.
+TheoTechRadar, ByteDancesẽ sớm đưa AI này lên TikTok, cho phép người dùng tạo video nhanh chóng chỉ từ một bức ảnh.
+Trang này cũng lo ngại nó có thể bị sử dụng cho các mục đích "không chính đáng" như tạo video giả, thông tin sai lệch.

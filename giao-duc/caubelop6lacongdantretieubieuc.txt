@@ -1,0 +1,36 @@
+Danh hiệuCông dân trẻ tiêu biểuTPHCM do Đoàn TNCS Hồ Chí Minh TP HCM xét chọn hàng năm, nhằm tôn vinh các tấm gương có nhiều thành tích, đóng góp nổi bật vào sự phát triển chung.
+Năm nay, Hoàng Dũng, học sinh lớp 6A2, trường Trung học Thực hành Sài Gòn, là một trong 13 cá nhân nhận giải.
+Nam sinh nói rất tự hào vì là người trẻ nhất.
+"Khi biết tin, em có phần bất ngờ, đến khi lên sân khấu nhận giải thưởng vẫn còn run run.
+Đây là vinh dự, động lực rất lớn cho em", Dũng nói.
+Dũng kể từ nhỏ đã tò mò về máy móc, đồ chơi trong nhà, nhất là máy vi tính.
+Năm học lớp 2, em được thầy giáo môn Tin học dạy thêm kiến thức lập trình vì thấy nhạy bén với những con số và dòng code.
+Từ nội dung thầy dạy, Dũng mày mò học thêm trên mạng, ngày càng yêu thích lập trình.
+Lên lớp 3, thấy các bạn trong lớp gặp khó khi học tính nhẩm, Dũng nghĩ tại sao không có phần mềm nào để luyện tính thay vì đếm bằng tay, que.
+Từ đó, em bắt tay vào làm một trò chơi, dùng ngôn ngữ lập trình Scratch để giúp các bạn luyện tập.
+Người chơi phải làm các dạng toán cộng - trừ trong một khoảng thời gian cho sẵn, với cấp độ 1-3 chữ số.
+Khi trả lời đúng, nhân vật sẽ vượt qua một chướng ngại vật.
+Nếu đúng toàn bộ, nhân vật nhận danh hiệu vô địch cùng cúp.
+Dũng nói tuy sản phẩm đơn giản nhưng đánh dấu bước chân đầu tiên của em trên con đường theo đuổi lập trình.
+"Khi gõ code cho phần mềm này, em chỉ mất 1-2 tuần, nhưng lại có nhiều lỗi phát sinh nên phải sửa khá nhiều.
+Cuối cùng, em cũng sửa được trong vòng một tháng", Dũng kể.
+Ngoài Toán, Tin, Dũng còn thích học Lịch sử, Địa lý.
+Nhận thấy cách dạy hai môn này ở trường có phần khô khan, em tạo phần mềm giới thiệu hình ảnh, thông tin các biểu tượng văn hóa, lịch sử của TP HCM như Địa đạo Củ Chi, Dinh Độc Lập rồi lồng ghép các sự kiện liên quan.
+Sản phẩm mang tên "Hành trình văn hóa di sản TP HCM", ra đời khi Dũng học lớp 4.
+"Em muốn các bạn yêu thích và biết thêm thông tin về các di tích lịch sử nơi mình đang sinh sống, từ đó đam mê và học Sử tốt hơn", Dũng nói.
+Hai phần mềm này của nam sinh sau đó lần lượt đạtgiải nhấtvà giải ba cuộc thi Sáng tạo thanh thiếu niên nhi đồng TP HCM năm 2022 và 2023, giải khuyến khích ở vòng toàn quốc năm 2023.
+Thời điểm phải học online vì ảnh hưởng của dịch bệnh Covid-19, khi thấy giáo viên vất vả điểm danh hàng ngày, Dũng tiếp tục làm phần mềm "Điểm danh thông minh và đánh giá cảm xúc học sinh".
+Phần mềm sử dụng ngôn ngữ mở Pictoblox kết hợp Al cài đặt trên máy tính của giáo viên chủ nhiệm.
+Nó có thể tự động điểm danh học sinh thông qua camera của máy và nhận diện 6 biểu cảm của học sinh.
+Với sản phẩm này, Dũng giành huy chương vàng giải thưởng Thiết kế chế tạo ứng dụng TP HCM năm 2023, giải nhì Hội thi Tin học trẻ TP HCM năm 2024.
+Dũng cho biết những sản phẩm em lập trình đều xuất phát từ quá trình học tập và sự quan sát xung quanh.
+Nam sinh thấy may mắn khi những ý tưởng của mình được bố mẹ, thầy cô ủng hộ, cho thử sức.
+"Mẹ là người đồng hành, sử dụng thử sản phẩm và cho ý kiến, đôi khi đóng vai nhà đầu tư để bàn xem có nên tiếp tục thực hiện ý tưởng đó không", Dũng chia sẻ.
+Ngoài thế mạnh Tin học, Dũng còn là học sinh xuất sắc trong môn Toán, theo thầy Châu Cẩm Triều, giáo viên Toán và chủ nhiệm lớp 6A2.
+Em đạt điểm tuyệt đối khi thi tuyển vào lớp chuyên Toán của trường, giành nhiều giải thưởng cao trong các cuộc thi Toán như Violympic, AMO (American Math Olympiad), SASMO (Singapore and Asian Schools Math Olympiad).
+"Dũng có phong thái giải Toán khác biệt so với bạn bè, rất từ tốn, lập luận, lý giải chắc chắn từng bước.
+Khi giải bài, em hỏi kỹ cách trình bày sao cho hiệu quả, hợp lý nhất, suy nghĩ nhiều cách giải khác nhau", thầy Triều nhận xét.
+Hiện, Dũng và một người bạn phát triển Chatbot Happy School, hỗ trợ tư vấn tâm lý cho học sinh.
+Ý tưởng này được hình thành từ buổi sinh hoạt đại biểu trẻ em thành phố.
+Nghe chia sẻ từ các bạn, em nhận ra học sinh còn e ngại khi tâm sự với người lớn nhưng không có ứng dụng nào để bầu bạn và giải đáp những thắc mắc của tuổi mới lớn.
+"Em đặt mục tiêu trở thành lập trình viên, hướng tới phát triển những sản phẩm, giải pháp cho cộng đồng", nam sinh nói.

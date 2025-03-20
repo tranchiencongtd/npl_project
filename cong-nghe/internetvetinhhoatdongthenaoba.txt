@@ -1,0 +1,64 @@
+Gần một thập kỷ trở lại đây, Internet vệ tinh được nhắc đến ngày càng nhiều khi giải pháp này được thương mại hóa và thể hiện được giá trị vượt trội so với các loại hình truyền thống trong nhiều trường hợp.
+Dù chưa thể phổ biến như cáp quang, mạng di động, Internet vệ tinh ngày càng cải thiện về tốc độ cùng hàng loạt ưu điểm khác.
+Trên thế giới, nổi tiếng nhất ở lĩnh vực Internet vệ tinh là hệ thống Starlink của SpaceX, Kupier của Amazon (Mỹ) hay Oneweb từ công ty cùng tên của Anh.
+Ngoài ra, Trung Quốc cũng có hệ thống riêng nhưSpaceSail.
+Trong khi đó tại Việt Nam, Quốc hội ngày 19/2 thông qua nghị quyếtcho phép thí điểmcó kiểm soát đầu tư mạng viễn thông sử dụng công nghệ vệ tinh quỹ đạo tầm thấp.
+Đây là một trong những điểm đột phá quy định tại Nghị quyết thí điểm một số cơ chế, chính sách đặc biệt tạo đột phá phát triển khoa học, công nghệ, đổi mới sáng tạo và chuyển đổi số quốc gia.
+Việc thí điểm dựa trên nguyên tắc bảo đảm quốc phòng, an ninh, trong đó không giới hạn tỷ lệ sở hữu cổ phần, phần vốn góp hoặc tỷ lệ đóng góp của nhà đầu tư nước ngoài.
+Chính sách này "đảm bảo mọi người dân đều được tiếp cận dịch vụ Internet, đồng thời, góp phần nâng cao hình ảnh của Việt Nam, thu hút thêm đầu tư của các tập đoàn công nghệ lớn trên thế giới và tạo thêm việc làm".
+Với mạng sử dụng cáp thông thường, như cáp đồng trước đây hoặc cáp quang hiện tại, cáp sẽ làm nhiệm vụ truyền tín hiệu chứa dữ liệu.
+Khi người dùng tương tác trên thiết bị như smartphone, laptop kết nối qua cáp mạng hoặc wifi, dữ liệu sẽ được gửi đến bộ điều giải (modem) và bộ định tuyến (router), sau đó chuyển đổi và gửi đến nhà cung cấp (ISP), sau đó tiếp tục gửi đến máy chủ dịch vụ.
+Sau khi nhận được phản hồi, dữ liệu truyền ngược trở lại.
+Router chuyển đổi tín hiệu của nhà cung cấp và phân phối tới từng người dùng thông qua router.
+Quá trình này lặp đi lặp lại khi người dùng tương tác qua thiết bị của mình.
+Với mạng di động, mới nhất là thế hệ5G, việc nhận tín hiệu sẽ thông qua trạm thu phát sóng trên mặt đất, gọi là trạm gốc.
+Khi người dùng tương tác trên thiết bị của mình, dữ liệu không dây sẽ truyền đến trạm gốc gần nhất ở bán kính xung quanh họ.
+Khi người dùng rời khu vực này, thiết bị tự động kết nối với trạm gốc khác một cách liền mạch.
+Dữ liệu sau đó được các trạm gốc xử lý và gửi đến máy chủ của ISP, sau đó đến máy chủ dịch vụ, cuối cùng là gửi phản hồi ngược trở lại.
+Người dùng sẽ nhận dữ liệu này thông qua sóng vô tuyến đang kết nối.
+Trong khi đó, theoSatellite Internet, Internet vệ tinh hoạt động bằng cách sử dụng sóng vô tuyến để giao tiếp với các vệ tinh quỹ đạo thấp (LEO) quay quanh Trái đất.
+Tương tự truyền hình vệ tinh, dữ liệu được thu thập và gửi đi thông qua mạng lưới truyền thông, bắt đầu từ thiết bị người dùng được kết nối, qua modem và ăng-ten thu phát tín hiệu vệ tinh, truyền lên vệ tinh trên không gian.
+Dữ liệu từ không gian sau đó sẽ được truyền đến các trạm tại mặt đất, gọi là Trung tâm điều hành mạng (NOC).
+Thông qua NOC, nhà cung cấp dịch vụ Internet sử dụng các trung tâm dữ liệu được kết nối với mạng Internet để thu thập thông tin và truyền trở lại.
+Cuối cùng, dữ liệu phản hồi đi ngược lại qua mạng lưới, lên vệ tinh trên không gian rồi trở về chảo vệ tinh của người dùng và truyền đến thiết bị.
+Cả quá trình này thường diễn ra trong tích tắc, nhưng vẫn có thể gặp độ trễ nhất định ra quá trình truyền.
+TheoCnet, để hoạt động hiệu quả, ăng-ten thu phát sóng vệ tinh phải được đặt ở vị trí có hướng và đường ngắm rõ ràng.
+Người dùng sẽ kết nối modem với thiết bị này để chuyển tín hiệu đến thành kết nối Internet.
+Ngoài ra, nó cũng không hoàn toàn "không dây", khi chảo thu vẫn cần được cấp điện.
+Dù vậy, đây vẫn là phương thức được đơn giản hơn việc phải kéo cáp viễn thông đến các hộ gia đình hoặc trang bị các trạm thu phát sóng di động cỡ lớn, đặc biệt ở những nơi khó tiếp cận, vùng sâu vùng xa, biên giới hoặc hải đảo.
+Thành phần quan trọng nhất của hệ thống chính là vệ tinh.
+Theo công bố của SpaceX, công ty hiện có hơn 7.000 vệ tinh đã phóng vào quỹ đạo, trong khi các công ty khác cũng có kế hoạch phóng hàng nghìn vệ tinh cho dịch vụ của mình.
+Các vệ tinh thế hệ mới nhất sử dụng ánh sáng laser để truyền dữ liệu băng thông rộng thay vì sóng vô tuyến dựa vào kết nối vệ tinh cũ.
+Điều này mang lại sự thay đổi lớn về cả tốc độ và tính khả dụng của công nghệ.
+Tia laser và sóng vô tuyến đều di chuyển với tốc độ ánh sáng.
+Về mặt kỹ thuật, không phải tốc độ dữ liệu di chuyển tạo nên sự khác biệt.
+Tuy nhiên, tia laser hoạt động ở tần số cao hơn nên có thể truyền nhiều dữ liệu hơn, tức lượng dữ liệu có thể được truyền cùng một lúc lớn hơn.
+Tại Mỹ, các nhà cung cấp Internet vệ tinh hàng đầu có Viasat, Hughesnet và Starlink.
+Viasat và Hughesnet là tên tuổi lâu đời, nhưng đang phải đối đầu với Starlink của SpaceX.
+Để theo kịp, Hughesnet đã phóng vệ tinh Jupiter 3 vào năm 2023, một trong những vệ tinh truyền thông thương mại lớn nhất được chế tạo, cho phép cải thiện tốc độ tải xuống đến 100 Mbps.
+Viasat gần đây cung cấp gói cước với tốc độ tải xuống 150 Mbps.
+Hiện công nghệ phát triển đã giúp Internet vệ tinh vượt tốc độ băng thông ở mức trung bình của mạng Internet toàn cầu.
+Theo báo cáo quý 1/2024 của Ookla, Viasat đạt tốc độ tải xuống trung bình 34 Mbps, Hughesnet 15 Mbps còn Starlink đạt 64 Mbps.
+Hiện ưu điểm của nó là khả năng lắp đặt nhanh, ở mọi nơi như vùng sâu vùng xa, hải đảo, tàu thuyền.
+Khi nhiều công ty ở lĩnh vực này ra đời, về lâu dài, tính cạnh tranh sẽ giúp giá của Internet vệ tinh rẻ đi, trong khi chất lượng và tốc độ băng thông càng được cải thiện.
+Tuy nhiên, ngoài vấn đề đắt đỏ, việc sử dụng Internet vệ tinh cũng kém ổn định hơn, đặc biệt là những nơi nằm xa quỹ đạo vệ tinh sẽ thường gặp độ trễ cao, buộc thiết bị cần thêm thời gian để kết nối lên không gian.
+Ngoài ra, thời tiết xấu cũng ảnh hưởng lớn đến quá trình kết nối.
+Mức giá được xem là rào cản lớn khi người dùng lựa chọn dịch vụ.
+Dù tiến bộ gần đây giúp Internet vệ tinh đạt tốc độ băng thông rộng ngày càng cao, nó vẫn đắt hơn hầu hết phương thức Internet phổ biến khác.
+Ngoài ra, trong phần lớn trường hợp, các tùy chọn trên mặt đất sẽ cung cấp tốc độ tốt hơn với độ trễ thấp hơn.
+Chẳng hạn, Internet DSL đạt tốc độ 10-2.000 Mbps tùy gói cước.
+Internet cáp quang cao hơn, từ 5.000 đến 10.000 Mbps.
+Trong khi đó, Internet vệ tinh vào khoảng 12-200 Mbps.
+Elon Musktừng cho biết Starlink có tốc độ lên đến 300 Mbps, thậm chí 2.000 Mbps, nhưng hiếm khi đạt được các tốc độ này trên thực tế.
+Về tổng thể, chỉ số chi phí tính theo mỗi Mbps của Internet vệ tinh sẽ ở mức cao nhất so với các loại hình hiện nay.
+Theo một số chuyên gia, việc thí điểm mạng viễn thông sử dụng công nghệ vệ tinh quỹ đạo tầm thấp của Việt Nam được xem là cơ hội lớn để người dùng trong nước trải nghiệm Internet vệ tinh từ các nhà cung cấp lớn, như Starlink, cũng như tự phát triển hệ thống trong nước.
+Dịch vụ của SpaceX hiện cung cấp tại hơn 110 quốc gia, vùng lãnh thổ, trong đó có một số nước ở Đông Nam Á.
+Công ty của Elon Musk nhiều lần ngỏ ýmuốn cung cấpStarlink tại Việt Nam.
+Năm 2023, công ty này cũngmang giải phápđến một triển lãm khoa học công nghệ tại Hà Nội để giới thiệu.
+Trước đó, theo nghị định hướng dẫn Luật Viễn thông 2023, để cung cấp dịch vụ viễn thông qua mạng vệ tinh qua biên giới đến người dùng trong nước, nhà cung cấp phải thông qua thỏa thuận thương mại với doanh nghiệp Việt Nam được cấp phép.
+Họ cũng phải có phương án để tất cả lưu lượng do các thiết bị đầu cuối thuê bao vệ tinh tạo ra trên lãnh thổ đất liền Việt Nam đều phải đi qua Trạm cổng mặt đất (gateway) đặt trên lãnh thổ Việt Nam.
+Hiện VNPT là đơn vị duy nhất sở hữu mạng thông tin vệ tinh, sử dụng trạm vệ tinh cỡ nhỏ VSAT và hệ thống thông tin vệ tinh băng rộng Vinasat để cung cấp dịch vụ viễn thông trên nền giao thức IP, tốc độ tối thiểu 384 Kbps và giá cước từ 1, 6 đến 5, 25 triệu đồng mỗi tháng.
+Tháng 4/2021, Viettel cũngđề xuấttriển khai thí điểm dịch vụ Internet vệ tinh bằng chùm vệ tinh quỹ đạo thấp (LEO) để tăng khả năng phủ sóng cho mạng di động.
+Dù vậy, việc triển khai Internet vệ tinh trong nước cũng có thể gặp nhiều rào cản.
+Hiện với kết nối Internet băng rộng cố định, người dùng Việt chỉ cần chi dưới 200.000 đồng cho băng thông trên 100 Mbps, miễn phí thiết bị đầu cuối.
+Trong khi đó, dịch vụ như của Starlink yêu cầu trả 599 USD (14 triệu đồng) cho thiết bị, chưa tính giá thuê bao 99 USD (2, 3 triệu đồng) mỗi tháng, gấp 10 lần cước Internet ở Việt Nam.

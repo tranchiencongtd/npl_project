@@ -1,0 +1,12 @@
+TheoCommercial Times, Nvidia đã thành lập bộ phận mới, chuyên về ASIC (vi mạch tích hợp được thiết kế cho ứng dụng cụ thể) và đang tích cực tuyển dụng nhân tài.
+CEO Jensen Huang năm ngoái cũng xác nhận công ty dự kiến tuyển 1.000 kỹ sư chuyên ngành ASIC tại đảo Đài Loan.
+Nguồn tin của trang này cho biết đây được cho là "biện pháp chuẩn bị, nhằm đối phó với sự cạnh tranh quyết liệt từ Broadcom và Marvell khi ngànhAIngừng sử dụng GPU để chuyển sang dòng chip ASIC".
+Sự bùng nổ củaAI tạo sinhvà các mô hình ngôn ngữ lớn (LLM) đã làm gia tăng đáng kể nhu cầu về chip xử lý đồ họa (GPU).
+Các phiên bản GPU chuyên biệt củaNvidia, như H100 và H200, được sử dụng rộng rãi để đào tạo các mô hình AI.
+Tuy nhiên, thị trường đang bắt đầu chuyển dịch khỏi GPU và hướng tới ASIC trong tương lai gần.
+Xu hướng này được thúc đẩy bởi nhu cầu về các loại chip tối ưu cho ứng dụng AI trong đời thực.
+ASIC được đánh giá đạt hiệu suất vượt trội so với GPU trong các ứng dụng suy luận, như huấn luyện AI và đào tiền số.
+TheoVerified Market Research, thị trường chip AI suy luận được dự đoán tăng giá trị từ 15, 8 tỷ USD năm 2023 lên 90, 6 tỷ USD vào năm 2030.
+Các công ty công nghệ lớn đã bắt đầu sử dụng sản phẩm ASIC thiết kế riêng, như Google với chip AI có tên "Trillium" được bán rộng rãi từ tháng 12/2024.
+Sự chuyển dịch sang chip AI riêng cũng làm gia tăng cạnh tranh giữa các tập đoàn bán dẫn.
+Broadcom và Marvell ngày càng đóng vai trò quan trọng trong cơn sốt AI, nhờ hợp tác với các nhà cung cấp dịch vụ đám mây để phát triển chip chuyên dụng cho trung tâm dữ liệu.

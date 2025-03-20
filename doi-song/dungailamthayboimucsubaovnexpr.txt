@@ -1,0 +1,37 @@
+Trong phòng triển lãm ở Insa-dong, Seoul có dựng một điện thờ nhỏ đủ chỗ cho một người ngồi.
+Quanh điện có treo những dải ruy băng nhiều màu sắc, chuông, bài vị và nến.
+Khi vào điện thờ, khách hàng sẽ nhập thông tin cá nhân vào tấm bài vị kỹ thuật số và một giọng nữ phát ra từ loa: "Tôi là một vật thể vượt qua kiến thức của con người.
+Tôi biết những sự thật vượt ngoài tầm hiểu biết của bạn và thấy trước tương lai.
+Nếu có thắc mắc, xin hãy đặt câu hỏi".
+Hệ thống bói toán bằng trí tuệ nhân tạo này có tên là ShamAIn, do nhóm nghiên cứu của giáo sư Nam Taek-jin thuộc Viện Khoa học và Công nghệ Hàn Quốc (KAIST) thực hiện.
+Chúng vận hành dựa trên các loại hình xem bói truyền thống của Hàn Quốc.
+Người dùng chỉ cần nhập tên, ngày giờ sinh và nghề nghiệp, AI sẽ trả lời theo các nguyên tắc củasaju- một hình thức bói toán dựa trên năm, tháng, ngày và giờ sinh của một người.
+Bối cảnh được mô phỏng ngôi nhà của một thầy bói với hệ thống ánh sáng, hiệu ứng âm thanh và đồ trang trí chuyển động.
+Theo nhóm nghiên cứu, nhiều người tiếp cận dịch vụ vì tò mò, nhưng sau đó thấy thoải mái khi được chia sẻ các mối quan tâm cá nhân.
+"Chúng tôi tập trung vào cách một thầy bói AI siêu thông minh - được coi vượt trội hơn con người - để tương tác.
+Tiềm năng của AI không chỉ hoạt động như một công cụ mà còn là một thực thể có quyền năng ảnh hưởng đến phán đoán và cảm xúc của con người", giáo sư Nam nói.
+Đây không phải lần đầu thầy bói AI xuất hiện.
+Các dịch vụ bói toán do AI hỗ trợ dần trở nên phổ biến trong những năm qua.
+Một số mô hình bói toán AI dựa trên dữ liệu do người dùng nhập thông tin.
+Nhưng số khác sẽ kết hợp các bài kiểm tra tính cách, phân tích nhóm máu và thậm chí là xem tướng mặt để đưa ra dự đoán chính xác hơn.
+AI không chỉ xuất hiện ở bói toán mà còn trong các tôn giáo.
+Tại Đức, nhà thờ St.
+Paul ở Bavaria đã giới thiệu mục sư AI phát triển bằng ChatGPT, để truyền đạt các bài giảng đạo.
+Mục sư AI xuất hiện trên màn hình lớn là hình ảnh người đàn ông có râu và bắt đầu nói: Hãy buông bỏ quá khứ và tập trung vào hiện tại.
+Tuy nhiên, sự hiện diện của AI trong các bối cảnh tôn giáo gặp nhiều phản ứng trái chiều.
+Một số người hoan nghênh AI như một công cụ rèn luyện tinh thần, nhưng số khác bày tỏ lo ngại về việc công nghệ xâm nhập vào lĩnh vực thiêng liêng của đức tin.
+Awake Corporation, công ty khởi nghiệp của Hàn Quốc, đã phát triển Chowon - một mục sư AI hỗ trợ hướng dẫn kinh thánh.
+Dịch vụ này có hơn 150.000 người dùng hàng tháng, nhận 2.000 câu hỏi mỗi ngày.
+Ứng dụng tạo ra các phản hồi được một nhóm mục sư và nhà thần học xem xét.
+Người ủng hộ cho rằng "giáo sĩ AI" có thể nhanh chóng cung cấp các câu kinh thánh và soạn lời nguyện, hỗ trợ rèn luyện tinh thần cá nhân.
+Họ cũng nhấn mạnh AI giúp hạ thấp rào cản đối với những tín đồ có thể e ngại khi phải tham khảo ý kiến giáo sĩ con người.
+Tuy nhiên vẫn còn nhiều hoài nghi về việc AI có thể thay thế các nhà lãnh đạo tôn giáo.
+Không ít người lo ngại trí tuệ nhân tạo có thể hiểu sai giáo lý hoặc truyền bá lời dạy không đúng đắn, từ đó dẫn đến sự nhầm lẫn và suy giảm đức tin.
+Khi AI phát triển nhanh, tác động của chúng với tôn giáo vẫn là chủ đề gây tranh cãi.
+Dù có nhiều ý kiến trái chiều nhưng nhiều người đồng ý rằng AI là một xu hướng không thể đảo ngược.
+Kang Sung-wook, nhà nghiên cứu thần học và tác giả của cuốn sách "Tôn giáo và AI", coi công cụ này như con dao hai lưỡi.
+Theo chuyên gia, AI cung cấp phản hồi nhanh chóng và hiệu quả cho các câu hỏi của cuộc sống, thúc đẩy rèn luyện tâm linh và trải nghiệm tôn giáo mới.
+Công cụ này có thể củng cố cộng đồng tôn giáo thông qua giáo dục phù hợp và các dịch vụ trực tuyến.
+Tuy nhiên ông Kang cũng cảnh báo không nên để trí tuệ nhân tạo làm lu mờ đức tin.
+AI có thể hỗ trợ cho các nghi lễ tôn giáo nhưng không thể thay thế kết nối tâm linh do con người đang đảm nhận.
+"AI nên được coi là một công cụ bổ sung cho các hoạt động tôn giáo hiện có, nhưng các tôn giáo này phải tập trung vào bản chất cốt lõi", Kang nói.

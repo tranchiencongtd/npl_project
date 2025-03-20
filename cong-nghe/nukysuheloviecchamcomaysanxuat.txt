@@ -1,0 +1,44 @@
+Trước khi bắt đầu gia nhậpASMLnăm ngoái, Brienna Hall, 29 tuổi và sống ở Seattle, không biết nhiều về công ty Hà Lan này và cũng không biết phải làm gì với tư cách kỹ sư hỗ trợ khách hàng.
+Cô không hình dung được công việc mình sắp làm quan trọng và cần thiết cho nền kinh tế toàn cầu ra sao.
+Nhiệm vụ của Hall là vận hành cỗ máy quang khắc siêu cực tím (EUV) hiện đại bậc nhất thế giới trong lĩnh vực sản xuất chip.
+"Tôi nghĩ mình có công việc tuyệt vời nhất từ trước đến nay", Hall nói vớiWSJ.
+TheoInvestopedia, EUV giúp sản xuất những vi mạch tiên tiến nhất hành tinh.
+Nó được tạo ra từ những công nghệ nghe giống khoa học viễn tưởng, bằng cách biến những tấm silicon thành "động cơ" của cuộc sống hiện đại.
+Chỉ có vài trăm hệ thống EUV đang hoạt động trên thế giới với giá đắt đỏ.
+Ví dụ, cỗ máy Hall vận hành là 170 triệu USD, nhưng phiên bản mới nhất bán ra năm ngoái cho Intel hay TSMC có giá tới380 triệu USD, nặng 150 tấn, tương đương hai máy bay chở khách Airbus A320.
+Tất cả đều do ASML tạo ra.
+EUV đóng vai trò không thể thiếu trong sản xuất chip mạnh nhất, và chúng phụ thuộc vào công sức vô hình của những người như Brienna Hall.
+Cô là một trong những kỹ sư được ASML phân công đến các nhà máy bán dẫn (fab) của khách hàng để điều khiển chúng.
+Cô vận hành EUV ở Boise, trụ sở chính của Micron Technology.
+Hall là một trong 10.000 thợ máy được ASML tuyển dụng để duy trì hoạt động của EUV cho khách hàng toàn cầu.
+Thực tế, chỉ 6 công ty sở hữu những cỗ máy này.
+"Họ là đội quân tuyến đầu", Jim Koonmen, Giám đốc chăm sóc khách hàng của ASML, nói với truyền thông năm ngoái khi đề cập đến kỹ sư vận hành EUV.
+Để bắt đầu ngày làm việc, Hall mặc bộ đồ bảo hộ trắng, bước vào căn phòng có không khí sạch hơn 100 lần so với phòng phẫu thuật bệnh viện.
+Cô phải biết mọi thứ về cỗ máy có hơn 100.000 bộ phận để có thể sửa chữa, bảo trì.
+ASML liên tục tuyển những kỹ sư như Hall, nhưng không phải ai cũng đủ điều kiện.
+Cô cho biết mình không biết nhiều về ASML cho đến khi vào công ty.
+Tuy nhiên, cô có những yếu tố phù hợp công việc: là chủ tịch câu lạc bộ tên lửa của Cao đẳng Edmonds, học ngành khoa học vật liệu và kỹ thuật tại Đại học bang Washington, thích lập kế hoạch cho bản thân và tự làm các công việc tỉ mỉ bằng tay.
+Khi tuyển dụng, Koonmen nói ASML luôn tìm kỹ sư có tính siêng năng, kỷ luật và chú ý đến từng chi tiết.
+Hall có tư duy kỹ thuật và tính cách phù hợp với công việc.
+Sau khi được chọn, cô trải qua hàng tháng huấn luyện.
+Chuyến đi dài đầu tiên là một tháng ở đảo Đài Loan, nơi cô tham gia khóa học Fab Ready 1 tại trung tâm đào tạo của ASML.
+Tại đây, cô làm quen với những bộ phận của EUV như máy quét, nguồn, dẫn động laser.
+"Mỗi bộ phận có 'tính cách' riêng.
+Khi hiểu chúng, bạn mới vận hành được", Hall kể, nói đã đặt tên cho cỗ máy ở Micron là Monica.
+"Mọi thứ hoàn hảo, Monica mới hoạt động".
+Sau khóa học đầu, Hall tiếp tục trải qua nhiều tháng trau dồi chuyên môn thông qua chương trình Fab Ready 2 tại đảo Đài Loan, Mỹ và Đức.
+Cô mất gần một năm học kiến thức trước khi được phép tự làm việc trên máy EUV.
+Mỗi khi vào phòng sạch, cô che kín từ đầu đến chân, bởi một hạt bụi cũng có thể gây hậu quả nghiêm trọng.
+Việc đi vệ sinh cũng hạn chế, bằng cách chỉ "nhấp từng ngụm nước và không uống cà phê".
+"Khi tôi sử dụng công cụ và sửa chữa một vấn đề, mọi thứ khác trở nên im lặng", cô nói.
+"Không có gì tuyệt hơn là chỉ tập trung vào vấn đề cho đến khi nó được giải quyết".
+Hall làm việc theo ca 12 tiếng, từ 6h đến 18h.
+Tuy nhiên, khi rảnh rỗi, cô vẫn tìm cách vào xem các cỗ máy EUV.
+"Lúc đó tôi thấy ngứa ngáy, và tôi kiếm cớ để đi vào", cô kể, đồng thời tự nhận mình là "thợ máy sành điệu".
+"Hệ thống của chúng tôi đủ phức tạp để có tính cách, nhưng vẫn là một cỗ máy.
+Bạn chỉ cần tìm ra nút nào cần nhấn", Hall nói.
+"Con người phức tạp hơn nhiều so với bất kỳ cỗ máy nào mà tôi biết".
+Quang khắc là quá trình in sơ đồ mạch lên bề mặt cảm quang bằng cách chiếu tia sáng về phía tấm nền silicon (wafer) qua đĩa thủy tinh được vẽ sẵn sơ đồ mạch.
+Mạch càng nhỏ càng cần những đèn chiếu tia sáng có bước sóng ngắn hơn, trong đó, tia siêu cực tím (EUV) là bước phát triển hiện đại nhất hiện nay.
+ASML sản xuất hàng loạt máy EUV đầu tiên vào năm 2017.
+Công ty hiện được xem là "nút thắt cổ chai" trong sản xuất bán dẫn vì là nhà cung cấp gần như duy nhất về máy quang khắc.

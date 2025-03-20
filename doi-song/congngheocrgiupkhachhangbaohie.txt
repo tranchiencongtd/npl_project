@@ -1,0 +1,22 @@
+Những năm gần đây, ngành bảo hiểm đã đẩy mạnh số hóa, cải thiện quy trình xử lý và chi trả quyền lợi.
+Trong 9 tháng đầu năm 2024, các doanh nghiệp bảo hiểm nhân thọ đã chi trả 46.449 tỷ đồng, tăng đáng kể so với cùng kỳ năm trước.
+Đáng chú ý, Prudential ghi nhận 87% hồ sơ bồi thường nộp trực tuyến với 91% trong số đó được chấp thuận chi trả.
+Chị Thị Trúc một trong những khách hàng của Prudential cho biết sau đợt nằm viện điều trị bệnh dạ dày, chị làm yêu cầu chi trả viện phí qua ứng dụng trực tuyến của Prudential và nhận kết quả xét duyệt chỉ sau vài phút.
+"Cảm giác được chi trả kịp thời giúp tôi trang trải tài chính và an tâm hơn trong tương lai", chị Thị Trúc nói.
+Tương tự chị Trúc, anh Nguyên Phúc cũng được hưởng lợi từ công nghệ này.
+Sau khi xuất viện, anh nhờ gia đình nộp hồ sơ yêu cầu chi trả và nhận kết quả vào trưa cùng ngày.
+"Tôi khá bất ngờ về tốc độ xử lý nhanh chóng và tiện lợi của ứng dụng này", anh Nguyên Phúc nói.
+Theo đại diện Prudential, công nghệ OCR thế hệ mới, tích hợp AI tạo sinh, giúp tự động nhận dạng và phân tích thông tin từ chứng từ bảo hiểm dạng hình ảnh.
+Nhờ đó, hệ thống có thể phản hồi ngay lập tức về tính hợp lệ của chứng từ mà khách hàng nộp và đẩy nhanh quy trình đưa ra quyết định xét duyệt hồ sơ chi trả.
+Việc rút ngắn thời gian yêu cầu chi trả nhờ công nghệ OCR cũng giúp những khách hàng mới như anh Minh Hải - người làm việc tự do (Freelancer), tham gia bảo hiểm tai nạn chưa đến một năm - cảm thấy tin tưởng hơn vào quyết định của mình.
+Anh cho biết do tính chất công việc không cố định và không có công ty hỗ trợ bảo hiểm nên đã chủ động mua bảo hiểm nhân thọ kèm gói sức khỏe để phòng thân.
+Sau đợt nằm viện theo dõi vì đau bao tử, anh được bảo hiểm chi trả viện phí.
+"Trải nghiệm chi trả nhanh chóng này đã hoàn toàn thay đổi góc nhìn của tôi, khiến tôi cân nhắc mua thêm 'Pru - Đầu tư linh hoạt' để có thêm đồng ra đồng vô", anh Minh Hải nói.
+Đại diện Prudential cho biết, công nghệ OCR thế hệ mới giúp hãng nâng cao hài lòng của khách hàng, xây dựng niềm tin lâu dài khi tham gia bảo hiểm.
+Mặc dù chỉ mới giới thiệu gần đây, công nghệ này đã hỗ trợ giải quyết hơn 50% tổng số yêu cầu quyền lợi bảo hiểm nộp trực tuyến từ 19/10 đến 5/11.
+Trong đó, có 243 yêu cầu nhận kết quả trong vòng vài phút và 1.636 yêu cầu trong vòng 30 phút từ khi nộp đến khi nhận kết quả.
+Đội ngũ phát triển sẽ liên tục cải tiến và cập nhật trong thời gian tới, dự kiến đến hết năm nay, 120.000 trường hợp yêu cầu chi trả quyền lợi bảo hiểm sẽ được xử lý bởi công nghệ này.
+OCR do Prudential nguyên cứu và phối hợp thực hiện cùng đối tác Công ty cổ phần VinBigdata (Tập đoàn Vingroup) triển khai.
+Với khả năng tự động đọc và phân tích các thông tin trên chứng từ bảo hiểm mà được nộp dưới dạng hình ảnh, khách hàng của Prudential có thể nhanh chóng nhận được phản hồi từ hệ thống cũng như kết quả giải quyết quyền lợi bảo hiểm chỉ trong vài phút.
+Song song với đó, tư vấn viên có thể theo dõi sát sao quá trình xử lý yêu cầu của khách hàng và chủ động hỗ trợ kịp thời khi cần.
+Hiện công nghệ OCR thế hệ mới được áp dụng cho sản phẩm bảo hiểm bổ trợ "Hỗ trợ viện phí phẫu thuật" và "Chăm sóc sức khỏe".

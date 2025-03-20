@@ -1,0 +1,20 @@
+Công ty dịch vụ tài chính FIIG Securities phải đối mặt với vụ kiện pháp lý từ Ủy ban Chứng khoán và Đầu tư nước này (ASIC) sau vụ vi phạm an ninh mạng làm lộ thông tin nhạy cảm của 18.000 khách hàng.
+Theo các tài liệu do ASIC đệ trình lên Tòa án Liên bang Australia, FIIG bị cáo buộc đã hoạt động với các biện pháp an ninh mạng không đầy đủ từ tháng 3/2019 đến tháng 6/2023, vi phạm nghĩa vụ của đơn vị được cấp phép hoạt động dịch vụ tài chính.
+Trong đơn kiện, ASIC cho rằng những lỗ hổng bảo mật này đã tạo điều kiện cho tin tặc xâm nhập mạng nội bộ của FIIG và không bị phát hiện trong gần ba tuần, từ 19/5 đến 8/6/2023.
+Trong thời gian này, kẻ tấn công đã đánh cắp khoảng 385 GB dữ liệu mật, sau đó được phát hành trên "web đen".
+"Thông tin bị đánh cắp bao gồm dữ liệu khách hàng cực kỳ nhạy cảm như tên, địa chỉ, ngày sinh, giấy phép lái xe, hộ chiếu, thông tin tài khoản ngân hàng và số hồ sơ thuế", ASIC cho biết trong một tuyên bố.
+ASIC cáo buộc FIIG đã không triển khai các biện pháp an ninh mạng cơ bản tại nhiều thời điểm.
+Hậu quả của những thất bại đó, ASIC cho biết trong hồ sơ nộp lên tòa án, "Một nhân viên FIIG đã vô tình tải xuống tệp .zip chứa phần mềm độc hại trong khi duyệt Internet.
+Phần mềm độc hại cho phép một tác nhân đe dọa truy cập từ xa vào mạng của FIIG và thực hiện di chuyển ngang dựa trên mạng và leo thang đặc quyền.
+Khoảng vài ngày sau, ASIC cho biết, tác nhân đe dọa đã truy cập được vào một tài khoản người dùng có đặc quyền trên mạng của FIIG và bắt đầu tải xuống dữ liệu của FIIG.
+FIIG được cho là đã biết về sự cố an ninh mạng tiềm ẩn vào ngày 2/6/2023, khi được Trung tâm An ninh mạng Australia liên hệ.
+Theo ASIC, công ty không biết về vi phạm này trước thông báo này và không bắt đầu điều tra hoặc phản hồi về sự cố cho đến ngày 8/6, tức gần một tuần sau khi được cảnh báo.
+Chủ tịch ASIC nhấn mạnh vụ việc này là lời cảnh báo cho tất cả công ty về mối nguy hiểm khi bỏ qua hệ thống an ninh mạng.
+"An ninh mạng không phải là vấn đề chỉ cần thiết lập rồi quên đi.
+Tất cả công ty cần chủ động và thường xuyên kiểm tra tính đầy đủ của các biện pháp an ninh mạng của mình và tuân theo lời khuyên của nhà chức trách", ông nói.
+Phản hồi về vụ kiện, FIIG Securities thừa nhận sự cố mạng vào tháng 5/2023 và đảm bảo không có thêm sự cố nào sau đó.
+Công ty cũng cho hay không có khoản đầu tư hoặc tiền của khách hàng nào bị lấy cắp trong sự cố.
+FIIG là công ty tài chính cung cấp các dịch vụ lưu ký, với tài sản được nắm giữ thay mặt cho khách hàng dao động từ khoảng 2, 89 tỷ đến 3, 7 tỷ AUD tại thời điểm xảy ra vụ rò rỉ.
+Đây là vụ án thứ hai trong lịch sử, một công ty bị kiện vì quản lý rủi ro an ninh mạng không đầy đủ.
+Trước đó, tháng 5/2022, một công ty tài chính khác, RI Advice, bị phạt 750.000 AUD (12 tỷ đồng) vì an ninh mạng kém dẫn đến một vụ xâm phạm email doanh nghiệp.
+Hậu quả, một khách hàng chuyển 50.000 AUD cho tin tặc, tin tặc truy cập vào hệ thống của họ trong 3 tháng, xâm phạm thông tin cá nhân của hàng nghìn khách hàng và tống tiền thông tin cá nhân của 220 khách.

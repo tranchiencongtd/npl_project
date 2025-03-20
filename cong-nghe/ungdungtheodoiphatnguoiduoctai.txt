@@ -1,0 +1,14 @@
+Trên kho ứng dụng iOS, VNeTraffic hiện dẫn đầu bảng xếp hạng ứng dụng miễn phí được tải về nhiều nhất.
+Trên Android, ứng dụng ghi nhận hơn 50.000 lượt tải, dù chưa cóxác nhận Chính phủcủa Google.
+Ứng dụng có tên đầy đủ VNeTraffic - Ứng dụng giao thông thông minh Việt Nam, được giới thiệu là sản phẩm thuộc bản quyền của Cục Cảnh sát giao thông (Bộ Công an) và ủy quyền GTEL phát triển, có hiệu lực từ ngày 1/1.
+Trong phiên bản cập nhật mới nhất, ứng dụng có các tính năng như: Tra cứu vi phạm giao thông, Phản ánh, Bản đồ giao thông.
+Để sử dụng, người dùng sau khi tải về cần đăng ký bằng cách quét Căn cước công dân, nhập số điện thoại để nhận mã OTP và tạo tài khoản.
+Ngoài ra, phương thức đăng nhập bằng tài khoản định danh điện tử VNeID cũng đang được phát triển.
+Trên VNeTraffic, người dùng có thể nhập biển số xe bất kỳ và nhận về thông tin các lỗi vi phạm nếu có, tra cứu thông tin phạt nguội, cùng chi tiết vi phạm như: loại vi phạm, thời gian, địa điểm, hình ảnh vi phạm cùng trạng thái xử lý.
+Từ ngày 2/1, ứng dụng vươn lên top 1, nhưng cũng nhận nhiều phản ánh về việc khó đăng ký, đăng nhập.
+Nhiều người cho biết không nhận được OTP hoặc thời gian xác nhận quá lâu.
+Đến chiều, khi truy cập, ứng dụng xuất hiện thông báo "Hệ thống đang nâng cấp" và đề nghị người dùng thử lại sau.
+VNeTraffic được đưa lên thử nghiệm khoảng một năm nay, nhưng lượt tải tăng đột biến hai ngày qua, trong bối cảnh Nghị định 168 về xử phạt vi phạm hành chính trong lĩnh vực trật tự, an toàn giao thông đường bộ có hiệu lực, trong đó nhiều vi phạm tăng mức phạt lên gấp nhiều lần.
+Theo thông tư 73 của Bộ Công an ban hành tháng 11 năm ngoái, VNeTraffic là một trong những kênh để người vi phạm, chủ phương tiện có thể biết, chấp hành theo quy định của pháp luật về trật tự, an toàn giao thông đường bộ, phục vụ các lực lượng chức năng có thẩm quyền kiểm tra, kiểm soát, xử lý vi phạm.
+Theo trình tự, trong trường hợp phát hiện vi phạm nhưng không thể dừng phương tiện để xử lý, thông tin của phương tiện giao thông vi phạm sẽ được cập nhật trên Trang thông tin điện tử của Cục Cảnh sát giao thông cùng ứng dụng VNeTraffic để chủ phương tiện, tổ chức, cá nhân có liên quan tra cứu và liên hệ giải quyết.
+Ngoài VNeTraffic, ứng dụng Tra cứu phạt nguội toàn quốc do một đơn vị khác phát hành cũng đạt top ứng dụng tiện ích trên App Store, với các tính năng hỗ trợ xem camera giao thông, nhận thông báo phạt nguội qua Zalo và SMS, tuy nhiên cần trả phí.

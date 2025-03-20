@@ -1,0 +1,58 @@
+Long là kỹ sư nghiên cứu về an toàn trí tuệ nhân tạo tại Center for AI Safety (CAIS), Mỹ.
+Anh từng thực tập tại nhiều tập đoàn hàng đầu như Samsung, Twitter (nay là X) trước khi đầu quân cho Dan Hendrycks - cố vấn tại xAI và Scale AI của tỷ phú Elon Musk và Alexandr Wang, kiêm giám đốc CAIS.
+Humanity’s Last Exam (HLE) là dự án hợp tác giữa CAIS và Scale AI, gồm 3.000 câu hỏi khó thuộc hơn 100 lĩnh vực, từ Cổ điển học, Sinh thái học đến Toán học, Vật lý...
+Chúng không chỉ kiểm tra kiến thức mà còn thách thức khả năng lý luận và tư duy phản biện của AI.
+Hơn 1.000 giáo sư, chuyên gia từ 500 đại học, tổ chức nghiên cứu hàng đầu thế giới như Stanford, Harvard, Princeton, MIT, Oxford...
+tham gia dự án này.
+Đây được coi là bài kiểm tra khó nhất với AI hiện nay.
+Trong bài đăng trên trang nhất hôm 26/1, The New York Timesđánh giá HLE là bài kiểm tra mà "khi AI vượt qua, chúng ta phải coi chừng".
+"Tôi tự hào vì là một trong những người Việt Nam tham gia vào dự án lớn như vậy", Long nói.
+"Ngoài việc giúp theo dõi khả năng của AI, nó sẽ ảnh hưởng tới những chính sách về an toàn AI và cuộc đua tiếp theo giữa các công ty".
+Long du học Mỹ năm 2015, sau khi học hết cấp 2 ở TP HCM.
+Năm 2018, chàng trai trúng tuyển hàng loạt đại học top 100, với hỗ trợ tài chính lên tới 168.000 USD cho bốn năm.
+Long chọn theo ngành Kỹ sư Điện, Đại học Case Western Reserve, phần lớn vì gia đình có nền tảng trong ngành.
+Nhưng chỉ một thời gian ngắn, cậu nhận ra mình hợp với công nghệ thông tin hơn.
+"Tôi rất thích xây dựng những dự án nhỏ và thú vị về công nghệ thông tin, làm việc với những thứ mới và thay đổi liên tục", Long nói.
+Sau năm đầu, Long xin thực tập hè trong dự án phát triển trợ lý ảo KiKi của Zalo và dần hứng thú với ngành.
+Anh chuyển sang ngành Khoa học máy tính, rồi tập trung nghiên cứu AI kể từ đó.
+Nhưng kiến thức về AI là một biển mênh mông mà Long phải mất nhiều công sức tìm tòi.
+Trong hai năm, ngày nào Long cũng đọc những bài nghiên cứu mới nhất từ những phòng thí nghiệm lớn như Google DeepMind.
+Ngoài đọc, Long tìm cách đưa code của những bài báo hay về để tái hiện và hiểu kỹ hơn.
+Mỗi lần có phát hiện mới về AI, Long mày mò khai thác chúng, làm những nghiên cứu nhỏ có liên quan.
+Anh và bạn còn cùng tự xây một số dự án về crypto web3 và NFT, kỹ năng code cũng cứng dần qua mỗi dự án.
+Đây là những điểm cộng trong hồ sơ xin thực tập của Long, giúp cậu sinh viên nhận được sự chú ý và những cái gật đầu từ các tổ chức lớn như Viện Y tế Mỹ, Samsung, Twitter...
+Trịnh Hoàng Triều, nhà nghiên cứu tại Google DeepMind, người bạn thân thiết và là "mentor" (cố vấn) của Long thời gian đầu, đánh giá Long có khả năng chuyên sâu về công nghệ và kỹ thuật.
+"Long có thể làm việc với một nhóm lớn, trên những dự án phức tạp, có thể nắm bắt nhanh và phản biện xu hướng mới trong nghiên cứu khoa học.
+Nhưng ấn tượng nhất là đam mê và sự chăm chỉ", Triều nói.
+Với Long, mỗi nơi thực tập đều góp một viên gạch lên con đường sự nghiệp.
+Bài báo nghiên cứu chất lượng đầu tiên, sau này là lợi thế khi đến phỏng vấn tại những công ty lớn, là "Áp dụng AI vào xử lý ngôn ngữ tự nhiên trong sinh học tại Viện Y tế Mỹ".
+Còn ở Twitter, dù nhiều thực tập sinh chọn "biến mất" giữa tâm bão sa thải nhân sự khi Elon Musk tiếp quản, Long vẫn ở lại với hy vọng tranh thủ học hết những kiến thức mới về AI.
+"Dù hướng nghiên cứu của tôi sau này đã thay đổi, những kiến thức đó vẫn là nền tảng vô cùng quan trọng", Long nhìn nhận.
+Thời điểm tốt nghiệp đại học năm 2022, Long sở hữu hơn 10 bài báo nghiên cứu.
+Long tự đặt áp lực và luôn cố gắng thúc đẩy bản thân phải vào được những tổ chức tốt nhất về nghiên cứu AI và làm việc với các tên tuổi lớn trong ngành.
+Những nỗ lực giúp Long đặt chân đến CAIS vào năm 2023, tham gia giải những bài toán lớn về an toàn AI.
+Tuy sau đó được quản lý đội ngũ AI ở nhiều công ty lớn liên hệ, Long quyết định ở lại để học hỏi từ Dan Hendrycks.
+Năm 2024, Long tham gia vào Humanity’s Last Exam - dự án lớn nhất trong sự nghiệp cho tới nay.
+Ý tưởng về nó đến từ một cuộc trò chuyện giữa Dan Hendrycks và Elon Musk, trong bối cảnh các thước đo trình độ của AI không còn theo kịp về độ khó.
+Hầu hết mọi người thấy việc tổng hợp hơn 1.000 nhà nghiên cứu trên toàn thế giới ở nhiều lĩnh vực là bất khả thi về mặt kỹ thuật và quản lý.
+Nhưng khi tiếp cận dự án, Long tin mình có thể đảm đương được vị trí đòi hỏi rất nặng về cả phát triển phần mềm lẫn nghiên cứu AI.
+"Tôi có thể tự dựng website thân thiện với những giáo sư, chuyên gia lớn tuổi, phụ trách hệ thống backend, và đánh giá AI.
+Tôi cũng có kinh nghiệm lập trình vững và xây một ứng dụng mà nhiều người dùng được", Long nói.
+Thách thức lớn nhất với Long trong dự án là phải tổng quát nhiều mảng kiến thức.
+Những giáo sư giỏi nhất thế giới tham gia đặt câu hỏi nên để đảm bảo chúng đạt chuẩn về chất lượng và hình thức, Long phải tự học thêm rất nhiều kiến thức Toán, Lý, Hóa - những thứ "trước đó chưa từng chạm tới được".
+Ngoài ra, chàng trai 25 tuổi thấy rằng cố gắng điều phối công việc cho mọi người trong dự án cùng hài lòng là "cực kỳ khó".
+"Đặc biệt, khi làm việc trực tiếp với những tên tuổi như Dan Hendrycks và Alexandr Wang, kết quả được trình bày phải cực kỳ hoàn hảo, và phải chuẩn bị tinh thần để trao đổi bất cứ lúc nào", Long cho hay.
+Theo Long, nghiên cứu về AI là một công việc căng thẳng.
+Ngoài việc phải chạy đua với những tiến bộ mới nhất, người làm nghiên cứu cần thuyết phục các chuyên gia để được trình bày ở những hội nghị toàn cầu.
+Với Long, kết quả xuất hiện ở những nơi có tầm ảnh hưởng lớn và nhận được phản hồi, là giá trị xứng đáng cho những giây phút khó khăn.
+Thứ 6 tuần trước, o3-mini của Open AI đã đạt 13% trên HLE.
+Đến chủ nhật, với hỗ trợ từ Deep Research và kết hợp Python, mô hình này cho kết quả lên tới 26, 6%.
+Trước đó, không mô hình nào trả lời chính xác quá 10% bài kiểm tra.
+Với tốc độ phát triển chóng mặt của AI, Long và các cộng sự dự đoán các mô hình có thể vượt qua 50% bài kiểm tra trước cuối năm nay.
+Long nhìn nhận HLE như một thước đo cho AI trước khi chúng được tin tưởng áp dụng vào các khía cạnh đòi hỏi nhiều kỹ năng hơn nữa như là "nghiên cứu", "kỹ sư", "vận hành hệ thống"...
+Nhận định AI là lĩnh vực thú vị và mang đến nhiều cơ hội, nhưng để bắt kịp cuộc đua đầy cạnh tranh, Long cho rằng cần có sự chuẩn bị kỹ càng, niềm đam mê và không ngại bộc lộ điều đó.
+Chủ động tìm hiểu những tổ chức lớn có cùng hướng nghiên cứu với mình cũng là một cách để học hỏi.
+"Đừng lo sợ nếu có hứng thú với AI nhưng chưa biết gì nhiều.
+Đây là lĩnh vực mà mình có thể học hỏi được rất nhanh nếu cố gắng", theo Long.
+Nhìn lại con đường của mình, chàng trai sinh năm 2000 coi sự bền bỉ, nhất quán và tinh thần không bỏ cuộc là những điều quan trọng nhất.
+"Tôi có những thăng trầm trong nghề nghiệp, có ý tưởng thất bại, từng không vượt qua vòng phỏng vấn xin việc, nhưng tôi không từ bỏ giấc mơ được làm những dự án có tầm ảnh hưởng quốc tế", Long nói.

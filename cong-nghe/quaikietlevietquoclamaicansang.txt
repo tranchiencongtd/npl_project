@@ -1,0 +1,92 @@
+Lê Viết Quốc, sinh năm 1982, là một trong những nhà nghiên cứu hàng đầu về trí tuệ nhân tạo tại Google Brain.
+Ông có bằng tiến sĩ khoa học máy tính tại Đại học Stanford và từng được tạp chíTechnology Reviewcủa MIT vinh danh là một trong những nhà phát minh dưới 35 tuổi xuất sắc thế giới, với nhiều đóng góp cho lĩnh vực trí tuệ nhân tạo toàn cầu.
+Trong chuyến về Việt Nam tham dự sự kiện AISC 2025 ngày 12-16/3, ông Quốc chia sẻ về tầm nhìn với sự phát triển của AI, cũng như thách thức, cơ hội và hướng đi để phát triển lĩnh vực này tại Việt Nam.
+- Là một nhà nghiên cứu AI, ông đánh giá thế nào về sự cạnh tranh trong lĩnh vực này của Mỹ và Trung Quốc hiện nay?
+- Đây là vấn đề được rất nhiều người quan tâm, đặc biệt sau sự kiệnDeepSeek.
+Với tôi, DeepSeek thực sự gây ngạc nhiên, cho thấy sự phát triển AI của Trung Quốc rất ấn tượng.
+Thực ra trước khi mô hình này ra đời, Google đã có Gemini Thinking model hay OpenAI có o1.
+Trước đây, có quan điểm rằng Trung Quốc đi sau Mỹ khoảng hai năm về vấn đề tài nguyên chip và con người.
+Nhưng với sự ra đời của DeepSeek, tôi ước tính khoảng cách chỉ còn 6 tháng.
+Tuy nhiên, có thông tin DeepSeekchưng cấttừ mô hình của OpenAI hay Google.
+Họ không công bố nên chưa thể kết luận, nhưng nếu đúng, khoảng cách có thể vẫn còn khá xa.
+- DeepSeek thu hút sự chú ý bằng việc phát triển mô hình AI với chi phí 5 triệu USD.
+Việt Nam có thể học hỏi gì từ hướng đi của họ?
+- Tôi cho rằng có.
+Nhưng cũng phải nói thêm, con số 5 triệu USD là trên một model và tổng chi phí có thể hơn một tỷ USD.
+Tôi biết có công ty tại Việt Nam cũng chi cả tỷ USD cho AI của họ.
+Tuy nhiên, chúng ta có thể quan tâm hơn đến yếu tố mã nguồn mở.
+Đa phần các tổ chức và công ty nên dùng mã nguồn mở bởi hướng này giúp phát triển nhanh và tận dụng được các tài nguyên có sẵn.
+Ví dụ khi cần phát triển AI để giải quyết vấn đề trong y tế, học thuật, giáo dục, chúng ta có thể dùng DeepSeek, Llama, Gemma.
+Việc sử dụng mã nguồn mở là cách Việt Nam hay các nước nhỏ có thể đóng góp cho thế giới.
+Việc này trước đây ít được nhắc đến, nhưng tôi cho rằng nên làm, bởi như vậy Việt Nam sẽ tạo ra được cộng đồng có tiếng tăm và thu hút nhân tài để làm việc cho các dự án.
+Việt Nam không chỉ sử dụng mà còn nên đóng góp cho mã nguồn mở.
+Vậy đóng góp thế nào?
+Thực ra cũng đơn giản.
+Ví dụ các trường đại học hay các công ty có một mô hình nào đó, nhưPhoGPT, hay một ý tưởng đột phá hoặc các bộ dữ liệu có thể phát triển dưới dạng mã nguồn mở để đóng góp cho nhân loại.
+- So với một số quốc gia khác, Việt Nam đi sau khá xa.
+Ông có lời khuyên nào cho các dự án của Việt Nam khi tham gia lĩnh vực này?
+- Đi trước có nhiều lợi thế, đi sau cũng có lợi thế riêng.
+Tương tự chạy marathon, người chạy sau có thể tránh được gió, trong lĩnh vực AI, người đi sau sẽ rút ra bài học từ các vấn đề người đi trước mắc phải.
+Gemini, ChatGPT có rất nhiều người dùng, nhưng cũng là vấn đề khi phải dùng nguồn lực lớn về chip để phục vụ người dùng thay vì để cải thiện chất lượng mô hình.
+Trong khi đó, công ty đi sau chưa phải lo điều này, chỉ cần tập trung làm thế nào để tạo ra model tốt hơn.
+Lợi thế đi sau là tránh được những cơn gió đó.
+Ngoài ra về lâu dài, các mô hình nổi tiếng trên thế giới như về thị giác máy tính, xử lý ngôn ngữ tự nhiên đều có chi phí phát triển giảm nhanh.
+Mô hình đầu tiên có thể mất cả trăm triệu USD đào tạo, đến mô hình thứ hai chỉ tốn 20 triệu USD, tiếp theo còn 5 triệu USD và càng ngày càng nhỏ.
+Khi đó, việc làm chủ mô hình với Việt Nam hoàn toàn khả thi.
+Sau một chặng đường dài làm việc trong lĩnh vực, tôi nghĩ Việt Nam không nên vội vã bắt kịp người khác.
+Ví dụ hôm nay chúng ta quyết tâm đuổi kịp DeepSeek, khi đuổi theo, họ đã đi đến chặng đường khác rồi.
+Tạo ra một mô hình chưa đủ, quan trọng là tìm cách đưa chúng đến với người dùng.
+Vì vậy, đuổi kịp chưa chắc đã thành công và chúng ta lúc nào cũng theo sau.
+Bản thân DeepSeek cũng đang phải đuổi theo các công ty lớn ở Mỹ vì sự chênh lệch về tài nguyên rất lớn.
+Muốn thành công, Việt Nam nêntập trung vào đổi mới sáng tạo, tức tìm ra một hướng đi mới và đầu tư vào đó.
+Cần nhớ Deepseek ra đời sau nhưng tạo tiếng vang cũng nhờ rất nhiều sáng tạo của họ.
+Nếu muốn phát triển mô hình nền tảng (foundation model) để làm ra các chatbot như hiện nay, chúng ta nên tập trung vào những mảng cảm thấy có lợi thế và có thể đổi mới sáng tạo được.
+Thực tế mô hình nền tảng nào cũng có điểm yếu.
+Nếu tìm ra được những điểm yếu đó và có ý tưởng mới để thay đổi, cộng đồng ở Việt Nam sẽ có khả năng vượt qua các công ty khác.
+Ngoài ra, sự kiện AISC 2025 có đề cập đến AlphaChip - dự án dùng AI thiết kế chip.
+Tôi thấy đây là phân ngành mới khá thú vị, vừa liên quan đến AI vừa liên quan đến thiết kế chip bán dẫn và là hướng đi mới tiềm năng.
+- Nhiều dự án AI thành công nhờ nhân tài trẻ.
+Theo ông, Việt Nam cần làm gì để có những nhân tài như vậy?
+- Thực ra làm việc gì cũng cần nguồn lực con người.
+Xây kim tự tháp, lên Mặt Trăng, làm AI đều do con người.
+Lợi thế đầu tiên của Việt Nam theo tôi là nguồn lực con người với nền tảng tốt về STEM.
+Nhưng có nền tảng rồi cần gia cố thêm.
+Đầu tiên phải tạo ra những con người xuất chúng, tức phải làm cho giai đoạn đại học và sau đại học ở Việt Nam tốt lên, có các viện nghiên cứu để tạo ra được một sân chơi cho những nhân tài làm việc ở Việt Nam.
+Hiện nay, chênh lệch về trình độ đại học và sau đại học của Việt Nam so với thế giới còn cao.
+Những người giỏi có thể ra nước ngoài học và khi họ lập gia đình ở đó rồi rất khó thu hút họ trở về.
+Những người ở lại Việt Nam lại khó tiếp cận các chương trình đẳng cấp thế giới.
+Để giảm khoảng cách đó, chúng ta cần đầu tư.
+Ví dụ, đưa nhân tài ở trên thế giới, những giáo sư tầm thế giới về làm tại Việt Nam, hoặc tạo điều kiện để các trường đại học thực hiện các nghiên cứu đột phá.
+Đó là lý do nên tập trung vào mảng giáo dục.
+Nhưng giáo dục thôi chưa đủ.
+Cần đẩy mạnh startup, thu hút doanh nghiệp lớn như Google, Facebook vào Việt Nam, mở văn phòng kỹ thuật để các nhân tài gia nhập, rồi sau đó họ sẽ phát triển startup.
+Đây là lộ trình dài nhưng nên làm.
+Nhìn trong khu vực, đối thủ rõ ràng của Việt Nam có lẽ là Ấn Độ, nếu tận dụng các lợi thế và thay đổi tiềm lực con người, khả năng gia nhập cuộc chơi này rất lớn.
+- Với chuyển biến gần đây tại Việt Nam về chính sách cho khoa học công nghệ, đổi mới sáng tạo và chuyển đổi số, ông có cảm nhận gì và thấy điều gì đủ để thu hút mình?
+- Để thu hút nhân tài về Việt Nam, tôi nghĩ mỗi người có một nhu cầu riêng.
+Bản thân tôi, bên cạnh gia đình, tôi rất quan tâm tới việc nghiên cứu và muốn tiếp cận đỉnh cao của khoa học.
+Điều này không dễ.
+Môi trường ở Google DeepMind có tài nguyên giúp tôi tiếp cận được điều đó.
+Đây là yếu tố hiện khó thực hiện được ở Việt Nam, đòi hỏi đầu tư lớn hơn cho tài nguyên.
+Việt Nam đã có những đường lối đúng đắn.
+Khi tiếp xúc với các nhà lãnh đạo, tôi nhìn thấy tâm huyết cao của họ trong việc thúc đẩy lĩnh vực.
+Đó là điều tôi cực kỳ ấn tượng.
+Tuy nhiên, để giải các bài toán không đơn giản và cần có thời gian.
+Chẳng hạn việc phát triển con người, tập trung đào tạo từ bây giờ cũng sẽ cần 4-5 năm nữa để cho ra kết quả.
+Các nước xung quanh như Trung Quốc, Singapore, Ấn Độ cũng đầu tư rất nhiều cho giáo dục, khoa học công nghệ và nhiều thứ đã đi trước.
+Nhưng với sự quyết tâm hiện nay, tôi cho rằng Việt Nam hoàn toàn có tiềm năng đạt được thành tựu trong lĩnh vực này.
+- Trong vài năm trở lại đây, AI phát triển cực nhanh nhưng cũng khiến các sản phẩm trở nên lạc hậu nếu không bắt kịp.
+Ông dự đoán gì về xu hướng phát triển AI thời gian tới?
+- Năm nay, tác nhân AI (AI Agent) sẽ là một đột phá lớn.
+Nhiều ý kiến cho rằng 2022-2025 là thời của chatbot, tức các mô hình AI để con người trò chuyện.
+Còn trong 2-3 năm tới là thời của AI Agent.
+Để phát triển AI Agent, mặt hạn chế lớn nhất là cần những dữ liệu để đào tạo, vì hiện không có nhiều.
+Những mô hình AI đầu tiên dùng trong chatbot lấy dữ liệu trên mạng bởi về cơ bản nó dự đoán từ tiếp theo là gì.
+Mô hình thứ hai nổi lên gần đây là mô hình tư duy (reasoning).
+Chúng sử dụng dữ liệu để đưa ra các phản hồi về tính đúng hoặc sai, và data loại này cũng có rất nhiều.
+Tuy nhiên, AI Agent cần tương tác đặc biệt, bao gồm cả tương tác vớithế giới thực, tức đòi hỏi có các thí nghiệm.
+Nó sẽ cần làm thí nghiệm nào đó để đưa ra câu trả lời.
+Data này hiện không nhiều và là thách thức lớn nhất.
+AI Agent sẽ làm công việc giúp cho con người.
+Không chỉ chat, nó có thể làm việc như lên mạng tìm hiểu thông tin và tương tác với những cá nhân khác, mang lại nhiều điềuhữu ích hơnso với chatbot.
+Sẽ có rất nhiều bên đầu tư vào mảng này và tôi nghĩ năm nay sẽ có bước đột phá lớn.

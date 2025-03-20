@@ -1,0 +1,26 @@
+"Hãy tưởng tượng một chip nằm gọn trong lòng bàn tay bạn nhưng vẫn có khả năng giải quyết những vấn đề mà tất cả máy tính trên Trái Đất ngày nay cộng lại cũng không thể", CEO Microsoft Satya Nadella đăng trên X sau khi công ty ra mắt Majorana 1 ngày 19/2.
+Nadella không đề cập trực tiếp đến Majorana 1, nhưng tiết lộ những tiến bộ khoa học đang giúp tiến gần hơn đến tương lai đó.
+Majorana 1 là chip lượng tử đầu tiên được trang bị kiến trúc Topological Core.
+Đây là kiến trúc mới, hứa hẹn tạo ra những máy tính lượng tử có khả năng giải quyết các vấn đề có ý nghĩa "ở quy mô công nghiệp" trong vòng vài năm thay vì vài thập kỷ, tức tốc độ đã tăng hàng chục lần so với trước đây.
+Theo Nadella, điều này nhờ đột phá của công ty trong việc nghiên cứu một trạng thái vật chất mới, bên cạnh rắn, lỏng, khí.
+"Sau gần 20 năm theo đuổi, chúng tôi tạo ra một trạng thái vật chất hoàn toàn mới, được mở khóa bằng với một loại vật liệu mới là chất bán dẫn topoconductor", ông nói.
+Vật liệu này, theo Nadella, có thể tạo bước nhảy vọt cơ bản trong máy tính.
+Theo đó, các qubit được tạo ra bằng topoconductor "nhanh hơn, đáng tin cậy hơn và nhỏ hơn", với kích thước bằng 1/100 mm.
+Từ đó, tiềm năng để tạo các mẫu chip với khả năng xử lý hàng triệu qubit sẽ đơn giản hơn.
+Đây là nền tảng cho máy tính lượng tử.
+Tỷ phú Elon Musk cũng chia sẻ bài đăng của Nadella, đánh giá công nghệ "ngày càng có nhiều đột phá".
+Microsoft cho biết, tương tự phát minh chất bán dẫn đã thúc đẩy điện thoại thông minh, máy tính và thiết bị điện tử ngày nay, topoconductor và các loại chip mới mở ra con đường phát triển hệ thống lượng tử lên tới một triệu qubit, có khả năng giải quyết những vấn đề công nghiệp và xã hội phức tạp nhất.
+Máy tính lượng tử có thể thực hiện các phép tính mà hệ thống hiện nay cần hàng triệu năm, mở khóa những khám phá mới trong y học, hóa học và nhiều lĩnh vực khác.
+Trong khi máy tính truyền thống dựa vào các bit nhị phân - bật hoặc tắt, ký hiệu là 1 và 0, để xử lý thông tin, máy tính lượng tử sử dụng cái gọi là bit lượng tử, hay qubit, làm nền tảng và có thể xử lý 0, 1 hoặc cả hai cùng lúc.
+Vì thông tin cơ bản của máy tính lượng tử có thể biểu thị tất cả khả năng đồng thời, về lý thuyết, chúng nhanh và mạnh hơn nhiều so với máy tính thông thường sử dụng trong cuộc sống hàng ngày.
+Tuy nhiên, thách thức ngăn máy tính lượng tử bước ra thế giới thực là chúng dễ bị lỗi khi xử lý, làm xáo trộn các qubit khiến kết quả bị sai.
+Do đó, chúng cần có khả năng sửa những lỗi nhanh và chính xác hơn.
+Microsoftcho biết Majorana 1 ít lỗi hơn so với đối thủ cạnh tranh nhờ được phát triển dựa trên giải pháp lai giữa chất bán dẫn truyền thống và hạt hạ nguyên tử fermion Majorana.
+Philip Kim, giáo sư vật lý tại Đại học Harvard, nói trênReutersrằng fermion Majorana là chủ đề nóng trong giới vật lý và công nghệ nhiều thập kỷ qua.
+Ông gọi công trình của Microsoft là "sự phát triển thú vị", góp phần đưa công ty lên vị trí hàng đầu trong hành trình nghiên cứu lượng tử.
+Tháng 12/2024, Google cũng ra mắtWillow, chip lượng tử nhỏ như viên kẹo và cũng có khả năng giảm thiểu lỗi tính toán theo cấp số nhân.
+"Điều này đã chinh phục được thử thách lớn nhất trong việc sửa lỗi lượng tử, điều mà toàn lĩnh vực theo đuổi suốt gần 30 năm qua", Hartmut Neven, đứng đầu bộ phận Google Quantum AI, nói khi đó.
+Câu hỏi khi nào máy tính lượng tử được thương mại hóa cũng là chủ đề tranh luận trong giới tinh hoa của ngành công nghệ.
+Tháng trước, CEO Nvidia Jensen Huang tuyên bố chip lượng tử còn cách hai thập kỷ nữa mới có thể vượt chip của công ty ông.
+Trong khi đó, khi giới thiệu chip Willow, Google cho rằng ứng dụng điện toán lượng tử thương mại chỉ còn cần 5 năm nữa.
+Trước đó, IBM từng dự đoán máy tính lượng tử quy mô lớn sẽ ra đời năm 2033.

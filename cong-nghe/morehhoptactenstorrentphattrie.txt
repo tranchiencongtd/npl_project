@@ -1,0 +1,22 @@
+Trong bối cảnh nhu cầu về tính toán trí tuệ nhân tạo (AI) đang bùng nổ trên toàn cầu, Moreh, một doanh nghiệp trong lĩnh vực hạ tầng AI có trụ sở tại Mỹ, Hàn Quốc và Việt Nam, vừa ra mắt cụm máy chủ AI hiện đại.
+Cụm máy chủ này tích hợp hai yếu tố chính: GPU hiệu năng cao từ AMD cùng Neural Processing Unit (NPU) của Tenstorrent.
+Theo thử nghiệm nội bộ của Moreh, giải pháp này giúp tăng hiệu suất đào tạo mô hình AI đến 50% so với các framework phổ biến, nhờ khả năng khai thác tối ưu tiềm năng của GPU và NPU.
+Việc duy trì và phát triển hạ tầng AI đồng bộ hứa hẹn tối ưu chi phí, mở đường cho doanh nghiệp vươn xa hơn trong kỷ nguyên AI.
+NPU là một công nghệ chuyên biệt cho các tác vụ học sâu.
+Khác với GPU, vốn bắt nguồn từ lĩnh vực xử lý đồ họa, NPU được thiết kế tập trung vào các tác vụ toán học như ma trận và tích chập.
+Nhờ cấu trúc phần cứng đặc biệt, NPU Tenstorrent hứa hẹn cung cấp hiệu suất xử lý cao với mức tiêu thụ điện năng thấp, giúp doanh nghiệp giảm thiểu chi phí vận hành, rút ngắn thời gian huấn luyện mô hình AI.
+Đại diện Moreh cho biết, việc lựa chọn Tenstorrent làm đối tác cung cấp NPU nằm trong chiến lược phát triển AI bền vững.
+Tenstorrent, dưới sự dẫn dắt của Jim Keller, đang nghiên cứu sâu về công nghệ phần cứng cho kỷ nguyên mô hình ngôn ngữ lớn.
+Tại phòng máy chủ của Moreh, các mô-đun NPU Tenstorrent đảm nhận vai trò "bộ gia tốc" trong quá trình huấn luyện và suy luận quy mô lớn.
+"Moreh có đội ngũ phần mềm tuyệt vời và luôn thúc đẩy chúng tôi phát triển các API cũng như giải pháp tiên tiến hơn, " ông Jim Keller, CEO Tenstorrent chia sẻ.
+Ông tin rằng sự kết hợp giữa NPU Tenstorrent và framework AI của Moreh sẽ đem lại bước ngoặt cho hạ tầng AI trong các trung tâm dữ liệu.
+Moreh và Tenstorrent đã cùng trải qua hai năm nghiên cứu, phát triển để hiện thực hóa giải pháp AI data center hoàn chỉnh.
+Theo doanh nghiệp, các buổi thảo luận kỹ thuật, thử nghiệm và tinh chỉnh cả phần cứng, phần mềm giúp hai bên nắm rõ ưu điểm của từng linh kiện, cũng như khai thác tính tương thích giữa NPU Tenstorrent và GPU AMD.
+Dự kiến giải pháp kết hợp này có thể phục vụ hiệu quả cả hai bài toán suy luận và huấn luyện mô hình ngôn ngữ lớn.
+Mục tiêu là thương mại hóa toàn cầu trong nửa đầu năm 2025, tạo động lực giúp Moreh tiến xa hơn trên bản đồ AI thế giới.
+Với sức mạnh hạ tầng GPU-NPU và khả năng tối ưu hóa phần mềm, Moreh đang mở rộng sang phát triển các "domain models" trong lĩnh vực y tế, tài chính và sản xuất.
+Những mô hình này sẽ góp phần rút ngắn thời gian nghiên cứu và gia tăng độ chính xác cho các ứng dụng thực tiễn.
+Moreh cam kết đẩy mạnh nghiên cứu và phát triển theo hướng mở, kết hợp công nghệ Heterogeneity để hỗ trợ hiệu quả cả GPU lẫn NPU.
+Ông Thanh Tuấn, Giám đốc Moreh Việt Nam cho biết, công ty sẽ đồng hành cộng đồng hướng tới một tương lai nơi AI trở thành động lực then chốt, đưa nền kinh tế Việt Nam vươn xa hơn.
+"Việc Moreh công bố cụm máy chủ AI tích hợp NPU Tenstorrent và GPU AMD thể hiện vai trò tiên phong, chứng minh năng lực công nghệ vượt trội và đột phá", ông Tuấn nói.
+"Sự kết hợp giữa phần cứng, phần mềm cùng chiến lược hợp tác với các hãng chip hàng đầu thế giới hứa hẹn giúp Moreh cạnh tranh với các tên tuổi lớn trong phân khúc hạ tầng trung tâm dữ liệu".

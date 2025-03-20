@@ -1,0 +1,22 @@
+Các robot hình người, được phát triển bởi nhiều công ty trên thế giới, sẽ cùng chạy trên đường phố với 12.000 runner con người.
+Robot sẽ lần đầu tiên chạy toàn bộ chặng đua trong năm nay.
+Ba runner đứng đầu sẽ nhận được giải thưởng.
+Cuộc đua chưa từng có này cho thấy tham vọng của Trung Quốc trong việc trở thành nước dẫn đầu về trí tuệ nhân tạo (AI) và robot, Interesting Engineeringhôm 20/1 đưa tin.
+Theo Khu Phát triển Kinh tế - Công nghệ Bắc Kinh, các công ty, viện nghiên cứu, câu lạc bộ robot và các trường đại học trên toàn thế giới sẽ tham gia cuộc đua với robot hình người của mình.
+Một yêu cầu quan trọng là các robot phải có hình dáng giống con người.
+Hơn nữa, chúng phải trang bị cấu trúc cơ khí cho phép thực hiện những động tác như đi bộ hoặc chạy trên hai chân, không di chuyển bằng bánh xe.
+Chiều cao của robot hình người phải nằm trong khoảng 0, 5 - 2 m.
+Các robot hình người điều khiển từ xa và hoàn toàn tự động đều có thể tham gia cuộc đua.
+Chúng cũng được phép thay pin trong lúc chạy.
+Ngoài Trung Quốc, nhiều quốc gia khác cũng đang tích cực phát triển robot.
+Năm ngoái, robot 4 chân RAIBO2 của Viện Khoa học và Công nghệ Tiên tiến Hàn Quốc (KAIST) đã chinh phục một cuộc đua full marathon (42, 195 km) tại Hàn Quốc.
+Điểm đáng chú ý là nó hoàn thành chặng đường dài chỉ trong hơn 4 giờ với một lần sạc pin, thể hiện bước tiến lớn về sức bền của robot.
+Thành tựu này giúp RAIBO trở thành robot 4 chân đầu tiên trên thế giới hoàn thành một cuộc đua full marathon.
+Việc đưa robot vào những cuộc đua marathon đang trở thành xu hướng.
+Ví dụ, robot hình người Tiangong đã tham gia cuộc đua Yizhuang Half Marathon tại Bắc Kinh năm ngoái.
+Tuy nhiên, nó chỉ tham gia cùng các runner con người gần vạch đích, đóng vai trò như một "người dẫn tốc" chặng cuối để khích lệ họ.
+Trung Quốc coi robot hình người là một yếu tố chiến lược cho sự phát triển kinh tế và độc lập công nghệ của mình.
+Hơn nữa, robot được kỳ vọng giúp giải quyết những thách thức cấp bách của Trung Quốc như dân số già hóa và lực lượng lao động giảm.
+Năm ngoái, robot hình người đã hoạt động trong một nhà máy của nhà sản xuất xe điện BYD.
+Trung Quốc cũng đang tăng cường sử dụng robot để phục vụ người cao tuổi.
+Điều này bao gồm việc triển khai robot trong vai trò người chăm sóc, mang đến sự trợ giúp về tinh thần, theo dõi sức khỏe và hỗ trợ việc nhà thông minh.

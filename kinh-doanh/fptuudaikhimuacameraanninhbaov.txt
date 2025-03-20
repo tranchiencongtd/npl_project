@@ -1,0 +1,22 @@
+FPT triển khai chương trình "Trả một cước - Rước 5 cam" từ tháng 2, giúp khách hàng có cơ hội sở hữu nhiều camera cùng lúc với chi phí hợp lý.
+Theo đó, khách hàng có thể sử dụng nhiều camera chỉ với một gói lưu trữ Cloud duy nhất, thay vì phải trả phí riêng cho từng thiết bị.
+Gói lưu trữ dùng chung có mức giá cạnh tranh, chỉ từ 50.000 đồng một tháng cho 2 - 5 camera và từ 150.000 đồng một tháng cho 6 - 9 camera.
+Tính trung bình, chi phí lưu trữ cho mỗi camera chỉ từ 10.000 đồng mỗi tháng, mang đến giải pháp giám sát tối ưu và kinh tế hơn cho người dùng.
+Bên cạnh việc tối ưu chi phí lưu trữ Cloud, khách hàng còn được nhận e-voucher trị giá từ 50.000 đồng đến 200.000 đồng khi mua thiết bị, áp dụng cho tất cả sản phẩm camera của FPT.
+Chương trình đang được áp dụng trên toàn quốc với dịch vụ hỗ trợ kỹ thuật 24/7, đảm bảo khách hàng luôn nhận được sự trợ giúp mọi lúc mọi nơi.
+Ngoài ra, đơn vị còn triển khai chương trình ưu đãi "1 triệu 3 cam", từ 15/2 đến 31/3.
+Người dùng sở hữu bộ 3 FPT Camera với giá 1 triệu đồng khi đăng ký dịch vụ Internet.
+FPT Camera là thương hiệu cung cấp các giải pháp giám sát an ninh cho hộ gia đình và doanh nghiệp thuộc Tập đoàn FPT với hệ thống máy chủ được đặt tại Việt Nam.
+Toàn bộ phần cứng, phần mềm đến dịch vụ triển khai, bảo trì đều do đơn vị phát triển và cung cấp.
+Các sản phẩm FPT Camera ứng dụng trí tuệ nhân tạo (AI) với nền tảng FPT Cloud AI.
+Dữ liệu ghi lại từ camera được lưu trữ trên Cloud với Data Center đạt chuẩn quốc tế Tier III đặt tại Việt Nam, giúp bảo vệ dữ liệu an toàn, bảo mật cho người dùng.
+Đồng thời, phương thức lưu trữ này cho phép người dùng xem camera trực tuyến trong thời gian thực với độ trễ gần như bằng không.
+Bên cạnh đó, với ứng dụng quản trị FPT Camera, người dùng có thể quản lý tập trung từ xa, mọi lúc mọi nơi, phân quyền chi tiết tới từng mắt camera theo nhiệm vụ quản lý.
+Các dòng sản phẩm camera của FPT với độ phân giải tới 3MP cho hình ảnh chân thực sắc nét, góc quan sát tới 107 độ, đảm bảo bao quát hầu hết không gian.
+Với các dòng camera mới, góc quan sát còn có thể linh hoạt từ -10 đến 55 độ theo chiều dọc và từ 0 đến 355 độ theo chiều ngang, giúp hạn chế góc khuất.
+Dòng camera ngoài trời mới nhất có đèn rọi Floodlight và còi hú nhằm tăng cường bảo vệ an ninh cho gia đình, doanh nghiệp.
+Sở hữu chuẩn kháng nước, bụi IP67, FPT Camera có thể chịu được thời tiết khắc nghiệt như nắng, mưa hay gió bão.
+Sản phẩm còn có tính năng phát hiện có người (Human Detection) giúp phân biệt chuyển động giữa con người và vật thể như xe cộ, chó mèo, lá cây...
+thông báo đúng mục đích quan sát, tránh cảnh báo sai.
+Ngoài ra, FPT Camera cung cấp các dịch vụ AI, phục vụ nhu cầu giám sát nâng cao cho hộ gia đình và doanh nghiệp, như nhận diện khuôn mặt, đếm lưu lượng người, cảnh báo xâm nhập trái phép...
+Năm 2024, FPT Camera được Công ty Nghiên cứu Thị trường Q&Me công nhận là "Top 1 nhãn hiệu Cloud Camera được tin dùng tại Việt Nam".

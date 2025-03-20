@@ -1,0 +1,15 @@
+Trên diễn đàn Reddit và cộng đồng Samsung Community, nhiều người phàn nàn về tình trạng sạc chậm của Galaxy S25+ và S25 Ultra dù bộ sạc vẫn hoạt động tốt trên các máy Samsung trước đó.
+Tình trạng này không chỉ diễn ra trên bộ sạc của bên thứ ba mà còn xuất hiện đối với cả người mua bộ sạc 45W và cáp chính hãng.
+Tài khoảnAntharachia sẻ trên diễn đàn Samsung Community: "Tôi gặp vấn đề với S25 Plus.
+Hai chu kỳ sạc đầu tiên hoạt động tốt.
+Sự cố bắt đầu từ chu kỳ thứ ba.
+Với cáp 5A đi kèm bộ sạc 45 W, điện thoại liên tục chuyển trạng thái sạc - không sạc".
+Trong khi đó, tài khoảnDennytd8cho biết: "Tôi mới lấy điện thoại khỏi hộp, nó sạc được 45%, nhưng không sạc nhanh.
+Tôi đang sử dụng cáp đi theo máy và bộ sạc nhanh chính hãng".
+Trên Reddit, tài khoảnBranguslercũng nói không nghĩ lỗi này sẽ xuất hiện trên một smartphone đầu bảng.
+Theo một số người dùng, để giải quyết tình trạng trên, họ phải tắt tính năng sạc nhanh trong phần cài đặt để duy trì việc sạc ổn định dù tốc độ chậm hơn.
+Tài khoản X của Samsung tại Italy xác nhận lỗi này khi trả lời một người dùng rằng sự cố sẽ được khắc phục trong bản cập nhập phần mềm sắp tới, đồng thời khuyên người dùng trong lúc chờ đợi nên sử dụng cáp của Galaxy S25 với công suất 3A thay vì 5A hỗ trợ 45 W.
+Vấn đề không ảnh hưởng đến bản tiêu chuẩn Galaxy S25 do chỉ hỗ trợ công suất 25 W.
+TheoPhoneArena, việc xuất hiện lỗi trên smartphone mới ra mắt là điều bình thường.
+Tuy nhiên, lỗi của Galaxy S25+ và S25 Ultra được đánh giá "khá lạ" vì Samsung đã sử dụng chuẩn sạc này trên máy suốt 5 năm, từ thế hệ Galaxy S20 trở đi.
+Ngoài sự cố sạc nhanh, dòng Galaxy S25 cũng gặp một số lỗi rải rác như vấn đề quá nhiệt.

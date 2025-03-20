@@ -1,0 +1,15 @@
+Tuần trước, khiDeepSeeknổi lên như một đối thủ đáng gờm của ChatGPT nhờ khả năng suy luận mạnh mẽ trong khi chi phí đào tạo "siêu rẻ", OpenAI lên tiếng rằng có công ty Trung Quốc "đang tích cực tìm cách sao chép mô hình AI tiên tiến" của mình, nhưng không kết luận DeepSeek có vi phạm các điều khoản dịch vụ hay không.
+Khi được hỏi về động thái của OpenAI với đối thủ từ Trung Quốc tại một sự kiện ở Nhật Bản ngày 3/2, Altmannói: "Chúng tôi không có kế hoạch kiện DeepSeek bây giờ.
+Chúng tôi sẽ tiếp tục xây dựng sản phẩm tuyệt vời và dẫn đầu thế giới".
+"DeepSeek chắc chắn là một mô hình ấn tượng, nhưng chúng tôi tin sẽ tiếp tục thúc đẩy ranh giới và cung cấp sản phẩm tuyệt vời.
+Vì vậy chúng tôi rất vui khi có thêm một đối thủ cạnh tranh", ông nói thêm.
+"Chúng tôi đã có nhiều đối thủ trước đây, và việc tiến lên và tiếp tục dẫn đầu là vì lợi ích của mọi người".
+Trước đó, OpenAIcáo buộc các đối thủ sử dụng một quy trình "chưng cất", trong đó các nhà phát triển đi sau sẽ sử dụng mô hình có sẵn để đánh giá câu trả lời của mô hình mới, đồng thời đào tạo, chuyển giao các bài học cho mô hình mới.
+Khi đó, họ tận dụng được kết quả từ mô hình cũ, giảm thiểu thời gian và chi phí đầu tư, trong khi kết quả mang lại gần giống.
+Cách thức này giống như cách học sinh học hỏi từ giáo viên.
+Tuy nhiên, điều khoản của OpenAI nêu người dùng không được "sao chép" dịch vụ hoặc "sử dụng đầu ra để phát triển mô hình cạnh tranh với OpenAI".
+"Có vẻ DeepSeek đã chiếm dụng trái phép công nghệ AI của Mỹ.
+Tôi không tin DeepSeek thực hiện một cách minh bạch.
+Điều đó thật vô lý", Howard Lutnick, người được ông Trump đề cử làm Bộ trưởng Thương mại, nói và khẳng định sẽ thực thi các quy định hạn chế để giữ vị thế dẫn đầu về AI, cuối tháng 1.
+Tuy nhiên, nhiều ý kiến cho rằng "chưng cất" là hoạt động tất yếu trong phát triển AI, thậm chí có thể xuất hiện trong nhiều lĩnh vực khác và khó ngăn chặn.
+Ngoài ra, OpenAI hai năm qua cũng liên tục phải đối mặt với cáo buộc vi phạm quyền sở hữu trí tuệ, liên quan đến việc sử dụng tài liệu có bản quyền để đào tạo mô hìnhAI tạo sinhcủa mình.

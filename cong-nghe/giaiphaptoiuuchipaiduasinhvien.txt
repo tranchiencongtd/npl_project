@@ -1,0 +1,22 @@
+Ngày 28/2, Đại học Quốc gia Hà Nội cho biết nhóm sinh viên SISLAB Junior đã tiến vào vòng chung kết của LSI Design Contest - cuộc thi thiết vi mạch có lịch sử hàng đầu thế giới với 28 lần tổ chức, thu hút hơn 100 đội thi mỗi năm.
+Nhóm gồm Nguyễn Tùng Bách, Hồ Thiên Duy là sinh viên năm thứ tư Trường đại học Công nghệ - Đại học Quốc gia Hà Nội và Trần Tuấn Phong từ Trường đại học Phenikaa, với sự hướng dẫn của TS Bùi Duy Hiếu, trưởng phòng thí nghiệm AIoT và GS Trần Xuân Tú, Viện trưởng Công nghệ Thông tin.
+Chủ đề cuộc thi năm nay tập trung vào thiết kế và thực thi phần cứng Bộ tự mã hóa biến phân (Variational Autoencoder - VAE), mô hình mạng nơ-ron sâu được sử dụng để học biểu diễn theo cách có thể sinh dữ liệu mới tương tự dữ liệu huấn luyện.
+Theo đó, các đội tham gia phải đề xuất và thực thi thiết kế của mình trên phần cứng giới hạn, trình diễn kết quả ứng dụng cho bài toán xử lý ảnh.
+Thời gian từ lúc nhận đề đến khi gửi kết quả là ba tháng.
+Trước đề bài này, đại diện SISLAB Junior chọn thiết kế và triển khai VAE phát hiện bất thường trên bề mặt một sản phẩm, bài toán cụ thể là bề mặt một hạt dẻ.
+Phần cứng được sử dụng là kit FPGA Pynq-Z2 phổ thông.
+Với yêu cầu đưa mô hình AI lên một phần cứng không quá mạnh, nhiệm vụ được đưa ra là cần tối ưu hóa hiệu suất và sử dụng tài nguyên.
+Để làm điều này, nhóm chọn phương án đồng thiết kế phần cứng - phần mềm.
+"Do thời gian gấp, chúng tôi sử dụng giải pháp tổng hợp phần cứng mức cao (High-Level Synthesis) tăng tốc quá trình phát triển, cho phép ánh xạ hiệu quả các phép tính học sâu phức tạp lên phần cứng FPGA", đại diện nhóm cho biết.
+Theo GS Trần Xuân Tú, một trong những quyết định đột phá được nhóm sinh viên đưa ra là giảm lượng tham số của mô hình AI với kích thước nhỏ 10 lần bản gốc.
+Bù lại, họ thực thi tính toán theo dấu phẩy tĩnh (fixed-point computation) để tăng tốc độ, hiệu năng xử lý của hệ thống.
+Ngoài ra, nhóm cũng nghiên cứu tích hợp mô hình trí tuệ nhân tạo như ResNet để xây dựng hệ thống phát hiện bất thường mạnh hơn.
+Mục tiêu là đạt được khả năng xử lý thời gian thực trên các nền tảng công nghệ FPGA chi phí thấp, giúp mở rộng khả năng ứng dụng của AI trong phát hiện bất thường hiệu quả và dễ tiếp cận hơn.
+"Giải pháp được đưa lên chipAIsẽ giúp tiết kiệm năng lượng từ hàng trăm đến hàng nghìn lần", đại diện nhóm cho biết.
+"Với sản phẩm này, chip AI có thể được huấn luyện để đưa vào thực tế, như sử dụng trong ứng dụng xử lý ảnh, nhận biết bất thường trong hình ảnh sản phẩm, hoa quả".
+Theo GS Tú, việc vào đến vòng chung kết cuộc thi thiết kế vi mạch uy tín cho thấy sinh viên Việt hoàn toàn có khả năng cạnh tranh với các nước trong lĩnh vực thiết kế chip.
+"Với thời gian thực hiện ba tháng, nhóm phải phân chia công việc, triển khai nghiên cứu lý thuyết và thực nghiệm ngày đêm để kịp hoàn thành dự án, gửi báo cáo tới ban tổ chức", ông nói.
+SISLAB Junior cùng 10 đội khác sẽ có mặt trong vòng chung kết, trình bày báo cáo tại hội nghị tổ chức tại Okinawa, Nhật Bản ngày 7/3 trước những chuyên gia hàng đầu thế giới, đồng thời mở ra khả năng thương mại hóa sản phẩm.
+VAE là mô hình được giới thiệu năm 2013 và trở thành một phương pháp quan trọng trong lĩnh vực học sâu và trí tuệ nhân tạo.
+Không giống Autoencoder (AE) truyền thống, VAE không chỉ học cách nén và giải nén dữ liệu mà còn có thể tạo ra một phân phối xác suất trên không gian tiềm ẩn, giúp mô hình sinh dữ liệu mới.
+VAE có nhiều ứng dụng thực tế như xử lý và tạo ảnh, gồm tạo ảnh khuôn mặt, cải thiện chất lượng ảnh và giảm nhiễu; phân tích dữ liệu y sinh dùng để mô hình hóa dữ liệu y khoa, như phân tích tế bào ung thư; nén dữ liệu trong khi vẫn giữ được thông tin quan trọng; tạo nội dung mới như văn bản, nhạc hoặc hình ảnh trong hệ thống AI tạo sinh.

@@ -1,0 +1,20 @@
+Công ty Khoa học và Công nghệ Wanyuan Bắc Kinh, công ty con của Tập đoàn Hàng không Vũ trụ Trung Quốc, phát triển công nghệ truyền tin không dây mới mang tên "Aerospace NearLink", hứa hẹn làm thay đổi hoạt động thám hiểm không gian, Interesting Engineeringhôm 17/1 đưa tin.
+Công nghệ mới được giới thiệu là "giao thức truyền tin không dây mạnh nhất thế giới".
+Nó hướng đến thay thế Bluetooth bằng một hệ thống truyền tin nhanh hơn, đáng tin cậy hơn cho tên lửa, mang lại các lợi ích chính như độ trễ thấp, tốc độ cao, khả năng chống nhiễu mạnh.
+Hệ thống truyền tin đóng vai trò sống còn giữa tên lửa và trung tâm điều khiển mặt đất, giúp kiểm soát theo thời gian thực, giám sát đường bay của tên lửa và truyền lệnh điều khiển.
+Công nghệ mới giúp các nhiệm vụ không gian trở nên tiết kiệm hơn bằng cách giảm trọng lượng tên lửa và chi phí liên quan đến nhiên liệu, chế tạo.
+Hệ thống truyền tin hiện tại của tên lửa sử dụng cáp vật lý có thể nặng đến 500 kg.
+Wang Hao, trưởng bộ phận nghiên cứu và phát triển tại Công ty Khoa học và Công nghệ Wanyuan Bắc Kinh, cho rằng mạng lưới cáp này có thể nặng bằng 3 robot thám hiểm Mặt Trăng, chiếm chỗ và làm tăng trọng lượng tên lửa.
+Do đó, họ đề xuất thay thế mạng lưới cáp truyền thống trên tên lửa hạng nặng bằng công nghệ mới.
+Công nghệ truyền tin mới được xây dựng trên nền tảng công nghệ Xing Shan hoàn toàn do Trung Quốc tự phát triển, bao gồm cả giao thức truyền tin và các chip.
+Nhóm chuyên gia tại Công ty Khoa học và Công nghệ Wanyuan Bắc Kinh bắt đầu dự án phát triển Aerospace NearLink vào tháng 9/2023.
+Chỉ trong khoảng một năm, họ đã đạt được hai mục tiêu quan trọng.
+Đầu tiên là tăng phạm vi truyền tin, vượt qua giới hạn của công nghệ Xing Shan ban đầu.
+Thứ hai là cải thiện khả năng hoạt động trong nhiều tình huống nhiễu khác nhau.
+Xing Shan có phạm vi truyền tin hạn chế, chỉ khoảng 30 m.
+Tuy nhiên, nhờ tối ưu hóa thiết kế ăng-ten và lựa chọn tần số, nhóm nghiên cứu đã thành công mở rộng phạm vi truyền tin của Aerospace NearLink lên tới 250 m.
+Xing Shan cũng bị mất dữ liệu tới 1, 58% khi tiếp xúc với điều kiện khắc nghiệt ngoài không gian như biến động nhiệt độ, rung động, nhiễu điện từ.
+Tuy nhiên, phiên bản mới của nhóm nghiên cứu đã giảm tỷ lệ mất dữ liệu xuống còn chưa đầy 0, 01%.
+Trung Quốc đang không ngừng phát triển công nghệ không gian.
+Gần đây, nước này có bước nhảy vọt về liên lạc vệ tinh khi đạt tốc độ truyền dữ liệu 100 gigabit mỗi giây bằng công nghệ laser.
+Tốc độ này vượt qua Starlink của Elon Musk, mở ra những khả năng mới cho công nghệ không gian.

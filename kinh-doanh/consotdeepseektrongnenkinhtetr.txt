@@ -1,0 +1,54 @@
+Tại Binyang của Quảng Tây - một vùng quê cách xa các trung tâm công nghệ lớn như Thâm Quyến hay Bắc Kinh, giới chức địa phương đã nhanh chóng bắt kịp xu hướng trí tuệ nhân tạo (AI).
+"Mỗi người phải cài đặt ít nhất hai ứng dụng AI", Bí thư huyện Liang Zhanfan yêu cầu thuộc cấp hôm 19/2.
+DeepSeek và Doubao - ứng dụng AI do ByteDance phát triển - là hai nền tảng được đề nghị ưu tiên.
+"Nếu có thể tiếp cận thêm, cứ thử nghiệm.
+Trong vòng sáu tháng tới, AI sẽ thay đổi mọi thứ", ông nhấn mạnh.
+Trước đó, vào 20/1, công ty khởi nghiệp Trung Quốc DeepSeek công bố mô hình V3 miễn phí và R1 "được đào tạo trên chip kém tiên tiến của Nvidia, mã nguồn mở 100%, rẻ hơn 96, 4% so với OpenAI o1 trong khi mang lại hiệu suất tương tự".
+Thông tin đã gây ra hoảng loạn cho các công ty công nghệ Mỹ và thị trường chứng khoán.
+Thành quả cũng được nhiều ông lớn như Microsoft, OpenAI và Nvidia đánh giá cao dù có nhiều tranh cãi về số tiền thực tế để phát triển dự án.
+Cuối 2022, sự xuất hiện của ChatGPT khiến Trung Quốc thức tỉnh trước khoảng cách công nghệ với Mỹ, theoLe Monde.
+Nhưng giờ đây, DeepSeek đang tạo ra làn sóng lạc quan, chạy đua ứng dụng AI đúng vào thời điểm chính quyền trung ương cần khôi phục niềm tin vào nền kinh tế đang tăng trưởng chậm lại.
+Các công ty lớn tại Trung Quốc lần lượt thông báo tích hợp DeepSeek vào dịch vụ của mình.
+Ngày 17/2, Tencent cho biết sẽ tích hợp DeepSeek vào chức năng tìm kiếm.
+Thông báo ngay lập tức đẩy giá cổ phiếu công ty lên mức cao nhất ba năm.
+Gã 'khổng lồ' tìm kiếm Baidu không đứng ngoài cuộc.
+Họ không chỉ tích hợp DeepSeek mà còn chuyển hướng chiến lược bằng cách mở mã nguồn Ernie, cho phép các nhà phát triển toàn cầu tự do sử dụng và cải thiện.
+Huawei đã tích hợp DeepSeek vào hệ điều hành điện thoại thông minh của mình, còn Great Wall Motors đưa AI này vào các dòng xe thông minh.
+Các ngành công nghiệp lớn cũng bắt đầu ứng dụng DeepSeek.
+Cảng Ninh Ba - cảng container lớn thứ ba thế giới - đang sử dụng nền tảng AI này để điều phối luồng hàng hóa.
+Tương tự, các cảng lớn khác như Quảng Châu và Vũ Hán cũng triển khai.
+Nhiều trường đại học ở Thâm Quyến, Chiết Giang đã mở khóa giới thiệu DeepSeek cho sinh viên ngoài khối công nghệ.
+Ngày 17/2, tại Đại lễ đường Nhân dân ở Bắc Kinh, Chủ tịch Trung Quốc Tập Cận Bình gặp gỡ các lãnh đạo doanh nghiệp hàng đầu.
+Buổi gặp gỡ có sự góp mặt của nhà sáng lập DeepSeek Lương Văn Phong, bên cạnh các doanh nghiệp công nghệ hàng đầu gồm BYD, Huawei, Alibaba, Tencent và Xiaomi.
+Hôm ấy, thông điệp từ Chủ tịch Tập rất rõ ràng: "Đã đến lúc các doanh nghiệp và doanh nhân tư nhân thể hiện tài năng của mình".
+Sự ủng hộ của chính phủ đang thúc đẩy phong trào phổ cập AI từ trung ương xuống địa phương.
+Ở Trịnh Châu, các lãnh đạo được chỉ đạo "nghiên cứu sâu" cách AI hỗ trợ giải quyết các thách thức hành chính công.
+Theo thống kê củaReuters, ít nhất 13 chính quyền thành phố tại Trung Quốc và 10 công ty năng lượng nhà nước đã triển khai DeepSeek vào hệ thống.
+Theo Alfred Wu, chuyên gia tại Trường Chính sách Công Lý Quang Diệu (Singapore), Chủ tịch Trung Quốc Tập Cận Bình và Thủ tướng Lý Cường đã ra hiệu rằng họ ủng hộ DeepSeek.
+"Giờ mọi người đều ủng hộ nó", ông đánh giá.
+DeepSeek cũng giúp hâm nóng thị trường đầu tư mạo hiểmnguội lạnh thời gian gần đây.
+Các công ty khởi nghiệp nhanh chóng tận dụng cơn sốt AI do DeepSeek tạo ra, cùng với tín hiệu ủng hộ của Chủ tịch Tập Cận Bình đối với khu vực tư nhân để gọi vốn.
+Rid Vision - startup về quang học ứng dụng AI; AI CARE Medical - công ty giao diện não - máy tính và Shanghai Qingbao Engine Robotics - nhà sản xuất robot, là những ví dụ mới nhất.
+"Nhiều người đang gõ cửa các công ty AI này, một nửa để thảo luận hợp tác kinh doanh, nửa còn lại bàn về đầu tư", Andrew Qian, CEO của New Access Capital, cho biết.
+New Access Capital gần đây đã đầu tư vào một startup sản xuất chip, một công ty chế tạo ăng-ten sóng millimet và đang có kế hoạch rót vốn vào một doanh nghiệp tập trung vào công nghệ thu hồi tên lửa, được kỳ vọng là "DeepSeek tiếp theo" trong các lĩnh vực này, theo Qian.
+Làn sóng thuyết trình kêu gọi đầu tư (roadshow) và công bố các thương vụ từ những doanh nghiệp liên quan đến AI diễn ra tất bật.
+Nền tảng tạo hình ảnh bằng AI có tên LibLib AI đầu tuần này thông báo huy động được vài trăm triệu nhân dân tệ trong một vòng gọi vốn với tốc độ kỷ lục.
+Hay như startup y tế ứng dụng AI - SenseCare - tuần trước cho biết huy động được 100 triệu nhân dân tệ.
+Các nhà sản xuất chip như Aspiring và Hyseim cũng vừa công bố hoàn tất vòng gọi vốn mới.
+"Kể từ khi DeepSeek ra mắt mô hình AI đột phá, tâm lý đã cải thiện đáng kể", Huo Zhongyan, Nhà sáng lập Bonanza Capital, đơn vị đã đầu tư vào một startup thiết kế và tiếp thị thời trang bằng AI, cho biết.
+TheoLe Monde, dù Mỹ vẫn dẫn đầu về thiết kế chip bán dẫn và phát triển AI, Trung Quốc tin rằng cuộc đua phổ cập AI vẫn còn cơ hội.
+Lợi thế lớn nhất của họ nằm ở quy mô dân số khổng lồ với mức độ ứng dụng công nghệ số sâu rộng trong đời sống hàng ngày.
+Nền kinh tế lớn thứ hai thế giới còn có mạng lưới sản xuất công nghiệp quy mô lớn, giúp cải thiện và triển khai AI nhanh chóng.
+Khác với các tập đoàn công nghệ truyền thống, DeepSeek vận hành như phòng thí nghiệm nghiên cứu, ưu tiên phát triển kiến trúc AI tiết kiệm chi phí.
+Thành công này phần lớn nhờ vào khoản đầu tư hàng tỷ nhân dân tệ vào nghiên cứu và cụm siêu máy tính từ quỹ High-Flyer của nhà sáng lập Lương Văn Phong.
+DeepSeek đang đẩy nhanh tiến độ phiên bản kế nhiệm R2, hứa hẹn nâng cao khả năng lập trình và tư duy đa ngôn ngữ.
+Họ dự kiến phát hành R2 đầu tháng 5, nhưng muốn tung ra sớm nhất có thể.
+"Việc ra mắt mô hình R2 có thể trở thành cột mốc quan trọng trong ngành công nghiệp AI", Vijayasimha Alilughatta, Giám đốc vận hành của nhà cung cấp dịch vụ công nghệ Zensar (Ấn Độ), nhận định.
+Theo ông, thành công trong việc phát triển các mô hình AI giá rẻ có thể thúc đẩy các doanh nghiệp toàn cầu tăng tốc nỗ lực đổi mới, đánh vỡ thế độc tôn của một vài tên tuổi lớn trong lĩnh vực này.
+Reutersđánh giá R2 sẽ khiến Mỹ - nơi đã xác định vị thế dẫn đầu về AI là ưu tiên quốc gia - lo lắng.
+Mặt khác, việc các cơ quan hành chính và nhiều doanh nghiệp nước này bắt đầu tích hợp các mô hình AI của DeepSeek cũng có thể dẫn đến phản ứng từ phương Tây.
+"Nếu DeepSeek trở thành mô hình AI được sử dụng trên khắp các thực thể nhà nước Trung Quốc, các cơ quan quản lý phương Tây có thể coi đây là một lý do khác để tăng cường các hạn chế với chip AI hoặc hợp tác phần mềm", Stephen Wu, Nhà sáng lập quỹ đầu cơ Carthage Capital, đánh giá.
+Ngoài ra, một số chính phủ như Hàn Quốc, Italy đã ra lệnh cấm DeepSeek trên các chợ ứng dụng với lý do lo ngại về quyền riêng tư.
+Le Mondelưu ý DeepSeek lan tỏa những tín hiệu lạc quan nhưng những khó khăn về kinh tế vẫn hiện hữu.
+Nhiều người Trung Quốc còn hoài nghi khi chứng kiến giá trị tài sản suy giảm do khủng hoảng bất động sản và nỗi lo thất nghiệp gia tăng.
+Trong khi Bắc Kinh đang kỳ vọng làn sóng AI sẽ thổi bùng niềm tin mới vào nền kinh tế, giới quan sát vẫn chờ đợi các giải pháp cụ thể hơn tại kỳ họp Đại hội Đại biểu Nhân dân Toàn quốc - sự kiện chính trị quan trọng nhất trong năm của nền kinh tế lớn thứ hai thế giới - khai mạc ngày 5/3.

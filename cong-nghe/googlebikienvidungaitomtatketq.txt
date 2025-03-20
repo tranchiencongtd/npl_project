@@ -1,0 +1,16 @@
+Trong đơn kiện nộp lên tòa án liên bang Mỹ hôm 24/2, Chegg phản đối tính năng tóm tắt kết quả tìm kiếm do AI tạo ra trên Google (AI Overviews).
+Công ty cũng cho rằng bộ sưu tập 135 triệu câu hỏi và trả lời của họ về nhiều chủ đề khác nhau đã bị Google sử dụng trong quá trình đào tạo mô hình AI, từ đó tạo ra nội dung cạnh tranh với thông tin được cung cấp bởi các nhà xuất bản trong kết quả tìm kiếm.
+Trong đơn, Chegg gửi kèm ảnh chụp màn hình một bản AI Overview chứa thông tin từ trang web của họ nhưng không ghi nguồn, trong khi trang có nội dung liên quan của Chegg xuất hiện ở vị trí thấp hơn trong kết quả tìm kiếm.
+Công ty cũng trích dẫn phán quyết của một thẩm phán liên bang Mỹ vào tháng 8/2024, trong đó khẳng định Google đang giữ vị trí độc quyền về tìm kiếm trực tuyến.
+Quyết định này được đưa ra sau khi Bộ Tư pháp Mỹ khởi kiện hồi năm 2020, cáo buộc Google kiểm soát thị trường tìm kiếm.
+Động thái của Chegg diễn ra gần hai năm sau khi cựu CEO Dan Rosensweig cho biết tình trạng sinh viên sử dụng ChatGPT đã làm giảm tốc độ tăng trưởng khách hàng mới của công ty.
+Chegg hiện có giá trị 200 triệu USD.
+Công ty công nghệ giáo dục này ghi nhận khoản lỗ ròng 6, 1 triệu USD so với doanh thu 143, 5 triệu USD trong quý IV/2024, giảm 24% so với cùng kỳ năm trước.
+Ban lãnh đạo dự báo doanh thu quý I/2025 sẽ dao động ở mức 114-116 triệu USD, trong khi các nhà phân tích đặt mục tiêu 138, 1 triệu USD.
+Công ty cho biết có 3, 6 triệu sinh viên đăng ký dịch vụ trong quý IV/2024, giảm 21%.
+Các gói đăng ký gồm quyền truy cập vào trợ lý học tập được hỗ trợ bởi AI, cũng như dịch vụ cho thuê và bán sách giáo khoa.
+Công ty đã làm việc với Goldman Sachs để xem xét các lựa chọn chiến lược, bao gồm bán lại hoặc trở thành công ty tư nhân.
+CEO Chegg Nathan Schultz cho hay Google buộc các website phải "cung cấp nội dung độc quyền để được xuất hiện trong kết quả tìm kiếm", nhưng Google đang sử dụng vị thế độc quyền để "hưởng lợi tài chính từ nội dung của Chegg mà không phải chi trả một xu nào".
+AI Overviews, bản tóm tắt ở đầu trang kết quả tìm kiếm của Google được tạo ra bởi AI, đã hoạt động từ năm ngoái tại hơn 100 quốc gia với hơn một tỷ người dùng.
+Người phát ngôn của Google tuyên bố sẽ chống lại các cáo buộc của Chegg.
+"Mỗi ngày, Google điều hướng hàng tỷ lượt nhấp chuột đến các trang web trên Internet, tính năng AI Overviews giúp phân luồng lưu lượng truy cập đến nhiều trang web hơn", người này cho hay.

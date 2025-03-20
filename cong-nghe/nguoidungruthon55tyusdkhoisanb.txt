@@ -1,0 +1,26 @@
+Theo dữ liệu củaDeFiLlama, tổng tài sản được theo dõi trên các ví liên quan đến sàn giao dịchBybitgiảm mạnh từ16, 9 tỷ xuống 11, 2 tỷ USD sáng 23/2.
+Việc người dùng rút tiền hàng loạt xảy ra ngay sau khi Bybit bị nhóm hacker, được cho là Lazarus, tấn công và rút sạch ví lạnh ETH của sàn.
+Trong phiên livestream hôm qua trên X Spaces, CEO Bybit Ben Zhou cho biết đã kêu gọi "tất cả mọi người vào cuộc" để phục vụ khách hàng xử lý lệnh rút tiền và trả lời các câu hỏi về những gì đang diễn ra, theoCoindesk.
+Zhou tiết lộ tin tặc lấy đi khoảng 70% số ETH của khách hàng, đồng nghĩa Bybit cần nhanh chóng đảm bảo khoản vay để có thể xử lý việc rút tiền.
+Tuy nhiên, ông hôm nay phát hiện ETH không phải là token bị rút nhiều nhất, thay vào đó, hầu hết người dùng rút stablecoin khỏi sàn.
+Người đứng đầu Bybit cho biết sàn có đủ dự trữ để chi trả cho những lần rút tiền này, nhưng cuộc khủng hoảng trở nên nghiêm trọng hơn khi Safe buộc đóng tạm thời các chức năng ví thông minh trên Bybit để "đảm bảo sự tin tưởng tuyệt đối vào tính bảo mật của nền tảng".
+Safe là giao thức lưu ký phi tập trung cung cấp ví hợp đồng thông minh để quản lý tài sản kỹ thuật số.
+Một số sàn giao dịch tích hợp Safe như Bybit cho phép người dùng duy trì quyền lưu ký tiền của họ và có chức năng đa chữ ký để tăng cường bảo mật cho ví lạnh.
+Theo Zhou, 3 tỷ USD dưới dạng USDT của sàn để hỗ trợ việc rút tiền của người dùng lại nằm trong ví Safe bị đóng.
+Đại diện Safe cho biết "không tìm thấy bằng chứng cho thấy giao thức bảo mật của Safe bị xâm phạm" nhưng họ vẫn tạm đóng "một số chức năng" để phòng ngừa.
+Để ứng phó tình hình, Zhou yêu cầu nhóm của mình phối hợp với Safe nhằm "tìm cách tốt hơn để rút số tiền này ra".
+Cuối cùng, nhóm đã phát triển phần mềm mới với mã "dựa trên Etherscan" để xác minh chữ ký "ở mức rất thủ công" nhằm chuyển stablecoin trở lại ví và xử lý đợt rút đột biến trên sàn.
+Đội ngũ của Bybit nói phải thức trắng đêm để thực hiện và đối mặt với tình trạng rút tiền ồ ạt "khoảng 50%" tổng số tiền của sàn giao dịch.
+Sau sự cố, Bybit đã chuyển số tiền đáng kể ra khỏi ví lạnh Safe và đang lựa chọn hệ thống để thay thế Safe.
+Ben Zhou nói vụ hack đã được các cơ quan chức năng tiếp nhận và cho biết chính quyền Singapore đã xử lý vấn đề này "rất nghiêm túc", ông cũng tin sự việc đã được báo cáo lên Interpol.
+"Miễn là Bybit vẫn ở đó và theo đuổi sự việc, tôi hy vọng chúng ta có thể lấy lại được số tiền này", ông nói.
+Các bên liên quan chưa thể xác định nguyên nhân chính xác khiến Bybit bị hack.
+Zhou cho biết máy tính xách tay của đội ngũ nhân viên không bị xâm phạm.
+Các giao dịch được xem xét kỹ nhưng nhiều khả năng chỉ là các hoạt động thường lệ.
+"Chúng tôi biết nguyên nhân chắc chắn do ví lạnh Safe.
+Vấn đề còn lại là do máy tính xách tay của chúng tôi hay ở phía Safe, chúng tôi hiện chưa rõ", Zhou nói thêm.
+Ngày 21/2, Bybit bị hacker lấy đi số ETH trị giá 1, 46 tỷ USD và cũng là vụ tấn công tiền số lớn nhất lịch sử nếu quy đổi ra USD.
+Một số sự cố lớn trước đó là 470 triệu USD trong vụ hack Mt Gox, 530 triệu USD liên quan đến CoinCheck năm 2018 và 650 triệu USD với dự án Ronin Bridge của Sky Mavis năm 2022.
+CNBCdẫn lời công ty phân tích blockchain Elliptic cho rằng vụ hack có liên quan tới nhóm tin tặc khét tiếngLazarus.
+Tuần qua, CEO Ben Zhou gây tranh cãi khitừ chốiniêm yết đồng Pi.
+Rạng sáng 21/2, cùng ngày vụ hack xảy ra, ông cũng đăng cảnh báo ám chỉ dự án Pi Networklừa đảo.

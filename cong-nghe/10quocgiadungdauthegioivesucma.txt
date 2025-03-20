@@ -1,0 +1,44 @@
+Mỹ là nơi đặt 5 trong số 10 siêu máy tính mạnh nhất thế giới, đồng thời sở hữu tổng cộng 173 trong số 500 hệ thống có năng lực xử lý hàng đầu thuộc danh sách TOP500 và tổng năng lực đạt mức 6.477.869 teraflops (nghìn tỷ phép tính dấu phẩy động mỗi giây).
+Trong ảnh là hệ thống El Capitan, đặt tại Phòng thí nghiệm Quốc gia Lawrence Livermore ở bang California.
+Đây là siêu máy tính mạnh nhất thế giới với khả năng đạt 2.740.000 teraflops, tương đương 2, 74 tỷ tỷ phép tính dấu chấm động mỗi giây.
+Mỹ là nơi đặt 5 trong số 10 siêu máy tính mạnh nhất thế giới, đồng thời sở hữu tổng cộng 173 trong số 500 hệ thống có năng lực xử lý hàng đầu thuộc danh sách TOP500 và tổng năng lực đạt mức 6.477.869 teraflops (nghìn tỷ phép tính dấu phẩy động mỗi giây).
+Trong ảnh là hệ thống El Capitan, đặt tại Phòng thí nghiệm Quốc gia Lawrence Livermore ở bang California.
+Đây là siêu máy tính mạnh nhất thế giới với khả năng đạt 2.740.000 teraflops, tương đương 2, 74 tỷ tỷ phép tính dấu chấm động mỗi giây.
+Nhật Bản có 34 siêu máy tính trong bảng xếp hạng TOP500, đạt hiệu suất tối đa 940.710 teraflops.
+Hệ thống Fugaku trong ảnh được đặt tại Trung tâm Điện toán Lượng tử Riken - Kobe, là siêu máy tính mạnh thứ 6 thế giới với năng lực tính toán 442.000 teraflops.
+Nhật Bản có 34 siêu máy tính trong bảng xếp hạng TOP500, đạt hiệu suất tối đa 940.710 teraflops.
+Hệ thống Fugaku trong ảnh được đặt tại Trung tâm Điện toán Lượng tử Riken - Kobe, là siêu máy tính mạnh thứ 6 thế giới với năng lực tính toán 442.000 teraflops.
+Italy có 14 siêu máy tính trong bảng xếp hạng, đạt năng lực tối đa 849.088 teraflops.
+Siêu máy tính Leonardo đứng thứ 9 thế giới với tốc độ 241.200 teraflops.
+Italy có 14 siêu máy tính trong bảng xếp hạng, đạt năng lực tối đa 849.088 teraflops.
+Siêu máy tính Leonardo đứng thứ 9 thế giới với tốc độ 241.200 teraflops.
+Thụy Sĩ có 5 siêu máy tính trong TOP500, đạt tổng sức mạnh tối đa 473.517 teraflops.
+Hệ thống Alps, đặt tại Trung tâm Siêu máy tính Quốc gia - Lugano, là siêu máy tính mạnh thứ 7 thế giới với sức mạnh 434.900 teraflops.
+Thụy Sĩ có 5 siêu máy tính trong TOP500, đạt tổng sức mạnh tối đa 473.517 teraflops.
+Hệ thống Alps, đặt tại Trung tâm Siêu máy tính Quốc gia - Lugano, là siêu máy tính mạnh thứ 7 thế giới với sức mạnh 434.900 teraflops.
+Đức có 40 siêu máy tính nằm trong bảng xếp hạng TOP500, đạt hiệu suất tối đa 399.728 teraflops.
+Đức có 40 siêu máy tính nằm trong bảng xếp hạng TOP500, đạt hiệu suất tối đa 399.728 teraflops.
+Phần Lan có 3 siêu máy tính trong TOP500, đạt sức mạnh tối đa 391.388 teraflops.
+Hệ thống Lumi, đặt tại Trung tâm công nghệ thông tin khoa học Phần Lan, là siêu máy tính mạnh thứ 8 thế giới với năng lực tính toán đạt 379.700 teraflops.
+Phần Lan có 3 siêu máy tính trong TOP500, đạt sức mạnh tối đa 391.388 teraflops.
+Hệ thống Lumi, đặt tại Trung tâm công nghệ thông tin khoa học Phần Lan, là siêu máy tính mạnh thứ 8 thế giới với năng lực tính toán đạt 379.700 teraflops.
+Trung Quốc có 63 siêu máy tính nằm trong bảng xếp hạng TOP500, đạt hiệu suất tối đa 319.062 teraflops.
+Truyền thông cho biết Trung Quốc đã ngừng gửi dữ liệu cho tổ chức xếp hạng Top500 từ năm 2022, do mối quan hệ của ngày càng xấu đi với Mỹ.
+Trong ảnh là hệ thống Thiên Hà 2.
+Trung Quốc có 63 siêu máy tính nằm trong bảng xếp hạng TOP500, đạt hiệu suất tối đa 319.062 teraflops.
+Truyền thông cho biết Trung Quốc đã ngừng gửi dữ liệu cho tổ chức xếp hạng Top500 từ năm 2022, do mối quan hệ của ngày càng xấu đi với Mỹ.
+Trong ảnh là hệ thống Thiên Hà 2.
+Pháp có 24 siêu máy tính nằm trong bảng xếp hạng, đạt hiệu suất tối đa 298.086 teraflops.
+Pháp có 24 siêu máy tính nằm trong bảng xếp hạng, đạt hiệu suất tối đa 298.086 teraflops.
+Tây Ban Nha có 3 siêu máy tính trong TOP500, đạt sức mạnh tối đa 221.873 teraflops.
+Tây Ban Nha có 3 siêu máy tính trong TOP500, đạt sức mạnh tối đa 221.873 teraflops.
+Hàn Quốc có 13 siêu máy tính nằm trong bảng xếp hạng TOP500, với tổng sức mạnh 213.091 teraflops.
+Bảng xếp hạng siêu máy tính Top500 được công bố hai lần mỗi năm, vào cuối tháng 5 hoặc đầu tháng 6 và tháng 11.
+Dự án được thực hiện thường niên từ năm 1993 bởi các chuyên gia tên tuổi như Jack Dongarra của Đại học Tennessee; Knoxville, Erich Strohmaier và Horst Simon của Trung tâm Máy tính khoa học nghiên cứu năng lượng Mỹ; Hans Meuer của Đại học Mannheim...
+Siêu máy tính là hệ thống khổng lồ, có sức mạnh tính toán gấp hàng triệu lần thiết bị thông thường trong việc giải quyết các vấn đề phức tạp của thế giới.
+Chúng được ứng dụng vào nhiều lĩnh vực như mô phỏng các vụ thử tên lửa hạt nhân, dự báo thời tiết, nghiên cứu khí hậu, kiểm tra sức mạnh mã hóa của máy tính.
+Hàn Quốc có 13 siêu máy tính nằm trong bảng xếp hạng TOP500, với tổng sức mạnh 213.091 teraflops.
+Bảng xếp hạng siêu máy tính Top500 được công bố hai lần mỗi năm, vào cuối tháng 5 hoặc đầu tháng 6 và tháng 11.
+Dự án được thực hiện thường niên từ năm 1993 bởi các chuyên gia tên tuổi như Jack Dongarra của Đại học Tennessee; Knoxville, Erich Strohmaier và Horst Simon của Trung tâm Máy tính khoa học nghiên cứu năng lượng Mỹ; Hans Meuer của Đại học Mannheim...
+Siêu máy tính là hệ thống khổng lồ, có sức mạnh tính toán gấp hàng triệu lần thiết bị thông thường trong việc giải quyết các vấn đề phức tạp của thế giới.
+Chúng được ứng dụng vào nhiều lĩnh vực như mô phỏng các vụ thử tên lửa hạt nhân, dự báo thời tiết, nghiên cứu khí hậu, kiểm tra sức mạnh mã hóa của máy tính.

@@ -1,0 +1,20 @@
+Sau khi mô hìnhDeepSeekV3 và R3 gây sốt, cổ phiếu của hàng loạt công ty công nghệ Mỹ đồng loạt lao dốc, trong đó Nvidia giảm 17%, do các lo ngại nhu cầu về GPU sẽ xuống thấp.
+Công ty đứng sau chatbot DeepSeek cho biết họ mất hai tháng để xây dựng với chi phí chưa đến 6 triệu USD, dùng GPU H800 vốn được Nvidia hạ cấp sức mạnh để tuân thủ lệnh cấm của Mỹ, thay vì những mẫu chipAItiên tiến nhất thị trường.
+Tuy nhiên, việc bất ngờ tung ra một sản phẩm với khả năng vượt trội khiến startup AI DeepSeek bị một số chuyên gia hoài nghi.
+Trong cuộc phỏng vấn vớiCNBCtuần trước, Alexandr Wang, CEO củaScale AI, cho biết ông có được thông tin rằng DeepSeek đang sở hữu 50.000 chip Nvidia H100.
+"Tuy nhiên, do các biện pháp kiểm soát xuất khẩu của Mỹ, DeepSeek không thể công khai thông tin này", Wang nói.
+Elon Musk, nhà sáng lập xAI và là người thân cận với Tổng thống Mỹ Donald Trump, tỏ ra đồng tình.
+"Rõ ràng là như vậy", Musk nhận xét khi đăng lại video phỏng vấn Wang.
+Tỷ phú giàu nhất thế giới cũng chia sẻ một nghi ngờ khác liên quan đến chi phí tạo ra DeepSeek từ Gavin Baker.
+Baker, CIO quỹ đầu cơ Atreides Management, khẳng định thông tin tạo ra DeepSeek R1 với 6 triệu USD "không chính xác".
+Dẫn báo cáo kỹ thuật của nhà phát triển Trung Quốc, ông nói con số trên chưa bao gồm chi phí liên quan đến các nghiên cứu trước đó và những thí nghiệm cắt bỏ trên kiến trúc, thuật toán và dữ liệu.
+"Điều này có nghĩa có thể đào tạo mô hình chất lượng R1 với chi phí 6 triệu USD nếu một phòng thí nghiệm đã chi hàng trăm triệu USD cho nghiên cứu trước đó và có quyền truy cập vào các cụm phần cứng lớn hơn nhiều", Baker viết.
+Ngoài ra, ông cũng cho biết một báo cáo trước đây của DeepSeek từng tham chiếu đến một cụm 100.000 chip A100, ám chỉ các công ty Trung Quốc như DeepSeek có thể đang lách luật bằng cách chạy các mô hình AI trên chip tiên tiến ở một nước khác.
+Fortunedẫn lời Ted Mortonson, Giám đốc điều hành và chiến lược gia công nghệ tại Baird, rằng công ty Trung Quốc khó có thể làm điều này vớichip H800bị hạn chế hiệu năng và thị trường đang "phản ứng thái quá" rằng các công ty Mỹ có thể theo đuổi mô hình như vậy nếu họ muốn.
+Dù đứng trước nhiều hoài nghi, DeepSeek vẫn gây hỗn loạn trên thị trường chứng khoán Mỹ, đồng thời khiến các ông lớn về AI như Microsoft, Nvidia, Meta phải lên tiếng.
+Mark Zuckerberg được cho là đã tập hợp các kỹ sư cao cấp của mình để nghiên cứu về mô hình AI mới này.
+DeepSeek là ứng dụng mới nhất trong một loạt ứng dụng của Trung Quốc trở nên phổ biến tại Mỹ những tuần qua.
+Trước đó, nhiều người Mỹ tải ứng dụng RedNote và Lemon8 để thay thế cho TikTok khi nền tảng này bị cấm Mỹ.
+Ngày 20/1, công ty khởi nghiệp Trung Quốc DeepSeek công bố mô hình V3 miễn phí và đặc biệt R1 "được đào tạo trên các chip cũ của Nvidia, mã nguồn mở 100%, rẻ hơn 96, 4% so với OpenAI o1 trong khi vẫn mang lại hiệu suất tương tự".
+Công ty cho biết họ chỉ mất hai tháng và chi phí dưới 6 triệu USD để xây dựng mô hình AI sử dụng chip H800 kém tiên tiến của Nvidia.
+Phiên bản V3 thậm chí vượt ChatGPT trở thành ứng dụng được tải nhiều nhất trên App Store tại Mỹ, đồng thời xóa sổ gần 600 tỷ USD vốn hóa của Nvidia trong ngày 27/1.

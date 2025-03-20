@@ -1,0 +1,25 @@
+Đầu những năm 1960, không nhiều người có thể mua IBM 704 - một trong những máy tính mạnh nhất thời đó - vì chi phí lắp đặt có thể lên tới 2 triệu USD.
+Trong giai đoạn 1955 - 1960, IBM chỉ sản xuất 123 chiếc máy tính này.
+Theo tiêu chuẩn hiện tại, người dùng vẫn không nhận được nhiều sức mạnh tính toán với mức giá đắt đỏ như vậy.
+Nhưng thời đó, nếu muốn một cỗ máy thực hiện các phép toán phức tạp hoặc nhanh chóng, họ có rất ít lựa chọn khác.
+IBM 704 có thể thực hiện 12.000 phép cộng dấu phẩy động mỗi giây.
+Một phòng kế toán cũng không thể theo kịp tốc độ của nó.
+Nhưng phép cộng trừ có vẻ không hấp dẫn lắm.
+Vì vậy, người ta nảy ra ý tưởng thú vị là dạy IBM 704 hát.
+Năm 1961, các nhà khoa học máy tính người Mỹ John Kelly và Carol Lockbaum tại Bell Labs - tổ chức khoa học máy tính nổi tiếng ở New Jersey - bắt đầu triển khai dự án âm nhạc máy tính tiên phong này.
+Nhạc số không phải là một sự phát triển hoàn toàn mới, kể cả vào những năm 1960, nhưng hát lại là thách thức hoàn toàn khác, đòi hỏi những đột phá trong công nghệ tổng hợp giọng nói.
+Thời đó, Bell Labs có nhiều chuyên môn trong lĩnh vực này hơn bất cứ tổ chức nào khác trên thế giới.
+Nhóm Bell Labs cần một bài hát cho dự án và quyết định chọnDaisy Bell, còn gọi làBicycle Built for Two, do nhạc sĩ người Anh Harry Dacre sáng tác năm 1892.
+Lý do họ chọn giai điệu cổ điển kỳ lạ này không được công bố, nhưng có thể vì tên bài hát gợi nhắc đến Bell Labs.
+Lochbaum và Kelly sử dụng IBM 704 để lập trình một phương pháp mới giúp tổng hợp điện tử giọng nói của con người, ngày nay gọi là Đường dẫn âm Kelly-Lochbaum.
+Giọng hát tổng hợp của họ được đặt vào bản nhạc đệm tổng hợp mà Max Mathews, kỹ sư điện kiêm nghệ sĩ violin nghiệp dư, tạo ra.
+Quá trình này không hề dễ thực hiện vào thời điểm đó.
+Công nghệ nghe theo thời gian thực chưa được phát triển, vì vậy, Mathews phải ghi âm một giờ dữ liệu đầu ra, sau đó tăng tốc trên băng để phát lại 17 giây nhạc.
+Matthews đã kết nối chiếc violin của mình với IBM 704 và trở thành nghệ sĩ đầu tiên trong lịch sử chuyển nhạc sống sang máy tính để tổng hợp và phát lại.
+Cuối cùng, phần hátDaisy Bellcủa máy tính kéo dài khoảng 30 giây.
+Những bộ óc xuất sắc tại Bell Labs thường trình diễn bảnDaisy Bellcủa mình cho khách ghé thăm, trong đó có nhà văn nổi tiếng người Anh Arthur C.
+Clarke.
+Năm 2009, phiên bản này được đưa vào Danh sách Ghi âm Quốc gia của Thư viện Quốc hội Mỹ vì là một trong những ví dụ đầu tiên về ghi âm nhạc kỹ thuật số, mở đường cho lĩnh vực sản xuất âm nhạc hiện đại và việc sử dụng rộng rãi các định dạng kỹ thuật số trong phân phối nhạc.
+"Theo tiêu chuẩn ngày nay, bản trình diễnDaisy Bellcủa 704 nghe khá thô sơ.
+Âm thanh tẻ nhạt như tiếng quay số điện thoại, dù sao thì đó chỉ là giọng của robot.
+Dù vậy, bảnDaisy Belldo máy tính IBM thể hiện - cuộc gặp gỡ giữa âm nhạc và máy móc - vẫn là một thành tựu táo bạo và độc đáo, một bước nhảy vọt đến thế giới mới", Cary O'Dell, trợ lý Hội đồng Quản lý Lưu trữ Ghi âm Quốc gia của Thư viện Quốc hội Mỹ, nhận xét.

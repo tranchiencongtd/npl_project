@@ -1,0 +1,23 @@
+Công ty khởi nghiệp Trung Quốc DeepSeek ngày 20/1 công bố miễn phí mô hình V3 và ra mắt mô hình R1 "được đào tạo trên các chip cũ của Nvidia, mã nguồn mở 100%, rẻ hơn 96, 4% so với OpenAI o1 trong khi vẫn mang lại hiệu suất tương tự".
+Phiên bản V3 vượt ChatGPT trở thành ứng dụng được tải nhiều nhất trên App Store, khiến giá trị của Nvidia giảm gần 600 tỷ USD.
+Tuy nhiên, thành công củaDeepSeekcũng khiến nhiều quốc gia bày tỏ lo ngại và áp dụng lệnh cấm ở mức độ khác nhau.
+Bộ Quốc phòng Hàn Quốc ngày 6/2 tuyên bố: "Các biện pháp chặn DeepSeek đã được thực hiện trên máy tính quân sự có kết nối Internet".
+Động thái trên diễn ra sau khi Ủy ban Bảo vệ Thông tin cá nhân Hàn Quốc (PIPC) yêu cầu startup Trung Quốc làm rõ cách họ quản lý thông tin người dùng.
+TheoCNBC, Cơ quan Hàng không và Vũ trụ Mỹ (NASA) ngày 1/2 trở thành cơ quan liên bang mới nhất ra lệnh cấm nhân viên truy cập DeepSeek.
+"Máy chủ của DeepSeek hoạt động bên ngoài nước Mỹ, gây ra những lo ngại về an ninh quốc gia và quyền riêng tư.
+DeepSeek cùng các sản phẩm và dịch vụ từ công ty này không được phép sử dụng với dữ liệu của NASA hoặc trên thiết bị, mạng do chính phủ cấp", thông báo của lãnh đạo NASA gửi đến các nhân viên có đoạn viết.
+Thống đốc Texas Greg Abbott cũng ban hành lệnh cấm DeepSeek trên thiết bị do chính quyền cấp cho công chức.
+Hải quân Mỹ cuối tháng trước gửi cảnh báo qua email, cấm sử dụng DeepSeek dưới mọi hình thức vì "lo ngại tiềm ẩn về an ninh liên quan đến nguồn gốc và cách sử dụng mô hình này".
+Axiosngày 31/1 đưa tin DeepSeek cũng nằm trong diện đánh giá và hiện bị cấm sử dụng trong công việc tại Hạ viện Mỹ.
+Văn phòng Giám đốc Hành chính Hạ viện Mỹ (CAO) cho rằng DeepSeek có thể bị kẻ xấu lợi dụng để phát tán mã độc và lây nhiễm các thiết bị.
+"Nhằm hạn chế những mối nguy hiểm như vậy, Hạ viện Mỹ đã áp dụng những biện pháp an ninh như hạn chế DeepSeek trên toàn bộ thiết bị cấp phát.
+Các nhân viên bị cấm cài đặt ứng dụng trên điện thoại, máy tính và tablet tại văn phòng", theo thông báoAxiosthu thập được.
+Chính phủ Ấn Độ cấm công chức dùng ứng dụng AI như DeepSeek và ChatGPT trên máy tính và thiết bị văn phòng, do chúng được xác định gây ra "những rủi ro về tính bảo mật của chính phủ, dữ liệu và tài liệu".
+Giới chức Australia cấm cài DeepSeek trên tất cả thiết bị chính phủ, theo khuyến nghị từ cơ quan an ninh.
+Quyết định được đưa ra do lo ngại về quyền riêng tư và các mối đe dọa phần mềm độc hại từ mô hình AI của Trung Quốc.
+"Đây hoàn toàn không phải động thái chỉ mang tính biểu tượng", đặc phái viên an ninh mạng Andrew Charlton cho biết.
+"Sau khi xem xét các phân tích, tôi cho rằng sử dụng các sản phẩm, ứng dụng và dịch vụ web của DeepSeek mang đến mức độ rủi ro an ninh không thể chấp nhận được đối với chính phủ Australia", Bộ trưởng Nội vụ Tony Burke tuyên bố.
+Italy là một trong những quốc gia đầu tiên cấm DeepSeek từ 28/1 bằng cách xóa ứng dụng trên App Store và Google Play ở nước này do lo ngại nguy cơ rò rỉ dữ liệu của hàng triệu người dân.
+"Xét thấy nguy cơ cao đối với dữ liệu của hàng triệu người tại Italy, cơ quan chức năng đã yêu cầu công ty cùng các đơn vị trực thuộc xác nhận loại dữ liệu cá nhân nào được thu thập, từ nguồn nào, với mục đích gì và liệu thông tin có được lưu trữ trên các máy chủ đặt tại Trung Quốc hay không", giới chức nước này cho hay.
+Trung Quốc lên án động thái này, nhấn mạnh lập trường phản đối "chính trị hóa vấn đề kinh tế, thương mại và công nghệ".
+"Chính phủ Trung Quốc chưa từng và sẽ không bao giờ yêu cầu các doanh nghiệp hoặc cá nhân thu thập, lưu trữ dữ liệu một cách bất hợp pháp", Bộ Ngoại giao Trung Quốc cho hay.

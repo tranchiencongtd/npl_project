@@ -1,0 +1,33 @@
+Tối hôm 29/1 (sáng 30/1 giờ Hà Nội), một máy bay phản lực chở khách và trực thăng quân sự của Mỹ đâm vào nhau ở độ cao thấp gần sân bay quốc gia Ronald Reagan Washington, và đâm xuống sông Potomac.
+Có tổng cộng 60 người và 4 thành viên phi hành đoàn trên chuyến bay số hiệu AA5342 của hãng American Airlines từ Wichita, Kansas.
+3 binh sĩ ở trên trực thăng đang tiến hành chuyến bay tập huấn định kỳ.
+Nhà chức trách cho biết không có người nào trên cả hai máy bay gặp nạn sống sót.
+Vụ tai nạn diễn ra chỉ hơn một tháng sau vụ rơi máy bay ở Hàn Quốc có thể do va chạm với chim chóc, chỉ có 2 trong số 181 người sống sót.
+Hai vụ tai nạn đều thu hút sự chú ý đối với an toàn hàng không trên thế giới.
+Trong trường hợp thảm kịch hàng không ở Mỹ, công nghệ được thiết kế để giúp phi công tránh va chạm giữa không trung với máy bay khác dường như không phát huy tác dụng vì nhiều nguyên nhân, theoThe Conversation.
+TCAS là hệ thống an toàn theo dõi không phận xung quanh một máy bay dựa vào máy bay khác trang bị bộ tiếp sóng.
+Đây là thiết bị chuyên lắng nghe và phản hồi tín hiệu điện tử truyền tới.
+Đôi khi còn gọi là Hệ thống tránh va chạm trên không (ACAS) hoạt động độc lập với hệ thống kiểm soát không lưu bên ngoài.
+Mục đích của nó là cảnh báo phi công ngay lập tức về máy bay gần đó và khả năng va chạm giữa không trung.
+Từ khi được phát triển năm 1974, công nghệ đã trải qua một số cải tiến.
+Công nghệ thế hệ đầu tiên là TCAS I theo dõi môi trường xung quanh máy bay.
+Nó cung cấp thông tin về phương hướng và độ cao của bất kỳ máy bay nào gần đó.
+Nếu có nguy cơ va chạm, hệ thống phát ra "cảnh báo lưu thông".
+Phi công được thông báo về mối đe dọa, nhưng bản thân họ phải tự xác định cách xử lý tốt nhất.
+Công nghệ thế hệ thứ hai là TCAS II tiến xa hơn.
+Nó cung cấp cho phi công chỉ dẫn cụ thể về cách tránh va chạm với máy bay gần đó hoặc xung đột về lưu thông bằng cách bay thấp xuống, cao lên, đổi hướng hoặc điều chỉnh tốc độ.
+Hệ thống mới hơn này cũng có thể liên lạc với nhau, đảm bảo điều phối thông tin tư vấn đối với mỗi máy bay.
+Bất kỳ máy bay nào sử dụng cho mục đích thương mại phải trang bị TCAS theo quy định quốc tế.
+Công ước Hàng không Dân dụng Quốc tế (Công ước Chicago) cũng bao gồm điều khoản quy định dành cho máy bay phi thương mại.
+Có báo cáo trực thăng quân sự trong tai nạn hôm 29/1 không trang bị hệ thống TCAS.
+Bất kể trực thăng quân sự trong vụ tai nạn có trang bị TCAS hay không, công nghệ vẫn có một số hạn chế.
+Cụ thể, nó hoạt động kém ở độ cao dưới 300 m.
+Độ cao cuối cùng được ghi lại của chuyến bay số hiệu AA5342 là 90 m và của trực thăng quân sự Mỹ va chạm với máy bay chở khách là 60 m.
+TCAS bị hạn chế ở độ cao thấp bởi đây là một phần thiết kế của công nghệ.
+Nguyên nhân chủ yếu là hệ thống dựa vào dữ liệu cao độ kế vô tuyến chuyên đo độ cao và trở nên ít chính xác hơn ở gần mặt đất.
+Điều này có thể dẫn đến những chỉ dẫn tránh va chạm không đáng tin cậy.
+Một vấn đề khác là máy bay ở độ cao thấp như vậy không thể bay thấp hơn để tránh va chạm.
+Sân bay quốc tế Ronald Reagan Washington là một trong những sân bay đông đúc nhất ở Mỹ.
+Máy bay thương mại, quân sự và tư nhân đều dùng chung không phận hạn hẹp này.
+Địa điểm ghi nhận vài tai nạn hụt trong những năm gần đây.
+Ví dụ, vào tháng 4/2024, một phi công máy bay thương mại đang hạ cánh phải tránh trực thăng bay thấp hơn 100 m phía dưới.

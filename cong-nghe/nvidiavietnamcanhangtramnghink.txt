@@ -1,0 +1,23 @@
+"Hiện nay, phản ánh của thị trường cho thấy sự khan hiếm nhân lực AI ở mọi cấp độ và trong nhiều công đoạn", ông Vũ Mạnh Cường, Giám đốc khách hàng doanh nghiệp Nvidia Việt Nam, nhận định tại Hội nghị phát triển khoa học công nghệ, đổi mới sáng tạo ngày 11/2 ở Hà Nội.
+Theo ông Cường, Việt Nam thiếu kỹ sư trong nhiều công đoạn như khoa học dữ liệu, kỹ sư vận hành AI.
+Ngoài ra, khi công nghệ này đi vào các chuyên ngành sẽ cần nhiều hơn các nhà khoa học dữ liệu, khoa học chuyên ngành để có thể ứng dụng AI như trong sinh học, y học, ngân hàng, viễn thông.
+"Việt Nam sẽ cần tới số lượng hàng trăm nghìn kỹ sư hoạt động trong lĩnh vực AI trong vòng ba năm tới", ông nhận định.
+Theo ông Cường, ngoài các chính sách mà Chính phủ đang thực hiện để thu hút nguồn nhân lực chất lượng cao từ khắp nơi trên thế giới, việc phát triển ngay trong nước cần được hỗ trợ.
+Tại hội nghị, Bộ trưởng Thông tin và Truyền thông Nguyễn Mạnh Hùng cho rằng muốn phát triển khoa học công nghệ, đổi mới sáng tạo, chuyển đổi số cần nhân lực chất lượng cao.
+"Muốn nâng cao chất lượng đào tạo, muốn đào tạo nhân lực chất lượng cao cần thu hút nghiên cứu, cần nhà nước, các doanh nghiệp đặt hàng đại học nghiên cứu, cần đại học phải trở thành trung tâm nghiên cứu", ông nói.
+Theo ông, để làm được, đại học cần một "thỏi nam châm" để hút nghiên cứu, đó là các phòng thí nghiệm.
+Tuy nhiên, đây là thách thức cho các doanh nghiệp trong việc đầu tư, đặc biệt doanh nghiệp vừa và nhỏ..
+Bộ trưởng đề xuất cần có một chương trình lớn đầu tư các phòng thí nghiệm trọng điểm cho các trường đại học.
+Hiện nay, mỗi năm, Việt Nam đầu tư cho các phòng thí nghiệm chưa đến 500 tỷ đồng.
+"75.000 tỷ đồng của năm 2025 cho khoa học công nghệ, đổi mới sáng tạo và chuyển đổi số thì nên dành 5.000 tỷ đồng (khoảng 7%) đầu tư các phòng thí nghiệm trọng điểm cho các đại học", ông đề xuất.
+"Làm liên tục việc này trong 5 năm sẽ thay đổi căn bản hạ tầng nghiên cứu của các trường đại học".
+Nvidia cho biết đang cung cấp chương trình học về Deep Learning với giáo trình, công cụ và tài nguyên xử lý đồ họa trên đám mây miễn phí cho các trường đại học sử dụng để đào tạo sinh viên theo các học phần như Machine learning/deep learning (học máy/học sâu), Data Science (khoa học dữ liệu), Largle Language Model (mô hình ngôn ngữ lớn).
+Sau quá trình làm việc cùng trường đại học và doanh nghiệp trong nước, đại diện Nvidia đánh giá chương trình học "có thể phục vụ được tốt cả hai mục tiêu: Đào tạo số lượng lớn và đào tạo chuyên sâu".
+Ông Vũ Mạnh Cường đề xuất để đào tạo số lượng lớn và chất lượng cao, Việt Nam sẽ cần số lượng giảng viên có chất lượng cao và cần áp dụng phương thức cho người đi trước đào tạo người đi sau, cũng như kết hợp giữa phương pháp tự học và giáo viên hướng dẫn.
+Bên cạnh đào tạo đại trà cho sinh viên, việc bổ sung nhân lực có thể thực hiện bằng cách nâng cấp (upscaling), đào tạo lại (reskilling) nhân lực IT đang có cho các đơn vị.
+Ngoài ra, ông cho rằng cần có chương trình hỗ trợ của nhà nước, kết hợp đặt hàng của doanh nghiệp lớn.
+"Cần có kinh phí để có thể đào tạo số lượng lớn", ông nói.
+Nhiều doanh nghiệp nước ngoài cũng đề xuất đầu tư phát triển nhân lực về AI cho Việt Nam.
+Đại diện Google cho biết sẽ tiếp tục cung cấp học bổng, chương trình đào tạo nâng cao kỹ năng AI cho bất cứ cá nhân nào có đủ điều kiện, đồng thời cung cấp miễn phí Google WorkSpace, Classroom cho học sinh, giáo viên tiếp cận AI từ sớm.
+Samsung cũng tài trợ phòng lab và trang bị hơn 700 máy tính cho các trường đại học nhằm cải thiện môi trường đào tạo công nghệ thông tin, hợp tác triển khai các dự án nghiên cứu, các cuộc thi lập trình dành cho sinh viên.
+"Trung tâm R&D Samsung Việt Nam sẽ nỗ lực đào tạo nguồn nhân lực chất lượng cao qua việc mở rộng và chuyên môn hóa chương trình hợp tác với các trường đại học trong hoạt động đào tạo nhân tài", Tổng giám đốc Trung tâm R&D Samsung Việt Nam Suk Ji-won, nói tại hội nghị.

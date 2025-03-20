@@ -1,0 +1,29 @@
+"Những người tiên phong, Open Network đã ra mắt, nghĩa là kết nối ra bên ngoài đã khả dụng cho cộng đồng Pi toàn thế giới", đội ngũ Pi Network, tức Pi Core Teams (PCT) thông báo chiều 20/2 (giờ Hà Nội).
+"Open Network đã mở khóa hệ sinh thái phát triển mạnh mẽ, các ứng dụng sáng tạo và mạng ngang hàng rộng lớn, đưa Pi tích hợp với thế giới blockchain rộng lớn, bất cứ ai cũng có thể truy cập".
+Theo nhóm PCT, khi "mở mạng", người tham gia được phép tận dụng hệ sinh thái và ứng dụng được hỗ trợ bởi tiện ích của Pi để giao tiếp với các mạng cũng như giao dịch với hệ sinh thái bên ngoài Pi.
+Tuy nhiên, nhóm nhấn mạnh "không chịu trách nhiệm" khi người dùng giao dịch bên ngoài.
+Bên cạnh đó, nhóm cho biết đã triển khai Xác thực danh tính doanh nghiệp (KYB) bên cạnh Xác thực danh tính cá nhân (KYC).
+Hiện tại, chỉ có ba doanh nghiệp, cũng là ba sàn tiền số, là OKX, Bitget và Gate.io được Pi Network xác nhận đã xác thực.
+"Chỉ những doanh nghiệp xác minh KYB mới đủ điều kiện tạo ví mainnet Pi, cho phép họ thực hiện giao dịch trong hệ sinh thái Pi.
+Lớp xác minh bổ sung này làm giảm nguy cơ hoạt động trái phép và giúp xây dựng lòng tin giữa những người tiên phong", PCT nêu.
+Tuy nhiên, dù đã mở mạng, đội ngũ Pi Network vẫn chưa công bố hợp đồng thông minh (smart contract).
+Ngoài ra, mã nguồn mở dự án đăng trên GitHub đầu 2023 cũng chưa được cập nhật các tính năng quan trọng.
+Sau khi Open Network, tiền Pi bắt đầu được niêm yết trên một số sàn giao dịch từ 15h với giá 2 USD mỗi đồng, nhưng nhanh chóng sụt mạnh xuống dưới 1 USD, trước khi tăng lên 1, 6 rồi lại về 1, 1 USD.
+Trên mạng xã hội, nhiều người dùng Pi bày tỏ sự thất vọng với giá này.
+"Dù 'kích tia sét' mà vẫn có tiền, giá hiện tại khiến tôi không thực sự vui sau 6 năm chờ đợi", tài khoản Văn Lộc bình luận trên một nhóm Pi Network có gần 100.000 thành viên.
+"Mức này thua xa kỳ vọng của tôi.
+Tôi sẽ bán số Pi đang có và ngừng điểm danh trên ứng dụng".
+Trước đó, nhiều người chơi Pi Network mong đợi giá tiền ảo này sẽ rất cao.
+Họ kêu gọi đặt "giá đồng thuận" cho mỗi Pi từ 500 đến 1.000 USD và yêu cầu "không được phá giá".
+Thậm chí, có cộng đồng hình thành cái gọi là GCV (Global Consensus Value - giá trị đồng thuận toàn cầu) của Pi ở mức 314.159 USD.
+Tuy nhiên, theoOneSafe, những con số kể trên là "không tưởng".
+PCT thông báo tổng cung tối đa là 100 tỷ Pi.
+Trong khi đó, nguồn cung ban đầu được dự tính khoảng 6 tỷ Pi được đưa ra thị trường sau khi mở mạng.
+Còn theoCoinTelegraph, tính đến tháng 1, nguồn cung lưu hành đạt 5, 56 tỷ token.
+"Mức giá hiện tại phần nào phản ánh đúng dự án, nhất là khi hầu hết người chơi đều bị giới hạn phân bổ lần đầu, chỉ khoảng 500-2.000 Pi trong ví, cũng như khóa để tăng tốc độ đào.
+Nhưng theo thời gian, khi Pi tiếp tục được phân bổ, giá của nó sẽ còn giảm mạnh", Thế Anh, quản trị viên một nhóm tham gia "đào" Pi từ năm 2020, đánh giá.
+Anh cũng cảnh báo khả năng "bơm xả" thời gian sắp tới, điều đã xảy ra với đa số dự án cho airdrop (phát coin hoặc token miễn phí cho người dùng trước khi mở mạng).
+Pi Network là dự án ra đời từ năm 2019, được quảng cáo là giúp người dùng sở hữu tiền ảo Pi miễn phí bằng cách vào ứng dụng trên điện thoại điểm danh mỗi ngày.
+Tuy nhiên, dự án gây tranh cãi khi duy trì thời gian dài "mainnet kín".
+Cuối tháng 6/2023, Bộ Công an cho biết đã phối hợp với công an địa phương đểđiều trahoạt động liên quan đến tiền ảo Pi.
+Theo đại diện Bộ, các hoạt động liên quan đến Pi tại Việt Nam có dấu hiệu của việc lôi kéo, tiền người trước trả cho người sau trong mô hình kinh doanh dạng nhị phân, đa cấp, do đó người dân cần thận trọng trước hành vi lôi kéo tham gia mô hình tiền ảo có lợi nhuận cao bất thường.

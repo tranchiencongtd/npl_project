@@ -1,0 +1,11 @@
+"Tìm kiếm bằng ChatGPT hiện được cung cấp cho mọi người, không cần đăng ký hoặc đăng nhập", OpenAI thông báo trên X sáng 6/2 kèm giao diện nền web củaChatGPT.
+Tính năng tìm kiếm được triển khai cuối tháng 10/2024, tích hợp trực tiếp vào ChatGPT, ban đầu chỉ dành cho người dùng gói trả phí.
+Đến tháng 12/2024, công ty mở rộng cho người đăng ký tài khoản.
+Để sử dụng, người dùng truy cậpchatgpt.com, nhấp vào ô tìm kiếm để truy vấn.
+Kết quả trả về dưới dạng ngôn ngữ tự nhiên, kết hợp hình ảnh và liên kết từ các nguồn, được trình bày giống công cụ truyền thống.
+Khác với trò chuyện qua ChatGPT, nội dung tìm kiếm hiển thị theo dữ liệu mới nhất.
+TheoMashable, động thái của OpenAI là "cú tấn công trực diện" vào công cụ tìm kiếm truyền thống như Google, đồng thời sẽ sớm thay đổi thói quen tra cứu trực tuyến của người dùng.
+Cuối năm ngoái, dữ liệu khảo sáttừ công ty phân tích Evercore cho thấy 5% số người được hỏi đã sử dụng ChatGPT để tìm thông tin trên mạng, trong khi hồi tháng 6 chỉ là 1%.
+Thế hệ "Millennials", những người sinh trong giai đoạn 1981-1996, chiếm phần lớn vào sự gia tăng.
+Google vẫn làm chủ thị trường tìm kiếm nhưng tỷ lệ đang giảm dần, hiện ở mức 78% so với 80% hồi tháng 6/2024.
+Microsoft Bing chiếm 4% thị trường.

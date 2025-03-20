@@ -1,0 +1,20 @@
+Năm ngày trước, bà Tâm, 53 tuổi, trú phường Nghi Hương, TP Vinh, nhận được cuộc gọi của một người tự xưng nhân viên điện lực, thông báo gia đình đang nợ tiền điện.
+Người này hối thúc bà Tâm nộp tiền điện gấp thông qua ứng dụng được gửi vào tài khoản Zalo, "nếu không sẽ báo công ty cắt điện".
+Đăng nhập vào liên kết qua Zalo do người lạ gửi, bà Tâm thấy điện thoại hiện ra ứng dụng giống của hệ thống theo dõi số điện và tiền điện của công ty điện lực nên thanh toán theo hướng dẫn.
+Lập tức tài khoản ngân hàng của bà có tin nhắn báo về, đã trừ tiền hai lần, tổng cộng 692 triệu đồng.
+Sau vài phút hốt hoảng, bà Tâm đã tới Phòng An ninh mạng và phòng chống tội phạm sử dụng công nghệ cao (Công an tỉnh Nghệ An) trình báo sự việc.
+Cơ quan điều tra xác định, bà Tâm đã bị lừa sử dụng ứng dụng Epoint, đây là app giả mạo, chứa "mã độc" chiếm quyền điều khiển thiết bị.
+Kẻ gian sử dụng công nghệ làm giả số điện thoại (Caller ID spoofing) để số điện thoại của hắn hiện lên như thuê bao chính thức của công ty điện lực.
+Mã QR thanh toán gửi cho bà Tâm được thiết kế tinh vi giống logo của Tập đoàn Điện lực Việt Nam (EVN).
+Trinh sát liên hệ với ngân hàng phối hợp xử lý.
+May mắn, nhà băng phản hồi do ngày nghỉ, dù tiền bị trừ khỏi tài khoản của bà Tâm song chưa được chuyển đến tài khoản đích.
+Ngân hàng đã hỗ trợ bà Tâm dừng hoàn thành giao dịch chuyển tiền.
+Dù 692 triệu đồng không bị mất, song bà Tâm đối mặt với nỗi lo khác khi sổ tiết kiệm online trong tài khoản ngân hàng vẫn đang bị kẻ gian khống chế bằng "mã độc", tìm cách chiếm đoạt với yêu cầu xác thực bằng nhận diện của chủ tài khoản.
+"Bằng các biện pháp nghiệp vụ, chúng tôi đã làm các thao tác gỡ mã độc khỏi điện thoại, không cho kẻ gian chuyển tiền tiết kiệm.
+Toàn bộ quá trình từ khi bà Tâm đến trình báo tới lúc ngăn chặn được vụ lừa đảo là 30 phút", trinh sát nói.
+Đến sáng hôm sau, tài khoản của bà Tâm đã được ngân hàng hoàn lại 692 triệu đồng.
+Ngày 21/2, bà Tâm viết thư cảm ơn gửi tới Công an tỉnh Nghệ An.
+EVN gần đây ghi nhận tình trạng mạo danh nhân viên tổng công ty, sử dụng số điện thoại di động cá nhân gọi điện và yêu cầu người dân thanh toán tiền điện vào số tài khoản nào đó.
+EVN khuyến cáo khách hàng "không cung cấp thông tin cá nhân, không thanh toán tiền điện vào tài khoản ngân hàng khi chưa được xác minh".
+Khi nhận được các cuộc gọi nghi ngờ lừa đảo, khách hàng không cung cấp thông tin cá nhân; không truy cập vào đường link lạ; không cung cấp số tài khoản ngân hàng, mật khẩu; không thanh toán tiền điện cho người lạ; không thực hiện các yêu cầu chuyển tiền vào các tài khoản cá nhân...
+* Tên nạn nhân đã thay đổi.

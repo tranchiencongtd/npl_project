@@ -1,0 +1,17 @@
+Phát ngôn viên OpenAI chia sẻ vớiReutersrằng số người dùng hàng tuần của công ty đã tăng 100 triệu từ mức 300 triệu vào tháng cuối năm 2024.
+Trong đó, người dùng doanh nghiệp trả phí cũng vượt 2 triệu trong tháng 2, nhân đôi so với tháng 9/2024.
+Lý do là nhiều nhân viên sử dụng ChatGPT cá nhân và sau đó đề xuất công ty triển khai công cụ này.
+Theo Giám đốc vận hành Brad Lightcap của OpenAI, mức tăng trưởng này diễn ra tự nhiên khiChatGPTtrở nên hữu ích và quen thuộc hơn với người dùng toàn cầu.
+"Mọi người nghe về nó qua truyền miệng, thấy được lợi ích và thấy bạn bè sử dụng", ông nói trênCNBC.
+OpenAI hiện đối mặt với sự cạnh tranh của đối thủ mới nổiDeepSeek.
+Công ty Trung Quốc khuấy đảo thị trường từ cuối tháng 1, khiến cổ phiếu nhiều doanh nghiệp Mỹ liên quan tới AI sụt giảm mạnh.
+Trong đó, Nvidia mất 600 tỷ USD giá trị sau khi DeepSeek nổi lên.
+OpenAI nói có dấu hiệu DeepSeek thu thập dữ liệu mô hình của mình không hợp pháp nhưng cho biết không khởi kiện.
+"DeepSeek là bằng chứng cho thấy AI đi vào nhận thức của công chúng ra sao, điều không thể hình dung được cách đây hai năm.
+Đây là lúc cho thấy những mô hình này đang trở nên mạnh mẽ thế nào và mọi người thực sự quan tâm đến mức nào", Lightcap nhận định.
+Ngoài DeepSeek, OpenAIcũng gặp rắc rối về pháp lý vì Elon Musk kiện công ty đi chệch hướng mục đích ban đầu khi chuyển sang hoạt động vì lợi nhuận.
+Ông cùng nhóm nhà đầu tư đã đề nghị mua tài sản phi lợi nhuận của OpenAI với giá 97, 4 tỷ USD nhưng hội đồng quản trị OpenAI từ chối, cho rằng đây không phải một đề nghị thực sự mà chỉ để phá rối.
+"Những con số nói lên tất cả.
+Chúng tôi cố gắng minh bạch về lập trường của mình.
+Musk là một đối thủ cạnh tranh.
+Ông ấy đang cạnh tranh và đó là một cách cạnh tranh không chính thống", Lightcap nhận xét.

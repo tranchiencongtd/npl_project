@@ -1,0 +1,10 @@
+Đây là dự kiến của Sở Giáo dục và Đào tạo về tuyển sinh đầu cấp.
+Dựa trên ba yếu tố trên, các địa phương kết hợp hệ thống bản đồ số để tính toán khoảng cách di chuyển của học sinh.
+Các em được ưu tiên học trường gần nhà, chứ không chia theo phường, xã.
+Với những trường nằm ở ranh giới giữa các quận, huyện, ban tuyển sinh sẽ xây dựng phương án phù hợp, để học sinh được học gần nơi cư trú.
+Với những em có nguyện vọng học ở địa bàn khác nơi cư trú thực tế, các đơn vị cần xây dựng quy định tiếp nhận.
+TP HCM bắt đầu tuyển sinh đầu cấp theo nguyên tắc ưu tiên học trường gần nhà từ năm 2023, thí điểm với ba địa phương.
+Dựa vào nơi cư trú thực tế của học sinh, với sự trợ giúp của hệ thống thông tin địa lý (Geographic Information System - bản đồ GIS), ban chỉ đạo tuyển sinh đầu cấp địa phương sẽ bố trí chỗ học gần nhà nhất cho trẻ, thay vì phân tuyến học sinh ở phường nào phải nhập học ở trường thuộc địa bàn đó.
+Từ năm ngoái, việc này được mở rộng, áp dụng với toàn thành phố.
+Cách làm này được đánh giá tạo nhiều thuận lợi về đi lại, đưa đón cho học sinh, phụ huynh, hạn chế tình trạng "chạy" hộ khẩu, học trái tuyến.
+Hiện, TP HCM có khoảng 1, 7 triệu học sinh, từ mầm non đến phổ thông.

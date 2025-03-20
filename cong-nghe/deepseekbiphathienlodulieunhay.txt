@@ -1,0 +1,10 @@
+Trong bài đăng trên blog, Wiz cho biếtDeepSeekđã để hơn một triệu dòng dữ liệu không có biện pháp bảo mật, bao gồm các khóa phần mềm kỹ thuật số và nhật ký trò chuyện dường như ghi lại các yêu cầu được gửi từ người dùng đến trợ lýAImiễn phí của công ty.
+TheoReuters, Ami Luttwak, Giám đốc công nghệ của Wiz, cho biết DeepSeek đã nhanh chóng có biện pháp bảo mật dữ liệu sau khi công ty của ông cảnh báo họ.
+"Họ đã hạ nó xuống trong vòng chưa đầy một giờ", Luttwak nói nhưng khẳng định những dữ liệu nhạy cảm này dễ tìm đến nỗi ông không chắc họ là người đầu tiên hoặc duy nhất phát hiện ra.
+DeepSeek chưa bình luận về bài đăng của Wiz.
+Mô hình AI mang tính đột phá của Trung QuốcDeepSeekđang làm khuynh đảo thế giới công nghệ những ngày qua, vượt qua các đối thủ nổi tiếng nhưChatGPT, Geminivà Claude AI trong một số bài kiểm tra.
+Công ty được đánh giá cao bởi chi phí nghiên cứu thấp hơn nhiều các ông lớn trong ngành cũng như thời gian phát triển ngắn.
+DeepSeek đượcLiang Wenfengthành lập tháng 5/2023, đặt trụ sở ở Hàng Châu, Chiết Giang, và do quỹ đầu tư High-Flyer sở hữu.
+Công ty được High-Flyer tài trợ và không có kế hoạch huy động vốn, tập trung vào xây dựng công nghệ nền tảng.
+TheoChinaTalk, không giống các công tyAItại Trung Quốc, DeepSeek tuyên bố sứ mệnh "giải mã bí ẩn của siêu trí tuệ nhân tạo AGI bằng sự tò mò".
+Phòng thí nghiệm của công ty hiện tập trung nghiên cứu cải tiến về kiến trúc và thuật toán có khả năng thay đổi cuộc chơi trong lĩnh vực trí tuệ nhân tạo.

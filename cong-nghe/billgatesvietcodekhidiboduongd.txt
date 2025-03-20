@@ -1,0 +1,36 @@
+"Khi 13 tuổi, tôi bắt đầu cùng một nhóm con trai thường xuyên đi bộ đường dài ở vùng núi quanh Seattle", Bill Gatesviết trong hồi kýSource Code: My Beginnings, dự kiến phát hành ngày 4/2, doWSJtrích đoạn.
+"Ban đầu, chúng tôi tham gia nhiều nhóm khác nhau trong đội Hướng đạo sinh, nhưng nhanh chóng tách ra khi nhận thấy chung đam mê thám hiểm.
+Chúng tôi muốn tự do hơn, rủi ro hơn so với những chuyến đi của Hướng đạo sinh".
+Gates cho biết, trong khoảng ba năm, nhóm 5 người đã đi bộ cùng nhau với thời gian có khi liên tục 7 ngày.
+Nhóm dùng bản đồ địa hình bằng giấy, vượt qua các bãi biển đầy đá hay các khu rừng không cần dây thừng, dây leo chuyên dụng.
+Sau mỗi ngày, nhóm chọn một nơi cắm trại, tự chế biến "thức ăn rẻ tiền nhưng gọn nhẹ".
+Món ưa thích của ông vào buổi sáng là Oscar Mayer Smokie Links, một loại xúc xích được quảng cáo "toàn thịt", hiện không còn bán.
+"Vào những năm 1970, thái độ của cha mẹ với con cái thoải mái hơn hiện nay.
+Trẻ em được tự do hơn", người đồng sáng lập Microsoft chia sẻ.
+"Khi đó, bố mẹ tôi đã chấp nhận rằng tôi khác biệt so với nhiều bạn bè cùng trang lứa và nhận ra tôi cần một mức độ độc lập nhất định để tự mình tìm đường đi".
+Thời gian này, Gates cũng quen một nhóm khác gồm bốn người, học tại trường tư thục Lakeside, nơi dạy học sinh kết nối với máy tính qua đường dây điện thoại.
+Nhóm dành thời gian rảnh để học lập trình, với các chương trình ngày càng phức tạp.
+"Về cơ bản, đi bộ đường dài và lập trình có vẻ không liên quan với nhau", ông cho biết.
+"Nhưng mỗi thứ đều giống như một cuộc phiêu lưu.
+Với cả hai nhóm bạn, tôi đã khám phá những thế giới mới.
+Giống như đi bộ, lập trình phù hợp với tôi vì nó cho phép bản thân tự xác định thước đo thành công.
+Nó có vẻ vô hạn, không được xác định bởi tốc độ chạy hay khoảng cách ném vật thể".
+Tháng 6/1971, Gates cùng nhóm bạn thực hiện chuyến đi đến khu Olympic Mountains dài khoảng 80 km với thời tiết xấu, tuyết rơi dày.
+Khi đó, trường Lakeside nhận một máy tính có tên PDP-8 do Digital Equipment sản xuất.
+Trong những năm 1970, hầu hết máy tính có kích thước lớn, còn PDP-8 nhỏ hơn nhiều khi "chỉ" nặng 36 kg và có giá 8.500 USD, đủ để đặt trên bàn làm việc.
+Đây được xem là thiết bị khởi nguồn cho máy tính cá nhân sau này.
+Gates mượn được PDP-8 và quyết định sẽ thử viết một phiên bản ngôn ngữ lập trình Basic cho máy tính mới.
+Trước chuyến đi, ông lên kế hoạch xây dựng phần mềm cho phép máy tính biết thứ tự thực hiện các phép tính khi ai đó nhập một phương trình.
+Do máy tính thời đó rất ít bộ nhớ (với PDP-8 chỉ 6 kilobyte), ông phải tìm cách tối ưu.
+Khi thực hiện chuyến đi, Gates hình dung ra mã lệnh và sau đó cố gắng theo dõi cách máy tính sẽ làm theo lệnh của ông.
+Dù đang đi đường dài với thời tiết khắc nghiệt, ông cho biết tâm trí "đắm chìm trong câu đố được mã hóa".
+"Tôi hầu như không nói một lời nào trong suốt 20 dặm (32 km) chúng tôi đi bộ đường dài ngày đầu tiên", ông cho biết.
+Sau khi thực hiện chuyến đi đầy khó khăn, Gates trở về nhà và việc đầu tiên là thử chạy chương trình do mình tạo ra.
+Dù vậy, ông mô tả đây là "phiên bản cẩu thả" do thực hiện trên đường đi, do đó chương trình chạy chậm hơn và sử dụng nhiều bộ nhớ hơn.
+Những ngày tiếp theo, ông cố gắng "gọt giũa" để chương trình chạy trơn tru và tốn ít bộ nhớ hơn.
+"Đó là đoạn mã hay nhất mà tôi từng viết", Gates chia sẻ.
+Tuy nhiên, chiếc máy tính sau đó được nhà trường lấy lại, còn Gates không thể hoàn thành phần mềm của mình.
+Dù vậy, tỷ phú cho biết "vẻ đẹp của những đoạn code trên đường dài" đã ở lại với ông đến ngày nay.
+Nhìn lại những gì đã qua, Gates cho biết ông cảm thấy may mắn khi sinh ra ở Mỹ, được gia đình cho phép làm mọi thứ, tiếp xúc với khoa học công nghệ sớm, gặp các nhân vật công nghệ hàng đầu.
+"Cha mẹ tôi đã phải vật lộn với cậu con trai phức tạp của mình, nhưng cuối cùng dường như hiểu được cách hướng dẫn cậu bé đó một cách trực quan", ông cho biết.
+"Nếu lớn lên ở hiện tại, có lẽ tôi sẽ được chẩn đoán mắc chứng tự kỷ".

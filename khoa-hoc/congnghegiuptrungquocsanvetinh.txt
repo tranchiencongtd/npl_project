@@ -1,0 +1,19 @@
+Một nhóm nhà khoa học Trung Quốc gần đây mô phỏng hoạt động trong không gian nhắm vào chòm vệ tinh lớn và phát hiện Starlink không khó tấn công như suy đoán trước đây, theoMSN.
+Kết quả từ mô phỏng máy tính cho thấy Trung Quốc có thể tiếp cận hiệu quả gần 1.400 vệ tinh Starlink trong vòng 12 giờ mà chỉ sử dụng 99 vệ tinh trang bị laser, vi sóng và nhiều thiết bị khác để do thám.
+"Giá trị ứng dụng quân sự tiềm năng của siêu chòm vệ tinh Starlink rất nổi bật trong chiến sự Nga - Ukraine.
+Trong những năm gần đây, hoạt động quân sự hóa không gian được tăng cường.
+Việc theo dõi tình trạng hoạt động của cụm vệ tinh đặc biệt quan trọng", nhóm nghiên cứu đứng đầu là Wu Yunhua, trưởng khoa kiểm soát hàng không vũ trụ ở Đại học hàng không và du hành vũ trụ Nam Kinh, cho biết.
+SpaceX, công ty do tỷ phú Mỹ Elon Musk thành lập, đã phóng hơn 6.700 vệ tinh Starlink và dự kiến tăng lên hàng chục nghìn vệ tinh trong những năm tới.
+Theo dõi chòm vệ tinh khổng lồ như vậy với số lượng vệ tinh nhỏ từng được cho là bất khả thi do cần tính toán quỹ đạo phức tạp và khó xử lý trong khoảng thời gian ngắn.
+Wu và đồng nghiệp cũng đối mặt nhiều thách thức quân sự thực tiễn.
+Ví dụ, vệ tinh Trung Quốc cần bay đủ gần để các vệ tinh Starlink nằm trong phạm vi phát hiện hiệu quả trong ít nhất 10 giây, nhưng không được quá gần để tránh gây tai nạn.
+Laser và thiết bị khác tiêu thụ nhiều năng lượng, vì vậy nhà khoa học cũng cần bố trí đủ thời gian quay về phía Mặt Trời để nạp điện cho mỗi vệ tinh Trung Quốc.
+Điều khiển vệ tinh cũng đòi hỏi nhiều khoảng thời gian khác nhau, càng tăng thêm độ khó của tính toán quỹ đạo.
+Bất chấp tất cả thách thức, nhóm của Wu phát triển công nghệ chưa từng có cho phép máy tính ở trung tâm điều khiển trên mặt đất tạo ra kế hoạch toàn diện và đáng tin cậy trong chưa đầy hai phút.
+Phương pháp này lấy cảm hứng từ hành vi săn mồi của cá voi.
+Cá voi thường phối hợp với nhau trên biển rộng để lùa cá nhỏ vào miệng, đồng thời đảm bảo quá trình tiêu tốn thời gian ngắn nhất để bảo tồn năng lượng.
+Wu và đồng nghiệp phát triển thuật toán trí tuệ nhân tạo nhị phân cho phép vệ tinh Trung Quốc bắt chước chính xác cá voi, qua đó săn vệ tinh Starlink.
+Theo Đại học hàng không và du hành vũ trụ, dự án mà Wu chỉ đạo nhận được tổng kinh phí 2, 2 triệu USD từ chính phủ và quân đội Trung Quốc.
+Đại học Công nghệ Cáp Nhĩ Tân cũng tham gia vào nghiên cứu.
+Trung Quốc đang trong quá trình xây dựng chòm vệ tinh lớn tương tự Starlink.
+Nếu bị tấn công, chúng có thể tạo ra lượng lớn rác, đe dọa nhiều hệ thống trong không gian và sự an toàn của trạm vũ trụ.

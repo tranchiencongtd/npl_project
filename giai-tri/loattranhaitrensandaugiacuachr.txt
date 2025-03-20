@@ -1,0 +1,122 @@
+Phiên đấu giá do Christie's tổ chức theo hình thức trực tuyến từ ngày 20/2 đến 5/3, đánh dấu lần đầu hãng mở cuộc chào bán lớn liên quan lĩnh vực AI.
+Tổng cộng có 34 lô gồm tranh, hàng điêu khắc, bản in do nghệ sĩ kết hợp AI tạo tác.
+Một phần tư số hàng là những tác phẩm kỹ thuật số như thể loạiNFT.
+Các sản phẩm dự tính có giá dao động từ 1.000 USD đến 250.000 USD, được kỳ vọng mang lại doanh thu 600.000 USD.
+Tất cả được trưng bày tại khu phức hợp Rockefeller Center, New York.
+Sự kiện vướng nhiều chỉ trích từ giới nghệ thuật, có hơn 5.600 ngườiký thưkêu gọiChristie's hủy phiên đấu từ hôm 8/2 đến nay.
+Họ cho rằng cácsản phẩm này ra đời từ những mô hình AI - được làm từ nhiều tác phẩm có bản quyền mà không xin phép người sáng tạo ra chúng.
+"Việc ủng hộ các mô hình này hoặc cá nhân sử dụng chúng đồng nghĩa tán thưởng, khuyến khích những công ty AI 'đánh cắp hàng loạt tác phẩm của con người'", trích thư kiến nghị.
+Một trong những lô hàng nổi bật là tranh sơn dầu do AI sáng tác trực tiếp tại sự kiện đấu giá.
+Hoạt động diễn ra suốt giờ mở cửa của hãng, khách tham quan có thể chiêm ngưỡng quá trình này.
+Tác phẩm sẽ được đặt tên sau khi phiên đấu kết thúc.
+Trong ảnh là hình mô phỏng bức vẽ hoàn thiện.
+Máy do công ty công nghệ Matr Labs sản xuất, hoạt động theo lập trình của nhà mỹ thuật, chế tạo robot Alexander Reben, 40 tuổi.
+Họ sử dụng kỹ thuật mở rộng ảnh (outpainting) để tổng thể tranh liền mạch về mặt hình ảnh và ý tưởng.
+AI phân tích những mảnh ghép trước để tạo hình vẽ tiếp theo.
+Đầu tiên, máy vẽ trong một hình vuông giữa tranh có diện tích khoảng 6, 25 cm2, sau đó mở rộng theo từng lượt đặt giá mới với 100 USD cho mỗi ô kế tiếp.
+Thiết bị sẽ dừng khi tác phẩm đạt kích thước tối đa 3, 05 x 3, 66 m, tương đương giá ước tính cao nhất là 1, 78 triệu USD.
+Một trong những lô hàng nổi bật là tranh sơn dầu do AI sáng tác trực tiếp tại sự kiện đấu giá.
+Hoạt động diễn ra suốt giờ mở cửa của hãng, khách tham quan có thể chiêm ngưỡng quá trình này.
+Tác phẩm sẽ được đặt tên sau khi phiên đấu kết thúc.
+Trong ảnh là hình mô phỏng bức vẽ hoàn thiện.
+Máy do công ty công nghệ Matr Labs sản xuất, hoạt động theo lập trình của nhà mỹ thuật, chế tạo robot Alexander Reben, 40 tuổi.
+Họ sử dụng kỹ thuật mở rộng ảnh (outpainting) để tổng thể tranh liền mạch về mặt hình ảnh và ý tưởng.
+AI phân tích những mảnh ghép trước để tạo hình vẽ tiếp theo.
+Đầu tiên, máy vẽ trong một hình vuông giữa tranh có diện tích khoảng 6, 25 cm2, sau đó mở rộng theo từng lượt đặt giá mới với 100 USD cho mỗi ô kế tiếp.
+Thiết bị sẽ dừng khi tác phẩm đạt kích thước tối đa 3, 05 x 3, 66 m, tương đương giá ước tính cao nhất là 1, 78 triệu USD.
+Emerging Faces(2017) gồm chín bức tranh được định giá từ 180.000 đến 200.000 USD, do nghệ sĩ kiêm nhà sáng tạo robot - Pindar Van Arman, 51 tuổi - và hai tác nhân AI (AI agent) thực hiện.
+Hệ thống thứ nhất có nhiệm vụ vẽ các gương mặt lên vải canvas, hệ thống còn lại sẽ dừng thao tác khi nhận diện được mặt người.
+Tác phẩmlấy cảm hứng từ những cuộc trò chuyện của Pindar Van Arman và họa sĩ tiên phong trong nghệ thuật AI - Harold Cohen (1928-2016) - về khả năng sáng tạo của trí tuệ nhân tạo.
+Theo Cohen, AI không thể tạo ra hình ảnh do chỉ là bộ lọc ảnh có sẵn không khác chức năng của photoshop.
+Van Arman cố gắng thuyết phục rằng máy móc cũng có thể tưởng tượng giống con người nhờ mô hình GANs (Generative Adversarial Networks).
+Đây là loạimạng neural- kiến trúc của máy tính mô phỏng tế bào thần kinh não người - có thể tạo ra dữ liệu mới như hình ảnh dựa trên nguồn đào tạo có sẵn.
+Cohen qua đời trước khi cuộc thảo luận kết thúc, nhưng các ý kiến của ông truyền động lực cho Van Arman tạo ra loạt tranh "qua đôi mắt của AI".
+Harold Cohen cũng có tác phẩm xuất hiện trong phiên đấu giá, ra đời năm 1987.
+Emerging Faces(2017) gồm chín bức tranh được định giá từ 180.000 đến 200.000 USD, do nghệ sĩ kiêm nhà sáng tạo robot - Pindar Van Arman, 51 tuổi - và hai tác nhân AI (AI agent) thực hiện.
+Hệ thống thứ nhất có nhiệm vụ vẽ các gương mặt lên vải canvas, hệ thống còn lại sẽ dừng thao tác khi nhận diện được mặt người.
+Tác phẩmlấy cảm hứng từ những cuộc trò chuyện của Pindar Van Arman và họa sĩ tiên phong trong nghệ thuật AI - Harold Cohen (1928-2016) - về khả năng sáng tạo của trí tuệ nhân tạo.
+Theo Cohen, AI không thể tạo ra hình ảnh do chỉ là bộ lọc ảnh có sẵn không khác chức năng của photoshop.
+Van Arman cố gắng thuyết phục rằng máy móc cũng có thể tưởng tượng giống con người nhờ mô hình GANs (Generative Adversarial Networks).
+Đây là loạimạng neural- kiến trúc của máy tính mô phỏng tế bào thần kinh não người - có thể tạo ra dữ liệu mới như hình ảnh dựa trên nguồn đào tạo có sẵn.
+Cohen qua đời trước khi cuộc thảo luận kết thúc, nhưng các ý kiến của ông truyền động lực cho Van Arman tạo ra loạt tranh "qua đôi mắt của AI".
+Harold Cohen cũng có tác phẩm xuất hiện trong phiên đấu giá, ra đời năm 1987.
+Machine Hallucination -ISS Dreams(2021) là bức tranh kỹ thuật số do nghệ sĩ truyền thông Mỹ gốc Thổ Nhĩ Kỳ Refik Anadol, 40 tuổi, thực hiện cùng AI.
+Các chuyên gia dự tính tác phẩm có giá từ 150.000 đến 200.000 USD.
+Lô hàng sẽ được bánkèm màn hình và phần cứng.
+Để có thành phẩm, studio của Anadol biến 1, 2 triệu hình ảnh chụp bởi Trạm vũ trụ quốc tế (International Space Station) cùng ảnh vệ tinh Trái đất thành tác phẩm động.
+Tranh thuộc dự ánMachine Hallucination- chương trình nghiên cứu khả năng AI xử lý, tái tạo các tập dữ liệu khổng lồ từ năm 2016.
+Xưởng của Anadol hợp tác nhiều mô hìnhhọc máy(machine learning) để diễn giải, lọc và sắp xếp data về không gian, thiên nhiên và môi trường đô thị.
+Từ đó, AI tạo ra những bức tranh về thế giới "thi vị vượt khỏi nhận thức của con người" - nơi trí tuệ nhân tạo không chỉ tái hiện thực tế mà còn tạo thực tại mới.
+Machine Hallucination -ISS Dreams(2021) là bức tranh kỹ thuật số do nghệ sĩ truyền thông Mỹ gốc Thổ Nhĩ Kỳ Refik Anadol, 40 tuổi, thực hiện cùng AI.
+Các chuyên gia dự tính tác phẩm có giá từ 150.000 đến 200.000 USD.
+Lô hàng sẽ được bánkèm màn hình và phần cứng.
+Để có thành phẩm, studio của Anadol biến 1, 2 triệu hình ảnh chụp bởi Trạm vũ trụ quốc tế (International Space Station) cùng ảnh vệ tinh Trái đất thành tác phẩm động.
+Tranh thuộc dự ánMachine Hallucination- chương trình nghiên cứu khả năng AI xử lý, tái tạo các tập dữ liệu khổng lồ từ năm 2016.
+Xưởng của Anadol hợp tác nhiều mô hìnhhọc máy(machine learning) để diễn giải, lọc và sắp xếp data về không gian, thiên nhiên và môi trường đô thị.
+Từ đó, AI tạo ra những bức tranh về thế giới "thi vị vượt khỏi nhận thức của con người" - nơi trí tuệ nhân tạo không chỉ tái hiện thực tế mà còn tạo thực tại mới.
+Embedding Study 1 & 2 (from the xhairymutantx series)là tranh bảo tàng Whitney (New York) đặt hàng vợ chồng nghệ sĩ Matt Dryhurst, 41 tuổi, và Holly Herndon, 45 tuổi, cho dự án đào tạo AI năm 2024.
+Matt và Holly nổi tiếng trong lĩnh vực nhạc điện tử và nghệ thuật số, thường dùng trí tuệ nhân tạo vào quá trình sáng tác.
+Tại Christie's, các chuyên gia dự tính giá tác phẩm khoảng từ 70.000 đến 90.000 USD.
+Nhân vật trong tranh cũng có tên Holly, đại diện kiểu nhân dạng nữ có làn da trắng, tóc đỏ với mái cắt ngang, mắt xanh giống Holly Herndon ngoài đời.
+AI có thể tạo nhiều phiên bản Holly, khuếch đại một số đặc điểm nổi bật như mái tóc, màu mắt.
+Kết quả sẽ được lưu vào bộ sưu tập của dự án để tiếp tục làm dữ liệu đào tạo.
+Cả hai bức tranh là sản phẩm đầu ra của mô hình này, từng được trưng bày tại Bảo tàng Whitney.
+Tác phẩm đặt câu hỏi về mức độ giới nghệ sĩ có thể kiểm soát ảnh kỹ thuật số (digital representation) của họ trước sự phát triển của AI.
+Embedding Study 1 & 2 (from the xhairymutantx series)là tranh bảo tàng Whitney (New York) đặt hàng vợ chồng nghệ sĩ Matt Dryhurst, 41 tuổi, và Holly Herndon, 45 tuổi, cho dự án đào tạo AI năm 2024.
+Matt và Holly nổi tiếng trong lĩnh vực nhạc điện tử và nghệ thuật số, thường dùng trí tuệ nhân tạo vào quá trình sáng tác.
+Tại Christie's, các chuyên gia dự tính giá tác phẩm khoảng từ 70.000 đến 90.000 USD.
+Nhân vật trong tranh cũng có tên Holly, đại diện kiểu nhân dạng nữ có làn da trắng, tóc đỏ với mái cắt ngang, mắt xanh giống Holly Herndon ngoài đời.
+AI có thể tạo nhiều phiên bản Holly, khuếch đại một số đặc điểm nổi bật như mái tóc, màu mắt.
+Kết quả sẽ được lưu vào bộ sưu tập của dự án để tiếp tục làm dữ liệu đào tạo.
+Cả hai bức tranh là sản phẩm đầu ra của mô hình này, từng được trưng bày tại Bảo tàng Whitney.
+Tác phẩm đặt câu hỏi về mức độ giới nghệ sĩ có thể kiểm soát ảnh kỹ thuật số (digital representation) của họ trước sự phát triển của AI.
+Bspline Mendo nhà tiên phong hội họa máy tính Charles Csuri (1922-2022) sáng tác trên máy tính IBM 7094, máy vẽ đồ họa Cal Comp vào năm 1966.
+Nghệ sĩ dùng hàm số B-spline tạo ra các đường cong theo hình người đàn ông có râu.
+Các chuyên gia dự kiến tranh có thể đạt mức từ 55.000 đến 65.000 USD.
+Theo Christie's, Csuri áp dụng phương pháp giống các nghệ sĩ AI hiện đại.
+Ông nhập loạt hướng dẫn vào máy tính, biến chúng thành "đối tác sáng tạo có tính tương tác".
+Nghệ sĩ xem máy tính như "chương trình tìm kiếm nghệ thuật" - nơi ông có thể chỉnh sửa hàng trăm bản vẽ.
+Ngày nay, AI có thể bắt chước phong cách của các nghệ sĩ, nhưng Csuri quan tâm "tai nạn nghệ thuật" do các yếu tố ngẫu nhiên của AI gây ra.
+Theo ông, chúng có thể mang đến bất ngờ cho tác phẩm.
+Bspline Mendo nhà tiên phong hội họa máy tính Charles Csuri (1922-2022) sáng tác trên máy tính IBM 7094, máy vẽ đồ họa Cal Comp vào năm 1966.
+Nghệ sĩ dùng hàm số B-spline tạo ra các đường cong theo hình người đàn ông có râu.
+Các chuyên gia dự kiến tranh có thể đạt mức từ 55.000 đến 65.000 USD.
+Theo Christie's, Csuri áp dụng phương pháp giống các nghệ sĩ AI hiện đại.
+Ông nhập loạt hướng dẫn vào máy tính, biến chúng thành "đối tác sáng tạo có tính tương tác".
+Nghệ sĩ xem máy tính như "chương trình tìm kiếm nghệ thuật" - nơi ông có thể chỉnh sửa hàng trăm bản vẽ.
+Ngày nay, AI có thể bắt chước phong cách của các nghệ sĩ, nhưng Csuri quan tâm "tai nạn nghệ thuật" do các yếu tố ngẫu nhiên của AI gây ra.
+Theo ông, chúng có thể mang đến bất ngờ cho tác phẩm.
+Chân dungdaughterđược định giá từ 40.000 đến 60.000 USD, do Claire Silver - họa sĩ ẩn danh chuyên dùng AI - giới thiệu đầu năm nay.
+Tác phẩm thể hiện sự phát triển trong mối quan hệ giữa con người và AI về mặt kỹ thuật, tư duy.
+Tranh áp dụng kỹ thuật gợi ý (prompting technique) dữ liệu có sẵn từ tác phẩm cũ của nghệ sĩ -blue girl (qualia) -năm 2018.
+Đây là sáng tạo đầu tiên của Claire Silver với AI, sử dụngmô hình GANs.
+Một năm sau, Silver biến bản vẽ này thành gợi ý cho trí tuệ nhân tạo với mục đích duy trì cảm giác "qualia" (trải nghiệm chủ quan của con người) trong tranh.
+"daughterthể hiện con đường phát triển từ những thử nghiệm đầu tiên của tôi với GANs đến AI hiện tại.
+Mỗi sự lặp lại của gợi ý đều kế thừa phiên bản trước, đồng thời thích ứng các khả năng tân tiến của công nghệ.
+Chúng luôn khơi gợi 'qualia' trong tôi.
+Nếu quá trình này tái diễn, một ngày nào đó AI có thể cảm nhận 'qualia'", Claire Silver cho biết.
+Chân dungdaughterđược định giá từ 40.000 đến 60.000 USD, do Claire Silver - họa sĩ ẩn danh chuyên dùng AI - giới thiệu đầu năm nay.
+Tác phẩm thể hiện sự phát triển trong mối quan hệ giữa con người và AI về mặt kỹ thuật, tư duy.
+Tranh áp dụng kỹ thuật gợi ý (prompting technique) dữ liệu có sẵn từ tác phẩm cũ của nghệ sĩ -blue girl (qualia) -năm 2018.
+Đây là sáng tạo đầu tiên của Claire Silver với AI, sử dụngmô hình GANs.
+Một năm sau, Silver biến bản vẽ này thành gợi ý cho trí tuệ nhân tạo với mục đích duy trì cảm giác "qualia" (trải nghiệm chủ quan của con người) trong tranh.
+"daughterthể hiện con đường phát triển từ những thử nghiệm đầu tiên của tôi với GANs đến AI hiện tại.
+Mỗi sự lặp lại của gợi ý đều kế thừa phiên bản trước, đồng thời thích ứng các khả năng tân tiến của công nghệ.
+Chúng luôn khơi gợi 'qualia' trong tôi.
+Nếu quá trình này tái diễn, một ngày nào đó AI có thể cảm nhận 'qualia'", Claire Silver cho biết.
+Hai tấm thảm Jacquard (loại vải có hoa văn) -Marie Antoinette After the Singularity #1(trái) vàMarie Antoinette After the Singularity #2, do xưởng nghệ thuật số Factum Arte hợp tác bảo tàng Misalignment AI (San Francisco), ca sĩGrimesvà nhiều nghệ sĩ thị giác sản xuất.
+Sợi vải được chọn lọc kỹ lưỡng về màu sắc, chất liệu để tác phẩm đạt độ sáng, sắc thái đa dạng.
+Christie's định giá mặt hàng từ 40.000 đến 60.000 USD.
+Nhân vật trên thảm là Rococo Basilisk trong hình dạng hoàng hậu Pháp Marie Antoinette (1755-1793), là"siêu trí tuệ nhân tạođầy thù hận".
+AI tạo ảnh theo phong cách Rococo, lấy cảm hứng từ khái niệm "điểm kỳ dị công nghệ" (technological singularity) - giả thuyết về thời điểm con người không thể kiểm soát sự phát triển của máy móc trong tương lai.
+Theo Grimes và đại diện bảo tàng Misalignment, Rococo Basilisk gợi nhớ Roko's Basilisk - thí nghiệm giả định về một AI đáng sợ, trừng phạt những ai không đóng góp cho sự phát triển của nó.
+Cả hai cho rằng hoàng hậu Pháp và AI có nhiều điểm chung, cùng bị nhiều người phản đối.
+Bà Marie Antoinette nổi tiếng với lối sống xa hoa không hợp lòng dân, nhận án chém đầu từ chính quyền Cách mạng Pháp còn các tác phẩm của AI bị chỉ trích "không có hồn", ít có tác phẩm mang tính trường tồn.
+Hai tấm thảm Jacquard (loại vải có hoa văn) -Marie Antoinette After the Singularity #1(trái) vàMarie Antoinette After the Singularity #2, do xưởng nghệ thuật số Factum Arte hợp tác bảo tàng Misalignment AI (San Francisco), ca sĩGrimesvà nhiều nghệ sĩ thị giác sản xuất.
+Sợi vải được chọn lọc kỹ lưỡng về màu sắc, chất liệu để tác phẩm đạt độ sáng, sắc thái đa dạng.
+Christie's định giá mặt hàng từ 40.000 đến 60.000 USD.
+Nhân vật trên thảm là Rococo Basilisk trong hình dạng hoàng hậu Pháp Marie Antoinette (1755-1793), là"siêu trí tuệ nhân tạođầy thù hận".
+AI tạo ảnh theo phong cách Rococo, lấy cảm hứng từ khái niệm "điểm kỳ dị công nghệ" (technological singularity) - giả thuyết về thời điểm con người không thể kiểm soát sự phát triển của máy móc trong tương lai.
+Theo Grimes và đại diện bảo tàng Misalignment, Rococo Basilisk gợi nhớ Roko's Basilisk - thí nghiệm giả định về một AI đáng sợ, trừng phạt những ai không đóng góp cho sự phát triển của nó.
+Cả hai cho rằng hoàng hậu Pháp và AI có nhiều điểm chung, cùng bị nhiều người phản đối.
+Bà Marie Antoinette nổi tiếng với lối sống xa hoa không hợp lòng dân, nhận án chém đầu từ chính quyền Cách mạng Pháp còn các tác phẩm của AI bị chỉ trích "không có hồn", ít có tác phẩm mang tính trường tồn.

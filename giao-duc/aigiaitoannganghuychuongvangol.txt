@@ -1,0 +1,20 @@
+Thông tin được đăng trên Nature - tạp chí khoa học hàng đầu thế giới, vào cuối tuần trước.
+Nhóm tác giả AlphaGeometry2 làm việc tại Google DeepMind, gồm 10 người, trong đó 4 người Việt.
+Đây là phiên bản nâng cấp của AlphaGeometry - vốn giải được 53% số bài khi mới trình làng.
+Năm ngoái, các nhóm nghiên cứu ở Ấn Độ và Trung Quốc đã sử dụng những phương pháp tiếp cận khác để AI đạt thành tích ngang huy chương vàng Olympic Toán quốc tế (IMO) về hình học, nhưng số bài thử nghiệm không nhiều như AlphaGeometry2.
+"Tôi nghĩ rằng không lâu nữa máy tính sẽ đạt điểm tuyệt đối trong kỳ thi IMO", Kevin Buzzard, nhà Toán học tại Đại học Hoàng gia London, Anh, nhận định.
+AlphaGeometry là sự kết hợp giữa một mô hình ngôn ngữ chuyên biệt và một "công cụ biểu tượng" - symbolic engine, chuyên về lập luận logic.
+Mô hình được đào tạo để diễn đạt ngôn ngữ toán học tiêu chuẩn, đảm bảo tính chặt chẽ về mặt logic và loại bỏ các nhận định không mạch lạc hoặc không chính xác mà robot AI dễ đưa ra.
+AlphaGeometry2 có một số cải tiến, tích hợp mô hình ngôn ngữ lớn hiện đại của Google - Gemini.
+Mô hình này hỗ trợ "công cụ biểu tượng", sử dụng quy tắc Toán học để suy ra giải pháp cho những bài toán, đưa ra các bằng chứng khả thi cho một định lý hình học nhất định.
+Các bài toán hình học Olympic dựa trên sơ đồ cần thêm "cấu trúc" trước khi có thể giải được, chẳng hạn như điểm, đường thẳng hoặc hình tròn.
+Mô hình Gemini của AlphaGeometry2 dự đoán những cấu trúc nào có thể hữu ích để thêm vào sơ đồ, công cụ này tham chiếu đến để đưa ra các suy luận.
+Nhóm nghiên cứu cho hay những cải tiến trong tương lai sẽ bao gồm giải quyết các bài toán liên quan đến bất đẳng thức và phương trình phi tuyến tính, hướng đến "giải toàn bộ bài toán hình học".
+Buzzard đánh giá AI còn nhiều thách thức khác cần vượt qua trước khi giải được các bài toán ở cấp độ nghiên cứu.
+Hình học Euclid là một trong bốn chủ đề của kỳ thi IMO, bên cạnh lý thuyết số, đại số và tổ hợp.
+AI phải có các kỹ năng cụ thể vì các bài yêu cầu lập luận chặt chẽ về các đối tượng hình học trên mặt phẳng.
+Tháng 7 năm ngoái, ngoài AlphaGeometry2, DeepMind cho ra mắt AlphaProof để giải các câu hỏi ngoài hình học.
+AlphaProof sau đó đã chinh phục 4 trên 6 bài của đề thi IMO 2024, đạt 28/42 điểm - ngang với thí sinh giành huy chương bạc.
+Các nhà nghiên cứu AI đang háo hức chờ đợi kỳ IMO tiếp theo tại Australia, vào tháng 7 năm nay.
+Khi đề thi được công khai, các hệ thống dựa trên AI cũng sẽ được giải quyết chúng.
+Các bài toán mới được coi là bài kiểm tra đáng tin cậy đối với các hệ thống dựa trên máy học, vì lời giải của chúng khó có khả năng tồn tại trên internet hay bị "rò rỉ" vào các tập dữ liệu đào tạo, khiến sai lệch kết quả.

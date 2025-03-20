@@ -1,0 +1,18 @@
+Được công bố tại Triển lãm điện tử tiêu dùng CES 2025 đang diễn ra ở Las Vegas (Mỹ), Project Digits trang bị chip GB10 Grace Blackwell Superchip với hiệu suất AI đạt một petaflop, tức có thể thực hiện 1.000 tỷ phép tính AI mỗi giây với độ chính xác mức FP4, giúp thực hiện các phép tính nhanh hơn.
+Mỗi hệ thống Project Digits được trang bị "bộ nhớ thống nhất" 128 GB, cao hơn nhiều so với mức RAM 16-32 GB trên các mẫu máy tính xách tay, kết hợp bộ nhớ NVMe đến 4 TB.
+Toàn bộ gói gọn trong kích thước tương đương một chiếc Mac mini đặt trên bàn làm việc, có thể xử lý mô hình AI với tối đa 200 tỷ tham số.
+Đối với mô hình AI đòi hỏi khắt khe hơn, hai hệ thống Project Digits có thể được liên kết với nhau để xử lý 405 tỷ tham số, chẳng hạn mô hình tốt nhất của Meta, Llama 3.1 405B, có 405 tỷ tham số.
+Máy chạy điện lưới dân dụng thông thường thay vì các hệ thống lớn trước đây "ngốn" nhiều điện năng.
+Trên Project Digits, người dùng cũng sẽ truy cập vào thư viện phần mềm AI của Nvidia, gồm bộ công cụ phát triển, điều phối và các mô hình được đào tạo trước có sẵn thông qua danh mục NGC.
+Hệ thống chạy trên nền tảng DGX OS dựa trên Linux, hỗ trợ PyTorch, Python và Jupyter notebook.
+Các nhà phát triển có thể tinh chỉnh mô hình AI bằng Nvidia NeMo và tăng tốc quy trình làm việc với thư viện Nvidia RAPIDS.
+Với kích thước nhỏ gọn, người dùng có thể phát triển và thử nghiệm các mô hình AI cục bộ, sau đó triển khai trên dịch vụ đám mây hoặc trung tâm dữ liệu bằng kiến trúc Grace Blackwell và nền tảng phần mềm Nvidia AI Enterprise.
+Sản phẩm có giá từ 3.000 USD, bắt đầu bán ra từ tháng 5.
+"AI sẽ trở thành xu hướng trong mọi ứng dụng, cho mọi ngành công nghiệp.
+Với Project Digits, Grace Blackwell Superchip sẽ đến với hàng triệu nhà phát triển", CEO Nvidia Jensen Huang cho biết.
+"Việc đặt một siêu máy tính AI trên bàn làm việc giúp trao quyền cho mọi nhà khoa học dữ liệu, nhà nghiên cứuAIvà sinh viên tham gia và định hình kỷ nguyên AI".
+Tại CES 2025, The Vergeđánh giá sự hiện diện củaNvidia"ở mọi nơi", khi rất nhiều sản phẩm, giải pháp và công nghệ của hãng có mặt.
+Công ty giới thiệu dòng card đồ họa cho máy tính kiến trúc Blackwell, gồm RTX 5090 giá 1.999 USD, RTX 5080 giá 999 USD, RTX 5070 Ti giá 749 USD và RTX 5070 hiệu suất tương đương RTX 4090 nhưng thấp hơn "đàn anh" với 549 USD.
+Tại sự kiện, ôngHuangcũng trình bày tầm nhìn công nghệ, nhấn mạnh vào AI và robot.
+Trong đó, NeMo dùng để tạo ra tác nhân AI (AI Agent), nền tảng Cosmos giúp huấn luyện robot bắt chước con người, chip Hyperion 9 dùng phân tích dữ liệu từ máy ảnh, radar và Lidar.
+Ngoài ra, sự hiện diện của Nvidia cũng có trên các sản phẩm máy tính cá nhân cho đến xe tự lái của Waymo, Tesla, Zoox hay Xiaomi.

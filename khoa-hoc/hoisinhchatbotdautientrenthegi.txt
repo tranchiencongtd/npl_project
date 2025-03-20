@@ -1,0 +1,23 @@
+Joseph Weizenbaum, giáo sư tại Viện Công nghệ Massachusetts (MIT) phát triển chatbot Eliza vào những năm 1960.
+Tên gọi của nó được đặt theo Eliza Doolittle, nhân vật chính trong vở kịch "Pygmalion", người được dạy cách nói chuyện giống một phụ nữ quý tộc Anh.
+Là mô hình ngôn ngữ có thể tương tác với người dùng, Eliza tác động lớn đến trí tuệ nhân tạo (AI) ngày nay.
+Chatbot này được lập trình để phản hồi các câu hỏi như một nhà tâm lý trị liệu.
+Ví dụ, Eliza sẽ nói "Hãy cho tôi biết vấn đề của bạn".
+Nếu người dùng nhập "Đàn ông đều giống nhau", chương trình sẽ đáp lại "Theo cách nào?".
+Weizenbaum đã viết Eliza bằng một ngôn ngữ lập trình mà ông phát minh, gọi là Bộ xử lý danh sách đối xứng giải mã thuật toán Michigan (MAD-SLIP), nhưng gần như ngay lập tức được sao chép sang ngôn ngữ Lisp.
+Với sự ra đời của Internet, phiên bản Lisp lan truyền rộng rãi và bản gốc trở nên lỗi thời.
+Giới chuyên gia cho rằng mã Eliza gốc gồm 420 dòng đã mất cho đến năm 2021, khi Jeff Shrager, nhà khoa học nhận thức tại Đại học Stanford, và Myles Crowley, chuyên viên lưu trữ tại MIT, tìm thấy nó trong các tài liệu của Weizenbaum.
+Trong nghiên cứu mới đăng trên cơ sở dữ liệuarXiv, Shrager cùng đồng nghiệp chia sẻ về quá trình hồi sinh Eliza từ mã máy tính này, Live Sciencehôm 18/1 đưa tin.
+Quá trình hồi sinh không hề đơn giản, đòi hỏi nhóm nghiên cứu phải làm sạch, sửa lỗi mã và tạo một trình giả lập để mô phỏng loại máy tính có thể chạy Eliza vào những năm 1960.
+Sau khi phục hồi mã, nhóm đã chạy Eliza - lần đầu tiên sau 60 năm - vào ngày 21/12/2024.
+Nhóm nghiên cứu cũng phát hiện một lỗi trong mã và lựa chọn không sửa.
+"Nó sẽ làm hỏng tính xác thực của hiện vật, giống như sửa một nét vẽ sai trong tác phẩm Mona Lisa gốc", Shrager giải thích.
+Chương trình sẽ bị lỗi nếu người dùng nhập một số, ví dụ "Hôm nay bạn 999 tuổi".
+Dù không thể so sánh với khả năng của những mô hình ngôn ngữ lớn (LLM) hiện đại như ChatGPT, Eliza thực sự đáng chú ý nếu xem xét đến việc nó ra đời khoảng năm 1965, theo đồng tác giả nghiên cứu David Berry, giáo sư nhân văn số tại Đại học Sussex, Anh.
+"Nó có thể duy trì cuộc trò chuyện trong một thời gian", Berry nói.
+Một điều Eliza làm tốt hơn các chatbot hiện đại là lắng nghe, theo Shrager.
+Các LLM hiện đại chỉ cố gắng hoàn thành câu của người dùng, trong khi Eliza được lập trình để khuyến khích người dùng tiếp tục cuộc trò chuyện.
+"Đó là điều giống với 'trò chuyện' hơn bất kỳ chatbot nào kể từ đó", Shrager nói.
+"Việc hồi sinh Eliza, một trong những chatbot nổi tiếng nhất lịch sử, giúp mọi người hiểu về lịch sử đã mất", Berry cho biết.
+Vì lĩnh vực khoa học máy tính thường hướng tới tương lai, các nhà thực hành có xu hướng coi lịch sử của lĩnh vực này là lỗi thời và không bảo tồn.
+Tuy nhiên, Berry tin rằng lịch sử máy tính cũng là lịch sử văn hóa.

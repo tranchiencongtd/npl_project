@@ -1,0 +1,42 @@
+Lĩnh vực điện toán lượng tử đang sục sôi sau những công bố về nguyên mẫu chip lượng tử của các hãng công nghệ như Google, Microsoft và Amazon.
+Cuối tháng trước, Amazon Web Services tung ra nguyên mẫu Ocelot với lời giới thiệu "là đại diện cho bước đột phá ở khả năng sửa lỗi và mở rộng", hai vấn đề được đánh giá là nút thắt cổ chai khiến quá trình phát triển chip lượng tử bị chậm lại.
+Trước đó, ngày 19/2, Microsoft thông báo đã tạo ra một trạng thái vật chất mới cho nguyên mẫu lượng tửMajorana 1.
+Dù không đề cập chi tiết, công ty phần mềm Mỹ nhấn mạnh chip sẽ cung cấp sức mạnh lớn, thúc đẩy điện toán lượng tử.
+Cuối tháng 12 năm ngoái, Google giới thiệuchip Willowvới tốc độ không tưởng khi trong vòng 5 phút có thể hoàn toàn phép tính mà siêu máy tính nhanh nhất hiện mất 10 tỷ tỷ năm.
+Chip trang bị nhiều qubit hơn và giảm thiểu lỗi tính toán theo cấp số nhân, nhờ đó "chinh phục thử thách lớn nhất trong việc sửa lỗi lượng tử, điều mà toàn lĩnh vực theo đuổi gần 30 năm qua", theo Hartmut Neven, người đứng đầu bộ phận Google Quantum AI.
+Trung Quốc cũng đang có những tiến bộ đáng kể.
+Đầu tháng này, các nhà nghiên cứu tại Đại học Khoa học và Công nghệ Trung Quốc (USTC) ra mắt nguyên mẫu máy tính lượng tử siêu dẫn, nhanh gấp triệu lần bộ xử lý Sycamore được Google giới thiệu năm ngoái.
+TheoInteresting Engineering, bộ xử lý lượng tử của USTC mang tên Zuchongzhi-3, gồm 105 qubit và 182 khớp nối, ưu việt trong các phép tính lấy mẫu mạch lượng tử ngẫu nhiên.
+Trong khi đó, Sycamore có 67 qubit.
+Trong khi máy tính truyền thống dựa vào bit chỉ có hai trạng thái 0 hoặc 1, máy tính lượng tử sử dụng qubit với số trạng thái khả thi vô hạn.
+Về lý thuyết, mỗi qubit thêm vào giúp tăng gấp đôi công suất tính toán, cho phép máy tính lượng tử phân tích vô số khả năng cùng lúc, chỉ mất vài phút để giải quyết vấn đề mà máy tính cổ điển có thể mất hàng triệu năm.
+Điều này mở ra một loạt khả năng to lớn về nghiên cứu, y học, dự báo kinh tế cũng như nhiều lĩnh vực khác.
+Khi ngày càng nhiều nguyên mẫu chip lượng tử xuất hiện và được giới thiệu là đột phá, nhiều người tin chúng sắp được ứng dụng trong đời thực.
+Tuy vậy, vẫn có những tranh cãi xung quanh vấn đề này.
+"Khoảnh khắc ChatGPT của máy tính lượng tử đến sớm hơn bạn nghĩ", tiến sĩ Chris Ballance, nhà đồng sáng lập kiêm CEO Oxford Ionics, nói vớiQuantum Insider.
+"Từ thành tựu của Google trong sửa lỗi cho đến các kỷ lục về hiệu suất gần đây, chúng ta hiện có thể trả lời 'có' cho câu hỏi cơ bản như: Liệu có thể xây dựng máy tính lượng tử mạnh mẽ và chính xác ở quy mô lớn không?, hay Liệu có thể sửa lỗi trong hệ thống lượng tử không?".
+Cũng theo Ballance, việc xây dựng máy tính lượng tử không còn dùng từ "nếu", thay vào đó là "khi nào".
+Năm 2025 sẽ diễn ra cuộc đua "ai đến đích trước" về lượng tử, thậm chí loại máy này sẽ rời phòng thí nghiệm tiến ra đời thực.
+Trước đây, các công ty cạnh tranh nhau về nghiên cứu và phát triển, nhưng giờ trọng tâm sẽ chuyển sang chế tạo những cỗ máy lớn và nâng cấp chúng ngày càng tốt hơn.
+Một số chuyên gia dự đoán máy tính lượng tử sẽ kết hợp AI để tăng cường sức mạnh, thậm chí tạo ra các sản phẩm mà trước đó con người chưa thể làm được.
+"Công nghệ lượng tử đang nổi lên như một công cụ quan trọng để nâng cao hiệu quả của AI, trong khi AI đóng vai trò chính trong việc tích hợp giải pháp lượng tử vào các ứng dụng thực tế", Enrique Lizaso Olmos, người đồng sáng lập kiêm CEO Multiverse Computing, nhận xét.
+"Mối quan hệ qua lại này cho phép cả hai công nghệ giải quyết các thách thức tương ứng của chúng hiệu quả hơn".
+Tuy nhiên, nhiều chuyên gia khác hoài nghi về khả năng sớm ứng dụng thực tế của máy tính lượng tử.
+Theo Virginia Lorenz, giáo sư vật lý nguyên tử, phân tử và quang học tại Cao đẳng Kỹ thuật Grainger thuộc Đại học Illinois (Mỹ), cho biết vẫn còn nhiều rào cản kỹ thuật trên con đường tạo ra hệ thống hoàn chỉnh và có giá trị thương mại, tức hữu ích cho người bình thường, chứ không chỉ dành cho nhà khoa học.
+"Điều nực cười là, quá trình đó đang cách xa chúng ta tới 25 năm", ông Lorenz nói vớiBusiness Insider.
+Dù Google, Amazon và Microsoft tuyên bố đạt đột phá lớn, giới nghiên cứu có chung quan điểm rằng vẫn tồn tại hai rào cản đối trong phát triển lĩnh vực lượng tử: khả năng mở rộng và sửa lỗi.
+Bên cạnh đó, lĩnh vực này chưa đồng thuận về cách tiếp cận, chứ chưa nói đến cách giải quyết cả hai vấn đề.
+Troy Nelson, nhà khoa học máy tính và giám đốc công nghệ tại công ty an ninh mạng lượng tử Lastwall, đánh giá giải pháp của các công ty hiện riêng lẻ và khó có tính ứng dụng đại trà.
+"Có rất nhiều thách thức phía trước", Nelson nói.
+Rahul Mahajan, Giám đốc công ty tư vấn công nghệ Nagarro, cho rằng chìa khóa cho sự tiến bộ thực sự trong công nghệ lượng tử không chỉ là đo lường hoặc quan sát hành vi của qubit.
+Thay vào đó, họ còn phải khiến chúng thực hiện phép tính phức tạp theo cách đáng tin cậy.
+"Bước một là lưu trữ qubit và quan sát, bước thứ hai là chuyển đổi", Mahajan nói.
+"Là con người, chúng ta tiến hóa.
+Trong hóa học, các phân tử tiến hóa.
+Thiên nhiên tiến hóa.
+Vì vậy, cần có các mô phỏng để máy tính lượng tử thực hiện và phải được kiểm soát, đó là yếu tố lớn và quan trọng tiếp theo".
+Ngay cả những tên tuổi công nghệ hàng đầu cũng nhận định phải hàng chục năm nữa máy tính lượng tử mới tiến vào đời thực.
+Jensen Huang, CEO Nvidia, dự đoán con người có thể phải đợi 20 năm để công nghệ lượng tử "trở nên hữu ích".
+Oskar Painter của Amazon Web Services cũng dự đoán tương tự.
+"Tôi nghĩ trong khoảng từ 10 đến 20 năm nữa, chúng ta sẽ có máy tính lượng tử thực tế, hữu ích", Painter nói.
+"Nhưng chúng ta cũng cần có cách tiếp cận khiêm tốn và thực tế hơn đối với những gì phải làm trong tương lai".

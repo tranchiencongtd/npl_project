@@ -1,0 +1,16 @@
+"Do hạn chế về tài nguyên máy chủ hiện tại, chúng tôi tạm dừng việc nạp tiền dịch vụ API để ngăn chặn mọi tác động tiềm ẩn có thể ảnh hưởng đến hoạt động.
+Số dư hiện tại vẫn có thể được sử dụng cho các truy vấn", DeepSeek viết trên website chiều 6/2.
+Giao diện lập trình ứng dụng (API) cho phép các nhà phát triển tích hợp mô hình AI như của DeepSeek vào công cụ của mình cho mục đích sử dụng cụ thể.
+Theo công bố trên website, API tích hợp mô hình DeepSeek-Chat hiện được tính phí 0, 14 USD cho một triệu token đầu vào và 0, 28 USD cho một triệu token đầu ra.
+Trong khoa học dữ liệu, token được sử dụng để biểu diễn các bit dữ liệu thô, với một triệu token tương đương khoảng 750.000 từ.
+Tuy nhiên, công ty Trung Quốc đang có kế hoạch tăng giá từ ngày 8/2.
+Ở biểu giá mới, DeepSeek-Chat có phí 0, 27 USD với một triệu token đầu vào và 1, 1 USD trên một triệu token đầu ra.
+Đồng thời, hãng cũng ra mắt mô hình lý luận sâu DeepSeek-Reasoner, cung cấp API cho nhà phát triển với mức giá 0, 55 và 2, 19 USD tương ứng.
+Để so sánh, mô hìnho3-minicủa OpenAI vừa ra mắt có giá lần lượt 0, 55 và 4, 4 USD.
+TheoReuters, trong hai tuần qua, dịch vụ của DeepSeek thường xuyên gặp sự cố máy chủ do lượng truy cập cao do nhu cầu toàn cầu tăng cao.
+Trên các mạng xã hội như X cũng như diễn đàn Reddit, Github, nhiều nhà phát triển cho biết ứng dụng của họ đang dùng API DeepSeek thường xuyên gặp lỗi về kết nối, kết quả trả về chậm, cùng các thông báo "máy chủ đang bận", "cấu hình không chính xác", "xác thực không thành công" cũng như các sự cố truy cập khác.
+Deepseek đượcLiang Wenfengthành lập vào tháng 5/2023, đặt trụ sở ở Hàng Châu, Chiết Giang, và do High-Flyer, một trong những quỹ đầu tư hàng đầu Trung Quốc, sở hữu.
+Deepseek được High-Flyer tài trợ toàn phần và không có kế hoạch huy động vốn.
+Công ty tập trung vào xây dựng công nghệ nền tảng.
+TheoChina Talk, không giống các công ty AI tại Trung Quốc, Deepseektuyên bố sứ mệnh "giải mã bí ẩn của siêu trí tuệ nhân tạo AGI bằng sự tò mò".
+Phòng thí nghiệm của công ty hiện tập trung nghiên cứu các cải tiến về kiến trúc và thuật toán có khả năng thay đổi cuộc chơi trong lĩnh vực AI.

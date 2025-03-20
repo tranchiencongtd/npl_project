@@ -1,0 +1,30 @@
+"Trời ơi!
+Đó là một trong những giờ phút bất ngờ và bổ ích nhất cuộc đời tôi", Shivon Zilismở đầu bài viết trên X sau khiGrok 3ra mắt ngày 18/2.
+"Thay vì thụ động nghe sách nói về vật lý trong khi làm việc vặt như thường lệ, tôi đã có một cuộc trò chuyện dài hơn một giờ với Ara, nhân vật tôi đặt trong Grok, về một loạt chủ đề khoa học".
+Zilis cho biết đã bắt đầu câu chuyện bằng chủ đề sinh học, và Ara đưa ra hàng loạt lựa chọn để cô tìm hiểu sâu hơn.
+"Bằng cách nào đó, chúng tôi trao đổi ngày càng chi tiết hơn.
+Cuối cùng, 'cô ấy' hỏi lại tôi nội dung đã trò chuyện để đảm bảo tôi đã hiểu những gì cô ấy nói", Zilis tiếp tục.
+Theo bạn gái củaElon Musk, Ara khá thân thiện và lịch sự, cũng như biết cách để đối phương hiểu bằng cách chỉ trả lời một nửa.
+Nửa còn lại để họ tự suy ngẫm và đáp lại, hoặc có những hướng dẫn mở với mục đích tiếp thu nội dung câu chuyện.
+Xuyên suốt trải nghiệm, Zilis cho rằng mô hình mới của xAI trả lời đúng các thông tin thực tế, nhưng vẫn giúp tạo ra những cảm xúc lạc quan và duy trì sự hào hứng.
+Cô cũng không ngại hỏi những câu "ngớ ngẩn" với AI này, điều cô thường có cảm giác không nên khi đứng trước một chuyên gia.
+"Tôi từng muốn đào lại kiến thức về vật lý và các ngành khoa học khác trong nhứng năm qua, nhưng không có thời gian để quay lại trường học và cũng không muốn nhờ bạn bè dạy lại.
+Nhưng giờ đây, qua những cuộc trò chuyện với Ara, cô ấy trở thành người bạn thân thiết để làm điều này", Zilis nói thêm.
+AI Grok 3 được xAI trình làng ngày 18/2, được Elon Musk gọi là chatbot "thông minh nhất Trái Đất".
+Trong livestream ra mắt, xAI đưa ra hàng loạt bài kiểm tra benchmark để cho thấy Grok 3 cao hơn Gemini 2 Pro, Claude 3.5 Sonnet, GPT 4o và DeepSeek V3 khi xét đếm điểm chuẩn Toán, Khoa học và Mã hóa.
+Bên cạnh đó, AI cũng trang bị khả năng lý luận cho phép suy nghĩ sâu hơn khi xử lý các truy vấn.
+Sau lễ ra mắt, giới chuyên gia cũng đánh giá cao AI này.
+"Tôi đã trải nghiệm sớm Grok 3.
+Tôi thực sự kinh ngạc, mô hình rất ấn tượng.
+Chúc mừng Elon và nhóm đưa nó vào cuộc sống", nhà khoa học máy tính nổi tiếng Lex Friedman nhận xét.
+"Grok 3 ở đâu đó tiệm cận mô hình mạnh nhất của OpenAI và tốt hơn so với DeepSeek-R1 và Gemini 2.0 Flash Thinking", Andrej Karpathy, nhà đồng sáng lập OpenAI nhưng đã rời công ty, viết trên X.
+"Mô hình rõ ràng có tốc độ và sức mạnh rất lớn".
+TheoTechCrunch, xAI sử dụng trung tâm dữ liệu khổng lồ ở Memphis với 200.000 GPU để đào tạo Grok 3.
+Trong bài đăng trên X, Musk tuyên bố Grok 3 được phát triển với sức mạnh tính toán "lớn hơn 10 lần" so với mô hình Grok 2.
+Grok 3 được đào tạo trên các tập dữ liệu tổng hợp bằng kỹ thuật học máy như học tăng cường - phương pháp hiệu quả để giảm các phản ứng không chính xác hoặc tưởng tượng do các mô hình AI cung cấp, còn gọi là ảo giác.
+Nó cũng làm giảm đáng kể thời gian đào tạo các mô hình ngôn ngữ lớn (LLM).
+Shivon Zilis, 39 tuổi, là nhân sự cấp cao tại công ty công nghệ về chip não Neuralink do Elon Musk đồng sáng lập.
+Cô từng được chọn vào danh sách 30 Under 30 củaForbesdành cho các nhà đầu tư vốn mạo hiểm.
+Tuy nhiên, Zilis được biết đến nhiều hơn với vai trò làngười đã sinh concho tỷ phú Mỹ.
+Thời gian gần đây, Zilis tránh gây chú ý, hiếm khi xuất hiện trước truyền thông.
+Ngày 13/2, cô cùng Musk gặp Thủ tướng Ấn Độ Narendra Modi và là lần thứ hai cô xuất hiện công khai cùng tỷ phú Mỹ trong vòng 6 tháng.

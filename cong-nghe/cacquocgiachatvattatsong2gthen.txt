@@ -1,0 +1,41 @@
+Tháng 11/2024, điện thoại "cục gạch" của bà Nguyễn Thị Quế đột nhiên ngừng hoạt động.
+Khi đó, các công ty viễn thông Việt Nam đang dần tắt sóng 2G.
+"Tôi định mua điện thoại mới, nhưng chưa có tiền", người phụ nữ 73 tuổi bán trà đá tại một trạm xe buýt ở Hà Nội nói vớiRest of World.
+Cuối năm ngoái, Việt Nam là một trong số các thị trường mạnh taycắt sóng 2G.
+Một số nhà mạng thực hiện chiến dịch tặng hoặc trợ giá điện thoại 4G cho người dùng 2G có thu nhập thấp.
+Kết quả, từ 18 triệu thuê bao 2G được ghi nhận tháng 1/2024, số lượng đã giảm mạnh còn 143.000 vào tháng 11 cùng năm.
+Điều này đưa Việt Nam vào hàng ngũ nói không với 2G, bên cạnh Australia, Nhật Bản, Hàn Quốc, UAE, Brunei, Thụy Sĩ, Costa Rica và Jamaica.
+Theo dữ liệu do GSMA Intelligence, đơn vị nghiên cứu của GSMA - tổ chức phi lợi nhuận đại diện cho lợi ích của các nhà khai thác mạng di động trên toàn thế giới, có 61 quốc gia từ Mỹ, Brazil, Nam Phi đến Ấn Độ và Trung Quốc, đã lên kế hoạch hoặc khởi xướng quá trình đóng mạng 2G.
+Mục tiêu là tăng cường băng thông cho 4G và 5G bằng cách tái sử dụng phổ tần 2G hiện có, giúp giảm chi phí bảo trì, thúc đẩy tăng trưởng thuê bao và doanh thu.
+Tuy nhiên, việc khai tử 2G cũng làm dấy lên mối nhiều lo ngại, đặc biệt sự tác động lớn đến người nghèo.
+Báo cáo The Mobile Economy 2024 của GSMA cho thấy hàng trăm triệu người vẫn sử dụng điện thoại 2G, khiến quyết định loại bỏ kết nối 2G trở nên phức tạp.
+"Nếu xem xét các quốc gia như Việt Nam, Pakistan, Ấn Độ, những nơi muốn thu hút đầu tư, việc có mạng lưới chất lượng tốt (4G, 5G) rất quan trọng", Jeanette Whyte, Giám đốc chính sách công khu vực châu Á - Thái Bình Dương của GSMA, nhận xét.
+Trong khi đó, theo hãng nghiên cứu thị trường Counterpoint Research, trong giai đoạn 2019-2024, doanh số điện thoại cơ bản đã giảm từ 374 triệu xuống còn 200 triệu máy.
+Một cuộc khảo sát từ liên minh Alliance for Affordable Internet năm 2021 cũng cho thấy khoảng 2, 5 tỷ người trên toàn thế giới vẫn dùng điện thoại cơ bản, chủ yếu ở châu Á và châu Phi, do khó tiếp cận smartphone.
+Giá các mẫu rẻ nhất vẫn có thể chiếm tới 30% thu nhập tháng của họ.
+Mike Jensen, chuyên gia về di động của Hiệp hội Truyền thông Tiến bộ (Association for Progressive Communications), đánh giá hầu hết cơ quan quản lý viễn thông trên toàn thế giới nhất trí loại bỏ 2G.
+Tuy vậy, họ chưa thể xác định mốc thời gian do lo ngại những tác động tới người dùng, cũng như gây gián đoạn tạm thời cho mạng viễn thông.
+Thực tế, một số quốc gia liên tiếp dời lịch cắt sóng 2G.
+Tháng 6/2022, Nam Phi đặt mục tiêu ngừng cung cấp 2G và 3G vào 30/6/2024.
+Nhưng sau đó, kế hoạch tiếp tục dời đến 30/3/2025.
+Tuy nhiên, mốc mới khả năng cao khó thực hiện do có nguy cơ loại trừ 20 triệu thuê bao khỏi mạng di động.
+Nhiều người dân ở đây trung thành với máy 2G vì giá rẻ chỉ 8 USD, trong khi người dùng smartphone cũng sở hữu điện thoại cơ bản làm thiết bị dự phòng do tỷ lệ cướp giật cao.
+Tại Nigeria, kế hoạch cắt sóng 2G dự kiến diễn ra vào tháng 12 năm nay.
+Ghana và Ai Cập đặt mục tiêu vào năm 2030.
+Ở Việt Nam, giải pháp không dừng ở việc tuyên truyền hay bán thiết bị giá rẻ.
+Nhà mạng thậm chí cử nhân viên đến những ngôi làng xa xôi, thuyết phục người dân đổi lên điện thoại 4G miễn phí, đồng thời cung cấp gói cước ưu đãi cho thuê bao.
+"Thành công của Việt Nam có thể nhờ vào sự sẵn có của điện thoại cơ bản có 4G, từ đó giúp thu hẹp khoảng cách giữa việc áp dụng công nghệ 4G", nhà phân tích Shubham Nimkar của Counterpoint Research nhận xét.
+Tại Ấn Độ, một số nhà mạng cung cấp máy 4G miễn phí, chẳng hạn Reliance với mẫu JioPhone có thể kết nối Internet.
+TheoTechCrunch, Reliance dự kiến ra mẫu JioPhone 5G năm nay.
+Tuy nhiên, một số chuyên gia đánh giá động thái của Reliance liên quan đến vấn đề kinh doanh nhiều hơn.
+Theo Counterpoint Research, tại Ấn Độ, điện thoại 2G chiếm 73% trong tổng số 55-60 triệu điện thoại cơ bản được bán ra năm 2024, số còn lại là thiết bị 4G.
+Một số công ty phát triển nền tảng cho điện thoại 4G nhằm giúp giá thiết bị rẻ hơn.
+Ví dụ năm 2023, công ty Đài Loan CloudMosa thử nghiệm Cloud Phone - công nghệ cho phép điện thoại cơ bản 4G truy cập tin tức và chạy ứng dụng phổ biến như TikTok, Facebook và YouTube.
+Một số thiết bị của HMD và Viettel đã chạy nền tảng này.
+Shioupyn Shen, nhà sáng lập kiêm CEO CloudMosa, cho biết đến cuối 2024, hơn một triệu thiết bị hỗ trợ Cloud Phone có mặt trên thị trường toàn thế giới.
+Công ty đặt mục tiêu tăng trưởng lên 200 triệu thiết bị trong hai năm tiếp theo.
+"Nếu chính phủ, công ty viễn thông và ngành công nghệ bắt tay hợp tác, các kế hoạch sẽ khả thi và được đẩy nhanh hơn", Brian Mahlangu, Phó chủ tịch sản phẩm của ngân hàng Absa (Nam Phi), nói trênFinextra.
+"Cùng với các biện pháp như thiết bị giá phải chăng, quá trình chuyển đổi có thể được thúc đẩy.
+Điểm cốt lõi của quá trình chuyển đổi này không chỉ là sự tiến bộ công nghệ, nó phải mang lại lợi ích cho người dùng".
+Kế hoạch tắt sóng 2G tại Việt Nam được chuẩn bị thời gian dài, trong đó có biện pháp như ngừng nhập khẩu máy 2G Only từ 2021, không cho phép nhập mạng mới với điện thoại 2G không có chứng nhận hợp quy.
+Theo Cục Viễn thông, việc dừng 2G sẽ thúc đẩy sử dụng 4G, đưa người dân lên môi trường số, tận hưởng dịch vụ tiên tiến như thanh toán điện tử, dịch vụ công trực tuyến, từ đó đẩy mạnh chuyển đổi số.

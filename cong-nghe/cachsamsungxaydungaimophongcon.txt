@@ -1,0 +1,36 @@
+AI trên các dòng máy mới được Samsung gọi là "Human-like AI", nhấn mạnh vào khả năng xử lý thông minh và giống con người hơn.
+Thay vì là "trợ lý kỹ thuật số", Galaxy AI giờ đây đóng vai trò như cánh tay đắc lực giúp quản lý, điều phối, xử lý mọi tác vụ phức tạp với khả năng điều khiển liên ứng dụng bằng lời nói.
+Chẳng hạn, người dùng có thể đưa ra những yêu cầu phức tạp bằng giọng nói như tìm kiếm một nhà hàng phong cách Pháp, cho phép mang theo thú cưng rồi gửi địa chỉ cho người, nhóm mong muốn.
+Điểm khác biệt so với thế hệ trước là thay vì chỉ cung cấp thông tin, AI giờ đây còn có thể điều chỉnh và điều khiển cùng lúc nhiều ứng dụng như thay người dùng gửi email, tin nhắn, lên lịch, nhắc hẹn.
+Theo ông Trần Tuấn Minh, Trưởng bộ phận Ngôn ngữ AI, Trung tâm nghiên cứu và phát triển Samsung Việt Nam, kể từ khi AI tiếng Việt được đưa lên dòng S24 Series, đội ngũ nghiên cứu liên tục tìm cách cải tiến để các công cụ này trở nên thông minh và giống người nhất.
+Sau hơn một năm xây dựng, Galaxy S25 Series là cột mốc đầu tiên, hiện thực hóa tham vọng này.
+Để đạt được chuẩn Human-like AI, thương hiệu đã đề ra ba tiêu chí là trực quan, cá nhân hóa ở mức cao nhất và khả năng bảo mật.
+Với tính trực quan, trước đây, người dùng điều khiển AI bằng cách nhập lệnh một chiều.
+Còn S25 Series cho phép sử dụng giọng nói tự nhiên để tương tác đa chiều.
+Samsung mong muốn Galaxy AI trên mỗi thiết bị thấu hiểu được thói quen, nhu cầu sử dụng, sở thích của người dùng từ đó đưa ra cách tương tác mang tính cá nhân hóa cao nhất.
+Cách tiếp cận của S25 Series là Multimodal (đa phương thức).
+Theo đó, Galaxy AI là một nền tảng mở, cho phép tích hợp các nền tảng khác liên quan đến AI.
+Sự hợp tác giữa Samsung và Google thông qua Gemini AI giúp Galaxy AI hiểu rõ hơn về ý định của người dùng, từ đó tạo ra một mối quan hệ cộng sinh giữa con người và công nghệ.
+"Chúng tôi không 'đóng khung' nền tảng của riêng mình mà sẵn sàng hợp tác với nhiều bên trong tương lai để giúp trí tuệ nhân tạo ngày càng hoàn thiện, thông minh hơn", ông Tuấn Minh nói.
+Yếu tố thứ ba là bảo mật.
+Dữ liệu người dùng lưu trên thiết bị sẽ được mã hóa qua Knox Vault.
+Đối với những dữ liệu lưu trên Cloud, ngay sau khi tạo ra kết quả đầu ra, các thông tin đầu vào sẽ được xóa đi.
+Bên cạnh đó, thông qua bảng điều khiển, người dùng được biết chính xác tính năng đang sử dụng dữ liệu nào.
+Samsung cũng trao quyền cho người dùng để họ quyết định xem có muốn chia sẻ dữ liệu cho Galaxy AI hay không.
+Có mặt trên Galaxy AI hơn một năm, song tiếng Việt vẫn là thách thức với đội ngũ phát triển vì mức độ đồ sộ của từ vựng, ngữ pháp, thanh điệu.
+Với dòng máy mới, khi cho phép người dùng tương tác giọng nói với những câu lệnh phức tạp hơn, Samsung phải tăng cường nghiên cứu, đào tạo mô hình xử lý ngôn ngữ của AI.
+Ông Nguyễn Minh Quân, Giám đốc Chiến lược sản phẩm Samsung Vina, cho biết Human-like AI đặt ra nhiều thử thách khi phải giúp trí tuệ nhân tạo hiểu sâu ngôn ngữ địa phương.
+Đội ngũ cũng nhận thấy tiếng Việt có hơn 2.000 từ láy, từ đồng âm, từ đồng nghĩa, cùng với đó là vô số từ mượn tiếng Hán, tiếng Anh.
+"Gần đây, Gen Z có rất nhiều tiếng lóng, từ mới.
+Trong khi đó, từ đầu, dữ liệu về tiếng Việt lại không nhiều như tiếng Anh, tiếng Hàn", ông Quân nói về khó khăn trong phát triển AI tiếng Việt.
+Để giải quyết những khó khăn này, ông Quân cho rằng cần có dữ liệu đầu vào đủ lớn, đa dạng.
+Do đó, trong suốt nhiều năm, đơn vị tập hơn hàng trăm kỹ sư công nghệ, liên tục góp nhặt, thu thập dữ liệu ngôn ngữ.
+Samsung cũng bắt tay với Đại học Khoa học xã hội và Nhân văn, ĐHQG Hà Nội và Đại học Ngoại ngữ - hai trường hàng đầu về ngôn ngữ hiện nay để hỗ trợ quá trình xây dựng cơ sở dữ liệu, làm dày thêm nguồn đầu vào cho AI.
+Ông Trần Tuấn Minh, Trưởng bộ phận Ngôn ngữ AI, Trung tâm nghiên cứu và phát triển Samsung Việt Nam cho biết sau khi có kho dữ liệu đủ lớn, Galaxy AI phải trải qua quá trình kiểm tra tính đúng đắn với hơn 100.000 bài test tự động và phần hậu kiểm từ đội ngũ phát triển.
+Đến nay, độ chính xác khi chuyển đổi giọng nói sang văn bản đạt 95%, từ văn bản sang giọng nói đạt 90%.
+Đại diện của Samsung cũng khẳng định Việt Nam là thị trường quan trọng của thương hiệu tại Đông Nam Á và cả trên toàn cầu.
+Nước ta đang là cứ điểm sản xuất của hãng.
+Trong đó, toàn bộ thiết bị bán tại châu Âu và nhiều quốc gia khác được sản xuất tại Việt Nam.
+Trung tâm RnD lớn nhất Đông Nam Á của Samsung cũng đặt trong nước.
+Do đó, tiếng Việt vẫn sẽ là ngôn ngữ chính với cam kết hỗ trợ lâu dài.
+Đội ngũ sẽ liên tục cải tiến để nâng cao tính chính xác trong tương tác, xử lý ngôn ngữ trong thời gian tới.

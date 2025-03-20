@@ -1,0 +1,27 @@
+Sau năm 2024 với nhiều chiến lược, nghị định ra đời, cùng một số dự thảo luật liên quan đến công nghệ đang được xây dựng, 2025 được dự đoán tiếp tục nhiều thay đổi tích cực cho lĩnh vực công nghệ tại Việt Nam.
+Theo chiến lược hạ tầng số đến 2025, Việt Nam đặt mục tiêu 100% tỉnh, thành phố, khu công nghệ cao, khu công nghệ thông tin tập trung, trung tâm nghiên cứu phát triển, đổi mới sáng tạo, khu công nghiệp, nhà ga, sân bay có dịch vụ 5G.
+Thực tế sau khi triển khai từ tháng 10/2024, 5Gcủa Viettel, VNPT đã hiện diện tại 63 tỉnh thành, nhưng mức độ phủ ở các tỉnh lẻ còn thấp, chủ yếu ở khu trung tâm.
+Các nhà mạng chưa tiết lộ sẽ lắp thêm bao nhiêu trạm, nhưng đều cho biết sẽ tiếp tục mở rộng vùng phủ.
+Ngoài ra, nhà mạng thứ ba là MobiFone cũng sẽ phủ sóng 5G năm nay.
+Theo quy định, trong hai năm tính sau khi đấu giá tần số thành công, doanh nghiệp phải triển khai tối thiểu 3.000 trạm phát sóng 5G.
+Đầu năm 2025, tần số 700 MHz sẽ được đấu giá.
+Nếu thành công, đây sẽ trở thành tần số quan trọng cho việc mở rộng 5G nhờ độ phủ trên mỗi trạm gấp nhiều lần tần số 2500-2600 và 3700-3800 MHz hiện nay.
+Từ cuối 2024, tuyếnADCvới trục chính đi theo đường Singapore - Hong Kong - Nhật Bản bắt đầu vận hành, với sự tham gia của Viettel.
+Nhà mạng cho biết khách hàng có thể sử dụng được dịch vụ đầu 2025.
+ADC có dung lượng thiết kế 20 Tbps, là tuyến cáp quang biển lớn nhất hoạt động tại Việt Nam, gấp đôi tuyến lớn nhất trước đó là AAE-1.
+Trong Chiến lược Hạ tầng số, Việt Nam đặt mục tiêu đến 2025 đưa vào khai thác tối thiểu hai tuyến cáp quang biển mới.
+Ngoài ADC, một tuyến khác là SJC-2 cũng dự kiến sớm hoạt động, giúp mở rộng dung lượng truyền tải, đồng thời giảm thiểu rủi ro cho kết nối Internet khi có tuyến gặp sự cố.
+Nghị định 163 về thi hành Luật Viễn thông ban hành cuối năm ngoái, trong đó quy định quản lý dịch vụ trung tâm dữ liệu, điện toán đám mây, dịch vụ viễn thông cơ bản trên Internet, có hiệu lực thi hành từ tháng 1/2025.
+Các ứng dụng nhắn tin OTT cung cấp tính năng gửi, truyền và nhận thông tin giữa hai hoặc một nhóm người sử dụng dịch vụ viễn thông trên Internet được xếp vào nhóm này.
+Theo quy định mới, người dùng phải cung cấp tối thiểu thông tin gồm tên đăng ký, số điện thoại di động, hoặc các thông tin định danh khác nếu không sử dụng số điện thoại.
+Doanh nghiệp cung cấp dịch vụ có trách nhiệm xác thực người dùng qua số điện thoại di động hoặc qua thông tin định danh trước khi cung cấp dịch vụ.
+Trước đó, Nghị định 147 về quản lý, cung cấp, sử dụng Internet và thông tin trên mạng cũng yêu cầu người dùng mạng xã hội, người chơi game online xác thực tài khoản bằng số điện thoại di động.
+Nghị định có hiệu lực từ 25/12/2024, nhưng cho phép các mạng xã hội chuẩn bị trong 90 ngày, tức hạn cuối để thực hiện là 25/3.
+Dự luật Công nghiệp công nghệ số được trình Quốc hội năm ngoái và đang hoàn thiện để có thể được thông qua trong năm nay.
+Luật được kỳ vọng thúc đẩy công nghiệp công nghệ số đóng góp lớn vào nền kinh tế, đồng thời Việt Nam có thể trở thành môi trường thuận lợi để phát triển doanh nghiệp công nghệ số.
+Theo dự thảo, doanh nghiệp tham gia lĩnh vực này có thể sẽ được hỗ trợ một phần kinh phí, ưu đãi thuế suất.
+Ngoài ra, dự thảo luật cũng đề xuất cơ chế thử nghiệm sản phẩm, dịch vụ công nghệ số, được đánh giá là một trong những chính sách đột phá.
+Theo đó, các sản phẩm, dịch vụ hội tụ công nghệ số, mô hình kinh doanh mới mà chưa có quy định điều chỉnh sẽ có thể được phép thử nghiệm có kiểm soát.
+Dự luật cũng có chương riêng về những lĩnh vực đang có sức ảnh hưởng nhất hiện nay như công nghiệp bán dẫn, trí tuệ nhân tạo.
+Trong đó, xác định công nghiệp bán dẫn là hoạt động quan trọng trong công nghiệp công nghệ số, từ đó đưa ra các quy định về nguyên tắc, phân loại hoạt động, cơ chế, chính sách đặc thù, ưu tiên hơn cho phát triển bán dẫn.
+Trí tuệ nhân tạo cũng được nhận định là công nghệ số cốt lõi, được ứng dụng rộng rãi trong tất cả lĩnh vực nên sẽ được quản lý để hạn chế những rủi ro, đồng thời tận dụng tốt những lợi ích mà AI mang lại.

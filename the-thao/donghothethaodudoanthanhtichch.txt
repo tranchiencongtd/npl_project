@@ -1,0 +1,15 @@
+Đây là kết quả một nghiên cứu vừa được công bố trênFrontiers in Sports and Active Living.
+Nhóm nghiên cứu theo dõi 154 runner nghiệp dư trong 6 tuần.
+Họ thử nghiệm một brand đồng hồ thể thao, so sánh thời gian dự đoán và thời gian thực tế trên các cự ly 5km, 10km và half marathon (21km).
+Các nhà nghiên cứu thu thập dữ liệu bằng cách cho các runner này đeo đồng hồ thể thao thực hiện một số bài chạy có chung cấu trúc.
+Thời gian chạy dự đoán của thiết bị sau đó được so sánh với hiệu suất thực tế trên 288 lần thử nghiệm.
+Kết quả cho thấy mối tương quan cao giữa dự đoán của đồng hồ và kết quả thực tế, khi sai số ở mức dưới 3%.
+Đồng hồ dự đoán kết quả chính xác cao nhất ở cự ly 10km, và có xu hướng kém chính xác hơn một chút ở cự ly half marathon.
+Dù không hoàn hảo, tỷ lệ chính xác vượt quá 97% cho thấy đồng hồ thể thao có thể là công cụ hữu ích để các runner nghiệp dư đánh giá thể lực, lập kế hoạch tập luyện và đặt mục tiêu cho cuộc đua.
+Nhưng runner cũng cần lưu ý rằng đồng hồ thể thao chỉ dự đoán hiệu quả, nếu bạn tập luyện đều đặn.
+Nghiên cứu củaFrontiers in Sports and Active Livingchỉ xem xét thương hiệu đồng hồ và những runner nghiệp dư, chứ không phải elite.
+Đồng hồ thể thao có GPS và khả năng theo dõi nhịp tim, nhưng không thể biết bạn phải đối mặt với sức gió, chạy dốc thế nào hay đang có tâm trạng không tốt.
+Một HLV giỏi với nhiều kinh nghiệm vẫn có thể giúp bạn cải thiện tốt hơn.
+Đồng hồ thể thao đang được cải thiện trong việc dự đoán thời gian chạy, nhưng không hoàn hảo.
+Theo các chuyên gia, hãy tập luyện nhất quán và điều kiện trong ngày đua vẫn quan trọng hơn một thuật toán.
+Nhưng nếu muốn ước tính chính xác tốc độ và thời gian tiềm năng, đồng hồ thông minh không phải là điểm khởi đầu tồi.

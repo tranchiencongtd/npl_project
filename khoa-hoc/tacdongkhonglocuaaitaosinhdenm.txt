@@ -1,0 +1,30 @@
+Sự bùng nổ của trí tuệ nhân tạo (AI) tạo sinh đang gây ra những lo ngại ngày càng tăng về môi trường.
+Đây cũng là một trong những vấn đề hàng đầu được thảo luận tại hội nghị toàn cầu AI Action Summit dự kiến diễn ra tại Paris ngày 10-11/2.
+Trước thềm hội nghị, hãng tin Pháp AFP đưa ra một số thống kê quan trọng về AI.
+Mỗi yêu cầu gửi đến ChatGPT, chatbot có khả năng tạo ra phản hồi đa dạng cho các câu hỏi bằng ngôn ngữ tự nhiên, tiêu thụ 2, 9 Wh điện.
+Con số này gấp 10 lần lượng điện tiêu thụ cho một lần tìm kiếm trên Google, theo Cơ quan Năng lượng Quốc tế (IEA).
+OpenAI, công ty Mỹ phát triển ChatGPT, tuyên bố rằng chatbot này hiện có 300 triệu người dùng hàng tuần, thực hiện tổng cộng một tỷ yêu cầu mỗi ngày.
+Ngoài ChatGPT, chatbot giới thiệu AI tạo sinh đến công chúng vào năm 2022, còn có hàng nghìn chatbot khác.
+Cuộc thăm dò của công ty khảo sát Ifop (Pháp) cho thấy 70% người 18 - 24 tuổi tại nước này sử dụng AI tạo sinh.
+Tại Mỹ, cuộc thăm dò của công ty Morning Consult cho thấy 65% thiếu niên 13 - 17 tuổi sử dụng AI tạo sinh, con số này ở dân số chung là gần 50%.
+AI tạo sinh không thể hoạt động mà không có các trung tâm dữ liệu lưu trữ lượng thông tin và sức mạnh tính toán khổng lồ.
+Năm 2023, các trung tâm dữ liệu chiếm gần 1, 4% lượng điện tiêu thụ toàn cầu, theo nghiên cứu của công ty Deloitte.
+Tuy nhiên, với nhiều khoản đầu tư lớn đổ vào AI tạo sinh, tỷ lệ này dự kiến đạt 3% vào năm 2030 - tương đương 1.000 TWh.
+Deloitte cho biết, con số này tương đương với mức tiêu thụ hàng năm của Pháp và Đức cộng lại.
+IEA dự báo mức tiêu thụ điện của các trung tâm dữ liệu năm 2026 sẽ tăng hơn 75% so với mức năm 2022, đạt 800 TWh.
+Công ty tư vấn Mỹ Gartner cho biết, nhu cầu điện khổng lồ đồng nghĩa, 40% trung tâm dữ liệu dành cho những ứng dụng AI có thể đối mặt với tình trạng thiếu điện vào năm 2027.
+Việc huấn luyện một trong những mô hình ngôn ngữ lớn (LLM) cung cấp năng lượng cho chatbot tạo ra khoảng 300 tấn khí nhà kính CO2, theo ước tính của nhóm nghiên cứu tại Đại học Massachusetts Amherst năm 2019.
+Con số này tương đương với 125 chuyến bay khứ hồi giữa New York và Bắc Kinh.
+Hai năm sau, nhóm nghiên cứu tại Đại học Oxford đưa ra con số 224 tấn cho một phiên huấn luyện mô hình GPT-3 của OpenAI.
+Các nhà phát triển phải huấn luyện hàng nghìn mô hình để thúc đẩy công nghệ tiến bộ.
+Bất chấp những ước tính này, việc đánh giá tổng lượng khí thải nhà kính của AI tạo sinh vẫn rất khó.
+Nhiều chuyên gia và tổ chức đã chỉ ra sự thiếu thông tin về cách các mô hình được sản xuất và thiếu các tiêu chuẩn đo lường toàn cầu.
+Không chỉ năng lượng, AI tạo sinh còn tiêu thụ nước, nhất là để làm mát phần cứng máy tính.
+GPT-3 cần khoảng 0, 5 lít nước để tạo ra 10 - 50 phản hồi, theo ước tính thận trọng của nhóm chuyên gia từ Đại học California Riverside và Đại học Texas Arlington.
+Tổng thể, nhu cầu nước của AI dự kiến lên tới 4, 2 - 6, 6 tỷ m3, theo một nghiên cứu năm 2023.
+Con số này gấp 4 - 6 lần lượng nước tiêu thụ hàng năm của Đan Mạch.
+Khoảng 2.600 tấn rác thải điện tử như card đồ họa, máy chủ và chip nhớ phát sinh từ các ứng dụng AI tạo sinh năm 2023, theo nghiên cứu trên tạp chíNature Computational Science.
+Nhóm nghiên cứu dự đoán con số này sẽ lên tới 2, 5 triệu tấn vào năm 2030 nếu xu hướng hiện tại tiếp tục và không có biện pháp hạn chế rác thải.
+Con số đó sẽ tương đương với khoảng 13, 3 tỷ chiếc smartphone bị vứt bỏ.
+Giống như nhiều phần cứng máy tính, thiết bị AI chứa chip cũng đòi hỏi kim loại hiếm để sản xuất.
+Việc khai thác số kim loại này, thường ở châu Phi, có thể bao gồm những quy trình gây ô nhiễm nghiêm trọng.

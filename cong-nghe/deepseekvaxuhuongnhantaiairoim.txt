@@ -1,0 +1,33 @@
+Năm 2023, vào cuối kỳ thực tập tại Nvidia, Zizheng Pan, sinh viên học ngành AI từ Trung Quốc, đối mặt với quyết định quan trọng: ở lại Thung lũng Silicon với nhà thiết kế chip hàng đầu thế giới, hoặc trở về quê hương gia nhập DeepSeek, một công ty khởi nghiệp ít ai biết đến.
+Pan chọn DeepSeek mà không do dự.
+Chưa đầy hai năm sau khi gia nhập, công ty nổi danh với các mô hìnhAIđược xây dựng với chi phí thấp nhưng được đánh giá đủ sức cạnh tranh với các "ông lớn" tại Thung lũng Silicon.
+"Tôi rất ấn tượng", Zhiding Yu, chuyên gia nghiên cứu cấp cao tại Nvidia và cố vấn của Pan trong thời gian thực tập, viết trên X tháng 1.
+"Những trường hợp như Pan ngày càng phổ biến.
+Nhiều tài năng xuất sắc chúng tôi từng tiếp xúc đến từ Trung Quốc, và họ không nhất thiết đặt mục tiêu thành công trong một công ty Mỹ".
+TheoRest of World, lựa chọn của Pan phản ánh xu hướng ngày càng tăng trong "giới tinh hoa AI" của Trung Quốc, khi những người trẻ và giỏi sẵn sàng từ Thung lũng Silicon trở về quê nhà, nơi có chi phí sinh hoạt thấp hơn, gần gia đình và cơ hội đảm nhận vai trò quan trọng ngay từ đầu sự nghiệp.
+Số liệu do Macro Polo (Mỹ) công bố tháng 4/2024 cho thấy, Trung Quốc đã sản sinh 47% tài năng AI hàng đầu trong năm 2022, cao hơn nhiều so với mức 18% của Mỹ.
+Con số này thậm chí cao hơn, khi nhiều nhân tài AI Mỹ cũng có nguồn gốc Trung Quốc.
+DeepSeek là trường hợp đặc biệt trong ngành AI Trung Quốc do được quỹ đầu tư High-Flyer tài trợ hoàn toàn.
+Điều này cho phép đội ngũ kỹ sư trẻ và nhiệt huyết của công ty toàn tâm xây dựng sản phẩm để bắt kịp Thung lũng Silicon.
+"DeepSeek cho thấy sức mạnh của các nhân tài AI Trung Quốc", giáo sư Angela Zhang tại Đại học Nam California nhận xét.
+"Tôi tin lợi thế về nhân tài sẽ định vị Trung Quốc ở tầm cao mới trong giai đoạn phát triển tiếp theo của AI".
+Một báo cáo khác từ Macro Polo năm 2023 cho thấy gần một nửa số nhà nghiên cứu AI hàng đầu thế giới đã hoàn thành chương trình đại học ở Trung Quốc.
+Các trường đại học, phòng thí nghiệm do nhà nước hậu thuẫn, thậm chí các bộ phận nghiên cứu của công ty Mỹ như Microsoft Research Asia ở Bắc Kinh, cũng đang giúp đào tạo một lượng lớn chuyên gia AI cho nước này.
+Các công ty Mỹ cũng nhận ra điều này, khi thường tuyển thực tập sinh người Trung Quốc có khả năng xử lý dữ liệu hoặc kỹ thuật cho dự án AI.
+"Sinh viên Trung Quốc làm việc rất tốt", một chuyên gia nói vớiRest of World.
+"Nhưng điều khiến tôi ngạc nhiên là nhiều người không mấy hứng thú với công việc toàn thời gian ở Mỹ.
+Khi được đề xuất, hầu hết chọn trở lại Trung Quốc".
+Theo tiến sĩ Daniel Palomar của Đại học Hong Kong, thế hệ kỹ sư phần mềm Trung Quốc trước đây ưu tiên công việc ở Thung lũng Silicon vì lương cao hơn cùng cơ hội tiếp xúc với các chuyên gia đầu ngành.
+Nhưng xu hướng này hiện thay đổi mạnh, do ngành AI trong nước mở rộng với hàng loạt tên tuổi hàng đầu như Alibaba, ByteDance và các công ty khởi nghiệp như StepFun, Minimax, 01.
+AI hay DeepSeek.
+DeepSeek có cách thu hút nhân tài độc đáo.
+Theo36Kr, công ty thậm chí trả lương cao hơn ByteDance.
+Không giống các doanh nghiệp khác ưu tiên "văn hóa 996" khắc nghiệt, DeepSeek cho phép nhân viên tự tìm nhiệm vụ và truy cập sức mạnh tính toán một cách tự do, nhờ đó giữ chân được những người giỏi nhất.
+Trả lời phỏng vấn truyền thông Trung Quốc tháng 7/2024, Liang Wenfeng, người sáng lập High-Flyer và DeepSeek, cho biết việc đưa nghiên cứu thành nguồn mở giúp nhân viên có cảm giác tự hào và cởi mở hơn.
+Thực tế, hai tuần qua, các nhà nghiên cứu tại DeepSeek thu hút thêm hàng chục nghìn người theo dõi trên X khi thảo luận về mô hình V3 và R1.
+Giáo sư Yu Zhou tại Cao đẳng Vassar đánh giá sức ép từ các lệnh cấm của Mỹ là nguyên nhân thúc đẩy người trẻ Trung Quốc quyết tâm xây dựng sản phẩm AI cho quê hương.
+"Khi không có nguồn lực, tất cả những gì bạn có thể làm là sức mạnh trí tuệ của mình", bà nói.
+DeepSeekđược Wenfeng thành lập tháng 5/2023, đặt trụ sở ở Hàng Châu, Chiết Giang, và do quỹ đầu tư High-Flyer sở hữu.
+Công ty được High-Flyer tài trợ và không có kế hoạch huy động vốn, tập trung vào xây dựng công nghệ nền tảng.
+Theo Appfigures, tính đến cuối tháng 1, DeepSeek vào top 10 ứng dụng miễn phí tại 111 quốc gia trên App Store và 18 quốc gia trên Google Play.
+15% lượt tải về trong giai đoạn này đến từ Mỹ, 23% từ Trung Quốc.

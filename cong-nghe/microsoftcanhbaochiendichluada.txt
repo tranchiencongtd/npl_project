@@ -1,0 +1,24 @@
+Theo ghi nhận của Microsoft Threat Intelligence, từ đầu tháng 12/2024 đến nay, chiến dịch lừa đảo mạo danh trang đặt phòng trực tuyến Booking.com nhắm vào các tổ chức trong ngành khách sạn đã được thực hiện, sử dụng ClickFix - phương pháp tấn công "phi truyền thống" thông qua thao tác lừa đảo và thao túng tâm lý với mục đích phát tán các phần mềm độc hại, đánh cắp thông tin đăng nhập, gian lận tài chính và đánh cắp dữ liệu thanh toán.
+Cũng theo nhóm bảo mật, chiến dịch này chủ yếu nhắm đến các cá nhân làm việc tại các tổ chức trong lĩnh vực khách sạn ở Bắc Mỹ, châu Âu, châu Đại Dương, Nam Á, Đông Nam Á, trong đó có Việt Nam.
+Microsoft cho biết đã theo dõi chiến dịch dưới mã định danh Storm-1865.
+Cụ thể, nhóm hacker Storm-1865 xác định các tổ chức mục tiêu trong ngành khách sạn, sau đó tiếp cận cá nhân có khả năng làm việc trực tiếp với Booking.
+Khi đã nhắm "con mồi", nhóm gửi nhiều email giả mạo với nội dung được thiết kế tinh vi để đánh lừa người nhận với nội dung đa dạng, gồm khiếu nại, đánh giá tiêu cực từ khách hàng, tin nhắn từ các khách hàng tiềm năng, cơ hội quảng bá cho khách sạn, yêu cầu xác minh tài khoản...
+Các file được gửi thường dưới dạng PDF đính kèm liên kết dẫn người nhận đến website của Booking.
+Nhưng nếu nhấp vào link, nạn nhân được chuyển hướng đến một website hiển thị lớp captcha giả chồng lên nền trang được thiết kế tinh vi, bắt chước giao diện trang Booking.
+Mã captcha giả là nơi kẻ gian áp dụng kỹ thuật lừa đảo ClickFix để tải xuống phần mềm độc hại.
+Kỹ thuật này hướng dẫn người dùng sử dụng tổ hợp phím tắt để mở cửa sổ Windows Run trên hệ điều hành Windows, sau đó dán và thực thi một lệnh mà website đã tự động sao chép vào bộ nhớ tạm.
+Theo Microsoft, các mã độc được Storm-1865 phát tán có XWorm, Lumma stealer, VenomRAT, AsyncRAT, Danabot, và NetSupport RAT.
+"Kỹ thuật ClickFix khai thác tâm lý giải quyết vấn đề của con người bằng cách hiển thị thông báo lỗi hoặc lời nhắc giả mạo.
+Những thông báo này hướng dẫn người dùng sao chép, dán và thực thi các lệnh, dẫn đến việc tải xuống phần mềm độc hại.
+Việc yêu cầu người dùng chủ động thao tác giúp kẻ tấn công dễ dàng vượt qua các biện pháp bảo mật tự động và truyền thống", đại diện Microsoft Threat Intelligence giải thích.
+Nhóm Microsoft khuyến cáo người dùng thận trọng khi truy cập vào các trang đặt phòng để tránh bị lừa đảo.
+Với email, nên kiểm tra địa chỉ người gửi xem có hợp lệ hay không.
+Trước khi nhấp vào liên kết cần di chuột vào, kiểm tra địa chỉ thực được hiển thị ở góc trái trình duyệt.
+Bên cạnh đó, email chứa liên kết lừa đảo thường có lỗi chính tả, gồm cả trong nội dung và trong tên miền.
+Các công ty uy tín hiếm khi gửi tin nhắn mà không kiểm tra kỹ nội dung, vì vậy những lỗi chính tả hoặc ngữ pháp lặp lại nhiều lần có thể là dấu hiệu lừa đảo.
+Ngoài ra, chú ý đến lỗi đánh máy tinh vi trong các tên miền hợp pháp, gọi là typosquatting.
+Ví dụ: micros0ft.com, trong đó chữ "o" được thay thế bằng số "0", hoặc rnicrosoft.com, trong đó chữ "m" đã được thay bằng "r" và "n".
+Ngoài ra, người dùng có thể chủ động tăng cường bảo mật cho tài khoản bằng các biện pháp như xác thực đa yếu tố (MFA), cài phần mềm diệt virus cũng như luôn cảnh giác với các nội dung email, liên kết đáng ngờ.
+Booking là ứng dụng đặt phòng có trụ sở đặt tại Hà Lan, và gần 200 văn phòng đại diện trên thế giới.
+Hiện có hơn 28 triệu cơ sở lưu trú tại 228 quốc gia, vùng lãnh thổ là đối tác trên ứng dụng này.
+Tại Việt Nam, Booking là đối tác của gần 16.000 cơ sở lưu trú, bao phủ khắp các tỉnh thành.

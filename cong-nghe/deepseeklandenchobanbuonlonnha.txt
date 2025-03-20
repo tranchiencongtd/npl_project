@@ -1,0 +1,39 @@
+Nghĩa Ô được mệnh danh là "thủ phủ của mọi hàng hóa nhỏ trên thế giới" và cũng là khu chợ bán buôn lớn nhất Trung Quốc với "đủ thứ trên đời".
+Fu Jiangyan cùng chồng kinh doanh một sạp bán tất tại chợ và bắt đầu nhận thấy lợi ích lớn từ làn sóng trí tuệ nhân tạo.
+Bằng công cụ video với nhiều ngôn ngữ, họ bán hơn 20 triệu đôi tất mỗi năm cho người dùng ở khắp nơi trên thế giới, chủ yếu ở thị trường châu Á, châu Phi và Nam Mỹ.
+"Video AI bằng nhiều ngôn ngữ giúp thu hút khách hàng quốc tế và thực hiện giao dịch dễ dàng hơn", Jiangyan nói vớiChina News, cho biết đã tạo một video chuyển ngữ để giới thiệu các sản phẩm tất chỉ trong chưa đến 10 phút.
+Theo Jiangyan, mọi việc bắt đầu từ năm ngoái, khi cô dùng phần mềm AI có tên Small Business AI Vision Creation tích hợp DeepSeek để tạo video giới thiệu một mẫu tất bằng tiếng Anh.
+Đoạn video nhanh chóng lan truyền giúp sạp hàng bán hết mẫu này.
+Sau đó, cô tiếp tục tạo các video tương tự với nhiều ngôn ngữ khác nhau, giúp việc buôn bán ngày càng phát đạt.
+Jiangyan cho biết đang cùng chồng đặt mục tiêu sản xuất một video mỗi ngày.
+"Việc đưa ra ý tưởng video mới là một thách thức, nhưng các công cụ AI như DeepSeek có thể làm được", cô cho biết.
+Ren Xiaoling, một tiểu thương khác ở Nghĩa Ô, cũng đang khám phá tiềm năng của AI.
+"DeepSeek hiện rất phổ biến và tôi cảm thấy mình sẽ tụt hậu nếu không học cách sử dụng nó", cô nói.
+Xiaoling bắt đầu sử dụng nền tảng này để phân tích xu hướng trong các sản phẩm văn hóa và sáng tạo và tạo quảng cáo.
+"Mọi người nói các thương gia ở Nghĩa Ô rất chăm chỉ, nhưng thực ra là do thị trường thay đổi quá nhanh.
+Chúng tôi phải theo kịp các công nghệ mới để duy trì khả năng cạnh tranh", cô nói, thêm rằng việc học cách sử dụng AI cần thiết cho tất cả, là cách hiệu quả để tối đa hóa giá trị khi buôn bán.
+Trước đây, các tiểu thương ở chợ Nghĩa Ô thường gặp phải rào cản ngôn ngữ khi giao tiếp với đối tác nước ngoài.
+Nhưng từ khi có DeepSeek, họ dễ dàng tạo video với hàng chục ngôn ngữ khác nhau để quảng bá sản phẩm.
+Thực tế, các công cụ AI không còn mới lạ ở Nghĩa Ô.
+Chỉ hai năm trước, chúng bắt đầu thâm nhập vào mọi khía cạnh của hệ sinh thái thương mại địa phương.
+Các tiểu thương chỉ nói được tiếng Trung Quốc hiện có thể sử dụng công nghệ hỗ trợ AI để giao tiếp trôi chảy bằng 36 ngôn ngữ, phá vỡ rào cản giao tiếp với khách quốc tế.
+Theo trangEzhejiang, việc sử dụng DeepSeek không trực tiếp, mà thông qua ứng dụng bên thứ ba.
+Chinagoods là một trong những cái tên đưa AI này đến gần hơn với tiểu thương.
+Trong kỳ nghỉ Tết Nguyên đán 2025, nhóm kỹ thuật AI của Chinagoods đã nỗ lực bản địa hóa và triển khai các mô hình DeepSeek để phù hợp với việc buôn bán nhỏ.
+DeepSeek được tích hợp vào nền tảng AI của Chinagoods, phục vụ hơn 20.000 nhà cung cấp trên thị trường, giúp các thương gia có thể truy cập và sử dụng.
+Lou Qinfeng, Giám đốc kỹ thuật của Yiwu China Commodity City, cho biết một trong những ứng dụng được sử dụng thường xuyên nhất với tiểu thương chợ Nghĩa Ô là XiaoShang AI Video Creator, dùng API DeepSeek.
+Phần mềm này cho phép thương nhân tạo video giới thiệu sản phẩm bằng cả tiếng Trung và tiếng Anh chỉ bằng cách quay một đoạn clip ngắn về sản phẩm và cung cấp một vài từ khóa hoặc chọn một cảnh phù hợp.
+"Hiện nay, DeepSeek được kết nối với khoảng 10 công cụ có thể thực hiện toàn bộ quy trình giao dịch, từ thiết kế sản phẩm đến thực hiện đơn hàng, cải thiện tốc độ và chất lượng của các nhiệm vụ như viết quảng cáo, tạo video, thiết kế hình ảnh và giao tiếp đa ngôn ngữ", ông Qinfeng nói vớiECNS.
+Bên cạnh đó, các công cụ cũng giúp tạo áp phích, thiết kế trang sản phẩm chi tiết để thu hút khách hàng, báo giá và xử lý đơn hàng.
+Thậm chí, nó còn dự báo xu hướng thị trường chính xác.
+Nhiều thương gia đã thành công khi bán kẹp tóc lấy cảm hứng từ nhà vô địch Olympic và móng tay giả - những thứ được cho là do AI phân tích và đề xuất.
+"Học cách sử dụng công nghệ AI đã trở thành một kỹ năng thiết yếu đối với các thương gia ở Nghĩa Ô", Qinfeng nói thêm, đồng thời nhận định công nghệ tiên tiến như DeepSeek sẽ nâng hiệu quả và phạm vi tiếp cận toàn cầu của thương nhân, củng cố vị thế của thành phố dẫn đầu trong các hoạt động thương mại hàng hóa nhỏ tầm quốc tế.
+Theo Ouyang Rihui, Phó giám đốc Viện Nghiên cứu Kinh tế Internet thuộc Đại học Tài chính và Kinh tế Trung ương Trung Quốc, với tốc độ phát triển công nghệ hiện tại, AI ngày càng thâm nhập sâu đến từng ngõ ngách của cuộc sống.
+"Các mô hình ngôn ngữ lớn sẽ rất hữu ích trong lĩnh vực dịch vụ khách hàng thông minh, như xử lý yêu cầu, trả lời, trao đổi.
+Việc biến chúng thành kỹ năng cơ bản sẽ là yếu tố tạo lợi thế cho các thương nhân bán hàng xuyên biên giới", Rihui nói vớiChina News.
+Triển vọng phát triển trong tương lai của DeepSeek rất lớn.
+TheoTrending on Weibo, nhiều người tin con người chỉ mới khai thác được bề nổi với chưa đến 10% tiềm năng của nó.
+Khi công nghệ tiếp tục phát triển, AI này được kỳ vọng mở ra cơ hội mới cho cả doanh nghiệp và cá nhân, cách mạng hóa cách thức tiếp thị và bán các mặt hàng nhỏ trên toàn cầu của Trung Quốc.
+Tuy nhiên, trang này cũng cho rằng sự phụ thuộc ngày càng tăng vào DeepSeek và các công cụ AI khác đang làm dấy lên mối lo ngại về vấn đề thay thế việc làm, cũng như cách con người bị máy móc thay thế.
+"Trong khi một số người bày tỏ lo ngại việc bị AI thay thế, những người khác lại coi đó là cơ hội để nâng cao kỹ năng, đào tạo lại kỹ năng để làm việc hiệu quả hơn cùng với máy móc", Trending on Weibobình luận.
+"Thực tế, việc sử dụng đúng cách DeepSeek đòi hỏi sự kết hợp giữa trực giác và các kỹ năng kỹ thuật, khiến AI này trở thành công cụ thiết yếu cho những người muốn đi đầu trong thời đại kỹ thuật số".

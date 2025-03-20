@@ -1,0 +1,30 @@
+Nhóm sinh viên Đại học Bách khoa Hà Nội chế tạo máy xử lý cuống cà tự động mang tên BK MIC, gồm 5 sinh viên: Vũ Hải Nam, Phạm Văn Tới, Nguyễn Văn Mạnh (ngành Cơ khí - Chế tạo máy), Vũ Tuấn Hùng và Lê Văn Tốc (ngành Cơ điện tử).
+Tất cả là thành viên của CTech Lab (Phòng thí nghiệm Công nghệ), được dẫn dắt bởi TS Nguyễn Ngọc Kiên, giảng viên trường Cơ khí.
+Tại chung kết cuộc thi "Sáng tạo trẻ" diễn ra hôm 28/12, nhóm giành giải nhì, nhận thưởng 30 triệu đồng.
+Nhóm cũng nhận giải sản phẩm được yêu thích nhất trị giá 5 triệu đồng, sau phần bình chọn trực tiếp của hơn 460 lượt khán giả.
+"Vào được đến chung kết đã là niềm vinh dự của nhóm.
+Đạt giải nhì và được nhiều người yêu thích khiến chúng em càng hạnh phúc hơn", trưởng nhóm Vũ Hải Nam nói.
+Cuộc thi "Sáng tạo trẻ" năm nay thu hút 80 ý tưởng, từ gần 400 sinh viên thuộc 15 trường đại học.
+Ban giám khảo là các giảng viên, đại diện doanh nghiệp, quỹ đầu tư.
+Nam là người có ý tưởng về máy xử lý cuống cà tự động.
+Năm ngoái, khi tham gia học kỳ trao đổi tại Nhật Bản, nam sinh nhớ món cà pháo ở nhà nên đã tìm mua.
+Chi khoảng 150.000-200.000 đồng cho một hũ cà pháo nhỏ và không phải lúc nào cũng có, Nam bắt đầu nghĩ về một chiếc máy hỗ trợ quy trình sản xuất cà muối, nhằm tăng năng suất, giảm chi phí, giúp món ăn này xuất hiện nhiều hơn trên thị trường.
+Tìm hiểu thêm về mặt hàng này, Nam và bạn nhận thấy tiềm năng rất lớn.
+Theo một thống kê, năm ngoái, 7 triệu hũ cà được bán trên các sàn thương mại điện tử, doanh thu ước tính 280 tỷ đồng.
+Khảo sát thực tế ở Bắc Giang, Hưng Yên, khu vực ngoại thành Hà Nội, nhóm cũng thấy việc sản xuất cà pháo đã qua chế biến phát triển mạnh, nhưng năng suất chưa cao do công đoạn tốn kém nhất là cắt cuống cà vẫn được làm thủ công.
+"Điều đó thôi thúc chúng em chế tạo máy cắt cuống cà để tự động hóa công đoạn này", Nam kể.
+Dựa trên nguyên lý mô phỏng cánh tay con người, Nam và bạn nghiên cứu kỹ lưỡng đặc điểm sản phẩm.
+Nhóm sinh viên sau đó kết hợp các cơ cấu cơ khí thông minh để định vị, kẹp, và cắt cuống cà một cách chính xác.
+Đầu tiên, cà pháo được thả vào cụm cấp phôi tự động.
+Sau đó, những quả cà di chuyển đến cụm băng tải vận chuyển rồi chuyển đến bộ phận kiểm soát số lượng, trong đó tích hợp cảm biến.
+Mỗi khi quả cà đi qua, bàn xoay được kích hoạt để đưa cà đến cụm cắt.
+Tại đầu ra của máy, những quả cà được cắt cuống hoàn toàn.
+Quá trình chế tạo, nhóm đưa sản phẩm đến vựa chế biến cà pháo ở Đông Anh, Hà Nội, để người dân sử dụng và góp ý.
+Dù gặp một số khó khăn như sai số khi chế tạo máy so với thiết kế 3D, kinh phí thực hiện vượt xa dự định ban đầu, nhóm đã hoàn thành sản phẩm sau 6 tháng, với năng suất 16-20 kg một giờ.
+Theo khảo sát, máy giúp giảm 60% chi phí sản xuất cà pháo qua chế biến ở công đoạn tốn kém nhất.
+Đưa sản phẩm đến một số triển lãm về đổi mới sáng tạo, một công ty đã đồng ý xem xét nhập lô hàng đầu tiên khi máy được thương mại hóa.
+Nhóm dự kiến giá thành sản phẩm là 41 triệu đồng, hướng tới khách hàng là các hợp tác xã nông nghiệp, doanh nghiệp chế biến cà pháo đóng hộp.
+Ban giám khảo cuộc thi "Sáng tạo trẻ" đánh giá sản phẩm của nhóm mang tính tự động hóa cao, lưu ý nhóm cần có giải pháp để nâng cao mức độ tin cậy và tính ổn định.
+Hiện, BK MIC còn có ý tưởng về máy tách múi mít để tự động hóa một khâu trong quy trình sản xuất mít sấy.
+Nhóm cũng được hai doanh nghiệp đề nghị tư vấn về tự động hóa quy trình sản xuất men nấm và ép bã miến rong.
+"Mục tiêu lâu dài của chúng em là trở thành người bạn của các hợp tác xã nông nghiệp, các doanh nghiệp chế biến nông sản, qua đó nâng cao giá trị của nông sản Việt", Nam chia sẻ.

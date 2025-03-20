@@ -1,0 +1,25 @@
+Dòng camera an ninh mới của Ezviz hướng tới sử dụng ngoài trời, có thể chịu một số điều kiện thời tiết khắc nghiệt như bụi bẩn, mưa gió, nắng nóng chuẩn IP65.
+H80x có thiết kế khá lớn, gấp đôi so với camera an ninh trong gia đình thông thường.
+Bộ sản phẩm đi kèm đầy đủ phụ kiện để gắn lên tường hoặc trần nhà.
+Người dùng có thể cấp nguồn qua bộ adapter có sẵn hoặc thông qua cáp ethernet (POE).
+H80x sở hữu nhiều công nghệ tốt nhất hiện nay của Ezviz trên camera an ninh dân dụng.
+Nổi bật là hệ thống ống kính kép độ mở lớn f/1.0 có thể ghi được hình ảnh có màu thông qua công nghệ ColorFull với độ sáng môi trường tối thiểu 0, 01 Lux.
+Trong thử nghiệm thực tế, căn phòng tối chỉ có ánh sáng hắt ra từ khe cửa, mắt người chỉ quan sát mờ đồ vật và không nhận diện được màu sắc, trong khi H80x vẫn có thể ghi hình ảnh có màu dù không quá rõ ràng.
+Với nhu cầu muốn chi tiết rõ nét hơn, chủ yếu dùng cho an ninh thông thường, người dùng có thể chuyển sang chế độ sử dụng đèn hồng ngoại.
+Ngoài ra, camera cũng có đèn trợ sáng, chế độ tự động bật khi môi trường tối hoặc trở thành đèn báo động nháy sáng kết hợp phát âm thanh khi phát hiện người, xe chuyển động trong khoảng thời gian, khu vực cài đặt.
+H80x cũng là một trong những camera đầu tiên của Ezviz ứng dụng AI trong phân tích hình ảnh để xác định chuyển động của con người, xe cộ thay vì chỉ dựa vào chuyển động thông thường như trước đây.
+Điều này giúp giảm tình trạng báo động nhầm, hỗ trợ trong các tình huống sử dụng lệnh tự động cho nhà thông minh.
+Nhờ phát hiện chuyển động, camera cũng có chế độ tự động xoay và phóng to để ghi lại hoạt động của người hoặc xe khi di chuyển.
+Với khả năng xoay 340 độ ngang và 70 độ dọc, H80x có thể bao phủ gần như đầy đủ các góc xung quanh vị trí lắp đặt.
+Người dùng có thể thiết lập hai chế độ tự động tuần tra khác nhau.
+Đầu tiên là camera sẽ tự động xoay theo chiều ngang đảm bảo không bỏ sót khung hình và thứ hai là tự động chuyển qua lại giữa bốn điểm cài đặt trước.
+Camera của Ezviz sử dụng một ống kính cảm biến 4K và một Full HD cho các cảnh quay ban ngày hoặc ban đêm với đèn hồng ngoại.
+Chất lượng hình ảnh tốt, HDR hiệu quả trong hầu hết trường hợp như ngược ánh đèn hoặc trong cảnh quay có nguồn sáng lớn như TV, màn hình LED.
+Nhà sản xuất cho biết camera tích hợp cả AI-ISP giúp giảm mờ chuyển động 70% và giảm nhiễu tín hiệu 30%.
+Thiết bị sử dụng chuẩn nén video H.265 mới, giảm tới 50% dung lượng lưu trữ cho video cùng độ phân giải so với H.264 cũ.
+Thân camera có khe cắm thẻ nhớ microSD tối đa 512 GB và có nắp với vít bảo vệ.
+Người dùng cũng có thêm lựa chọn lưu video trực tiếp trên dịch vụ đám mây Ezviz CloudPlay với giá từ 930.000 đồng mỗi năm cho 7 ngày lưu video.
+Mức giá này tương đương các hệ thống lưu trữ đám mây của camera an ninh dân dụng khác.
+H80x điều khiển và cài đặt thông qua ứng dụng Ezviz hỗ trợ tiếng Việt có sẵn trên iOS và Android.
+Camera cũng tương thích với nhà thông minh Alexa và Google Home nhưng người dùng cần mua thêm các màn hình hỗ trợ hai nền tảng này nếu muốn xem video trực tiếp.
+Ezviz H80x có giá 3 triệu đồng và là một trong những mẫu camera an ninh dân dụng không dây giá cao nhất tại Việt Nam.

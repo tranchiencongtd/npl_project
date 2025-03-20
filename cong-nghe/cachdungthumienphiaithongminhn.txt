@@ -1,0 +1,23 @@
+"Trong thời gian ngắn, Grok 3 sẽ được cung cấp miễn phí cho mọi người!", Elon Musk viết trên X ngày 20/2, chia sẻ bài viết của xAI với nội dung: "Đây chính là nó: AI thông minh nhất thế giới, Grok 3, hiện có sẵn miễn phí cho đến khi máy chủ của chúng tôi bị sập".
+Để sử dụng Grok 3, người dùng cần truy cập trang grok.com, sau đó nhấp vào tùy chọn Grok 2 hoặc Grok 3.
+Tuy nhiên, Grok 2 không cần đăng nhập, trong khi người dùng phải đăng ký, hoặc kết nối bằng tài khoản X hay tài khoản Google để truy cập AI mới nhất của xAI.
+Sau khi hoàn thành, người dùng sẽ nhập yêu cầu truy vấn vào khung chat để AI trả lời.
+Ngoài ra, người dùng có thể trải nghiệm Grok 3 phiên bản mini ngay trên mạng xã hội X.
+Khi nhấp vào logo xAI ở cạnh phải, một khung chat hiện ra để truy vấn nhanh, chẳng hạn tóm tắt nội dung bài đăng X hay hỏi vấn đề mình cần.
+Theo lời giới thiệu của chính Grok 3 mini, đây là phiên bản "có tất cả sự thông minh và hài hước của Grok 3" nhưng được tối ưu hóa để chạy hiệu quả hơn, hỗ trợ truy vấn lý luận, tìm kiếm sâu (DeepSearch) và trả lời các câu hỏi về kiến thức thế giới, toán học, lập trình...
+Trải nghiệm thực tế cho thấy AI mới có tốc độ phản hồi nhanh, ngôn ngữ tự nhiên cũng như hỗ trợ tiếng Việt.
+Tốc độ tạo ảnh chậm hơn so với các đối thủ như Meta AI, nhưng hình ảnh có phần đúng với ý mô tả của người tạo hơn.
+Hiện chưa rõ xAI cho phép người dùng trải nghiệm Grok 3 miễn phí trong bao lâu.
+Trên X, công ty củaElon Muskcho biết người dùng X Premium+ và SuperGrok sẽ được tăng quyền với Grok 3, ngoài quyền truy cập sớm vào một số tính năng nâng cao như Chế độ giọng nói.
+Grok 3 ra mắt ngày 18/2, được Musk gọi là chatbot "thông minh nhất Trái Đất".
+Trong livestream công bố, xAI đưa ra hàng loạt bài kiểm tra benchmark để cho thấy Grok 3 cao hơn Gemini 2 Pro, Claude 3.5 Sonnet, GPT 4o và DeepSeek V3 khi xét đếm điểm chuẩn Toán, Khoa học và Mã hóa.
+Bên cạnh đó, AI cũng trang bị khả năng lý luận cho phép suy nghĩ sâu hơn khi xử lý các truy vấn.
+Sau khi Grok 3 trình làng, một số người trải nghiệm sớm cho biết họ ấn tượng về AI mới này.
+"Trời ơi!
+Đó là một trong nhữnggiờ phút bất ngờvà bổ ích nhất cuộc đời tôi", Shivon Zilis, bạn gái của Musk, viết trên X.
+Cô nói thêm rằng Grok 3 khá thân thiện và lịch sự, cũng như biết cách để đối phương hiểu bằng cách chỉ trả lời một nửa, nửa còn lại để họ tự suy ngẫm và đáp lại, hoặc có những hướng dẫn mở với mục đích tiếp thu nội dung câu chuyện.
+"Tôi đã trải nghiệm sớm Grok 3.
+Tôi thực sự kinh ngạc, mô hình rất ấn tượng.
+Chúc mừng Elon và nhóm đưa nó vào cuộc sống", nhà khoa học máy tính nổi tiếng Lex Friedman nhận xét.
+"Grok 3 ở đâu đó tiệm cận mô hình mạnh nhất của OpenAI và tốt hơn so với DeepSeek-R1 và Gemini 2.0 Flash Thinking", Andrej Karpathy, nhà đồng sáng lập OpenAI nhưng đã rời công ty, viết trên X.
+"Mô hình rõ ràng có tốc độ và sức mạnh rất lớn".

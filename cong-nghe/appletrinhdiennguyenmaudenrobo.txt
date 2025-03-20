@@ -1,0 +1,16 @@
+Trong tài liệu do Apple công bố, các nhà nghiên cứu mô tả nguyên mẫu đèn robot không mang hình dáng con người nhưng có thiết kế biểu cảm.
+Họ nhấn mạnh các hành vi phi ngôn ngữ như tư thế, cử chỉ và ánh mắt đóng vai trò quan trọng trong giao tiếp nội tâm ở con người.
+Để robot tương tác tự nhiên hơn, thiết kế chuyển động của robot cần kết hợp các yếu tố biểu cảm như ý định, sự chú ý và cảm xúc bên cạnh những chức năng truyền thống.
+Đèn robot gợi nhớ đến nhân vật đèn Luxo biểu tượng của Pixar.
+Elegnt thể hiện cử chỉ và phản ứng giống con người khi tương tác với các nhà nghiên cứu và Apple sử dụng từ "thanh lịch" để mô tả cách thức hoạt động của đèn.
+Sản phẩm không chỉ có tính năng chiếu sáng mà được tích hợp cảm biến, camera, loa, động cơ...
+Trong video trình diễn, Applecho thấy đèn có thể thực hiện nhiều tác vụ khác nhau.
+Ví dụ, người dùng có thể sử dụng cử chỉ để điều khiển hướng chiếu sáng của đèn cho việc chụp hình hay quay video.
+Nó cũng có thể tự báo lỗi, như khi người dùng chỉ robot hướng tới vị trí không thể tới, nó vẫn cố gắng làm theo và sau đó thông báo không thể thực hiện.
+Robot giao tiếp qua loa, như cập nhật thông tin hàng ngày, dự báo thời tiết.
+Khi người dùng làm việc, đọc sách quá lâu, đèn sẽ nhắc họ nên uống nước.
+Robot cũng đóng vai trợ lý hướng dẫn, theo dõi các hành động khi làm việc của người dùng và đưa ra các hướng dẫn tương ứng để hỗ trợ.
+Đèn cũng có thể phát nhạc và phần cánh tay lắc lư theo nhịp điệu.
+Hồi tháng 4/2024, chuyên gia Mark Gurman củaBloombergcho biết các kỹ sư tại Apple đang nghiên cứu một robot di động có khả năng theo dõi người dùng quanh nhà.
+Đồng thời, hãng cũng phát triển một thiết bị tiên tiến sử dụng công nghệ robot để di chuyển màn hình.
+Video mới cho thấy Apple đang dần gia nhập thị trường robot trong tương lai.

@@ -1,0 +1,17 @@
+"Tôi choáng váng khi Intel về cơ bản đánh mất phương hướng của mình", nhà đồng sáng lập Microsoft nói trong buổi thảo luận vớiAPngày 8/2, nhân dịp ra cuốn hồi kýSource Code: My Beginnings.
+Trong buổi trò chuyện, Bill Gatesthể hiện tình cảm đặc biệt với hãng chip Intel, nhưng đánh giá công ty đang lạc lối, hậu quả là sự rời đi của CEOPat Gelsingercuối năm ngoái, đồng thời đánh mất nhiều lợi thế so với Nvidia hay Qualcomm.
+Theo ông, nhà đồng sáng lập Intel Gordon Moore từng luôn giữ công ty ở trạng thái tiên tiến nhất, nhưng họ đang có phần tụt hậu ở việc thiết kế và chế tạo chip, dù đây từng là thế mạnh của hãng.
+"Họ bỏ lỡ cuộc cách mạng chipAI.
+Với khả năng sản xuất của mình, họ thậm chí không sử dụng các tiêu chuẩn mà những hãng như Nvidia và Qualcomm thấy dễ dàng", ông nói thêm.
+Theo Gates, cựu CEO Intel Pat Gelsinger khi nhận vị trí điều hành vào năm 2021 đã "dũng cảm" khi muốn cải tổ hai thế mạnh từng có này của Intel và hy vọng công ty có thể thành công "vì lợi ích quốc gia".
+"Tôi hy vọng Intel sẽ phục hồi, nhưng có vẻ họ khá khó khăn ở giai đoạn này", ông nói.
+Intelliên tục chịu chỉ trích thời gian qua sau khi bị vượt mặt bởi những tên tuổi mới và thất bại trong những cuộc đua về chip di động và chip AI.
+TheoPCGamer, dù Gates mang đến thông tin không tích cực, nhưng đó giống như "lời than thở buồn bã".
+TheoAP, tình cảm của Gates có thể đến từ việc cả hai công ty từng cùng kết hợp với nhau để mở ra thời kỳ cách mạng công nghệ với PC.
+Gates có thể đã theo đuổi con đường sự nghiệp khác nếu Intel không đạt đột phá công nghệ khi chế tạo một chip nhỏ có khả năng cung cấp sức mạnh cho máy tính cá nhân vào đầu những năm 1970.
+Sự tiến bộ đó đã thúc đẩy nhu cầu về các chương trình sử dụng trên máy tính, từ đó là động lực cho Bill Gates và Paul Allen thành lập Microsoft - cái tên kết hợp giữa bộ vi xử lý (microprocessor) và phần mềm (software).
+Ngoài ra, hai công ty cũng có điểm chung về thất bại.
+Gần hai thập kỷ trước, khi đang ở đỉnh cao, Intel và Microsoft cùng chậm chân trong xu hướng chuyển đổi từ PC sang smartphone.
+Tuy nhiên đến nay, Microsoft đã phục hồi nhờ chuyển hướng sang dịch vụ như điện toán đám mây, AI, còn tình hình của Intel ngày càng trở nên trầm trọng, thậm chí vẫn chưa tìm được một CEO chính thức, và đang xuất hiện tin đồn về việc có thể bị mua lại.
+Intel chưa hoàn toàn bị loại khỏi cuộc đua.
+Hãng vẫn đang trong lộ trình phát triển các dòng chip mới hướng tới nhu cầu về AI, như dòng chip Panther Lake tiến trình 18A có thể sẽ ra vào cuối năm nay.

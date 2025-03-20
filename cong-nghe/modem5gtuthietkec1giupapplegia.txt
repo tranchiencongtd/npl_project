@@ -1,0 +1,17 @@
+Trong nhiều năm, Applephụ thuộc vàoQualcommtrong việc cung cấp modem cho iPhone.
+Tuy nhiên, mối quan hệ này được đánh giá đang dần kết thúc.
+Năm 2019, Apple có bước đi quan trọng tiến tới sự độc lập khi mua lại mảng kinh doanh modem di động của Intel với giá một tỷ USD.
+Thương vụ đã mở đường cho Apple chủ động phát triển modem 5G riêng, không cần đến nhà cung cấp bên thứ ba và đảm bảo tích hợp phần cứng chặt chẽ hơn.
+TheoApple Insider, công ty đầu tư mạnh vào nghiên cứu, nhưng quá trình phát triển không phải lúc nào cũng thuận lợi.
+Năm 2023, Apple vẫn còn phải hoàn thiện chuỗi cung ứng modem, trong khi các công ty như ASE Technology hay Amkor Technology cạnh tranh để xử lý khâu đóng gói chip tùy chỉnh cho hãng.
+Mặc dù đạt được tiến bộ nhất định, các chuyên gia trong ngành cho rằng modem của Apple vẫn đang tụt hậu.
+Một số cho biết thiết kế này chậm khoảng ba năm so với sản phẩm hàng đầu của Qualcomm.
+Ngày 19/2, Apple công bố mẫu điện thoạiiPhone 16etrang bị modem kết nối mạng C1 - bước tiến lớn hướng tới sự độc lập hoàn toàn của Apple.
+Tuy nhiên, sản phẩm vẫn có hạn chế khi chỉ hỗ trợ 5G Sub 6, chưa có mmWave - tiêu chuẩn kết nối 5G tốc độ cao mà modem của Qualcomm đã có trong nhiều năm.
+Một số nguồn tin cho biết Apple dự kiến đưa modem 5G lên dòng smartphone siêu mỏng iPhone 17 Air ra mắt tháng 9.
+Tuy nhiên, việc không hỗ trợ mmWave được lo ngại sẽ khiến iPhone 17 Air gặp nhiều hạn chế về kết nối 5G.
+mmWave cung cấp tốc độ nhanh ở khoảng cách ngắn, lý tưởng cho môi trường đô thị đông đúc, còn 5G Sub 6 có vùng phủ sóng rộng hơn, nhưng tốc độ chậm hơn.
+Ở nhiều quốc gia, 5G Sub 6 phổ biến hơn so với mmWave.
+Theo chuyên gia Mark Gurman củaBloomberg, Apple đã có kế hoạch phát triển modem thế hệ thứ hai hỗ trợ mmWave, hứa hẹn tốc độ tải xuống 6 Gbps, tăng đáng kể so với mức 4 Gbps của C1.
+Tuy nhiên, có thể phải tới thế hệ iPhone 18 năm 2026, modem này mới trình làng.
+Ngoài ra, Apple dự kiến tung ra modem thế hệ thứ ba năm 2027 với mục tiêu vượt qua sản phẩm của Qualcomm về hiệu suất và tính năng AI.

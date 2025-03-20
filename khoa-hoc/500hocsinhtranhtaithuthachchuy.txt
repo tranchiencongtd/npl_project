@@ -1,0 +1,27 @@
+Ngày hội STEM Day do trường Đại học Việt Đức tổ chức sáng 12/1 dành cho học sinh các trường THPT tại Bình Dương và TP HCM nhằm giúp bạn trẻ hiểu về mối tương tác giữa hiệu quả năng lượng, lợi ích kinh tế, ảnh hưởng xã hội và môi trường.
+Học sinh phải biết vận dụng kiến thức liên ngành giải quyết các thử thách được thiết kế minh họa các vấn đề thực tiễn.
+Tạithử thách thủy điện, học sinh sẽ hóa thân thành kỹ sư năng lượng, xây dựng mô hình thủy điện mini được chuẩn bị sẵn.
+Các nhóm có hai nhiệm vụ chính là thiết kế mạch điện làm sáng 5 bóng đèn với dòng điện có hiệu điện thế trong 6V.
+Nguyễn Đức Lâm, học sinh lớp 12, trường THPT Marie Curie cho biết, thử thách này đòi hỏi các thành viên nhóm phải tìm ra tỷ số truyền động phù hợp của bánh răng để tạo ra dòng điện trong hiệu điện thế cho phép.
+"Nhóm phải thử nhiều lần các tốc độ quay tua bin để có hiệu điện thế đáp ứng yêu cầu", Lâm nói.
+Vớithử thách nhà nổi, các nhóm được cung cấp một sàn nhà hình chữ nhật gắn các vật liệu có trọng lượng khác nhau ở mỗi góc.
+Nhiệm vụ đặt ra là thiết kế, cắt ghép vật liệu để làm cân bằng sàn nhà khi đặt trên mặt nước.
+Do chỉ được thử một lần trên nước, các nhóm phải tính toán kỹ thiết kế, bố trí các vật liệu để giúp ngôi nhà cân bằng.
+"Nhóm phải hình dung và lên phương án phân bố đều trên toàn bộ mặt sàn nhà, đòi hỏi phải vận dụng kiến thức vật lý về lực đẩy acsimet, trọng lực...
+Việc này phải dùng máy tính để tìm ra thông số phù hợp để nhà nổi đạt yêu cầu cân bằng", Hữu Thắng, học sinh trường THPT Phú Nhuận nói.
+Tạithử thách đầu tư xanh, với bài toán giả định là ba mô hình nhà máy điện sử dụng năng lượng hóa thạch quy mô nhỏ, quy mô lớn và nhà máy năng lượng sạch quy mô lớn.
+Với một số vốn được cấp ban đầu, các nhóm phải tính toán dựa trên chi phí và doanh thu hàng năm của mỗi loại hình nhà máy điện.
+Từ đó đưa ra phương án tư vấn loại hình và số lượng nhà máy xây dựng.
+Các nhà máy làm sao vừa đạt mục tiêu phát triển kinh tế cũng như gắn với tính bền vững trong 20 năm.
+Theo cô Phạm Ngọc Thẩm, Giảng viên khoa Kinh tế và quản lý, trường Đại học Việt Đức, chi phí đầu tư nhà máy năng lượng hóa thạch sẽ thấp hơn so với năng lượng tái tạo.
+Nhưng nhược điểm của nhà máy này là doanh thu không cao.
+Ngược lại, với nhà máy năng lượng tái tạo chi phí đầu tư ban đầu cao, nhưng doanh thu cao hơn.
+Các nhóm phải tính toán một số vốn ban đầu hợp lý cho hai loại hình nhà máy năng lượng hóa thạch và năng lượng tái tạo.
+Sau đó dựa trên doanh thu có được để tiếp tục đầu tư nhà máy điện tái tạo để vừa bảo vệ môi trường vừa phát triển kinh tế.
+"Đây là bài toán đầu tư rất thực tế hiện nay và chúng tôi muốn hướng các bạn học sinh tư duy đầu tư có cơ sở, hướng đến phát triển kinh tế nhưng đảm bảo yêu cầu phát triển bền vững", cô Thẩm nói.
+Các phần thi còn lại là các thử thách giao thông thông minh khi thiết kế hệ thống đếm giây đèn thay đổi dựa theo lưu lượng giao thông; thử thách thiết kế quy hoạch thành phố với sự hài hòa giữa phát triển đô thị và mảng xanh, cảnh quan thiên nhiên; thử thách ứng dụng kiến thức về khoa học máy tính để lưu trữ dữ liệu theo hướng ít tốn dung lượng nhất sau khi mã hóa.
+Kết thúc 6 thử thách, dựa trên tổng điểm số, nhóm học sinh trường THPT Phú Nhuận (TP HCM) giành giải nhất với phần thưởng 10 triệu đồng, giải nhì 7, 5 triệu đồng thuộc về trường THPT Dĩ An (Bình Dương), giải ba 5 triệu đồng thuộc về trường THPT chuyên Lê Hồng Phong (TP HCM).
+Hai giải khuyến khích 2, 5 triệu đồng mỗi giải thuộc về trường THPT Gia Định (TP HCM) và trường Việt Anh 3 (Bình Dương).
+TS Hà Thúc Viên, Hiệu phó trường Đại học Việt Đức, cho biết ngày hội STEM Day giúp các bạn học sinh vận dụng tri thức khoa học nhưng cũng gắn với trách nhiệm xã hội, đặc biệt trong bối cảnh toàn cầu đang đối mặt với những thách thức về môi trường và phát triển bền vững.
+Ông cho biết, các thử thách tại ngày hội do các giảng viên của trường Đại học Việt Đức tự thiết kế nhằm truyền cảm hứng và khơi dậy niềm đam mê sáng tạo trong các môn khoa học STEM.
+"Những thử thách này không chỉ đòi hỏi sự sáng tạo, tư duy logic mà còn yêu cầu kỹ năng hợp tác và khả năng giải quyết vấn đề thực tiễn", TS Viên nói.

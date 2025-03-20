@@ -1,0 +1,13 @@
+TheoReuters, OpenAI đang nỗ lực giảm sự phụ thuộc vào Nvidia bằng cách phát triển chip trí tuệ nhân tạo nội bộ.
+Công ty đã gần hoàn tất thiết kế và sẽ gửi đi để sản xuất thử nghiệm trong vài tháng tới.
+Mục tiêu của công ty sở hữu ChatGPT là sản xuất hàng loạt chip AI tại TSMC vào năm 2026.
+Quá trình gửi thiết kế qua nhà máy, gọi là tape-out, có chi phí hàng chục triệu USD và mất khoảng sáu tháng để hoàn thành.
+Nếu thất bại, OpenAI sẽ phải kiểm tra lỗi và lặp lại quy trình.
+Tại OpenAI, chip này được coi là công cụ chiến lược để tăng cường sức mạnh đàm phán với các nhà cung cấp chip khác.
+Sau phiên bản ban đầu, các kỹ sư của công ty dự định phát triển một số bộ xử lý mới tiên tiến hơn.
+Nếu giai đoạn tape-out diễn ra suôn sẻ, OpenAI có thể thử nghiệm giải pháp thay thế chip Nvidia cuối năm nay.
+Giới công nghệ đánh giá OpenAI đã đạt được tiến bộ nhanh chóng vì quá trình này có thể mất nhiều năm với các nhà thiết kế chip khác.
+Đội ngũ thiết kế nội bộ của OpenAI do Richard Ho dẫn dắt và hợp tác với Broadcom, tăng gấp đôi số lượng lên 40 người trong vài tháng qua.
+Richard Ho gia nhập OpenAI hơn một năm trước từ Google, nơi ông từng lãnh đạo chương trình chip AI tùy chỉnh của gã khổng lồ tìm kiếm.
+TSMC sẽ sản xuất chip này theo quy trình 3 nm, có kiến trúc ma trận systolic phổ biến với bộ nhớ băng thông cao (HBM), hiện cũng được Nvidia sử dụng.
+Chip của OpenAI, dù có khả năng về cả đào tạo và vận hành mô hình, được cho là sẽ được triển khai và có vai trò hạn chế trong cơ sở hạ tầng của công ty.

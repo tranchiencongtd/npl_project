@@ -1,0 +1,18 @@
+Từ 6/2, người dùng có thêm tùy chọnGemini2.0 Flash Thinking trên ứng dụng, trình duyệt web cũng như một phiên bản riêng có thể tương tác với các ứng dụng "cây nhà lá vườn" của Google như YouTube, Search và Maps.
+Phiên bản mới của Gemini đã được thử nghiệm từ tháng 12/2024, cạnh tranh trực tiếp với hai mô hình có khả năng lập luận tương tự làOpenAI o1vàDeepSeek R1.
+Gemini 2.0 Flash Thinking là dạng mô hình trí tuệ nhân tạo lý luận có khả năng giải thích cách nó trả lời câu hỏi với độ khó cao, cần tổng hợp, phân tích từ nhiều nguồn thông tin.
+Những mô hình AI dạng này hoạt động bằng cách chia vấn đề thành các bước nhỏ hơn, dễ quản lý hơn, cho phép hệ thống "suy nghĩ" về yêu cầu của người dùng trước khi đưa ra kết quả, giải pháp.
+Câu trả lời cuối cùng có độ chính xác cao hơn, gần với yêu cầu hơn nhưng sẽ mất nhiều thời gian hơn so với thông thường.
+Trước đó, trong bài đăng trên X, Jeff Dean, nhà khoa học trưởng của Google DeepMind cho biết mô hình được "đào tạo để sử dụng suy nghĩ nhằm củng cố lý luận của nó".
+Ông cũng đưa ra video ví dụ quá trình Gemini 2.0 Flash Thinking giải quyết một bài toán vật lý bằng cách "suy nghĩ" qua một loạt các bước trước khi đưa ra giải pháp.
+Các chuyên gia lưu ý việc "lý luận" của các mô hình như Gemini 2.0 không nhất thiết theo cách con người làm nhưng có nghĩa máy móc sẽ tự chia các yêu cầu thành những nhiệm vụ nhỏ hơn để tạo ra kết quả tốt hơn.
+Cùng ngày, Google cũng giới thiệu phiên bản thử nghiệm Gemini 2.0 Pro, kế thừa Gemini 1.5 Pro với "tính thực tế tốt hơn" và "hiệu suất mạnh hơn" cho các tác vụ liên quan đến mã hóa và toán học.
+Gemini 2.0 Pro được mô tả là "mô hình có năng lực tốt nhất từ trước đến nay" của Google và sẽ khả dụng cho người dùng ứng dụng Advanced Gemini và những người có quyền truy cập Vertex AI và AI Studio.
+Trong khi đó, Gemini 2.0 Flash, phiên bản mới nhất của mô hình AI hiệu suất cao của Google, có sẵn cho các nhà phát triển trong AI Studio và Vertex AI.
+"Flash 2.0 nằm trong số ít mô hình hiệu quả nhất hiện có, kể cả khi so sánh với V3 và R1 củaDeepSeek.
+Tôi nghĩ, chúng tôi có toàn bộ thế mạnh về phát triển, tối ưu hóa đầu cuối lẫn chi phí cho mỗi truy vấn", Sundar Puchai, CEO Google, nói.
+Trước sức ép của DeekSeek, công ty cũng nhanh chóng ra mắt mô hình giá rẻ 2.0 Flash-Lite, có tốc độ và giá ngang 1.5 Flash nhưng được giới thiệu vượt trội "hầu hết điểm chuẩn yêu cầu".
+Gemini 2.0 Flash-Lite sẽ có bản Preview trên AI Studio và Vertex AI của Google.
+Loạt sản phẩm AI mới đến sau khi gã khổng lồ công nghệ dự kiến đầu tư thêm 75 tỷ USD cho nhóm phát triển của mình trong năm nay.
+Con số này tăng mạnh so với 32, 3 tỷ USD mà công ty chi trong năm 2023.
+Google đang dồn sức để cạnh tranh với những ông lớn trong lĩnh vực AI như OpenAI, Microsoft, Meta và Anthropic do Amazon hậu thuẫn.

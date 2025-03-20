@@ -1,0 +1,12 @@
+"Việc phát hành DeepSeek AI từ một công ty Trung Quốc nên là lời cảnh tỉnh cho ngành công nghiệp của chúng ta, rằng chúng ta cần tập trung cao độ vào việc cạnh tranh", ông Trump nói trong chuyến đi công tác ở Florida ngày 27/1.
+Ông cho biết vẫn kỳ vọng các công ty công nghệ Mỹ tiếp tục thống trị trí tuệ nhân tạo, nhưng ông thừa nhận thách thức màDeepSeek, chatbot AI giá rẻ vươn lên vị trí số một trên cửa hàng ứng dụng App Store, đang đặt ra.
+TheoNBC News, DeepSeek đang thực sự gây rasự hoảng loạntrong các công ty công nghệ Mỹ và trên thị trường chứng khoán vì hoạt động tốt trong các cuộc thử nghiệm so với mô hình AI cạnh tranh từ Meta và OpenAI, dù được phát triển với chi phí thấp hơn nhiều.
+Trump cho biết ông coi mô hình chi phí thấp là "bước phát triển rất tích cực" đối với AI nói chung, bởi "thay vì chi hàng tỷ, các bạn sẽ chi ít hơn và hy vọng các bạn sẽ đưa ra được giải pháp tương tự".
+DeepSeek là ứng dụng mới nhất trong một loạt ứng dụng của Trung Quốc trở nên phổ biến tại Mỹ những tuần gần đây.
+Trước đó, nhiều người Mỹ cũng tải ứng dụng RedNote và Lemon8 để thay thế cho TikTok khi nền tảng này bị cấm ở Mỹ.
+Giới chức trách Mỹ bày tỏ lo ngại về TikTok vì có liên quan đến Trung Quốc.
+Tuần trước, ôngTrumpđã ký sắc lệnh hành pháp hủy bỏ một số quy định từ chính quyền Biden, mà tân tổng thống cho rằng đã kìm hãm ngành công nghiệpAI.
+Tuy nhiên, chưa rõ chính quyền Trump hoặc Quốc hội có thể đưa ra chính sách AI mới nào để ứng phó với sự trỗi dậy của DeepSeek.
+Ngày 20/1, công ty khởi nghiệp Trung Quốc DeepSeek công bố mô hình V3 miễn phí và đặc biệt R1 "được đào tạo trên các chip cũ của Nvidia, mã nguồn mở 100%, rẻ hơn 96, 4% so với OpenAI o1 trong khi vẫn mang lại hiệu suất tương tự".
+Công ty cho biết họ chỉ mất hai tháng và chi phí dưới 6 triệu USD để xây dựng mô hình AI sử dụng chip H800 kém tiên tiến của Nvidia.
+Phiên bản V3 thậm chí vượt ChatGPT trở thành ứng dụng được tải nhiều nhất trên App Store tại Mỹ ngày 27/1, trong khi giá trị củaNvidiabị thổi bay gần 600 tỷ USD.

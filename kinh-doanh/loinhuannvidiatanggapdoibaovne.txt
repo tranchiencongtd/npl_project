@@ -1,0 +1,24 @@
+Ngày 26/2, hãng chip Mỹ Nvidia công bố báo cáo tài chính cho tài khóa 2025 (kết thúc vào tháng 1).
+Theo đó, doanh thu cả năm đạt 130 tỷ USD, tăng 114% so với năm ngoái.
+Lợi nhuận cũng lên gấp đôi với 74, 3 tỷ USD.
+Nvidia dự báo hãng tiếp tục tăng trưởng.
+Doanh thu quý này có thể tăng 65% lên 43 tỷ USD, vượt kỳ vọng của giới phân tích.
+Các số liệu này cho thấy hãng chip Mỹ vẫn là người chơi quan trọng nhất trong ngành công nghiệp trí tuệ nhân tạo (AI) đang tăng trưởng nhanh.
+Vài tuần gần đây, sự xuất hiện của DeepSeek - mô hình AI giá rẻ, hiệu năng cao của Trung Quốc làm dấy lên lo ngại các đại gia công nghệ đang chi quá nhiều tiền cho cơ sở hạ tầng trí tuệ nhân tạo mà chưa có thành quả tương xứng.
+Nếu các doanh nghiệp giảm chi, lợi nhuận của Nvidia sẽ chịu tác động lớn.
+Nvidia vẫn thống trị thị trường chip AI toàn cầu.
+Cổ phiếu Nvidia đã giảm 5% năm nay, do DeepSeek.
+Dù vậy, so với cùng kỳ năm ngoái, mã này vẫn tăng 65%.
+Cổ phiếu hãng chip Mỹ hiện còn được coi là chỉ báo cho ngành công nghệ nước này.
+Tuy nhiên, các đại gia công nghệ gần đây thông báo sẽ chi thêm hàng chục tỷ USD cho cơ sở hạ tầng AI.
+Một số chuyên gia còn chỉ ra sự xuất hiện của các mô hình AI giá rẻ, hiệu năng cao thực ra có lợi cho Nvidia vì làm tăng tốc phổ cập công nghệ này.
+Dan Ives - nhà phân tích tại Wedbush dự báo nhóm 7 hãng công nghệ lớn nhất Mỹ, gồm Microsoft, Amazon, Meta, Apple, Alphabet, Nvidia và Tesla sẽ đầu tư 325 tỷ USD trong năm nay.
+Phần lớn số này nhằm hỗ trợ công nghệ liên quan AI.
+"Chúng tôi chưa nhận thấy doanh nghiệp nào giảm sử dụng AI vì DeepSeek.
+Khi nhắc đến thế hệ chip kế tiếp của Nvidia, không khách hàng nào muốn bỏ lỡ", Ives cho biết.
+Sắp tới, Nvidia sẽ bán chip Blackwell, được hãng giới thiệu có tốc độ xử lý nhanh gấp nhiều lần thế hệ cũ.
+Khi được hỏi về kỳ vọng với ngành trí tuệ nhân tạo toàn cầu, CEO Nvidia Jensen Huang cho biết trong tương lai, AI có thể thực hiện rất nhiều công việc trong cuộc sống.
+Ví dụ trong ngành ôtô, công nhân có thể dùng máy móc AI để làm việc năng suất hơn.
+Bản thân chiếc xe cũng có thể được tích hợp công nghệ này.
+"Ngày nào đó, sẽ có hàng tỷ xe hơi chạy trên đường, với mỗi chiếc là một robot.
+Chúng sẽ thu thập dữ liệu và chúng tôi dựa vào đó để cải tiến công nghệ", ông kỳ vọng.

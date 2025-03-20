@@ -1,0 +1,19 @@
+Digitimestrích dẫn các nguồn tin trong ngành bán dẫn tại Trung Quốc cho biết DeepSeek đã khởi xướng chiến dịch tuyển dụng lớn để tìm kiếm nhân tài thiết kế bán dẫn.
+Công ty đặc biệt nhắm đến các chuyên gia về điện toán hiệu suất cao (HPC) và tối ưu hóa thuật toán để đẩy nhanh cả nỗ lực phát triển công nghệ và thương mại hóa.
+DeepSeek chưa chính thức công bố kế hoạch phát triển chip cho các ứng dụng biên hoặc đám mây, nhưng theo các nguồn tin, động thái tuyển dụng này thể hiện rõ tham vọng của công ty trong ngành chip AI.
+"Cuộc cạnh tranh toàn cầu liên quan đến mô hình ngôn ngữ lớn (LLM) ngày càng gay gắt, tính tự chủ của máy tính đã trở nên cần thiết.
+Điều này đưa DeepSeek vào vị thế tương tự OpenAI trong việc tự phát triển vi xử lý riêng", một nguồn tin nói.
+Một nguồn khác cho biết chiến lược hiện tại của DeepSeek là sử dụng GPU cấp thấp, hạ cấp và bộ xử lý điện toán nội địa, chẳng hạn Huawei Ascend, để tối đa hóa khả năng huấn luyện AI.
+Gần đây, 16 công ty chip AI của Trung Quốc, trong đó có Huawei, Moore Threads và Hygon, đã công bố các mẫu chip riêng với khả năng tương thích hoặc tích hợp với dịch vụ DeepSeek, đảm bảo hỗ trợ truy cập từ các nhà cung cấp đám mây như Huawei Cloud, Tianyi Cloud và Tencent Cloud.
+Bên cạnh chip nội địa, DeepSeek vẫn sử dụng GPU đã mua được từ Nvidia.
+Trước đó, SemiAnalysisnhận định công ty Trung Quốc có thể đã tiếp cận khoảng 10.000 mẫu GPU Nvidia H800 giảm hiệu năng để tuân thủ lệnh cấm của Mỹ và khoảng 10.000 GPU H100.
+Nói vớiCNBC, Alexandr Wang, CEO của Scale AI, cũng tiết lộ ông nắm thông tin DeepSeek đang sở hữu 50.000 chip Nvidia H100.
+"Các mẫu chip trong nước hiện không thể giúp DeepSeek theo kịp thế giới, đặc biệt trong các ứng dụng đào tạo và suy luận quy mô lớn", một nguồn tin nói.
+"Do đó, sáng kiến tự phát triển chip của DeepSeek có thể giúp giảm rủi ro bên ngoài, cải thiện hiệu suất và mức tiêu thụ điện năng cho các mô hình AI của công ty và tạo ra giải pháp khác biệt phù hợp với yêu cầu cụ thể".
+Dù vậy, DeepSeek cũng đang phải đối mặt với nhiều thách thức về việc tự phát triển chip, gồm nhu cầu thiết lập nền tảng vững chắc trong R&D công nghệ và đáp ứng tiêu chuẩn quốc tế về phát triển, thiết kế và chế tạo công nghệ cốt lõi.
+Do đó, chiến lược dài hạn của công ty đối với chip tự phát triển vẫn còn chưa chắc chắn.
+DeepSeek chưa đưa ra bình luận.
+Việc tự phát triển chip tùy chỉnh đang là xu hướng trong lĩnh vực bán dẫn nhằm giảm phụ thuộc vào Nvidia - công ty nắm giữ hơn 80% thị phần chip AI.
+Gần nhất, theoReuters, OpenAIđang hợp tácvới Broadcom và TSMC để phát triển chip suy luận tự thiết kế đầu tiên, dự kiến phát hành vào năm 2026.
+DeepSeekđược thành lập năm 2023 bởiLiang Wenfeng, đồng sáng lập của quỹ đầu tư chuyên về AI High Flyer.
+Công ty bắt đầu phát triển DeepSeek vào tháng 4/2023, trước khi ra mắt mô hình suy luận R1 hôm 20/1.

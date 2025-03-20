@@ -1,0 +1,24 @@
+Sáng 14/2, khi lập tài khoản Zalo cho người thân, Thành Trung (Hà Nội) bất ngờ khi ứng dụng không tự động gửi mã xác thực, mà yêu cầu anh phải soạn tin nhắn đến tổng đài 7539, tính phí 5.000 đồng mỗi tin nhắn.
+Lý do được nền tảng được đưa ra "Hệ thống đang bận, không thể gửi mã xác thực tự động".
+Theo anh Trung, đây là điều bất thường với một ứng dụng nhắn tin phổ thông khi yêu cầu người dùng phải tốn phí khi đăng ký tài khoản.
+"Số tiền không lớn, nhưng bất tiện và không thể coi là ứng dụng miễn phí nữa", anh nói.
+Ngoài ra, lý do "bận" không thể gửi tin nhắn tự động cũng được đánh giá "không hợp lý" với nền tảng vốn phục vụ hàng chục triệu người.
+Trong khi nếu người dùng soạn tin nhắn, tổng đài có thể gửi về ngay lập tức.
+Không chỉ khi đăng ký tài khoản, nếu quên mật khẩu, để lấy lại, Zaloyêu cầu xác thực bằng thiết bị cũ hoặc thông qua mã gửi đến số điện thoại.
+Trước đây, nền tảng sẽ gọi hoặc nhắn tin mã xác thực, nhưng nay người dùng sẽ phải soạn tin nhắn đến tổng đài 6020 (1.000 đồng/tin) hoặc tự gọi tổng đài với giá cước 1.000 đồng/phút.
+"Nếu quên mật khẩu mà tài khoản cũng hết tiền, chắc khỏi dùng Zalo được nữa", Phương Thanh (TP HCM) nói sau khi gọi tổng đài để lấy mã xác thực hôm 14/2 vì đổi điện thoại mới.
+Cô cũng thắc mắc khi cùng là thao thác lấy mã, nhưng mỗi nhu cầu lại phải gửi đến một tổng đài khác nhau với số tiền chênh lệch.
+Trên các kho ứng dụng, từ đầu tháng 2, nhiều người cũng phàn nàn về chuyện soạn tin nhắn nhiều lần khi quên mật khẩu, do không có mã gửi về hoặc mã không hoạt động, gây tốn kém so với trước.
+Zalo chưa bình luận về vấn đề này.
+Việc xác thực người dùng qua số điện thoại là một trong những yêu cầu bắt buộc với dịch vụ viễn thông cơ bản trên Internet, trong đó có ứng dụng nhắn tin gọi điện qua mạng, nhưZalo.
+Việc này nhằm đáp ứng Nghị định 163 về thi hành Luật Viễn thông, có hiệu lực từ tháng 1/2025.
+Theo đó, người dùng phải cung cấp tối thiểu thông tin gồm tên đăng ký, số điện thoại di động, hoặc thông tin định danh khác nếu không sử dụng số điện thoại.
+Doanh nghiệp cung cấp dịch vụ có trách nhiệm xác thực người dùng qua số điện thoại di động hoặc qua thông tin định danh trước khi cung cấp dịch vụ.
+Thực tế từ trước khi có quy định, các ứng dụng OTT như Zalo, Telegram, Viber, Messenger cũng đã dùng số điện thoại để gửi mã xác thực người dùng.
+Tuy nhiên trong hầu hết trường hợp, họ là bên chủ động gửi mã và người dùng không tốn chi phí.
+Thời gian qua, Zalo cũng siết nhiều tính năng miễn phí.
+Năm 2022, nền tảng từng ra quy định người dùng không trả phí sẽ bịgiới hạntối đa 1.000 bạn bè, chỉ có thể trả lời tin nhắn từ 40 người lạ mỗi tháng.
+Tháng 8 năm ngoái, Zalogiảmdung lượng lưu trữ miễn phí từ 1 GB xuống 500 MB.
+Người dùng cũng bị hạn chế sao lưu dữ liệu nhắn tin của mình sang nền tảng đám mây bên ngoài, chỉ có thể dùng zCloud với giá tối thiểu 490.000 đồng.
+Zalo là một trong những nền tảng nhắn tin và mạng xã hội có nhiều người dùng tại Việt Nam.
+Thống kê của Bộ Thông tin và Truyền thông đến giữa 2024, ứng dụng có khoảng 76, 5 triệu người dùng hàng tháng.

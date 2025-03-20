@@ -1,0 +1,24 @@
+Theo thống kê trên nền tảng đo lường tốc độ i-Speed của Trung tâm InternetViệt Nam VNNIC, mạng băng rộng cố định của Việt Nam có hai tháng tăng trưởng cao, từ 93 Mbps tháng 11/2024 lên 130 Mbps vào tháng 12/2024 và 144 Mbps tháng 1/2025.
+Đóng góp lớn vào mức tăng trưởng này là sự gia tăng về tốc độ của các thuê bao mạng VNPT.
+Theo biểu đồ, những nhà cung cấp khác có mức tăng nhẹ hoặc giữ nguyên.
+Trong khi đó, biểu đồ mạng VNPT liên tục đi từ 75 Mbps vào tháng 11/2024 lên gần gấp đôi vào tháng tiếp theo và đạt hơn 181 Mbps vào tháng 1.
+Lý giải về sự tăng tốc độ này, đại diện VNPT cho biết một trong những nguyên nhân là họ ứng dụng công nghệ XGSPON.
+XGSPON (XGigabit-capable Passive Optical Network) là công nghệ truyền dẫn quang học được phát triển dựa trên nền tảng của công nghệ PON, cho phép nâng tốc độ truyền dẫn dữ liệu tối đa 10 Gbps cho cả tải lên và tải xuống trên một đường cáp quang.
+Công nghệ này giúp giải quyết bài toán chênh lệch giữa hai đường tải, vốn là hạn chế của các công nghệ cũ được sử dụng phổ biến tại Việt Nam.
+Ví dụ, GPON trước đây cho tốc độ tải lên và xuống lần lượt là 1, 25 và 2, 5 Gbps, hay XGPON cho tải xuống 10 Gbps, nhưng tải lên dừng lại ở 2, 5 Gpbs.
+Việc cung cấp băng thông đối xứng với tốc độ ở chiều tải xuống tăng bốn lần và chiều tải lên tăng tám lần, tốc độ chung được cải thiện.
+Ngoài ra, việc cân bằng giữa hai đường tải cũng phù hợp xu thế và nhu cầu của người dùng Internet, khi các ứng dụng như trò chơi trực tuyến, livestream, IoT, họp online, điện toán đám mây đòi hỏi đường tải lên tốc độ cao.
+Công nghệ này được VNPT bắt đầu ứng dụng từ tháng 7 năm ngoái tại các tỉnh thành, nhưng chưa dành cho người dùng cuối.
+Ba tháng sau, nhà mạng tiếp tục giới thiệu thiết bịWi-Fi 7 XGSPONsử dụng nền tảng công nghệ Qualcomm, đồng thời mở rộng các kết nối XGSPON đến người dùng cuối.
+"Chúng tôi sẽ tiếp tục mở vùng phủ XGSPON", nhà mạng này cho biết, hứa hẹn có thể đưa ra các gói cước với tốc độ tối thiểu 300 Mbps.
+Ngoài công nghệ mới, thời gian qua, Internet cố định tại Việt Nam được cải thiện nhờ các gói cước tốc độ cao của nhà mạng.
+Giai đoạn cuối 2024, hàng loạt nhà mạng nâng tốc độ cho các gói có sẵn của người dùng với giá không đổi.
+Ví dụ, thuê bao dùng gói tốc độ lớn hơn 200 Mbps của Viettel được nâng tối đa 1 Gbps, những thuê bao còn lại tăng 50% dung lượng.
+Trong khi đó, VNPT cũng nâng cấp cho một số gói cước dung lượng tối đa gấp ba lần.
+Năm 2025, hạ tầng Internet Việt Nam được dự báo có nhiều thay đổi tích cực, khi một số tuyến cáp quang biển mới được đưa vào hoạt động.
+Các nhà mạng đặt mục tiêu 100% hộ gia đình tiếp cận Internet cáp quang trong năm.
+Nghị quyết 57xác định mục tiêu đến năm 2030, Việt Nam có hạ tầng công nghệ số tiên tiến, hiện đại, dung lượng siêu lớn, băng thông siêu rộng ngang tầm các nước tiên tiến.
+Việt Nam được ghi nhận tăng trưởng bứt phá về Internet di động, sau khi một số nhà mạng triển khai 5G.
+Số liệu trong tháng 1 của công cụ Ookla Speedtest cho thấy tốc độ Internet di động đạt 134 Mbps, tăng 15 bậc so với tháng trước đó và lần đầu tiênđứng thứ 22thế giới.
+Chỉ thị 05 về các giải pháp thúc đẩy tăng trưởng kinh tế được Thủ tướng ký ban hành ngày 1/3 nhấn mạnh tăng trưởng kinh tế phải dựa vào khoa học công nghệ, đổi mới sáng tạo và chuyển đổi số, nhân lực chất lượng cao, tăng năng suất lao động.
+Trong đó, Bộ Khoa học và Công nghệ được yêu cầu "đẩy mạnh thương mại hóa 5G; nghiên cứu công nghệ 6G; phát triển vệ tinh viễn thông và nâng cấp hạ tầng trục viễn thông quốc gia, đẩy mạnh đầu tư và phát triển cơ sở hạ tầng băng rộng cố định tốc độ cao".

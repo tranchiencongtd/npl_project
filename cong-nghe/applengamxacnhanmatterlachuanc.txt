@@ -1,0 +1,17 @@
+Nhà thông minh được coi xu hướng mới rõ nét nhưng bị phân mảnh khi mỗi hãng lại tạo ra một nền tảng riêng biệt.
+Người dùng khi muốn mở rộng, nâng cấp bắt buộc chọn thiết bị của hãng có sẵn hoặc có khả năng tương thích vốn rất hạn chế.
+Các chuyên gia đánh giá đây là điểm nghẽn khiến smarthome không thể tăng trưởng nhanh như kỳ vọng.
+Matter là tiêu chuẩn do Liên minh Tiêu chuẩn Kết nối (CSA) ra mắt năm 2019 nhưng cuối 2022 mới có các thiết bị đầu tiên đạt chứng chỉ này.
+Đây không phải một nền tảng smarthome như Apple HomeKit, Google Home hay Amazon Alexa mà chỉ là tiêu chuẩn giúp đảm bảo các thiết bị nhà thông minh thương hiệu khác nhau có thể hoạt động liền mạch.
+Tuy nhiên, để thực sự trở thành chuẩn chung, Matter cần "cái gật đầu" từ tất cả các nhà sản xuất.
+Apple - công ty nổi tiếng với thói quen tạo ra các nền tảng đóng - lại là thương hiệu lớn đầu tiên góp sức cho chuẩn chung Matter.
+Hãng tuyên bố mọi thiết bị được chứng nhận theo tiêu chuẩn Matter sắp tới sẽ tự động đủ điều kiện tương thích với HomeKit.
+Điều này có ý nghĩa đặc biệt quan trọng với các nhà sản xuất smarthome khi giảm hẳn khâu thử nghiệm riêng biệt với Apple, tiết kiệm chi phí cũng như thời gian nghiên cứu trước khi thương mại hóa.
+Trước đây, một thiết bị thông minh muốn gắn nhãn "Hoạt động với Apple Home", nhà sản xuất phải vượt qua hai thử nghiệm riêng biệt: một cho Matter và một cho Apple HomeKit.
+Tương tự, nếu muốn sản phẩm hoạt động đa nền tảng, các công ty phải làm thêm một loạt thử nghiệm với Google Home, Amazon Alexa...
+Việc đơn giản quá trình cấp chứng nhận giúp thiết bị hoạt động với HomeKit được dự đoán tăng lên nhanh chóng ngay từ năm nay.
+Người dùng cũng được hưởng lợi bởi chi phí nghiên cứu giảm giúp giá thành sản phẩm cạnh tranh hơn.
+Theo thông báo từ CSA, Google Home và Samsung SmartThings đều dự kiến áp dụng phương pháp tương tự trong năm 2025.
+Điều này giúp Matter thực sự trở thành chuẩn chung của smarthome và người dùng sẽ chỉ cần để ý tiêu chuẩn này khi thiết lập hệ thống, mua sắm thiết bị mới.
+HomeKit được Apple giới thiệu năm 2014 nhưng phải tới đầu 2020 mới được hãng đầu tư mạnh.
+Người dùng có thể ra lệnh giọng nói, điều khiển qua ứng dụng các thiết bị tương thích qua hầu hết sản phẩm của Apple như iPhone, máy tính Mac, Apple Watch, iPad.

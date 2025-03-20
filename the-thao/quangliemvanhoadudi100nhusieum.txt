@@ -1,0 +1,25 @@
+Quang Liêm cầm quân đen, chọn Phòng thủ Ấn Độ, không đẩy tốt g6 mà lên tốt e6.
+Phương án này được coi là an toàn hơn so với g6.
+Hai kỳ thủ đi nhanh, gần như nhớ biến khai cuộc trong 12 nước đầu tiên.
+Sau đó, họ đổi quân nhanh ở trung cuộc, rồi sớm đưa ván đấu vào tàn cuộc xe và các tốt ở nước 25.
+Đại diện Việt Nam hơn một tốt đầu tàn cuộc, nhưng chủ yếu là tốt cô lập.
+Vì thế, Navara tập trung dùng xe bắt các tốt này, khiến Quang Liêm phải để mất lại một tốt.
+Hai bên tiếp tục đánh trong thế hòa, đến nước 44 mới bắt tay chia điểm.
+Theo đánh giá của phần mềm cờ vua mạnh nhất hiện tại Stockfish, tỷ lệ chính xác của Quang Liêm trong ván này là 100%, so với Navara 99%.
+Tỷ lệ 100% đồng nghĩa anh đã đi toàn bộ 44 nước theo đề xuất của Stockfish.
+Ở mỗi nước đi, Stockfish có thể đề xuất một, hoặc vài nước mà nó cho là tốt nhất, không làm yếu thế.
+Elo của Stockfish hiện khoảng trên 3.600, trong khi Elo của Quang Liêm và Navara lần lượt chỉ là 2.739 và 2.677.
+Tuy nhiên, việc có tỷ lệ chính xác 100% như Stockfish không hiếm.
+Có nhiều lý do để điều đó xảy ra.
+Hai kỳ thủ này đều đã hoặc đang là Siêu đại kiện tướng.
+Ván đấu sử dụng khai cuộc kín, ít xô xát, lại đổi quân nhanh chóng.
+Hình cờ tàn cũng không phức tạp.
+Có ba ván khác ở vòng hai cũng hòa, và các kỳ thủ có tỷ lệ chính xác đều từ 97% trở lên.
+Ở ván duy nhất phân thắng bại, kỳ thủ Ấn Độ đang lên Aravindh Chithambaram cầm quân đen, hạ Vincent Keymer.
+Sau vòng hai, Aravindh và Sam Shankland đang dẫn đầu với 1, 5 điểm.
+Quang Liêm nằm trong nhóm 6 kỳ thủ đã có 1 điểm.
+Còn Ediz Gurel và Vi Dịch đứng nhóm cuối với 0, 5 điểm.
+Ở vòng ba, bắt đầu lúc 21h15 thứ Sáu 28/2, giờ Hà Nội, Quang Liêmtrở lại cầm quân trắng gặp kỳ thủ có Elo thấp nhất giải, Gurel (2.624).
+Đây sẽ là cơ hội để kỳ thủ 34 tuổi tìm thắng lợi đầu tay tại giải.
+Prague Masters 2025 diễn ra từ 26/2 đến 7/3, với 10 kỳ thủ đấu vòng tròn một lượt cờ tiêu chuẩn, tính điểm, tại khách sạn Don Giovanni, thành phố Prague, CH Czech.
+Quang Liêm là hạt giống số ba tại giải theo Elo, sau Vi Dịch (2.755) và Praggnanandhaa Rameshbabu (2.741).

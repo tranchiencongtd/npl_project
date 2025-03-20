@@ -1,0 +1,24 @@
+Năm 2023, Sam Altmanbắt đầu gây tiếng vang vớiOpenAIvà ChatGPT.
+Tại một hội nghị ở Ấn Độ, ông được hỏi làm sao để xây dựng một mô hình nền tảng với một nhóm kỹ sư cực kỳ thông minh và số tiền 10 triệu USD.
+"Hoàn toàn vô vọng khi cạnh tranh với chúng tôi về đào tạo mô hình nền tảng", Altman trả lời.
+Ông cho rằng các doanh nhân có thể thử hoặc không nên thử, nhưng kết quả đều "khá vô vọng".
+Phát ngôn của nhà đồng sáng lập OpenAI đang lan truyền sau khi công ty ông chịu sự cạnh tranh từ DeepSeek.
+Startup Trung Quốc khẳng định đã phát triển mô hình AI với số tiền chưa tới 6 triệu USD.
+Trên các mạng xã hội, nhiều ý kiến trái chiều về câu trả lời của Altman đang xuất hiện.
+Trong đó, một số cho rằng ông chủ OpenAI kiêu ngạo và sớm phải trả giá trước thành công bất ngờ của DeepSeek.
+Tuy nhiên, nhiều người đồng tình với nhận định của Altman.
+"Ấn Độ đã tạo ra bao nhiêu mô hình nền tảng?
+Câu trả lời là không.
+Vì vậy cũng không có lý do gì để chỉ trích Sam Altman", nhà khoa học có tên Minotaur bình luận.
+Bên cạnh đó, một số cho rằng câu trả lời của Altman vẫn đúng về mặt kỹ thuật khi đề cập đến chuyện DeepSeek được cho là vẫn phải "chưng cất" dữ liệu từ OpenAI mới có thể xây dựng mô hình chi phí thấp.
+Ngoài ra, họ cũng nghi ngờ con số mà startup Trung Quốc đưa ra, cho rằng số tiền họ bỏ ra phải gấp nhiều lần.
+"Những người như Sam Altman cần tạo sự khan hiếm trong lĩnh vực AI.
+Nếu OpenAI là tổ chức nguồn mở, 'khoảnh khắc' DeepSeek đã xảy ra sớm hơn rất nhiều", một tài khoản bình luận.
+Trong các chia sẻ mới, nhà đồng sáng lập OpenAI cũng đánh giá mô hình DeepSeek R1 tạo ấn tượng, đặc biệt nhờ hiệu năng có được so với mức giá.
+"Chúng tôi sẽ cung cấp những mô hình với giá tốt hơn nhiều.
+Thật phấn khích khi có một đối thủ cạnh tranh mới", Altman viết trên X khi DeepSeek bắt đầu gây sốt trên toàn cầu đầu tuần này.
+DeepSeeklà mô hình AI mới nổi, thu hút sự chú ý nhờ chi phí xây dựng thấp và hiệu quả sánh ngang các mô hình phổ biến hiện nay.
+Dự án được thành lập năm 2023 bởiLiang Wenfeng, đồng sáng lập của quỹ đầu tư chuyên về AI High Flyer.
+Công ty bắt đầu phát triển DeepSeek vào tháng 4/2023, hướng đến siêu trí tuệ nhân tạo tổng quát AGI, tương tự mục tiêu OpenAI và nhiều công ty đang theo đuổi.
+DeepSeek tuyên bố họ chỉ sử dụng 2.048 card đồ họa Nvidia H800 và 5, 6 triệu USD để đào tạo mô hình V3 với 671 tỷ tham số, bằng một phần nhỏ so với số tiền OpenAI và Google phải bỏ ra để huấn luyện mô hình có quy mô tương đương.
+Một số chuyên gia cho biết mô hình đưa ra những phản hồi có thể cho thấy nó được đào tạodựa trên kết quảtừ GPT-4.

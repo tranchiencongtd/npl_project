@@ -1,0 +1,11 @@
+"Chúng tôi sẽ tiếp tục nâng cấp Google Assistant lên Gemini trên thiết bị di động của người dùng những tháng tới.
+Assistant sẽ không còn truy cập được trên phần lớn thiết bị, cũng như không thể tải về từ cửa hàng ứng dụng vào cuối năm", Brian Marquardt, Giám đốc cấp cao phụ trách sản phẩm tại Google DeepMind, cho biết ngày 14/3.
+Tuy nhiên, các mẫu smartphone chạy Android 9 hoặc cũ hơn, có ít hơn 2 GB RAM sẽ tiếp tục vận hành Assistant nguyên bản cũ.
+Ông Marquardt nói thêm Google cũng sẽ cập nhật Gemini lên tablet, ôtô và các thiết bị kết nối với điện thoại như tai nghe và đồng hồ.
+"Chúng tôi sẽ mang trải nghiệm mới, dựa trên năng lực của Gemini, đến các thiết bị gia dụng như TV và loa.
+Chi tiết sẽ được công bố trong vài tháng nữa.
+Assistant vẫn sẽ tiếp tục hoạt động trên những thiết bị này cho đến lúc đó", ông nói.
+Google Assistant được giới thiệu lần đầu tại Hội nghị dành cho các nhà phát triển Google I/O 2016.
+Khi mới ra mắt, trợ lý ảo được tích hợp trong ứng dụng nhắn tin Google Allo và loa thông minh Google Home, sau đó có mặt trên Google Pixel, Pixel XL trước khi xuất hiện trên nhiều thiết bị thông minh khác.
+Googlera mắt Gemini 1.0 vào tháng 12/2023 để cạnh tranh với GPT của OpenAI.
+Theo CEO Sundar Pichai cuối năm ngoái, các ứng dụng của Gemini đã có hai tỷ người dùng.

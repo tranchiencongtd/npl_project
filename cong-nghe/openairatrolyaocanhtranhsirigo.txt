@@ -1,0 +1,17 @@
+Được công bố ngày 14/1, OpenAI cho biết Tasks là "bước đột phá vào không gian trợ lý ảo", khi cho phép tận dụng sức mạnh sẵn có củaChatGPTđể yêu cầu thực hiện các nhiệm vụ, từ ra lệnh cơ bản đến đặt vé xem phim, hay các hành động định kỳ như tóm tắt tin tức hàng tuần hoặc cập nhật thời tiết hàng ngày.
+Dựa trên cuộc trò chuyện của người dùng, Tasks cũng có thể chủ động đề xuất ý kiến.
+Người dùng có tùy chọn chấp nhận hoặc từ chối chúng, hoặc đặt thời gian cụ thể cần thực hiện.
+Trước mắt, Tasks có mặt trên nền web của ChatGPT, dành cho các thuê bao Plus, Team và Pro.
+Tính năng mới cho ứng dụng ChatGPT trên nền tảng di động sẽ có trong vài ngày tới.
+Để sử dụng Tasks, người dùng cần chọn mô hình GPT-4o.
+Tất cả tác vụ có thể được quản lý trực tiếp trong các luồng trò chuyện hoặc thông qua nút New Tasks (Nhiệm vụ mới).
+Hiện tính năng giới hạn 10 tác vụ hoạt động đồng thời.
+TheoThe Verge, có thể xem Tasks là nỗ lực của OpenAI trong việc biến chatbot thành công cụ giống trợ lý ảo truyền thống như Google Assistant, Apple Siri hay Amazon Alexa, nhưng được tăng cường sức mạnh của AI GPT mạnh mẽ.
+Điều này cũng cho thấy công ty củaSam Altmanđang mở rộng vai trò của ChatGPT vượt ra ngoài cuộc trò chuyện bằng văn bản thông thường, tiến vào "lãnh thổ" của trợ lý ảo giọng nói.
+Tham vọng củaOpenAIđối với Tasks cũng vượt ra ngoài việc lập lịch đơn giản.
+Trước đó, Bloombergđưa tin công ty đang phát triển Operator, một Tác nhân AI (AI Agent) tự động có khả năng điều khiển máy tính độc lập.
+Một kỹ sư khác có tên Tibor Blaho phát hiện OpenAI có thể đang phát triển một công cụ có tên mã Caterpillar, tích hợp Tasks và cho phép ChatGPT tìm kiếm thông tin cụ thể, phân tích vấn đề, tóm tắt dữ liệu, điều hướng trang web và truy cập tài liệu, người dùng nhận được thông báo khi hoàn thành nhiệm vụ.
+OpenAI không bình luận về thông tin này.
+Các công ty phát triển trợ lý ảo cũng đang bắt đầu tích hợp sâu AI vào sản phẩm của mình.
+Apple hiện đưa Apple Intelligence vào Siri để thực hiện một số tác vụ bằng giọng nói.
+Tháng 12/2024, CEO của Amazon Andy Jassy cho biết bản cải tiến của Alexa sẽ thực hiện hành động thay người dùng mà không cần nhắc nhở, dự kiến sẽ được phát hành trong "những tháng tới".

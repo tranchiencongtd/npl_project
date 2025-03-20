@@ -1,0 +1,35 @@
+"Tôi nghĩ họ có lẽ là những người am hiểu nhất thế giới về tấn công mạng.
+Khi biết nhóm đến từ Việt Nam, tôi thực sự thấy ngạc nhiên và thú vị", Ben Zhou chia sẻ vớiVnExpresssauvụ tấn công gây thiệt hại 400.000 ETH.
+Nhóm chuyên gia ông Zhou nhắc tới là Verichains, công ty bảo mật với các kỹ sư Việt Nam, từng nổi tiếng khi nhiều lần hỗ trợ các dự án blockchain trong công tác bảo mật.
+Vụ hack xảy ra tối 21/2, hacker lấy đi số đồng ETH trị giá 1, 5 tỷ USD từ ví lạnh của Bybit, trở thành vụ tấn công lớn nhất trong lịch sử tiền điện tử.
+Tối hôm đó, Thành Nguyễn, nhà sáng lập Verichains "nghe được tin khi chuẩn bị đi ngủ".
+"Tôi nghĩ cần làm gì đó, nếu không sẽ có rất nhiều người bị ảnh hưởng", anh nói vớiVnExpress.
+Cùng lúc đó, anh cũng được đội ngũ Bybit liên hệ.
+Ngay lập tức, họ chuẩn bị thủ tục bay tới trụ sở của Bybit tại Dubai (UAE).
+Sau một ngày làm việc, nguyên nhân đã được xác định.
+Tài liệu hơn 28 trang được kỹ sư của Việt Nam đưa ra ngày 24/2 là báo cáo sớm nhất về sự việc.
+Nó trở thành dữ liệu quan trọng để các nhóm liên quan và người dùng hiểu hơn, hạn chế được những thông tin sai lệch có thể ảnh hưởng tới thị trường tiền số.
+Theo kết luận được Verichains đưa ra khi đó, vấn đề xuất phát từ Safe, nhà cung cấp dịch vụ ví đa chữ ký (multisign) mà Bybit sử dụng.
+Nhóm hacker, được xác định là Lazarus, đã truy cập vào thiết bị của đội ngũ Safe Wallet, thay đổi mã java script độc hại để tạo một giao dịch giả mạo.
+Khi các signer (người ký) của Bybit làm việc, họ được yêu cầu ký một giao dịch thông thường, nhưng vô tình cấp phép cho hacker chiếm số tiền trên.
+Hai ngày sau, Safe xác nhận thông tin, đồng thời cho biết không có bất cứ lỗ hổng bảo mật nào từ Bybit và các signer hoàn toàn tuân thủ theo quy trình.
+Verichains ra đời năm 2017, từng phát hiện và công bố nhiều lỗ hổng trên các dự án blockchain như BNB Chain, Cosmos, Polygon, các ví quản lý tài sản số dùng tính toán đa bên (MPC).
+Verichains cho biết đã hỗ trợ bảo mật cho hơn 200 khách hàng toàn cầu, bao gồm tên tuổi lớn như Binance, Bullish, Galaxy Digital, Polygon, BNB, Aptos, Sui, Kakao, Line Corp.
+Đây cũng là đơn vị bảo mật hiếm hoi tham gia hỗ trợ xử lý hầu hết sự cố hack tiền số lớn nhất toàn cầu, bao gồm vụ hack 600 triệu USD cầu nối của Binance Smart Chain, vụ hack 650 triệu USD cầu nối Ronin của Sky Mavis năm 2022.
+Tháng 3 năm ngoái, họ công bố công cụRevela, cho phép dịch ngược mã nguồn các dự án trên blockchain Aptos và SUI.
+Nhà đồng sáng lập Aptos, Mo Shaikh đánh giá đây là bước đột phá quan trọng về bảo mật cho mạng này, giúp kiểm tra tính minh bạch của các dự án và tăng tính an toàn cho người sử dụng.
+Ben Zhou, nhà đồng sáng lập Bybit, cho biết lần đầu biết tới Verichains, nhưng sự xuất hiện của nhóm kỹ sư Việt Nam ngay sau sự cố khiến CEO này bất ngờ và cảm động.
+"Họ thể hiện kiến thức sâu rộng trong lĩnh vực và tôi nghĩ đó là một trong những nhóm chuyên nghiệp nhất trong ngành", Ben nói.
+Sau vụ tấn công, Bybit cho biết sẽ tăng cường bảo mật và sẽ làm việc sâu hơn với công ty của kỹ sư Việt Nam trong nỗ lực này.
+Sau quá trình điều tra sự cố của Bybit, đội ngũ Verichains đánh giá việc sử dụng giao diện người dùng của Safe có thể tiềm ẩn rủi ro.
+Nhóm phát triển nhanh một công cụ giúp thực hiện giao dịch multi-signature với UI chạy ngay trên máy tính thay cho giao diện trên mặc định trước đây, cung cấp chúng miễn phí cho các dự án khác sử dụng.
+Theo CEO Ben Zhou, vụ tấn công sau đó được xác định là do lỗi đến từ dịch vụ bên thứ ba Safe, nhưng cho thấy nguy cơ mất an toàn có thể đến với bất cứ ai trong lĩnh vực tiền điện tử.
+Đặc biệt với các sàn giao dịch, ông tin mức độ bảo mật cần cao hơn.
+"Sau sự việc, cách tiếp cận của chúng tôi thay đổi.
+Với những tài sản và sự giám sát từ người dùng, chúng tôi thực sự giống như một ngân hàng.
+Vì vậy cần sử dụng mức độ bảo mật của ngân hàng", ông nói.
+CEO Bybit cũng cho biết sẽ là người trực tiếp chỉ đạo công tác bảo mật và nhận báo cáo hàng tuần, đồng thời kết hợp với các kỹ sư bảo mật top đầu thế giới như Verichains.
+Theo giới chuyên gia, vụ tấn công ngày 21/2 không ảnh hưởng tới người dùng cũng như không gây ra vấn đề lớn cho thị trường, do tính minh bạch được đảm bảo và đặc biệt nhờ hoạt động rút tiền không bị gián đoạn.
+Điều này đến từ các tài sản của người dùng trên Bybit được bảo đảm 1:1.
+Đến 26/2, sàn cho biết khối lượng giao dịch vượt mức 48 tỷ USD, thanh khoản của nhiều cặp giao dịch cũng vượt so với trước sự cố.
+"Vụ hack là tiếng chuông cảnh tỉnh về an ninh và bảo mật đối với toàn ngành và là cơ hội để Bybit cũng như các đơn vị không ngừng cải thiện và nâng cao tiêu chuẩn an ninh, sẵn sàng đối mặt với các nguy cơ tiềm ẩn đang rình rập", đại diện sàn cho biết.

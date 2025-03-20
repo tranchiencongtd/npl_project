@@ -1,0 +1,38 @@
+"Chính phủ, công ty và nhà đầu tư tại Trung Quốc đang có chung niềm tin rằng cơ hội AI nằm ở việc ứng dụng thực tế, tức đưa dịch vụ AI len lỏi trong đời thực, thay vì chỉ cố gắng mở rộng, cải thiện hiệu suất các mô hình", Tilly Zhang, nhà phân tích công nghệ của công ty nghiên cứu Gavekal Dragonomics tại Bắc Kinh, nói vớiRest of World.
+"Trung Quốc hiện cạnh tranh với các công ty Mỹ về việc ai có thể tận dụng tốt hơn các mô hình AI hiện có".
+Các công ty Trung Quốc đã đưa AI phủ khắp lĩnh vực.
+Sự ra đời củaDeepSeekvới chi phí thấp càng giúp việc tiếp cận người dân nhanh chóng hơn, từ lĩnh vực công nghệ cao cho đến các tiểu thương ở chợ.
+TheoYicai Global, hơn 20 thương hiệu Trung Quốc đã công bố kế hoạch nhúng DeepSeek vào phần mềm xe hơi của họ.
+Phần lớn tập trung vào cải thiện các tính năng AI hiện có như điều khiển bằng giọng nói, lập bản đồ với độ chính xác cao, cải tiến dịch vụ âm nhạc, tìm kiếm trên web và nhắn tin giống như smartphone.
+Chẳng hạn, Geely Auto, nhà sản xuất ôtô lớn thứ hai của Trung Quốc, cho biết các mẫu xe mới nhất của hãng tích hợp DeepSeek "có thể hiểu được những hướng dẫn mơ hồ của tài xế".
+Một video quảng cáo cho thấy tài xế nói "tôi hơi mệt" với hệ thống AI, sau đó bot chạy bằng DeepSeek hướng dẫn xe đóng cửa sổ, nghiêng ghế một góc 125 độ, làm mờ đèn và đặt báo thức reo sau 35 phút để tài xế có thể ngủ trưa.
+"Các công ty xe điện Trung Quốc đã chuẩn bị sẵn sàng mọi thứ.
+DeepSeek giúp họ đạt mục tiêu vượt trội về phần mềm và hiệu suất", Grace Shao, người sáng lập AI Proem, nói.
+Ở lĩnh vực smartphone, 5 công ty hàng đầu Trung Quốc đều áp dụng DeepSeek trong các bản cập nhật hệ thống.
+Chẳng hạn, Huawei trang bị mô hình DeepSeek R1 cho trợ lý ảo Xiaoyi với các tính năng "tự động suy nghĩ sâu, sau đó phản hồi nhanh và ngắn".
+Tương tự, Oppo, Honor, Vivo và Xiaomi tích hợp R1 vào các tính năng cài sẵn trên smartphone như tạo văn bản và video hay tìm kiếm trên web.
+"Chúng tôi dự kiến mất hai năm để mọi người sử dụng AI trên smartphone.
+Nhưng nhờ DeepSeek, giờ đây mọi người đều biết về AI", Liu Zuohu, Giám đốc sản phẩm Oppo, nói vớiGuancha.
+Ở mảng gia dụng, nhà sản xuất thiết bị gia dụng lớn nhất Trung Quốc Midea đã ra mắt các máy điều hòa không khí tích hợp DeepSeek, được giới thiệu là "người bạn hiểu biết" có thể "nắm bắt chính xác suy nghĩ của bạn".
+Điều hòa phản hồi lời nói của người dùng, như khi nói "tôi thấy lạnh", thiết bị tự điều chỉnh nhiệt độ và độ ẩm.
+Sản phẩm thậm chí có thể "trò chuyện" bằng chức năng giọng nói DeepSeek.
+Tương tự, các công ty khác cũng bắt đầu đưa DeepSeek vào máy hút bụi, tủ lạnh thông minh...
+thông qua tương tác bằng giọng nói để hiểu rõ hơn ý định của người dùng và tự động thực hiện yêu cầu.
+"Thông qua việc sử dụng cái tên rất nổi tiếng như DeepSeek, các hãng có thể khơi dậy sự quan tâm của người dùng khi muốn sử dụng thử nhiều sản phẩm hỗ trợ AI hơn", Zhang của Gavekal Dragonomics nhận xét.
+Ở lĩnh vực chăm sóc sức khỏe, theoEconomic Observer News, gần 100 bệnh viện trên khắp Trung Quốc thông báo đưa DeepSeek vào các hoạt động khác nhau, như hỗ trợ quy trình chẩn đoán và điều trị, phân tích hình ảnh y tế, kiểm soát chất lượng hồ sơ y tế.
+Dù vậy, việc này cũng gây tranh cãi.
+Hồi tháng 2, cơ quan y tế ở tỉnh Hồ Nam đưa ra cảnh báo về việc sử dụng AI để tạo đơn thuốc.
+Năm 2022, Ủy ban Y tế Quốc gia Trung Quốc cấm sử dụng AI thay bác sĩ chẩn đoán bệnh nhân.
+DeepSeek cũng ứng dụng trong các cơ quan chính phủ ở nhiều mức độ khác nhau.
+TheoCaixin Global, quận Long Cương, Thâm Quyến cuối tháng 2 báo cáo "hiệu quả được cải thiện đáng kể" sau khi áp dụng DeepSeek vào hệ thống được 20.000 công chức sử dụng.
+Các tài liệu do DeepSeek viết đạt tỷ lệ chính xác 95%, qua đó giúp thời gian thực hiện các quy trình phê duyệt hành chính giảm 90%.
+Truyền thông Trung Quốc cũng ca ngợi DeepSeek giúp cảnh sát thành phố Vũ Hán tìm ngựa hoang.
+Cuối tháng trước, cảnh sát nhận được báo cáo rằng có 5 con ngựa đi lang thang vào ban đêm.
+Họ sau đó yêu cầu chatbot cung cấp thông tin về các trang trại ngựa xung quanh, từ đó xác định được chủ sở hữu bằng cách đến các nơi DeepSeek gợi ý.
+Trước đó, DeepSeek cũng đượccác tiểu thươngở chợ Nghĩa Ô, được mệnh danh là "thủ phủ của mọi hàng hóa nhỏ trên thế giới" và là khu chợ bán buôn lớn nhất Trung Quốc, dùng để bán hàng xuyên biên giới.
+TheoEzhejiang, việc sử dụng DeepSeek không trực tiếp, mà thông qua ứng dụng bên thứ ba tích hợp sẵn AI này.
+Tiểu thương có thể tạo video giới thiệu sản phẩm bằng cả tiếng Trung và tiếng Anh chỉ bằng cách quay một clip ngắn về sản phẩm và cung cấp một vài từ khóa hoặc chọn một cảnh phù hợp.
+AI cũng giúp tạo áp phích, thiết kế trang sản phẩm chi tiết để thu hút khách hàng, báo giá và xử lý đơn hàng hay thậm chí dự báo xu hướng thị trường chính xác.
+Theo Chen Li, nhà phân tích của Anbound, các cơ quan, tổ chức, doanh nghiệp và người dân sử dụng DeepSeek không chỉ để cải thiện dịch vụ của họ, mà còn để thể hiện sự ủng hộ đối với sản phẩm trong nước cũng như các mục tiêu của chính phủ về AI.
+"Trung Quốc từ lâu xác định AI là trọng tâm chiến lược cho sự phát triển tương lai và muốn trở thành quốc gia dẫn đầu toàn cầu trong lĩnh vực này", Li nhận định.
+"Do đó, việc thúc đẩy áp dụngAIlà bước đi rất tự nhiên trong việc đạt được mục tiêu lớn".

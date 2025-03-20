@@ -1,0 +1,13 @@
+Sau khi kích hoạt tính năng trên MyVIB, người dùng có thể chọn một trong hai ngưỡng tiêu chuẩn là 10 triệu đồng hoặc 100 triệu đồng.
+Đây là ngưỡng chi tiêu mà khách giữ lại để giao dịch thanh toán.
+Phần tiền vượt ngưỡng sẽ tự động kết nối vào tài khoản "Siêu lợi suất".
+Mức lợi suất trong một năm áp dụng theo thời gian gửi: 2, 5% cho 1-7 ngày; 2, 8% với 8-14 ngày, tăng dần đến 4, 3% cho 61-90 ngày.
+Qua đó, dòng tiền nhàn rỗi tăng khả năng sinh lời mỗi ngày.
+Người dùng có thể rút tiền bất kỳ lúc nào và vẫn hưởng lợi suất theo kỳ hạn tại thời điểm rút.
+Mọi biến động số dư, lợi suất tích lũy, mức lợi suất được cập nhật chi tiết trên MyVIB, hiển thị mỗi khi khách hàng tra cứu.
+MyVIB ứng dụng công nghệ điện toán đám mây (Cloud), Big Data, AI và GenAI.
+Nhờ đó, tài khoản "Siêu lợi suất" được phát triển với tiêu chí bảo mật, thân thiện và tối ưu, mang đến người dùng những lợi ích vượt trội.
+Ông Hồ Vân Long, Phó tổng giám đốc kiêm Giám đốc Khối Ngân hàng Bán lẻ VIB cho biết, dịch vụ là sáng kiến nhằm mang khái niệm về sự vận động của dòng tiền và trải nghiệm tối ưu dòng tiền nhàn rỗi đến từng khách hàng.
+"Giải pháp tài chính hướng đến mục tiêu đánh thức dòng tiền nhàn rỗi, biến từng khoản tiền ngủ quên thành cơ hội sinh lời.
+Xa hơn, nó tạo một cuộc cách mạng trong tư duy về dòng tiền", ông Long nói thêm.
+Khi kích hoạt tính năng để sử dụng tài khoản "Siêu lợi suất" trên ứng dụng MyVIB, khách hàng được miễn phí chọn tài khoản thanh toán số đẹp trị giá đến 15 triệu đồng, chương trình đến 31/3.

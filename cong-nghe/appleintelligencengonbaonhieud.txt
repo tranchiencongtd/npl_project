@@ -1,0 +1,11 @@
+Trong đợt cập nhật hồi tháng 10/2024, Apple cho biết Apple Intelligence sẽ chiếm khoảng 4 GB dung lượng iPhone của người dùng.
+Tuy nhiên, trên phiên bảniOS 18.2phát hành giữa tháng 12/2024, hãng đã bổ sung hàng loạt tính năng như Image Playground, Genmoji, ChatGPT tích hợp với Siri...
+Do đó, Apple Intelligence hiện chiếm 7 GB trên các mẫu iPhone tương thích, gần gấp đôi so với trước.
+Cụ thể, trên iPhone 15 Pro, iPhone 16, 16 Plus và 16 Pro với bộ nhớ trong 128 GB, Apple Intelligence vốn chiếm 3% dung lượng và giờ tăng lên 5, 5%.
+Riêng bản Pro Max với bộ nhớ trong bắt đầu từ 256 GB giúp người dùng không cần quá bận tâm đến không gian lưu trữ mà AI chiếm giữ.
+Dù có thể vô hiệu hóaApple Intelligence, người dùng sẽ không thể "lấy lại" được phần dung lượng đã dành cho AI sau khi cài đặt.
+Apple Intelligence dự kiến được cập nhật thêm nhiều công cụ mới trong tương lai nên sẽ cần thêm dung lượng.
+Do đó, các trang công nghệ dự đoán Apple có thể sẽ loại bỏ phiên bản 128 GB trên iPhone thế hệ mới.
+Ngoài ra, do cần tối thiểu RAM 8 GBGB để iPhone chạy mượt Apple Intelligence, mẫu điện thoại giá rẻ iPhone SE 4, dự kiến trình làng trong quý I/2025, nhiều khả năng cũng trang bị RAM từ 8 GB trở lên.
+Bộ tính năng đầu tiên của Apple Intelligence được triển khai cùng với bản cập nhậtiOS 18.1ngày 28/10, tiếp đó là trên iOS 18.2 tháng trước.
+Công cụ này được áp dụng trước cho ngôn ngữ Anh Mỹ, trong khi phiên bản hỗ trợ tiếng Việt sẽ xuất hiện trong năm nay.

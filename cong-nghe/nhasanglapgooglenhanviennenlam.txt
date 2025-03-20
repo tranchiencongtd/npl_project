@@ -1,0 +1,18 @@
+Trong bản ghi chép nội bộ gửi đến nhóm phát triển sản phẩm AI Gemini, nhà đồng sáng lập Google Sergey Brin khuyến cáo nhân viên có mặt tại văn phòng tất cả các ngày, trừ cuối tuần, và khẳng định con số 60 giờ làm việc mỗi tuần là "mức năng suất tối ưu".
+Ông nói nhân viên không nên làm quá mức này vì có thể dẫn đến kiệt sức, nhưng chỉ trích những người chưa đóng góp đủ cho nỗ lực chung của công ty.
+"Một số làm ít hơn 60 giờ, số khác chỉ làm cầm chừng ở mức tối thiểu để đối phó", Brin viết, nhận xét những người này "không chỉ kém hiệu quả mà còn có thể gây nản lòng nghiêm trọng cho đồng nghiệp".
+Sergey Brin cũng nhấn mạnh tính cấp bách trong phát triển trí tuệ nhân tạo tổng hợp (AGI).
+"Cuộc cạnh tranh đã tăng tốc đáng kể và chặng đua cuối đến AGI đang diễn ra.
+Tôi nghĩ chúng ta có đầy đủ yếu tố để chiến thắng trong cuộc đua, nhưng cần tăng tốc các nỗ lực của mình", ông cho hay.
+Brin cũng đề nghị nhân viên Gemini nâng cao hiệu suất lập trình bằng cách sử dụng chính công nghệ AI của công ty.
+Bản ghi nhớ không phải dấu hiệu về thay đổi trong chính sách làm việc tại văn phòng của Google, vốn yêu cầu nhân viên có mặt ít nhất 3 ngày mỗi tuần.
+Tuy nhiên, nó cũng cho thấy Sergey Brin đang quay lại với vai trò trực tiếp hơn tại Google.
+Ông và nhà đồng sáng lập Larry Page hồi năm 2019 rút khỏi các nhiệm vụ điều hành chính tại công ty mẹ Alphabet.
+Sau khi OpenAI ra mắt ChatGPT cuối 2022 và tạo nên cuộc bùng nổ AI tạo sinh, Brin quyết định quay trở lại để giúp Google vượt qua giai đoạn khó khăn khi mất lợi thế trong lĩnh vực AI.
+Ông dành nhiều thời gian với các chuyên gia AI tại bộ phận Google DeepMind, nơi chịu trách nhiệm phát triển AI, đôi khi còn trực tiếp tham gia viết và sửa mã nguồn.
+Năm 2024, ông nói mình đã nghỉ hưu nhưng quay lại "chỉ vì sự phát triển của AI quá thú vị".
+Trong hai năm kể từ khi Brin trở lại, Google đã tái cấu trúc hoạt động kinh doanh, làm mới thương hiệu AI và triển khai công nghệ này trong các ứng dụng phổ biến nhằm cạnh tranh với OpenAI, Microsoft, Meta và các đối thủ khác.
+Google liên tục tung ra bản cập nhật AI với tốc độ nhanh chóng, bao gồm mở rộng quyền truy cập vào mô hình Gemini 2.0 cho người dùng trong tháng 2/2025.
+Giới chức và doanh nghiệp Mỹ đang đề cao làm việc trực tiếp tại văn phòng.
+Tổng thống Donald Trump đã yêu cầu tất cả công chức liên bang quay lại văn phòng làm việc 5 ngày mỗi tuần.
+Amazon, AT&T và JPMorgan Chase cũng đưa ra quy định tương tự.

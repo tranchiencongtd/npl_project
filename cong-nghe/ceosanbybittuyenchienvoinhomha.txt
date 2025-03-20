@@ -1,0 +1,28 @@
+"Hãy tham gia cùng chúng tôi trong cuộc chiến chống lại Lazarus", CEO Bybit Ben Zhou viết trên X tối ngày 25/2, đăng kèm website về tiền thưởng.
+Ông cũng nhắc đích danh nhóm Lazarus đứng sauvụ hack Bybitkhiến 1, 46 tỷ USD bị đánh cắp - là vụ tấn công liên quan đến tiền số lớn nhất từ trước đến nay.
+Theo nội dung bài viết, để trở thành "thợ săn tiền thưởng", người tham gia cần kết nối ví đến website của ông nhằm giúp truy tìm nguồn tiền nằm trong số đã bị đánh cắp, sau đó báo cáo với đội ngũ Bybit.
+Với mỗi nguồn tiền hacker tẩu tán bị phát hiện và đóng băng, họ sẽ được hưởng 5-10% tùy mức độ.
+Thông thường, trên blockchain, việc truy tìm danh tính kẻ tấn công và đánh cắp tiền rất khó khăn.
+Tuy nhiên, địa chỉ ví của kẻ đánh cắp là duy nhất và có thể được lần theo dấu vết thông qua thông tin giao dịch được công khai.
+Việc xóa dấu vết sẽ chỉ được thực hiện khi có "máy trộn", khiến mọi giao dịch sau đó về cơ bản bị che giấu.
+Theo ước tính củaCoinTelegraph, với tổng số tiền gần 1, 5 tỷ USD, Bybit có thể chi tới 140 triệu USD để trả cho những người tham gia "thợ săn tiền thưởng".
+Trong bài viết trên X, Zhou cho biết đã chỉ định một nhóm chuyên trách duy trì và cập nhật website về tiền thưởng.
+"Chúng tôi sẽ không dừng lại cho đến khi Lazarus hoặc những kẻ xấu trong ngành bị loại bỏ", Zhou cho biết.
+"Trong tương lai, chúng tôi cũng sẽ mở rộng tiện ích này cho các nạn nhân khác bị Lazarus tấn công".
+Sàn tiền số ByBit bị tấn công ngày 21/2.
+Khi đó, ông Zhou giải thích sàn của ông lưu trữ tiền số trong ví lạnh đa chữ ký, tức loại ví được ngắt kết nối với Internet, đồng thời khi sử dụng phải có xác nhận từ nhiều người khác nhau.
+Trước khi sự việc xảy ra, họ thực hiện một giao dịch chuyển tiền từ ví lạnh sang ví nóng và đã kiểm tra đúng địa chỉ.
+Tuy nhiên, hacker đã can thiệp để thay đổi logic trong hợp đồng thông minh, khiến việc họ xác nhận lại trở thành cấp quyền cho tin tặc.
+Sự cố lập tức gây ra làn sóng rút tiền ồ ạt khỏi Bybit vì người dùng lo ngại về khả năng mất khả năng thanh toán, với5, 5 tỷ USDđã rời khỏi sàn sau thời gian ngắn.
+Zhou sau đó cho biết dòng tiền đã ổn định trở lại, đồng thời livestream chia sẻ thông tin và hướng khắc phục.
+"Tất cả tài sản của khách hàng đều được bảo lãnh theo tỷ lệ 1:1, chúng tôi có thể bù đắp tổn thất", Zhou nói, khẳng định sàn có khả năng thanh toán cho người dùng cả khi không lấy lại được tiền từ hacker.
+Sau khi bị tấn công, thám tử bảo mật ZachXBT đã lần theo dấu vết và xác định kẻ đứng sau là Lazarus.
+CNBCdẫn lời công ty phân tích blockchain Elliptic cũng đánh giá vụ hack có liên quan tới nhóm tin tặc khét tiếng này.
+Lazarus còn có nhiều tên gọi là Group 77, APT-C-26, AppleWorm, Guardians of Peace, Hidden Cobra, Office 91...
+Theo FBI, nhóm hacker có địa chỉ tại Triều Tiên.
+TheoChainalysis, đây không phải lần đầu Lazarus nhắm đến các hệ thống tiền điện tử.
+Trong năm 2021, các nhóm hacker được cho là đã thực hiện hàng loạt vụ tấn công và chiếm được 400 triệu USD tiền số, trong đó Lazarus thực hiện ít nhất bảy vụ.
+Năm 2022, nhóm này cũng là thủ phạm trong vụ hack cầu nối Ronin của gameAxie Infinity, đánh cắp hơn 600 triệu USD.
+Trước đó, tổ chức tin tặc cũng được xác định là thủ phạm tấn công sàn KuCoin, phát tán mã độcWannaCryhay tấn công mạng Sony Pictures.
+Trước đó, CEO Ben Zhou gây tranh cãi khitừ chốiniêm yết đồng Pi trên Bybit.
+Rạng sáng 21/2, cùng ngày vụ hack xảy ra, ông cũng đăng cảnh báo ám chỉ dự án Pi Networklừa đảo, điều mà đại diện dự án sau đóphủ nhận.

@@ -1,0 +1,24 @@
+Tại Diễn đàn quốc gia về doanh nghiệp công nghệ số Việt Nam ngày 15/1 ở Hà Nội, Bộ Thông tin và Truyền thông công bố tám doanh nghiệp tiên phong nhận nhiệm vụ làm chủ công nghệ chiến lược cho Việt Nam.
+Trong đó, One Mount và HDBank nhận nhiệm vụ làm chủ công nghệ chuỗi khối (blockchain).
+Động thái này diễn ra trong bối cảnh Nghị quyết 57 ra đời và nhấn mạnh tầm quan trọng của làm chủ khoa học công nghệ, làm chủ tiến trình chuyển đổi số Việt Nam.
+Tại cuộc họp cuối tháng 12, Bộ trưởng Thông tin và Truyền thông Nguyễn Mạnh Hùng cũng đặt mục tiêu giao các doanh nghiệp nòng cốt làm dự án lớn về chuyển đổi số, làm chủ công nghệ chiến lược.
+Chia sẻ tại diễn đàn sau khi nhận nhiệm vụ, bà Nguyễn Thị Dịu, Tổng giám đốc One Mount, cho biết công ty cam kết đầu tư 200-500 triệu USD triển khai mạng blockchain Layer 1 "make in Vietnam" và xây dựng hạ tầng chuỗi khối quốc gia.
+Layer 1 được coi là phần lõi của blockchain, như Bitcoin, Ethereum, BNB Chain, được xây dựng từ mạng lưới các node máy tính có khả năng xác thực, ghi lại giao dịch trên sổ cái của blockchain, có cơ chế đồng thuận.
+Từ mạng Layer 1, các nhà phát triển có thể xây dựng thêm Layer 2, giúp tăng khả năng giao tiếp giữa các thành phần khác nhau của mạng, cải thiện về tốc độ xử lý hoặc chi phí, và Layer 3 là các ứng dụng sử dụng blockchain.
+Thời gian qua, một số đơn vị trong nước cũng phát triển blockchain Layer 1 như Aura Network, Tomochain (được Ninety Eight mua lại và đổi tên thành Viction).
+Đại diện One Mount cho biết sẽ phát triển mạng blockchain Layer 1 với các tiêu chí gồm: tốc độ cao, khả năng mở rộng, bảo mật, cùng cơ chế đồng thuận.
+"Nền tảng không chỉ đáp ứng nhu cầu phát triển công nghệ chuỗi khối trong nước mà còn sẵn sàng liên thông quốc tế, trở thành cầu nối với các mạng blockchain công cộng trên toàn cầu", bà Dịu nói.
+Đơn vị cũng kỳ vọng xây dựng mạng blockchain "make in Vietnam" có thể trở thành nền tảng cốt lõi, hỗ trợ vận hành, khai thác, tương tác và liên thông giữa các loại hình mạng chuỗi khối, thúc đẩy phát triển các ứng dụng phi tập trung (DApps) trong nhiều lĩnh vực như tài chính, y tế, giáo dục, và dịch vụ công.
+Tại diễn đàn, bà Nguyễn Thị Phương Thảo, Phó chủ tịch thường trực HDBank, nói đã đề xuất nhận và cam kết đầu tư cho nghiên cứu phát triển để làm chủ công nghệ blockchain.
+Bà cho biết đã xây dựng kế hoạch hành động cho mục tiêu này, với ba nhiệm vụ gồm: đầu tư mạnh vào blockchain; hợp tác với đối tác trong và ngoài nước để nâng cao năng lực, đẩy nhanh tốc độ chuyển đổi số; tạo động lực bằng cách kêu gọi nhân viên, đối tác cùng thực hiện sứ mệnh.
+"Việc này không chỉ vì doanh nghiệp mà còn vì sự phát triển của đất nước", bà Thảo nói, đánh giá blockchain sẽ là một công nghệ chiến lược của nền kinh tế số.
+Đại diện HDBank, One Mount, cùng đại diện các doanh nghiệp đã nhận nhiệm vụ trước sự chứng kiến của Tổng Bí thư Tô Lâm và Bộ trưởng Thông tin và Truyền thông Nguyễn Mạnh Hùng.
+Thời gian qua, Việt Nam có nhiều quyết sách liên quan đến việc phát triển lĩnh vực blockchain.
+Tháng 10/2024, Chiến lượcquốc gia về ứng dụng và phát triển công nghệ chuỗi khối (blockchain) đến năm 2025, định hướng đến năm 2030 được ban hành.
+Trong đó, Việt Nam đặt mục tiêu năm nay sẽ thiết lập nền tảng phát triển công nghệ chuỗi khối, bao gồm hình thành Hạ tầng chuỗi khối Việt Nam bảo đảm an ninh, an toàn thông tin; hỗ trợ khả năng tương tác, tích hợp và chia sẻ giữa các chuỗi khối; hỗ trợ công tác quản lý nhà nước về hoạt động ứng dụng và phát triển chuỗi khối.
+Đến 2030, Việt Nam đưa ra mục tiêu mở rộng Hạ tầng chuỗi khối quốc gia và nằm trong nhóm nước dẫn đầu khu vực và trên thế giới về nghiên cứu, ứng dụng và phát triển blockchain, dự kiến xây dựng 20 thương hiệu blockchain uy tín về nền tảng, sản phẩm, dịch vụ trong khu vực; duy trì vận hành tối thiểu ba trung tâm hoặc đặc khu thử nghiệm về chuỗi khối tại các thành phố lớn; đồng thời có đại diện nằm trong bảng xếp hạng 10 cơ sở đào tạo và nghiên cứu chuỗi khối dẫn đầu khu vực châu Á.
+Tại diễn đàn ngày 15/1, Tổng Bí thư Tô Lâm đánh giá một trong những điểm yếu của Việt Nam trong lĩnh vực công nghệ là năng lực nghiên cứu và phát triển hiện còn phụ thuộc nhiều vào nguồn lực từ nước ngoài, hạn chế khả năng tự chủ công nghệ.
+Ngoài ra, trình độ công nghệ của doanh nghiệp Việt "nhìn chung còn thấp, chỉ tham gia ở mức rất khiêm tốn trong chuỗi cung ứng toàn cầu".
+Ông đưa ra 7 nhiệm vụ trọng tâm với ngành và doanh nghiệp, trong đó nhiệm vụ đầu tiên là nỗ lực tự cường, tự chủ công nghệ và phát triển công nghệ chiến lược, công nghệ lõi, vì đây là căn cơ để xây dựng nền kinh tế độc lập tự chủ.
+"Phải đẩy mạnh đầu tư vào nghiên cứu và phát triển, đặc biệt là các công nghệ chiến lược", Tổng Bí thư nói, nhắc đến công nghệ gồm AI, IoT, Big Data, Cloud Computing và Blockchain, thông tin di động, vũ trụ.
+"Tập trung vào việc làm chủ và ứng dụng thành tựu khoa học, công nghệ tiên tiến của thế giới để tạo ra sự tự chủ về công nghệ, từng bước nâng cao năng lực cạnh tranh", ông nói.

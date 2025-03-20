@@ -1,0 +1,4 @@
+Đề án Phát triển Hệ tri thức Việt số hóa được Thủ tướng phê duyệt ngày 18/5/2017 với mục tiêu xây dựng nền tảng hạ tầng dữ liệu và tri thức trong các lĩnh vực, đặc biệt là những lĩnh vực liên quan trực tiếp đến đời sống của người dân như giáo dục, y tế, chăm sóc sức khỏe, nông nghiệp, văn hóa...
+Điều này nhằm tạo điều kiện cho học tập, làm chủ tri thức, nghiên cứu và phát triển các ứng dụng công nghệ thông tin trên nền tảng AI và BigData phục vụ cho cộng đồng và xã hội.
+Việc kết nối, chia sẻ dữ liệu và tri thức rộng rãi sẽ tạo cơ hội tiếp cận và tạo giá trị gia tăng cho cộng đồng, thúc đẩy hệ thống đổi mới sáng tạo quốc gia và khởi nghiệp sáng tạo.
+Đề án đã hình thành nhiều nền tảng số tiêu biểu như Bản đồ số Việt Nam (vmap.vn), Nhân đạo số (inhandao.vn), Giáo dục số (igiaoduc.vn), Bách khoa toàn thư mở (bachkhoathu.itrithuc.vn) và Di sản số, kết nối cộng đồng và chia sẻ nguồn lực trên nền tảng công nghệ tiên tiến, làm giàu tri thức Việt Nam.

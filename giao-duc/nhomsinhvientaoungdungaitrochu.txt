@@ -1,0 +1,41 @@
+Ứng dụng Nature Voice được phát triển bởi 5 sinh viên năm thứ ba của Đại học Khoa học và Công nghệ Hà Nội (USTH): Nguyễn Khắc Công, Nguyễn Văn Phú, Bùi Đinh Lam (ngành Khoa học dữ liệu), Nguyễn Trọng Nghĩa và Nguyễn Quang Ngọc (ngành Công nghệ thông tin - Truyền thông).
+Ứng dụng này giúp người dùng chăm sóc cây, nâng cao kiến thức và ý thức bảo vệ thiên nhiên, đồng thời coi cây cối như người bạn, có thể "tâm sự" bất cứ lúc nào.
+Tại cuộc thi thử thách công nghệ ứng dụng trí tuệ nhân tạo (AI) vào kết nối chuỗi cung ứng doanh nghiệp vừa và nhỏ (RESET 2024) do Thành đoàn Hà Nội tổ chức đầu tháng 12/2024 với hơn 1.000 thí sinh, nhóm đạt quán quân.
+Ban giám khảo, gồm các chuyên gia hàng đầu về công nghệ, trí tuệ nhân tạo đến từ doanh nghiệp, trường đại học, tổ chức nghiên cứu, đánh giá cao Nature Voice khi ứng dụng AI sáng tạo để thực hiện mục tiêu phát triển bền vững.
+"Dù ứng dụng mới ở phiên bản thử nghiệm, chúng mình đã vượt qua một số sản phẩm đã bán ra thị trường", trưởng nhóm Khắc Công nói.
+Còn với Nguyễn Văn Phú, khoảnh khắc nhiều người theo dõi trực tiếp cuộc thi mở kho ứng dụng trên điện thoại để tìm app khiến Phú không thể nào quên.
+Công cho biết nảy ra ý tưởng khi biết đến cuộc thi Green Industrial AI Challenge cách đây vài tháng.
+Vì là cuộc thi ứng dụng AI hướng đến mục tiêu phát triển xanh, bền vững, Công nghĩ ngay đến việc chăm sóc cây.
+Tìm trên mạng, Công thấy thị trường có một số ứng dụng hỗ trợ việc này nhưng cho rằng có thể tạo ra sản phẩm khác biệt.
+Là sinh viên ngành Khoa học dữ liệu, từ lâu Công ấp ủ làm phần mềm có thể tương tác với người dùng như bạn bè.
+Công tự hỏi "Tại sao mình không để cây là người bạn thân, vừa cần được quan tâm, vừa có thể quan tâm mình"?
+Nêu ý tưởng với nhóm bạn, Công được hưởng ứng.
+Một khảo sát tại Mỹ mà nhóm tìm được cho thấy hai phần ba người dân sở hữu hai cây trong nhà trở lên.
+Việt Nam không có khảo sát chính thức nào nhưng qua thực tế, nhóm thấy hầu như mọi nhà, công sở có chậu cây.
+Tuy nhiên, không ít người quên hoặc không biết cách chăm sóc.
+Ở khía cạnh khác, những người này cũng có thể gặp stress do công việc, học tập.
+"Tận dụng mô hình trí tuệ nhân tạo và ngôn ngữ lớn, chúng mình có thể giải quyết hai vấn đề trên", thành viên Nguyễn Văn Phú nói.
+Nghiên cứu suốt ba tháng, nhóm tạo ra bản thử nghiệm với các tính năng như mong muốn.
+Một cảm biến IoT nhỏ được gắn vào chậu cây, có khả năng đo lường các yếu tố như độ ẩm, độ phì nhiêu của đất, nhiệt độ và mức độ ánh sáng.
+Cảm biến này gửi dữ liệu thu thập được về ứng dụng di động, nơi AI xử lý dữ liệu để đánh giá tình trạng của cây, sau đó chủ động nhắn tin cho người dùng.
+Theo Phú, với các sản phẩm hỗ trợ chăm sóc cây trên thị trường hiện nay, người dùng phải chủ động vào app để theo dõi chỉ số, hoặc chỉ nhận được những thông báo khô khan như "Hãy tưới nước cho cây".
+Sản phẩm của nhóm khác biệt ở chỗ AI tự xử lý dữ liệu và chủ động nhắn tin cho người dùng một cách sinh động: "Tôi khát nước rồi, chủ nhân ơi", "Tôi đang tắm nắng nhưng hơi khát.
+Chủ nhân cho tôi ít nước".
+Nếu được chăm sóc, đoạn chat sẽ xuất hiện nhiều tin nhắn thể hiện sự vui vẻ.
+Và ngược lại, cây "buồn bã" nếu bị bỏ bê.
+Theo nhóm, điều này tạo ra sự tương tác thú vị, thúc đẩy người dùng chăm cây ngay và trò chuyện lại với cây qua ứng dụng, từ đó giúp họ gắn kết và có trách nhiệm với cây cối hơn.
+"Với ChatGPT, người dùng phải chủ động nhắn để nhận được phản hồi.
+Còn với ứng dụng của chúng mình, cây có thể chủ động trò chuyện trước", Phú nói.
+Ứng dụng cũng có tính năng kiểm tra sức khỏe của cây qua hình ảnh.
+Chỉ cần chụp ảnh lá cây, AI sẽ phân tích để phát hiện các dấu hiệu bệnh, giúp người dùng điều chỉnh kịp thời.
+Nature Voice còn kết nối với nền tảng TikTok, Instagram để mỗi người chia sẻ khoảnh khắc chăm sóc cây, từ đó khuyến khích họ làm việc này, tạo ra cộng đồng, lan tỏa thông điệp sống xanh và bảo vệ thiên nhiên.
+Quá trình làm dự án, nhóm cho biết gặp nhiều khó khăn, nhất là trong việc lên ý tưởng và làm thế nào để AI giao tiếp tự nhiên, có cảm xúc, khiến người dùng không cảm giác "ảo".
+Nhiều tranh luận nổ ra, nhưng cuối cùng, nhóm cơ bản đạt được mục tiêu.
+Về mặt công nghệ, Công cho biết kiến thức học ở trường là nền tảng tốt giúp nhóm biết cần phải làm gì.
+Tuy nhiên, do mô hình ngôn ngữ lớn khá mới, nhóm phải tự tìm hiểu thêm rất nhiều.
+"May mắn các bạn đều tâm huyết và có kinh nghiệm nhất định", Công nói.
+Hiện, nhóm tiếp tục phát triển bản thử nghiệm của ứng dụng.
+Cảm biến IoT nhóm đang sử dụng là sản phẩm sẵn có trên thị trường, giá 200-350.000 đồng.
+Thời gian tới, nhóm muốn tìm đối tác để tạo ra cảm biến riêng với chi phí thấp hơn, hoặc phát triển ứng dụng theo hướng không cần cảm biến.
+Dự kiến, nhóm cùng nhau startup, tìm kiếm nhà đầu tư để đưa sản phẩm ra thị trường với tham vọng mở rộng tính năng tích hợp nhà thông minh và chăm sóc cả các vườn cây ngoài trời.
+"Nhóm tin tưởng cách ứng dụng AI đang làm là xu hướng của tương lai và có thể mở rộng giải quyết nhiều vấn đề khác", Phú nói.

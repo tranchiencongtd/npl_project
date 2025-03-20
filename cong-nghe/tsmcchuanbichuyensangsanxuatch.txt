@@ -1,0 +1,13 @@
+Các nhà máy đúc chip hàng đầu thế giới đang chạy đua để cải thiện tốc độ, hiệu suất và hiệu quả của bộ vi xử lý trên smartphone.
+Trong đó, TSMC bắt đầu sản xuất hàng loạt chip 2 nm trong năm nay.
+Sang năm tới, công ty tại đảo Đài Loan sẽ chuyển sang chip 1, 6 nm.
+TSMCcho biết chip 1, 6 nm sẽ cải thiện tốc độ 8-10% ở cùng mức tiêu thụ điện so với quy trình 2 nm.
+TSMC hiện là xưởng đúc chip lớn nhất thế giới với doanh thu quý IV/2024 tăng 37% so với cùng kỳ năm ngoái, đạt 26, 88 tỷ USD.
+Hãng dự kiến doanh thu trong ba tháng đầu năm sẽ giảm theo mùa vụ của smartphone, nhưng vẫn tăng 34, 7% so với cùng kỳ năm 2024.
+Với tiến trình 2 nm, TSMC sẽ sử dụng công nghệ bóng bán dẫn Gate-All-Around (GAA) với các tấm nano xếp chồng ngang dọc, cho phép cổng bao phủ toàn bộ bốn mặt của kênh, ngăn rò rỉ dòng điện và cải thiện dòng điều khiển, giúp chip mạnh hơn và tiết kiệm năng lượng hơn.
+Với chip 1, 6 nm, TSMC ứng dụng công nghệ BPD, trong đó di chuyển cung cấp năng lượng từ mặt trước của tấm wafer silicon sang mặt sau.
+Số nm giảm có nghĩa kích thước bóng bán dẫn nhỏ hơn.
+Đây là thông số quan trọng vì sẽ đưa thêm được nhiều bóng bán dẫn hơn vào một khu vực nhất định của chip, giúp bộ vi xử lý hoạt động mạnh mẽ và tiết kiệm năng lượng hơn.
+Ví dụ năm 2019, iPhone 11 sử dụng bộ xử lý A13 Bionic 7 nm với 8, 5 tỷ bóng bán dẫn.
+Trong khi đó, iPhone 16 Pro Max ra mắt tháng 9/2024 trang bị A18 Pro 3 nm.
+Apple không công bố số lượng bóng bán dẫn trong chipset mới, nhưng các chuyên gia cho biết con số này vượt 20 tỷ, cao hơn A17 Pro với 19 tỷ bóng bán dẫn.

@@ -1,0 +1,12 @@
+Googlecho biết đây là tập hợp của mô hình nguồn mở nhẹ, hiện đại, được xây dựng từ cùng một nghiên cứu, công nghệ tương tựGemini 2.0.
+Gemma 3 được phát hành hơn một năm sau khi công ty lần đầu công bố mô hình nguồn mở Gemma.
+Gemma 3 dành cho các nhà phát triển tạo ứng dụng AI có khả năng chạy phần mềm ở bất kỳ đâu khi cần, trên mọi thứ từ điện thoại đến máy trạm với hỗ trợ cơ bản hơn 35 ngôn ngữ, khả năng phân tích văn bản, hình ảnh và video ngắn.
+"Các mô hình nguồn mở mới của chúng tôi cực kỳ hiệu quả, như mô hình 27B lớn nhất chỉ chạy trên một GPU H100.
+Bạn sẽ cần khả năng tính toán ít nhất gấp 10 lần để có được hiệu suất tương tự từ các mô hình khác", CEO Sundar Pichai của Google viết trên X.
+Gemma 3 sẽ có các phiên bản 1B, 4B, 12B và 27B, cho phép người dùng đưa ra lựa chọn hợp nhất với nhu cầu phần cứng và hiệu suất cụ thể của mình.
+"Chúng được thiết kế để chạy nhanh, trực tiếp trên các thiết bị, từ điện thoại và máy tính xách tay đến máy trạm, giúp các nhà phát triển tạo ra các ứng dụng AI", Clement Farabet, Giám đốc Google DeepMind cho biết trong một bài đăng trên blog của công ty.
+Google cũng nhấn mạnh Gemma 3 vượt trội Meta Platforms Llama-405B, DeepSeek V3 và o3-mini của OpenAI trong các đánh giá ban đầu trên LMArena.
+Trong bảng xếp hạng này, chỉ mô hình R1 của Deepseek có điểm số cao hơn mô hình AI mới của Google.
+Gemma 3 có sẵn với 35 ngôn ngữ và hỗ trợ được đào tạo cho hơn 140 ngôn ngữ.
+Google cũng ra mắt ShieldGemma 2, trình kiểm tra độ an toàn của hình ảnh 4B, xây dựng trên nền tảng Gemma 3.
+ShieldGemma 2 đưa ra giải pháp an toàn cho các hình ảnh có sẵn, dán nhãn theo ba danh mục gồm nội dung nguy hiểm, nội dung khiêu dâm và bạo lực.

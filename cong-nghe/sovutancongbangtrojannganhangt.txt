@@ -1,0 +1,18 @@
+Bức tranh toàn cảnh về mối đe dọa phần mềm độc hại trên di động 2024, được Kaspersky công bố tại hội nghị di động toàn cầu MWC 2025, cho thấy trong năm 2024, số vụ tấn công bằng mã độc trojan ngân hàng trên smartphone tăng 196% so với năm 2023.
+Trojan chỉ mã độc được ngụy trang dưới dạng một phần mềm hoặc ứng dụng có ích để lừa người dùng tải về.
+Trojan ngân hàng sau khi xâm nhập thiết bị sẽ đánh cắp thông tin đăng nhập tài khoản ngân hàng trực tuyến, dịch vụ thanh toán điện tử và thẻ tín dụng của người dùng.
+Hãng bảo mật này cho biết trong năm qua đã phát hiện và ngăn chặn hơn 33, 3 triệu cuộc tấn công nhắm vào người dùng smartphone trên toàn cầu, liên quan đến nhiều loại mã độc và phần mềm không mong muốn.
+Trong đó, riêng trojan ngân hàng trên các thiết bị Android tăng từ 420.000 lên 1.242.000 vụ.
+"Thay vì phát tán nhiều loại mã độc khác nhau như trước, tội phạm chuyển sang tập trung vào việc lan truyền một loại mã độc đến càng nhiều nạn nhân nhất có thể", Anton Kivva, chuyên gia bảo mật tại Kaspersky, cho biết.
+Một số mối đe dọa trojan ngân hàng nguy hiểm được ghi nhận gồm Fakemoney - nhóm chuyên thiết kế ứng dụng lừa đảo, dụ dỗ người dùng đầu tư giả mạo và nhận tiền thưởng không có thật; bản cài một số phần mềm phổ biến như WhatsApp bị tội phạm mạng cài cắm mã độc Triada có khả năng tải xuống và thực thi các phần mềm độc hại hoặc hiển thị quảng cáo không mong muốn.
+"Không ai có thể an toàn tuyệt đối trước chiêu trò tâm lý tinh vi nhằm đánh cắp thông tin tài chính và tài khoản ngân hàng.
+Vì vậy, việc cập nhật kiến thức về an ninh mạng và nâng cao nhận thức cho người thân, từ trẻ em đến người cao tuổi ngày càng trở nên quan trọng", Kivva nói thêm.
+Để phát tán phần mềm độc hại, tội phạm mạng thường dùng liên kết cài cắm sẵn trojan, gửi qua tin nhắn văn bản, ứng dụng nhắn tin hoặc đính kèm tệp trong email và lừa nạn nhân tải xuống.
+Sau khi chiếm quyền kiểm soát tài khoản của nạn nhân, chúng có thể tiếp tục được phát tán bằng cách gửi đường dẫn này tới người thân, bạn bè của nạn nhân.
+Tội phạm mạng cũng được phát hiện lợi dụng tin tức nóng, tạo cảm giác cấp bách, khiến nạn nhân mất cảnh giác và dễ dàng mắc bẫy.
+Cũng theo báo cáo của Kaspersky, dù tăng trưởng mạnh nhất, trojan ngân hàng chỉ chiếm 6% tổng số vụ tấn công và xếp thứ tư về tỷ lệ người dùng bị tấn công.
+Loại phần mềm độc hại phổ biến nhất là phần mềm quảng cáo adware, chiếm 57% số vụ tấn công, tiếp theo là trojan thông thường (25%) và RiskTools (12%).
+Năm 2024, trung bình mỗi tháng ghi nhận 2, 8 triệu vụ tấn công thông qua mã độc, quảng cáo độc hại và phần mềm người dùng không chủ động cài đặt trên thiết bị di động.
+Trước đó, nghiên cứu của hãng bảo mật này cũng phát hiện mã độcSparkCatcó khả năng vượt qua cơ chế bảo mật của App Store, đánh cắp ảnh chụp màn hình của người dùng sau khi xâm nhập.
+"Điều này cho thấy các cửa hàng ứng dụng trực tuyến không phải lúc nào cũng đảm bảo an toàn", chuyên gia của Kaspersky đánh giá.
+Người dùng được khuyến nghị kiểm tra quyền truy cập của ứng dụng, hạn chế tối đa cấp phép các quyền truy cập, đặc biệt với các ứng dụng truy cập vào dữ liệu quan trọng, có nguy cơ rủi ro cao, như Dịch vụ hỗ trợ truy cập (Accessibility Services).

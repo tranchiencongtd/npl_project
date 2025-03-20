@@ -1,0 +1,41 @@
+"Kêu gọi toàn thể cộng đồng Pi đánh giá một sao với sàn Binance vì đã khinh thường dự án Pi Network", theo bài viết đăng trên nhóm về Pi Network có hơn 135.000 thành viên.
+Trên các mạng xã hội, chủ yếu Facebook và X, nhiều người cũng đăng các bài tương tự.
+Hầu hết nói "đã vote một sao" cho ứng dụng Binance trên App Store và Play Store, chỉ có số ít phản đối.
+Từ ngày 17/2 đến 27/2, thông qua tài khoản Binance Square Official, sàn tiền số lớn nhất thế giới thực hiện khảo sát về việc có niêm yết Pi hay không.
+Trong 10 ngày, tỷ lệ đồng ý luôn trên 85%.
+Tuy nhiên, khi bình chọn, sàn nhấn mạnh kết quả "chỉ mang tính tham khảo, không quyết định hoàn toàn việc niêm yết Pi", đồng thời "không phải kết quả cuối cùng".
+Trong bài viết ngày 1/3, Binance tiếp tục cập nhật kết quả bỏ phiếu, với hầu hết tài khoản đồng tình niêm yết Pi.
+Tuy nhiên, sàn chưa quyết định có đưa token Pi lên sàn.
+"Binance có quy trình thẩm định nghiêm ngặt về token hay dự án nào được niêm yết.
+Sẽ có một đội ngũ độc lập thực hiện việc nghiên cứu và đánh giá", Binance cho biết, đồng thời chỉ ra các tiêu chí gồm chất lượng dự án và đội ngũ, đổi mới công nghệ và lộ trình, nhu cầu thị trường và sự tham gia của cộng đồng, các trường hợp sử dụng và ứng dụng thực tiễn, an ninh bảo mật và tuân thủ quy định.
+Theo Hoàng Anh, quản trị viên nhóm Pi Network trên Facebook với hơn 150.000 thành viên và cũng tham gia dự án từ năm 2020, cho rằng có thể nhiều "Pi thủ" nhầm tưởng Binance sẽ thực hiện theo kết quả khảo sát và cảm thấy "bị lừa" khi tham gia sàn này.
+Thực tế, để tham gia vote, người chơi phải đăng ký tài khoản, xác thực danh tính (KYC) và nạp ít nhất 5 USD.
+"Do đó, họ cảm thấy bị lừa.
+Cách duy nhất để những người này 'xả' sự tức giận là đánh giá một sao trên ứng dụng", Hoàng Anh giải thích.
+Một lý do khác liên quan đến giá Pi.
+Theo Thế Thành, người tham gia thị trường tiền số từ 2019, giá của những đồng meme coin như Pi sẽ tăng vọt nếu niêm yết trên các sàn lớn như Binance.
+"Những người kêu gọi vote một sao có thể đã mua Pi từ các sàn nhỏ hoặc từ người chơi, sau đó dùng chiêu 'mượn gió bẻ măng', gây sức ép lên sàn", anh Thành đánh giá.
+Theo ghi nhận, trước ngày 17/2, ứng dụng Binance trên Google Play đạt 4, 9/5 sao, nhưng tính đến tối 6/3 còn 3, 8/5 sao với 2, 86 triệu đánh giá.
+Tương tự, ứng dụng trên App Store cũng từ 4, 8/5 sao xuống 4, 2/5 sao nhưng số lượng đánh giá thấp hơn với khoảng 12.400 lượt.
+Ở phần bình luận lý do vote một sao, hầu hết nói Binance "lừa nạp tiền để đánh giá Pi", "coi thường dự án Pi Network", "lợi dụng lòng tin người chơi Pi".
+Trước đó, sàn ByBit cũng là "nạn nhân vote một sao" của người chơi tiền ảo Pi.
+Trên Google Play, ứng dụng hiện nhận 2, 8/5 sao từ hơn 1, 3 triệu đánh giá dù trước đó đạt 4, 7/5 sao.
+Vấn đề xảy ra sau khi nhà sáng lập và CEO Ben Zhou liên tiếp đưa racảnh báo lừa đảovề dự án.
+Theo giới phân tích, Binance đang có những lý do để không niêm yết tiền ảo Pi.
+Anh Bằng, chuyên gia về blockchain tại TP HCM, đánh giá dự án Pi Network dù đã mở mạng sau 6 năm nhưng vẫn chưa công bố hợp đồng thông minh (smart contract) và mở mã nguồn - điều tối thiểu phải có trong tiền số.
+Chất lượng dự án cũng chưa thể xác minh, khi đội ngũ sáng lập không công khai, ít xuất hiện, cũng không biết có bao nhiêu thành viên thực sự đứng sau, ngoài hai người làNicolas Kokkalisvà Chengdiao Fan, được giới thiệu là tiến sĩ ở Đại học Stanford.
+Trước đó, một số ý kiến cũng chỉ ra mạng blockchain của Pi cũng chưa hoàn toàn phi tập trung như nhiều dự án tiền số khác.
+Các nút mainnet đang hoạt động được Pi Network kiểm soát.
+"Tất cả nút mainnet đang hoạt động đều do nhóm cốt lõi Pi quản lý độc quyền, trái với tuyên bố phi tập trung của nhóm", CoinTelegraphdẫn ý kiến một chuyên gia blockchain.
+"Dù dự án hứa hẹn phi tập trung, cấu trúc hiện tại làm dấy lên nghi ngờ về cam kết của Pi Core Team đối với nguyên tắc này".
+Về vấn đề chưa có hợp đồng thông minh, chuyên gia blockchain Nguyễn Việt Dinh nhận định trên Facebook rằng Pi Network sử dụng nền tảng Stellar Core vốn triển khai smart contract từ phiên bản 20 trở đi, nhưng Pi Network vẫn dùng bản 19.1.
+"Có thể họ sẽ nâng cấp lên bản mới nhất 22.1 thời gian tới", ông dự đoán.
+Trong khi đó, hành động "vote một sao" của một nhóm "Pi thủ" khiến nhiều người chơi Pi khác lo ngại.
+"Không chỉ Binance, các sàn tiền số khác cũng sẽ e dè khi 'đụng' đến cộng đồng Pi, nhất là khi không theo đúng ý của họ", Hoàng Anh nói.
+"Việc không thể có mặt trên một sàn lớn như Binance sẽ là thiệt thòi cho dự án hơn là những gì nhận được".
+Binance thành lập năm 2017, một năm sau trở thành sàn giao dịch tiền số lớn nhất thế giới.
+TheoCoinMarketCap, khối lượng giao dịch trên sàn đạt gần 22 tỷ USD mỗi ngày.
+Mỗi tuần, sàn cũng có hơn 13, 6 triệu lượt truy cập.
+Pi Network ra đời năm 2019, được quảng cáo giúp người tham gia sở hữu tiền ảo Pi miễn phí bằng cách vào ứng dụng trên điện thoại "bấm tia sét" để điểm danh mỗi ngày.
+Việt Nam là một trong những thị trường có nhiều người tham gia "đào Pi".
+Dự án gây tranh cãi khi gần 6 năm mới "mở mạng", tức cho phép người dùng di chuyển Pi sang các nền tảng các để trao đổi, giao dịch từ 20/2.

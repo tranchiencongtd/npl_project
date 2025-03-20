@@ -1,0 +1,19 @@
+"iPhone của tôi tự dưng phát ra tiếng lạ dù tôi không mở ứng dụng gì.
+Máy đang trên bàn bỗng phát ra tiếng, tôi kiểm tra nhưng không xác định được là từ app nào để tắt", Tân Lương, hiện dùng iPhone 16 Pro và đã cập nhật iOS 18.2, cho biết.
+Trên mạng xã hội như Facebook, Reddit, X hay TikTok, nhiều người phản ánh iPhone của họ cũng gặp vấn đề tương tự.
+"Tôi thậm chí còn nghe được cuộc trao đổi giữa hai người với nhau, dù tôi không hề thực hiện cuộc gọi hay bật ứng dụng phát âm thanh nào ở chế độ nền", tài khoản Facebook Hoàng Hương viết trên một nhóm chuyên về iPhone.
+Ở phần bình luận, một số người nói rằng âm thanh phát ra chủ yếu là tiếng nước ngoài, không có tiếng Việt.
+Sự cố thậm chí xuất hiện trong đêm khuya khiến người dùng "giật mình".
+Vấn đề iPhone bất ngờ phát âm thanh lạ đã xuất hiện từ tháng 11 năm ngoái.
+Ngày 14/11/2024, tài khoản RedditOkStrawberry26nói điện thoại của anh phát ra giọng của một người đàn ông.
+Một tài khoản khácReady-eddynghe được âm thanh "hai người trò chuyện trong một kho hàng".
+Trang công nghệWccftechdẫn suy đoán của chuyên gia rằng lỗi có thể xuất phát từ việc phần mềm của iOS 18 kết nối với thiết bị lân cận qua Bluetooth.
+Một số thậm chí lo ngại máy bị nhiễm mã độc và bị hacker điều khiển từ xa.
+Hiện cách duy nhất để khắc phục tạm thời vấn đề là khởi động lại hoặc khôi phục cài đặt gốc.
+Dù vậy, tình trạng này vẫn có thể tiếp diễn.
+Tình trạng tương tự cũng từng được ghi nhận năm 2023.
+Khi đó, trên trang hỗ trợ người dùng của Apple, tài khoảnAAnthraxđang dùng iPhone 8, chạy iOS 16 cho biết "có giọng nói ngẫu nhiên" phát ra và nhận 84 lượt nhấn "Tôi cũng vậy".
+iOS 18 của Apple ngày càng ghi nhận nhiều lỗi gần đây.
+Ở phiên bản iOS 18.2 mới nhất, nhiều người dùng iPhone, chủ yếu thế hệ iPhone 15 và 16, cho biết điện thoạikhởi động camera chậm, FaceID không hoạt động sau khi cập nhật.
+Cuối năm ngoái, iPhone 16 cũng gặp sự cốtắt nguồnhoặc tự khởi động ngẫu nhiên.
+Trong hầu hết trường hợp, Apple không thừa nhận vấn đề mà âm thầm ra bản cập nhật mới để khắc phục.

@@ -1,0 +1,25 @@
+Theo Giám đốc khoa học AI của MetaYann LeCun, bài học lớn nhất từ thành công của DeepSeek không phải sức ép cạnh tranh ngày càng tăng từ Trung Quốc, mà là giá trị của duy trì các mô hình AI dưới dạng mã nguồn mở để mọi người có thể hưởng lợi.
+"Vấn đề không phải là AI Trung Quốc vượt qua Mỹ, mà là các mô hình mã nguồn mở đang vượt mặt những mô hình độc quyền", ông cho hay.
+DeepSeek R1 dùng mã nguồn mở giống Llama của Meta.
+Trong khi đó, OpenAI được thành lập với sứ mệnh tạo ra công nghệ vì lợi ích của toàn nhân loại, nhưng gần đây lại chuyển mô hình AI từ nguồn mở sang nguồn đóng.
+LeCun nóiDeepSeekhưởng lợi từ nghiên cứu mở.
+"Họ đưa ra những ý tưởng mới và xây dựng chúng trên công trình của người khác.
+Vì công trình của họ được công bố và dựa trên mã nguồn mở, mọi người đều có thể hưởng lợi.
+Đó là sức mạnh của nghiên cứu mở và mã nguồn mở", ông nói.
+CEO Meta Mark Zuckerberg cũng từng thể hiện sự ủng hộ mạnh mẽ với mô hình mã nguồn mở.
+"Một phần mục tiêu của tôi trong 10-15 năm tới là xây dựng nền tảng mở và giúp chúng thành công.
+Tôi nghĩ điều đó sẽ dẫn đến ngành công nghệ sống động hơn nhiều", ông nói hồi tháng 9/2024.
+Những người ủng hộ lập luận rằng nguồn mở cho phép công nghệ phát triển nhanh chóng, vì bất kỳ ai cũng có thể sửa đổi và phân phối lại mã nguồn.
+Ngược lại, những người ủng hộ mã nguồn đóng cho rằng chúng an toàn hơn vì được giữ kín, khó chỉnh sửa và phát tán hơn.
+Cuối tháng 12/2024, DeepSeek gây bất ngờ khi công bố mô hình ngôn ngữ lớn (LLM) DeepSeek V3 miễn phí.
+Dù còn một số vấn đề liên quan đến phản hồi, mô hình được đánh giá rất cao khi chỉ mất hai tháng để xây dựng với chi phí chưa đến 6 triệu USD, đồng thời dùng GPU H800 bị Nvidia hạ sức mạnh để tuân thủ lệnh cấm của Mỹ, thay vì những mẫu chipAImạnh nhất thị trường.
+Trong một loạt bài kiểm tra chuẩn của bên thứ ba, mô hình của DeepSeek đã vượt Llama 3.1 của Meta, GPT-4o của OpenAI và Claude Sonnet 3.5 của Anthropic với độ chính xác từ giải quyết vấn đề phức tạp đến toán học và mã hóa.
+V3 cũng đánh bại đối thủ cạnh tranh trên Aider Polyglot, bài kiểm tra được thiết kế để đo lường khả năng của các mô hình AI.
+Theo DeepSeek, mô hình được đào tạo trên một tập dữ liệu gồm 14, 8 nghìn tỷ token cùng kích thước khổng lồ với 671 tỷ tham số, lớn hơn khoảng 1, 6 lần so với Llama 3.1 405B.
+Tuy nhiên, V3 chưa phải là sản phẩm duy nhất.
+Ngày 20/1, DeepSeek tiếp tục tung mô hình mới "có khả năng lý luận" mang tên DeepSeek R1 và đã có mã nguồn trên Github.
+Theo đánh giá của một số bên thứ ba, AI này thậm chí vượt trội so với o1 mới nhất của OpenAI trong nhiều bài kiểm tra.
+"DeepSeek R1 là mã nguồn mở 100%, rẻ hơn 96, 4% so với OpenAI o1 trong khi vẫn mang lại hiệu suất tương tự.
+OpenAI o1 mất 60 USD cho một triệu token đầu ra, còn DeepSeek R1 chỉ cần 2, 19 USD", Shubham Saboo, Giám đốc sản phẩm của DeepSeek, cho biết cuối tháng 1.
+Cùng vớiGeoffrey HintonvàYoshua Bengio, Yann Lecun là một trong ba người được mệnh danh là Godfather of AI (bố già AI).
+Là một trong những người đặt nền móng cho AI hiện đại, Lecun cũng nổi tiếng với quan điểm phủ nhận trí tuệ nhân tạo sẽ thống trị thế giới, trái ngượcvới những doanh nhân nhưElon Musk.

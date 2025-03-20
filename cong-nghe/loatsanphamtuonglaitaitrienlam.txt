@@ -1,0 +1,51 @@
+Diễn ra ngày 3-6/2 tại Barcelona (Tây Ban Nha), MWC 2025 quy tụ hàng trăm gian hàng về thiết bị và giải pháp di động, nhiều trong số đó được đánh giá sẽ trở thành xu hướng của năm nay và trong tương lai gần.
+Ờ các kỳ MWC gần đây, Lenovo thường mang đến ý tưởng mới lạ và năm nay cũng không ngoại lệ.
+Năm ngoái, họ giới thiệu mẫulaptop trong suốt, còn giờ là nguyên mẫu Yoga Solar PC có thể sạc pin năng lượng mặt trời tích hợp sẵn.
+Yoga Solar PC trang bị tấm pin ở mặt sau với tỷ lệ chuyển đổi ánh sáng mặt trời sang năng lượng hơn 24%, thuộc hàng cao nhất hiện nay.
+Theo Lenovo, tấm pin sử dụng công nghệ Back Contact Cell giúp tối đa hóa khả năng hấp thụ ánh sáng chủ động.
+Hệ thống Dynamic Solar Tracking liên tục đo dòng điện và điện áp, kết hợp hệ thống Solar-First Energy tự điều chỉnh cài đặt bộ sạc, tối ưu hóa dòng điện nạp vào.
+Ngay cả trong điều kiện ánh sáng yếu, pin vẫn có thể tạo ra điện.
+Nhờ đó, pin mặt trời trên Yoga Solar PC hấp thụ và chuyển đổi ánh sáng mặt trời trực tiếp liên tục.
+Cứ 20 phút, năng lượng hấp thụ đủ cho một giờ phát video.
+Với độ mỏng 15 mm và nặng 1, 22 kg, Yoga Solar PC là laptop chạy bằng năng lượng mặt trời siêu mỏng đầu tiên trên thế giới.
+Dù vậy, theoTechRadar, việc sử dụng ngoài trời để lấy ánh sáng có thể khiến laptop giảm độ bền và tăng nhiệt.
+Lenovo chưa đưa ra giá bán và thời gian phát hành thiết bị.
+Tương tự Lenovo, công ty Infinix của Trung Quốc mang đến một nguyên mẫu smartphone dùng năng lượng mặt trời.
+Máy chứa tấm pin đặt ở mặt sau, kèm ốp lưng cũng gắn pin.
+Infinix gọi đây là công nghệ SolarEnergy-Reserving, sử dụng các tế bào năng lượng mặt trời perovskite mỏng hơn, rẻ hơn so với pin silicon truyền thống.
+Cùng với đó, tính năng Maximum Power Point Tracking giúp điều chỉnh điện áp và tối đa hóa công suất trong khi quản lý nhiệt tốt hơn.
+Dù vậy, công suất hiện tại khi nạp điện chỉ khoảng 2 W.
+Tại MWC 2025, Honor không ra smartphone mới, nhưng công bố khoản đầu tư 10 tỷ USD vào Alpha Plan, trong đó có dự án smartphone vớiAI Agent(tác nhân AI), hợp tác với Google và nhà sản xuất chip Qualcomm, giúp "cách mạng hóa tương tác giữa người với thiết bị".
+Theo Honor, smartphone tương lai sẽ ít phụ thuộc vào giao diện ứng dụng.
+Thay vào đó, khi được giao nhiệm vụ, tác nhân AI sẽ phối hợp với con người thực hiện lệnh chính xác.
+Hiện tại, bước đi đầu tiên của công ty Trung Quốc là tích hợp sâu mô hình AI Gemini của Google vào giải pháp của mình.
+"Chúng tôi đang hợp tác để tạo ra những khả năng mới chưa từng có cho người dùng trên toàn thế giới, đồng thời bảo vệ tính bảo mật dữ liệu và quyền riêng tư của người dùng", Matt Waldbusser, Giám đốc mảng AI tại Google Cloud, nói vớiCnet.
+Nhẫn thông minh trên thị trường đã được trang bị một số tính năng, như đo bước chân, mức độ căng thẳng, giấc ngủ.
+Trong khi đó, Lenovo giới thiệu nguyên mẫu có thể điều khiển laptop ThinkBook 3D.
+Laptop trang bị đèn nền 3D định hướng cho phép nội dung 2D và 3D xuất hiện cạnh nhau cùng lúc trên một màn hình.
+Người dùng sẽ thao tác với nội dung 3D bằng nhẫn.
+Trong thử nghiệm củaCnet, khi nhẫn đeo trên ngón trỏ, người dùng có thể dùng ngón cái chạm đúp để đồng ý hoặc tiếp tục nội dung đang chiếu, chạm một lần để quay lại nội dung trước đó, vuốt nhẹ để điều hướng mọi góc độ 3D, hay búng tay để lướt qua bản trình chiếu slide.
+Cnetđánh giá việc nhấp, chạm diễn ra liền mạch, nhưng nhiều lúc chưa chính xác.
+Lenovo cũng chưa công bố giá hay thời gian ra mắt sản phẩm.
+Tecno Spark Slim là smartphone mới nhất theo xu hướng siêu mỏng, với phần dày nhất 5, 75 mm.
+Dù mỏng, máy trang bị pin 5.200 mAh, lớn hơn mức 5.000 mAh trên Galaxy S25 Ultra vốn có độ dày 8, 2 mm.
+TheoZdnet, thông số này có thể "xóa bỏ định kiến" rằng dung lượng pin của smartphone siêu mỏng thường thấp.
+Về cấu hình, máy có màn hình AMOLED 6, 78 inch với các cạnh bo cong, tần số quét 144 Hz.
+Hệ thống camera kép phía sau cùng 50 megapixel, camera trước 13 megapixel.
+Trong khi hầu hết tai nghe True Wireless kết nối với smartphone qua Bluetooth, Xiaomi Buds 5 Pro cho phép truyền phát âm thanh qua ghép nối bằng wifi.
+Chức năng này có lợi thế lớn, đặc biệt là khả năng phát lại âm thanh không mất dữ liệu 96 kHz hoặc 24-bit, miễn là người dùng nằm trong phạm vi mạng của bộ định tuyến được kết nối với thiết bị.
+TheoZdnet, về mặt lý thuyết, tai nghe True Wireless kết nối wifi có thể truyền phát âm thanh không bị giật hay ngắt quãng, ngay cả khi điện thoại hoặc thiết bị được kết nối cách xa vài phòng hoặc vài tầng.
+Xiaomi cũng cho biết Buds 5 Pro không tiêu thụ nhiều điện năng hơn khi ghép nối qua wifi nếu so với khi ghép nối qua Bluetooth.
+Năm 2024 xuất hiện nhiều mẫu smartphone được ví làAI Phone, nhưng hầu hết thất bại.
+Tuy nhiên, với sự tiến bộ của AI cũng như sự hợp tác giữa các công ty phần cứng và phần mềm trí tuệ nhân tạo, AI Phone hứa hẹn được nâng cấp năm nay.
+Một trong những AI Phone xuất hiện tại MWC 2025 là nguyên mẫu từ Deutsche Telekom.
+Thiết bị chạy Magenta AI, nền tảng cho phép người dùng truy cập Perplexity Assistant, Google Cloud AI, ElevenLabs, Picsart và một số bộ công cụ AI.
+Tương tự AI Phone trước đây, thiết bị của Deutsche Telekom không có ứng dụng, thay vào đó được điều khiển bằng giọng nói.
+Người dùng có thể ra lệnh cho smartphone đặt chuyến bay, đặt taxi hay đặt chỗ nhà hàng.
+TheoThe Verge, so với trước, việc Deutsche Telekom bắt tay Perplexity để tích hợp sâu AI vào smartphone có thể giúp thiết bị thông minh hơn so với các mẫu đã thất bại năm ngoái.
+Nguyên mẫu Asymmetric Flip do Samsung sản xuất có kiểu dáng giống mẫu Flip khi duỗi thẳng, nhưng có hai nếp gập ở hai đầu máy tạo thành chữ "C".
+Hai nếp này được đặt lệch nhau, do đó một phần màn hình vẫn lộ ra bên ngoài khi gập lại.
+Khu vực này sẽ hiển thị một số thông tin như thời tiết, đồng hồ.
+Samsung không giải thích mục đích của thiết kế.
+Theo đánh giá củaAndroid Authority, thiết bị tạo sự độc đáo, nhưng có thể không hữu dụng trong đời thực.
+Ngoài Asymmetric Flip, Samsung cũng giới thiệu một số thiết bị gập, gồm máy chơi game gập đôi có thiết kế giống Nintendo Switch, hay điện thoại gập ba Flex G từng được công ty Hàn Quốc trình diễn trước đây.

@@ -1,0 +1,16 @@
+Ứng dụng DeepSeek đang đứng đầu bảng xếp hạng App Store tại Mỹ.
+Tuy nhiên, Andrew Hoog, nhà đồng sáng lập công ty bảo mật NowSecure (Mỹ), cảnh báo ứng dụng AI này thu thập nhiều dữ liệu người dùng không mã hóa và gửi tới các máy chủ thuộc sở hữu của Trung Quốc.
+Theo ông, DeepSeek "không có khả năng hoặc không muốn cung cấp biện pháp bảo vệ an ninh cơ bản cho dữ liệu, dẫn đến việc dữ liệu và danh tính của bạn và công ty bạn gặp rủi ro".
+NowSecure đánh giá ứng dụng iOS của DeepSeek tồn tại nhiều vấn đề bảo mật và quyền riêng tư.
+Cụ thể, app này có sử dụng mã hóa, nhưng là 3DES - phương pháp mã hóa đối xứng đã bị loại bỏ năm 2016 sau khi các nghiên cứu cho thấy nó có thể bị phá vỡ.
+Ứng dụng cũng vô hiệu hóa giao thức bảo mật App Transport Security của Apple.
+Công ty chưa giải thích lý do vô hiệu hóa giao thức này, trong khi Apple chưa bình luận về việc tại sao các công ty có thể chọn không sử dụng.
+Sau đó, dữ liệu được giải mã khi lưu trữ trên máy chủ của nhà cung cấp Trung Quốc, có thể được sử dụng để nhận diện người dùng cụ thể và theo dõi truy vấn.
+NowSecure cho biết đang tiếp tục nghiên cứu về DeepSeek, đồng thời lưu ý phiên bản dành cho Android còn kém an toàn hơn cả phiên bản trên iOS.
+Cuối tháng 1, trong bài đăng trên blog, công ty an ninh mạng Wiz (Mỹ) cũng cho biếtDeepSeekđã để hơn một triệu dòng dữ liệu không có biện pháp bảo mật, bao gồm các khóa phần mềm kỹ thuật số và nhật ký trò chuyện ghi lại các yêu cầu được gửi từ người dùng đến trợ lýAImiễn phí của công ty.
+Sau khi Wiz cảnh báo, DeepSeek "đã hạ dữ liệu xuống trong vòng chưa đầy một giờ".
+DeepSeek chưa bình luận về thông tin của Wiz và NowSecure.
+DeepSeek đượcLiang Wenfengthành lập tháng 5/2023, đặt trụ sở ở Hàng Châu, Chiết Giang, và do quỹ đầu tư High-Flyer sở hữu.
+Công ty được High-Flyer tài trợ và không có kế hoạch huy động vốn, tập trung vào xây dựng công nghệ nền tảng.
+TheoChinaTalk, không giống các công ty AI khác tại Trung Quốc, DeepSeek tuyên bố sứ mệnh "giải mã bí ẩn của siêu trí tuệ nhân tạo AGI bằng sự tò mò".
+Phòng thí nghiệm của công ty hiện tập trung nghiên cứu cải tiến về kiến trúc và thuật toán có khả năng thay đổi cuộc chơi trong lĩnh vực trí tuệ nhân tạo.

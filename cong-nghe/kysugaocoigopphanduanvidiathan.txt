@@ -1,0 +1,33 @@
+Năm 2022, giới chức Mỹ bắt đầu áp hạn chế xuất khẩu công nghệ, khiến Nvidia không thể cung cấp những sản phẩm hàng đầu của mình cho Trung Quốc.
+Để duy trì hoạt động kinh doanh tại thị trường chiếm một phần năm doanh thu của công ty khi đó, CEOJensen Huangđã tìm đến cánh tay đắc lực Jonah Alben.
+Theo Alben, Nvidia không có đủ thời gian thiết kế dòng chip hoàn toàn mới dành riêng cho Trung Quốc.
+Giải pháp của ông là giảm hiệu suất của các sản phẩm cao cấp để đáp ứng quy định, trong đó có bỏ đi một số thành phần chip.
+Hai tháng sau, công ty bắt đầu tiếp thị dòng chip đã tùy chỉnh cho khách hàng Trung Quốc.
+Alben, 51 tuổi, hiện đứng đầu nhóm phát triển chip AI và điều hành khoảng 1.000 kỹ sư tại Nvidia.
+Leo Tam, từng đảm nhận vị trí nhà khoa học cấp cao của Nvidia, nhận xét công ty sẽ không thể giành vị thế như hiện nay nếu không có Alben.
+"Ông ấy quan trọng không kém gì Jensen", ông nói.
+Công việc của Alben đặt ông vào tâm điểm cuộc chạy đua công nghệ giữa Mỹ và Trung Quốc.
+Các startup Trung Quốc nhưDeepSeekđang thách thức những doanh nghiệp khổng lồ tại Mỹ, dù chỉ sử dụng chip cắt giảm hiệu năng của Nvidia.
+Nhiều quan chức Mỹ lo ngại dòng chip này đang làm suy yếu nỗ lực kìm hãm sự phát triển AI Trung Quốc.
+Cùng lúc đó, Alben cũng phải đảm bảo Nvidia giữ vững vị thế áp đảo trong lĩnh vực chip AI cho các khách hàng như Google và Microsoft, lợi thế giúp giá trị vốn hóa thị trường của công ty vượt mức 3.000 tỷ USD.
+Những người thân cận cho biết thành công của Alben đến từ sự tỉ mỉ và am hiểu kỹ thuật, luôn tìm cách thúc đẩy và vượt qua những giới hạn hiện có, cũng như sự đồng điệu về tinh thần cạnh tranh với CEO Jensen Huang.
+Jonah Alben lớn lên ở New York, theo học Đại học Stanford và nhanh chóng để lại nhiều dấu ấn khi gia nhập Nvidia năm 1997.
+"Trong 20 năm nữa, tôi nghĩ mình sẽ làm việc cho Jonah", Jensen Huang từng nói.
+Sasha Ostojic, từng lãnh đạo nhóm thiết kế phần mềm cho phần cứng của Alben cách đây 10 năm, cho biết ông thường phát huy tối đa khả năng khi phải đối mặt với những thách thức kỹ thuật.
+Ví dụ, khi một chip đồ họa đang phát triển gặp sự cố hiển thị, Alben đến gặp Ostojic và đồng nghiệp để tìm cách khắc phục, dẫn dắt tình huống với những câu hỏi như "cái này có tác dụng gì?", "cái kia làm gì?" và yêu cầu họ "hãy cùng xem xét từng dòng mã một".
+Cuối cùng, nhóm phần mềm giải quyết được vấn đề mà không cần dùng phương án cuối cùng là chỉnh sửa phần cứng.
+"Chỉ cần một bước đi sai, Jonah có thể khiến Nvidia chậm lại từ 6 đến 12 tháng, " Ostojic nói.
+CEO Nvidia cũng đánh giá cao sự tỉ mỉ trong các chi tiết kỹ thuật của Alben.
+Ông cho rằng các lãnh đạo công ty cần đắm mình trong nghiên cứu tuyến đầu để hiểu thị trường đang hướng đến đâu.
+Alben đồng tình với quan điểm này.
+Trong phỏng vấn năm 2020, Alben mô tả công việc của mình là "cố gắng hình dung tương lai trông sẽ như thế nào".
+Nvidiathường cần khoảng ba năm để phát triển mỗi dòng chip tối tân.
+Alben dự đoán nhu cầu của khách hàng bằng cách thường xuyên trao đổi với các nhà nghiên cứu AI nội bộ của Nvidia.
+Ban đầu, chip Nvidia được thiết kế để xử lý đồ họa.
+Vào đầu thập niên 2010, họ nhận ra loại chip này cũng có tiềm năng đào tạo AI và giải quyết các vấn đề mới.
+Điều này khiến Alben cũng ngạc nhiên.
+Ông cho biết luôn nhớ rõ khoảnh khắc nhận ra dòng chip mình đang thiết kế có tiềm năng lớn hơn so với những gì từng tưởng tượng.
+Đó là khi ông đọc bài báo về việc một nhà nghiên cứu sử dụng chip đồ họa để mô phỏng cách mũi người nhận biết mùi.
+"Nividia chưa từng nghĩ đến việc bán chip đồ họa với mục đích đó.
+Điều đó in sâu vào tâm trí tôi.
+Lần đầu tiên tôi nhận ra công nghệ này không chỉ dùng cho ba vấn đề mà chúng tôi đã liệt kê trong danh sách công việc", Alben kể lại.

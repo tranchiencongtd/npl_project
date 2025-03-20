@@ -1,0 +1,14 @@
+Từ 14h, nhiều người dùng tại Việt Nam cho biết không thể sử dụng dịch vụ nhắn tinMessenger.
+"Tôi gửi tin nhắn trước đó hơn 10 phút nhưng lúc sau quay lại vẫn thấy ở chế độ đang gửi, có khung chat báo lỗi.
+Đổi qua sử dụng điện thoại cũng chập chờn và rất chậm", Thanh Linh (Thanh Xuân, Hà Nội) nói và cho biết nhiều người cùng cơ quan cũng gặp vấn đề tương tự.
+TheoDowndetector, công cụ chuyên theo dõi tình trạng của các dịch vụ Internet, báo cáo sự cố xuất hiện nhiều từ khoảng 14h và tăng nhanh lên gần 1.000 lượt lúc gần 15h, ở nhiều khu vực trên thế giới, chủ yếu ghi nhận với Messenger trong khi các dịch vụ khác của Meta như Facebook, Instagram hay Whatsapp không bị ảnh hưởng.
+Thành viênJeaninTNnói dùng điện thoại nhắn tin lúc được lúc không, trong khi máy tính hoàn toàn không thể truy cập.
+Cô cũng thử dùng điện thoại phát sóng wifi cho máy tính nhưng không thành công, cho thấy lỗi không phải do kết nối mạng.
+Đến 15h10, một số người dùng tại Việt Nam đã có thể nhắn tin trở lại trong khi trênDowndetectorvẫn tiếp tục xuất hiện báo cáo lỗi mới.
+Mega thời gian qua liên tục gặp vấn đề liên quan đến dịch vụ mạng xã hội.
+Tình trạng đôi lúc người dùng không thể gửi, nhận tin nhắn trong khoảng thời gian dài diễn ra nhiều hơn, xen kẽ là các sự cố lớn tê liệt trong nhiều giờ.
+Gần nhất, ngày 12/12/2024, loạt dịch vụ Facebook, Messenger, Instagram, WhatsApp không thể truy cập hoặc hoạt động chập chờn trong hơn 4 tiếng.
+Hồi tháng 3/2024, các dịch vụMetacũng bị gián đoạn trong khoảng một tiếng.
+Một lỗi tương tự từng diễn ra năm 2021 khi hàng loạt nền tảng của công ty không thể truy cập ở nhiều khu vực toàn cầu, kéo dài trong 6 tiếng.
+Khi đó, Meta cho biết vấn đề do "lỗi cấu hình" trên hệ thống.
+Năm 2019, phiên bản web của Facebook cũng mất kết nối trong 24 tiếng.

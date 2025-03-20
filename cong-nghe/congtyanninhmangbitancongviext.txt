@@ -1,0 +1,20 @@
+Theo báo cáo từReuters, nhiều người dùng đã bị tấn công mạng thông qua tiện ích mở rộng (extension) trên trình duyệtChromevào đúng dịp Giáng sinh vừa qua.
+Đáng chú ý khi cuộc tấn công được phát hiện bởi công ty an ninh mạng nổi tiếng Cyberhaven, cũng là một trong những công ty bị ảnh hưởng lớn nhất.
+Trong bài đăng trên trang blog chính thức, Cyberhaven cho biết các tin tặc đã chèn mã độc vào loạt tiện ích mở rộng nhằm đánh cắp dữ liệu người dùng như cookie trình duyệt web và mã xác thực.
+Hacker dường như đặc biệt muốn truy cập vào các tài khoản quảng cáo trên mạng xã hội, cụ thể là Facebook Ads và thông tin xác thực nền tảng AI.
+Các extension trước đó đều hoạt động bình thường nhưng tin tặc đẩy phiên bản cập nhật chứa mã độc đến máy người dùng vào đúng đêm Giáng sinh.
+Cyberhaven cho biết đã phát hiện cuộc tấn công vào extension của công ty và lập tức ra bản sửa lỗi trong vòng một giờ cũng như gửi thông báo tới người dùng sau đó.
+Các tiện ích mở rộng Chrome khác được xác nhận bị nhiễm mã độc gồm Internxt VPN, ParrotTalks, Uvoice và VPNCity.
+Mỗi extension đều có hàng chục nghìn người dùng, theo số liệu thống kê công khai trên Chrome Web Store.
+Cách thức tấn công của hacker là gửi email lừa đảo tới các nhà phát triển tiện ích mở rộng của Chrome.
+Những người nhận được thư điện tử tin rằng do chính Chrome liên hệ nên đã mở đường link, nhập thông tin đăng nhập vào trang lừa đảo.
+Cyberhaven cho biết nhân viên của công ty cũng bị lừa đảo theo cách này.
+Kẻ tấn công có thể không nhắm vào một công ty cụ thể mà chỉ phát động chiến dịch lừa đảo hàng loạt và sử dụng tài khoản của bất kỳ người nào bị dính bẫy.
+Hiện chưa rõ có bao nhiêu người sử dụng extension của Chrome bị ảnh hưởng bởi đợt tấn công này.
+Cuối tháng 6, nghiên cứu của Đại học Stanford và Trung tâm Bảo mật Thông tin CISPA Helmholtz cho biết hơn 346 triệu lượt người dùng đã cài các loại extension chứa mã độc từ tháng 7/2020 đến tháng 2/2023.
+Sau khi trừ đi 66 triệu lượt cài không thành công do vi phạm chính sách và gặp lỗi, nhóm nghiên cứu ước tính vẫn còn 280 triệu lượt chứa phần mềm độc hại, có thể tương đương hàng chục triệu người dùng.
+Googleđề xuất người dùng nên thực hiện bốn cách để giảm nguy cơ tải về phần mềm độc hại.
+Trong đó, họ cần xem lại thông tin mà extension đó thu thập trước khi cài; gỡ cài đặt những extension không còn sử dụng nữa; giới hạn các website mà extension có thể hoạt động; và bật chế độ Bảo vệ nâng cao khi duyệt web nếu cần.
+Theo Statcounter, tính đến hết tháng 5, Chromevẫn là trình duyệt thống trị với hơn 3, 2 tỷ người dùng.
+Trên máy tính, trình duyệt có thị phần 64, 87%, vượt xa hai vị trí tiếp theo là Microsoft Edge với 13, 14% và Safari là 8, 79%.
+Trên thiết bị di động, Chrome chiếm 65, 94%, Safari thứ hai với 23, 47% và Samsung Internet 4, 43%.

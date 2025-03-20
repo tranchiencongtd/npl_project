@@ -1,0 +1,18 @@
+Trên Threads ngày 3/2, nhà phát triển Riley Testut của AltStore PAL cho biết ứng dụng Hot Tub bắt đầu có mặt trên cửa hàng sau khi vượt qua quá trình xem xét về phần mềm độc hại, khả năng tương thích thiết bị của Apple.
+Hot Tub tự mô tả là "trình duyệt dành cho người lớn", không có quảng cáo.
+TheoThe Verge, ứng dụng cung cấp cho người dùng iPhone các tính năng tìm kiếm và phát video từ nhiều trang web người lớn.
+Trong khi đó, đại diện Apple khẳng định phần mềm không được đánh giá, xác nhận về chất lượng hoặc chức năng, theo quy định của công ty dành cho các nhà phát triển như trên App Store chính thức.
+Peter Ajemian, phát ngôn viên củaApple, phản hồi: "Chúng tôi vô cùng lo ngại rủi ro về an toàn mà các ứng dụng khiêu dâm gây ra cho người dùng châu Âu, đặc biệt là trẻ em.
+Ứng dụng này và các sản phẩm tương tự sẽ làm suy yếu lòng tin của người tiêu dùng với hệ sinh thái của chúng tôi, những thứ được gây dựng trong thập kỷ qua với chất lượng tốt nhất thế giới".
+Apple cấm "nội dung khiêu dâm hoặc khiêu dâm công khai" trên cửa hàng iOS.
+Nhà đồng sáng lập Steve Jobs từng nói Apple "có trách nhiệm đạo đức là không để nội dung khiêu dâm xuất hiện trên iPhone ", đồng thời cho biết những người tìm kiếm ứng dụng như vậy nên "mua điện thoại Android".
+Tuy nhiên, với Đạo luật thị trường kỹ thuật số (DMA) được Liên minh châu Âu thông qua năm 2023, người dùng iPhone trong khối có nhiều quyền tự do hơn để cài đặt ứng dụng từ bên thứ ba.
+Thay vì bắt buộc tải ứng dụng qua App Store, họ có thể tải thông qua AltStore PAL.
+AltStore PAL là một trong những chợ ứng dụng iOS thay thế đầu tiên ở châu Âu.
+Ra mắt tháng 4/2024, cửa hàng gồm các tiện ích như trình giả lập trò chơi (trước đây bị Apple cấm), phần mềm torrent và các game nhưFortnitetừ Epic Games - những ứng dụng không xuất hiện trên App Store.
+Đạo luậtDMAyêu cầu các công ty có trên 45 triệu người dùng hoạt động hàng tháng, vốn hóa trên 75 tỷ euro (82 tỷ USD) phải cho phép người dùng tải các ứng dụng từ đối thủ, đồng thời người dùng sẽ quyết định họ cài app nào, từ cửa hàng nào lên thiết bị của mình.
+Trong đó, người dùng iPhone, iPad tại châu Âu có thể tải app trên nền tảng khác thay vì giới hạn trên App Store như hiện tại.
+Tuy nhiên, Apple vẫn giám sát kho ứng dụng bên thứ ba, nhà phát triển vẫn phải gửi ứng dụng cho công ty "xem xét rủi ro an ninh mạng và gian lận".
+App Store ra đời năm 2008, phát triển theo mô hình được ví như "khu vườn có tường bao quanh", tức người dùng iPhone, iPad chỉ có thể cài đặt ứng dụng từ cửa hàng này.
+Tại châu Âu, App Store mang lại 24 tỷ USD mỗi năm, chiếm 6% tổng doanh thu từ App Store trên toàn cầu.
+Apple chưa công bố liệu có áp dụng chính sách mới trên toàn cầu không, hay chỉ triển khai ở riêng châu Âu.

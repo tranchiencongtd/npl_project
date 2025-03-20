@@ -1,0 +1,33 @@
+Ngày 3/2, Bộ Tư pháp Mỹ (DOJ) công bố bản cáo trạng về Medjedovic với các tội danh gian lận chuyển tiền, tấn công máy tính và cố gắng tống tiền vì đánh cắp 65 triệu USD từ hai giao thức tài chính phi tập trung (DeFi) là KyberSwap và Indexed Finance.
+Trong đó, dự án blockchain Việt KyberSwap bị thiệt hại nặng hơn với 48, 4 triệu USD.
+Medjedovic vẫn đang lẩn trốn và đã bị truy nã ở Canada từ năm 2021 vì không ra hầu tòa liên quan đến vụ tấn công Indexed Finance.
+TheoCoinTimes, Medjedovic, sinh ra tại Waterloo, Canada, cực kỳ thông minh, đặc biệt với môn toán, khi luôn đạt điểm tuyệt đối trong các bài kiểm tra toán ở trường tiểu học.
+Năm 14 tuổi, Medjedovic tốt nghiệp trung học, sau đó thi vào khoa toán tại Đại học Waterloo, ngôi trường nhà đồng sáng lập EthereumVitalik Buterincũng theo học nhưng sớm bỏ, và kết thúc chương trình chỉ sau ba năm, ở tuổi 17.
+Tại đây, Medjedovic được bạn bè gọi là "nhà toán học đáng nể".
+Người này tiếp tục thể hiện khả năng học tập xuất sắc khi trong một năm đã lấy được bằng thạc sĩ với luận án được hội đồng đánh giá cao.
+Medjedovic được cho là đang trong quá trình nộp đơn xin học chương trình tiến sĩ vào năm 2021 khi bị truy nã.
+"Tôi không nghĩ có sinh viên nào khác cùng thời với tôi ở đây lại có tấm bằng đó sớm như vậy", David Jao, một giáo viên toán tại Waterloo, nói vớiBloombergnăm 2022.
+Trong quá trình học, Medjedovic cũng phát triển kỹ năng lập trình, thường xuyên tham gia cuộc thi Code4rena và giành hai giải thưởng vì tìm ra lỗ hổng bảo mật trong hệ thống của một công ty.
+DeFi cũng là lĩnh vực người này quan tâm, đặc biệt mảng nhà tạo lập thị trường tự động (AMM).
+"Bất cứ khi nào nghe về một loại sản phẩm DeFi mới, tôi sẽ xem xét kỹ cách thức hoạt động của nó và đầu tư vào đó nếu tôi nghĩ ra một ý tưởng hay", Medjedovic từng nói vớiBloomberg.
+Tuy nhiên, theo một người bạn cùng lớp đại học, Medjedovic cũng bị đánh giá "có vấn đề về mặt xã hội, tự tin đến mức kiêu ngạo, tỏ ra coi thường những học sinh cậu cho là kém thông minh".
+Trong phỏng vấn năm 2023 vớiDL Newsqua Telegram, Medjedovic nói "thích thú" với thuyết ưu sinh học, cũng không giấu việc coi thường phụ nữ và đưa ra nhiều bình luận phân biệt chủng tộc.
+Thực tế, những lời lẽ như vậy đã xuất hiện trong bản hack Indexed Finance.
+Tháng 10/2021, Medjedovic bị cáo buộc sử dụng "giao dịch thao túng để khai thác hai nhóm thanh khoản Indexed Finance trên mạng Ethereum", theo Bộ Tư pháp Mỹ.
+Người này được cho là sử dụng số token vay mượn trị giá hàng triệu USD để làm sai lệch quy trình lập chỉ mục hợp đồng thông minh (smart contract) của nền tảng, qua đó thêm token mới vào nhóm thanh khoản.
+TheoCoinTelegraph, Medjedovic nhận thấy "cơ hội định giá sai" sau khi đọc mã nguồn Indexed Finance trên một diễn đàn.
+"Lúc đầu, tôi không tin", Medjedovic kể vớiBloomberg.
+"Nhưng sau khi chạy phép tính một vài lần, tôi nhận ra việc hack khả thi".
+Medjedovic sau đó dành vài tháng viết một tập lệnh để thực hiện tấn công.
+Kết quả, người này lấy đi 16, 5 triệu USD token của Indexed Finance và để lại thông điệp rằng blockchain của công ty "đã bị đánh bại", đồng thời nhấn mạnh "code là luật".
+Nạn nhân tiếp theo là dự ánKyberSwap.
+Nhưng so với cách làm "ngông cuồng" trước đó, quá trình tấn công âm thầm hơn, thậm chí danh tính Medjedovic chỉ được DOJ nhắc đến vào ngày 3/2.
+Theo cáo trạng, hacker vạch ra kế hoạch một cách kỹ lưỡng từ trước, trong đó có việc nghiên cứu giờ giấc của CEO và người dùng khu vực Mỹ, châu Âu để chọn khung giờ ít người hoạt động và tấn công.
+Medjedovic khai thác lỗ hổng "làm tròn toán học" rất sâu trong hợp đồng thông minh của KyberSwap.
+Khoản tiền số trị giá 48, 4 triệu USD bị lấy đi và được đưa lên một số sàn giao dịch và máy trộn để hoán đổi nhiều lần nhằm xóa nguồn gốc.
+DOJ cho biết đang hợp tác với các tổ chức cảnh sát quốc tế, gồm Cơ quan Công tố Hà Lan, Đơn vị Tội phạm mạng của Cảnh sát Quốc gia Hà Lan tại The Hague để truy bắt Medjedovic.
+Nói vớiDL Newsnăm 2023, Medjedovic xác nhận "sống cuộc sống của kẻ chạy trốn" trong hơn một năm, di chuyển qua châu Âu, Nam Mỹ và ở một hòn đảo bí mật.
+"Sớm thôi, tôi sẽ tìm được một nơi để làm căn cứ cho mình.
+Cứ di chuyển liên tục như vậy thật mệt mỏi", Medjedovic nói.
+Bên cạnh đó, người này nói thêm rằng anh ta "đang làm việc tốt" khi chuyển từ hacker mũ đen sang mũ trắng.
+"Ai đó có thể tìm thấy tôi trên bảng xếp hạng của Immunefi", Medjedovic cho biết, nhắc đến Immunefi - nền tảng nơi người dùng chia sẻ các phát hiện lỗ hổng để ngăn chặn cuộc tấn công của tin tặc.

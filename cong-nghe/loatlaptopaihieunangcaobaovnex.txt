@@ -1,0 +1,31 @@
+Laptop AI là thế hệ máy tính xách tay trang bị phần cứng và phần mềm AI chuyên dụng, cho phép thực hiện các tác vụ trí tuệ nhân tạo một cách hiệu quả.
+Thành phần quan trọng của các sản phẩm này là NPU (Neural Processing Unit) - một bộ xử lý được thiết kế đặc biệt để tăng tốc các tác vụ AI như học máy, xử lý ngôn ngữ tự nhiên, thị giác máy tính...
+AMD Ryzen AI 300 hiện là bộ xử lý tích hợp NPU mạnh bậc nhất thế giới với tốc độ xử lý đạt 50 TOPS.
+Chip xử lý của AMD cũng đang là lựa chọn của nhiều nhà sản xuất để tạo ra các mẫu laptop AI hiệu năng cao.
+Lenovo Yoga Pro 7 model 14ASP9 83HN0022VN được đánh giá là chiếc ultrabook có khả năng xử lý AI mạnh mẽ.
+Dòng máy cao cấp từ Lenovo có thiết kế mỏng nhẹ, màn hình OLED đi kèm hiệu năng cao từ Ryzen AI 9 365, GPU AMD Radeon 880M và 32 GB RAM.
+Đây là mức cấu hình đầu bảng trong phân khúc, phù hợp cho người dùng cần thiết bị đa năng, gọn nhẹ, phục vụ làm việc mọi lúc, mọi nơi.
+Có cấu hình tương đồng với Lenovo Yoga Pro 7 là mẫu MSI Prestige A16 AI+ A3HMG-045VN.
+Máy dùng chip Ryzen AI 9 365 cùng GPU AMD Radeon 880M và 32 GB RAM nhưng có màn hình lớn 16 inch tỷ lệ 16:10, độ phân giải UHD+.
+Ưu điểm của sản phẩm còn là dung lượng pin lớn 82 Wh.
+Prestige A16 AI+ phù hợp cho nhu cầu đồ họa, sáng tạo nội dung.
+Tương tự, Asus Vivobook S14 14 M5406WA-PP071WS có hiệu năng xử lý AI cao nhờ chip AMD Ryzen AI 9 HX 370, 12 lõi, 24 luồng, đồ họa Radeon 890M.
+Cấu hình này cho phép sản phẩm xử lý các tác vụ đồ họa, chơi game.
+Ngoại hình cũng là ưu điểm khi máy nặng 1, 3 kg, dễ dàng di chuyển.
+Với doanh nghiệp, dòng MSI Venture A15 và 16 AI+ đáp ứng nhu cầu làm việc di động với độ bền cao, tính bảo mật.
+Hiệu năng của máy đến từ chip Ryzen AI 300 series, xử lý nhiều tác vụ AI trong thời gian ngắn.
+Với dòng máy gaming, người dùng có thể chọn nhiều mẫu của MSI, Asus ROG, TUF Gaming.
+Trong đó, MSI Gaming Stealth A16 AI+ A3XVGG-208VN là dòng máy chơi game mỏng nhẹ đi kèm cấu hình đầu bảng.
+Máy chạy chip Ryzen AI 9 HX 370, card đồ họa rời 4070, 32 GB RAM cùng 2 TB SSD.
+Máy có thể chơi nhiều game nặng, dùng AI tăng cường hiệu suất và chất lượng hình ảnh.
+Asus lại cung cấp dải sản phẩm gaming đa dạng với nhiều phân khúc khác nhau.
+ROG Zephyrus G16 GA605WI-QR156WS có cấu hình khá tương đồng với MSI Gaming Stealth A16 AI+ nhưng mỏng hơn.
+Laptop thiết kế khung nhôm CNC nguyên khối, trọng lượng 1, 85kg, kèm màn hình OLED 2K 240 Hz và dung lượng pin 90 Wh.
+Dòng TUF Gaming A14 lại có thiết kế mỏng nhẹ bậc nhất thị trường.
+Trọng lượng máy 1, 46 kg.
+Sức mạnh của sản phẩm vẫn đến từ Ryzen AI 9 HX 370, card đồ họa RTX 4060, dung lượng RAM 32 GB.
+AI tham gia vào quá trình tối ưu hiệu suất, tản nhiệt và tiết kiệm năng lượng.
+Với người dùng thích sự linh hoạt, ROG Flow Z13 GZ302 tạo dấu ấn với thiết kế hai trong một.
+Đây cũng là một trong những mẫu laptop đầu tiên trang bị AMD Ryzen AI Max 390/395, 16 lõi 32 luồng.
+Máy dùng card đồ họa rời Radeon 8060S.
+Cấu hình này cho phép máy chơi nhiều game AAA thậm chí không cần đến GPU rời.
